@@ -24,6 +24,7 @@
   - Hier: `test-monitor-daten.py` (7 Tests) und `validate-data.mjs`.
   - Stand aus dem echten Autosave 11 ohne private Funde.
 - Noch nicht hochgeladen: wartet auf die Freigabe des Spielers, zusammen mit den neuen Messdaten.
+- Nachtrag: Hochgeladen auf Freigabe („Ja, hochladen“) als `c778e0d` und `e3214ee` (Messdaten, 84 Messungen bis 1:04 h Spielzeit); „Datenqualität“ und Pages für `e3214ee` grün, live geprüft (84 Messungen, Korrektur sichtbar, Register mit 12 Zeilen, ohne Konsolenfehler). Der Monitor lief dabei noch ohne Items; sie kommen nach seinem Neustart mit dem nächsten Upload. Die Tagebuch-Sitzung (Kapitel II, „In Arbeit“) hat dazu eine Nachricht bekommen.
 
 ## 2026-11-05 – Kapitel I „Zwanzig Bretter“ (Claude, Nebensitzung)
 
