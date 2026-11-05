@@ -2,6 +2,29 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-05 – Spezialisten und Gegenstände aus dem Monitor (Claude)
+
+- Spieler: „haben wir auch spezialisten und items drin?“, danach „Ja, einbauen“.
+- Im Anno-Monitor:
+  - Katalog Schema 5 mit 760 Items (Name, Art, Seltenheit, Preis) und 126 Gebäuden und Schiffen mit Plätzen für Items.
+  - Der Spielstand-Leser verfolgt die eigenen Stücke mit Ort: Lager einer eigenen Insel, eingesetzt in einem Gebäude, an Bord eines eigenen Schiffs. Treibende Fracht zählt nicht.
+  - Chronikzeilen „Neuer Spezialist: …“, Ortswechsel, „Abgegeben (verkauft, verbraucht oder übergeben): …“.
+  - Belohnungen von Entscheidungen tragen jetzt Item-Namen. Gesprächsschritte („Sprich mit …“) einer Entscheidung, deren Wahl feststeht, bekommen keine eigene Zeile mehr.
+  - Seltenheit im Wortlaut des Spiels (Mythic heißt „heroisch“).
+- Hier:
+  - `scripts/monitor_daten.py` übernimmt `items` in `stand.json` (guid, ort, insel, objekt, provinz) und die Felder `item`, `item_id` der Chronikzeilen.
+  - Namen stehen unter `namen.items`, `namen.item_seltenheit` und `namen.objekte`.
+  - Neuer Test in `test-monitor-daten.py`, Beschreibung in `docs/MONITOR.md`.
+- Hinweis aus Kapitel I erledigt: „1 71438“ ist der Spezialist Gaius Julius Lupus, Vermögensfachmann (episch).
+  - Die Zeile in der Monitor-Chronik ist beim Spieler berichtigt, mit Vermerk `korrigiert`; die alte Datei liegt daneben.
+  - Korrektur in `chronik.html` unter „Korrekturen“; `werkstatt/erster-lauf/STAND.md` nachgezogen.
+  - Im Spielstand bei 48:21 min sitzt Gaius schon in der Villa des Praetors auf Beneventum. Die zwei Kisten aus „Verlorene Fracht“ treiben bei 50:47 min noch im Meer.
+- Geprüft:
+  - Anno-Monitor: 39 Tests grün, darunter Autosave 9 und 11 als feste Testkopien.
+  - Hier: `test-monitor-daten.py` (7 Tests) und `validate-data.mjs`.
+  - Stand aus dem echten Autosave 11 ohne private Funde.
+- Noch nicht hochgeladen: wartet auf die Freigabe des Spielers, zusammen mit den neuen Messdaten.
+
 ## 2026-11-05 – Kapitel I „Zwanzig Bretter“ (Claude, Nebensitzung)
 
 - Auftrag über die Monitor-Sitzung: Kapitel I als Tagebuch der Protagonistin mit Bericht. Vorgeschlagen war als Einschnitt die erste Bevölkerungsstufe, die ersten Plebejer (19:33 min Spielzeit, Aufnahme 16:34), als Alternative das erste Heiligtum (38:35 min). Spieler: „Bei den Plebejern“.

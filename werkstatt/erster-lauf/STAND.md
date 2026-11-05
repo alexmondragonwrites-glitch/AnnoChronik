@@ -22,7 +22,8 @@ Stand 5.11.2026, 17:45 (Claude, Nebensitzung Kapitel I).
 - Praetoren bei 38:35 min: Zara Nitu 421 (bis zu 306 Plebejer), Athr Iorgwyn 161, Tarragon 83.
 - Weitergespielt ab 17:09 (Spielzeit läuft ab 38:35 min weiter, kein Neuladen): Plebejer 120 → 152 (38:36), Brot und Heiligtum für Plebejer wieder erfüllt (39:36), Salzgärten, zwei Makrelenhütten, drei Garumsaucier (40:36), Erkundung 25 Inseln (43:47) und 26 (50:47), dritte Sardinenhütte, Haferhof, Breistand (44:37), Schafshof 2, je dritte Spinnerei, Hanfhof, Pileusfilzer (45:37), Liberti 273 → 310 (47:25), Gerberei 2, Salzgärten 2, Schweinehof (51:22).
 - Aus dem Spielstand bei 43:47 min (neue Monitor-Felder): Forschung in Arbeit „Attraktive Märkte“ (Zivile Forschung) und „Kontorverwaltung“ (Wirtschaftliche Forschung); Auftragsbuch mit 8 Einträgen, erledigt u. a. „Tutorial: Eine Schutzgottheit wählen“; Schutzgottheit von Beneventum Ceres, Hingabe 125,0.
-- Entscheidung „Zwillinge in der Zwickmühle“ (47:25 bis 48:21 min): „Gaius anheuern“; die Belohnung zeigt der Monitor als „1 71438“ (Name fehlt im Katalog, Hinweis an die Monitor-Sitzung).
+- Entscheidung „Zwillinge in der Zwickmühle“ (47:25 bis 48:21 min): „Gaius anheuern“. Die Belohnung ist der Spezialist Gaius Julius Lupus, Vermögensfachmann (Seltenheit episch); im Spielstand bei 48:21 min sitzt er schon in der Villa des Praetors auf Beneventum. (Früher zeigte der Monitor „1 71438“; seit Katalog Schema 5 kennt er Spezialisten, die Chronikzeile ist berichtigt.)
+- Die zwei Kisten aus dem Vertrag „Verlorene Fracht“ treiben im Spielstand bei 50:47 min noch im Meer (sammelbare Fracht, noch nicht an Bord).
 
 - **Nächste freie Quellennummer:** Q7 (Q1 Einstellungen, Q2 Installation Update 3.0, Q3 Anno-Monitor, Q4 Dossier, Q5 Bildschirmfotos Libertus, Q6 Spielprotokoll).
 - **Nächste freie Registernummer:** `erster-lauf-0013`.

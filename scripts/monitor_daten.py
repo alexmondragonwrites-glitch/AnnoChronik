@@ -26,7 +26,7 @@ KURZ_FELDER = ("mid", "quelle", "erfasst_um", "spielzeit_ms", "geld", "bilanz", 
 EREIGNIS_FELDER = ("mid", "art", "text", "spielzeit_ms", "erfasst_um", "quelle", "insel", "stufe", "ware", "betrieb",
                    "entscheidung", "wahl", "seit_ms", "spielzeit_stand_ms", "erstmals", "teilnehmer", "vorher",
                    "provinz", "anzahl", "neu", "forschung", "beginn", "auftrag", "auftrag_id", "gott",
-                   "hingabe_stufe")
+                   "hingabe_stufe", "item", "item_id")
 # Nur lokal im Monitor: technische Neuladen-Zeilen, Ereignisfenster (datieren Entscheidungen) und Bildschirmfotos
 LOKALE_ARTEN = {"neuladen", "verworfen", "fenster", "bildschirmfoto"}
 INSEL_FELDER = ("id", "name", "provinz", "bewohner", "haeuser", "grundsteuer", "stufen", "beduerfnisse", "betriebe",
@@ -114,6 +114,9 @@ def stand(m: dict, katalog: dict | None = None) -> dict:
                             for e in m["auftraege"]]
     if isinstance(m.get("religion"), dict):  # gesammelte Hingabe je Teilnehmer und Gottheit
         out["religion"] = m["religion"]
+    if isinstance(m.get("items"), list):  # eigene Spezialisten und Gegenstände: Lager, eingesetzt, an Bord
+        out["items"] = [{k: s[k] for k in ("guid", "ort", "insel", "objekt", "provinz") if s.get(k) is not None}
+                        for s in m["items"]]
     erg = m.get("ergaenzt_aus")
     if isinstance(erg, dict):  # ohne Dateinamen des Spielstands
         out["ergaenzt_aus"] = {k: erg[k] for k in ("spielzeit_ms", "gespeichert_um") if erg.get(k) is not None}
@@ -160,9 +163,19 @@ def namen(s: dict, katalog: dict) -> dict:
             goetter.add(i["religion"]["gott"])
     for e in s.get("auftraege") or []:
         auftraege.add(e.get("auftrag"))
+    items = {x.get("guid") for x in s.get("items") or []}
+    objekte = {x.get("objekt") for x in s.get("items") or [] if x.get("objekt") is not None}
+    # Seltenheit im Wortlaut des Spiels (Mythic = „heroisch“); Quest- und Erzählstücke ohne
+    selten = {"Common": "gewöhnlich", "Uncommon": "ungewöhnlich", "Rare": "selten", "Epic": "episch",
+              "Legendary": "legendär", "Mythic": "heroisch", "Unique": "einzigartig"}
+    seltenheit = {str(g): selten[e["seltenheit"]] for g in sorted(items, key=lambda x: int(x) if str(x).isdigit() else 0)
+                  if (e := (katalog.get("items") or {}).get(str(g)) or {}).get("seltenheit") in selten}
+    objektnamen = {str(g): (katalog.get("objekte") or {})[str(g)] for g in sorted(objekte)
+                   if (katalog.get("objekte") or {}).get(str(g))}
     return {"stufen": nachschlagen("stufen", stufen), "waren": nachschlagen("produkte", waren),
             "betriebe": nachschlagen("betriebe", betriebe), "forschungen": nachschlagen("forschungen", forschungen),
-            "goetter": nachschlagen("goetter", goetter), "auftraege": nachschlagen("auftraege", auftraege)}
+            "goetter": nachschlagen("goetter", goetter), "auftraege": nachschlagen("auftraege", auftraege),
+            "items": nachschlagen("items", items), "item_seltenheit": seltenheit, "objekte": objektnamen}
 
 
 def nach_tagen(messungen: list[dict], ereignisse: list[dict]) -> dict[str, dict]:

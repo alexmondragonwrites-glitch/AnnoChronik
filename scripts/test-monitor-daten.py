@@ -97,6 +97,23 @@ class Fortschritt(unittest.TestCase):
         self.assertEqual(s["namen"]["goetter"], {"43594": "Ceres"})
         self.assertEqual(md.privat_funde(s), [])
 
+    def test_spezialisten_und_gegenstaende(self):
+        m = messung()
+        m["items"] = [{"id": "288230376151711747", "guid": 71438, "provinz": 3245, "ort": "eingesetzt", "insel": 1,
+                       "objekt": 31032}]
+        kat = dict(KATALOG, items={"71438": {"name": "Gaius Julius Lupus, Vermögensfachmann", "art": "spezialist",
+                                             "seltenheit": "Epic"}},
+                   objekte={"31032": "Villa des Praetors"})
+        s = md.stand(m, kat)
+        self.assertEqual(s["items"], [{"guid": 71438, "ort": "eingesetzt", "insel": 1, "objekt": 31032, "provinz": 3245}])
+        self.assertEqual(s["namen"]["items"], {"71438": "Gaius Julius Lupus, Vermögensfachmann"})
+        self.assertEqual(s["namen"]["item_seltenheit"], {"71438": "episch"})
+        self.assertEqual(s["namen"]["objekte"], {"31032": "Villa des Praetors"})
+        e = md.ereignis({"art": "item", "text": "Neuer Spezialist: …", "item": 71438, "item_id": "288230376151711747",
+                         "spielzeit_ms": 2_880_000})
+        self.assertEqual((e["item"], e["item_id"]), (71438, "288230376151711747"))
+        self.assertEqual(md.privat_funde(s), [])
+
 
 class Tage(unittest.TestCase):
     def test_tage_und_index(self):
