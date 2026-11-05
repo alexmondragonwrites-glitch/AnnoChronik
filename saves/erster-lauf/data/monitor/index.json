@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "world_id": "anno117-1793890256",
+ "welt": {
+  "name": "Caesia Varilla",
+  "seed": 6949,
+  "schwierigkeit": 141148,
+  "dlcs": [
+   67902,
+   67903,
+   67904
+  ]
+ },
+ "messungen": 8,
+ "verworfen": 0,
+ "neuladen": 0,
+ "spielzeit_von_ms": 300,
+ "spielzeit_bis_ms": 336500,
+ "erfasst_von": "2026-11-05T15:52:10+01:00",
+ "erfasst_bis": "2026-11-05T15:58:58+01:00",
+ "tage": [
+  {
+   "datum": "2026-11-05",
+   "datei": "tag-2026-11-05.json",
+   "messungen": 8,
+   "ereignisse": 7,
+   "spielzeit_von_ms": 300,
+   "spielzeit_bis_ms": 336500
+  }
+ ],
+ "stand": "stand.json"
+}

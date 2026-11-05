@@ -1,0 +1,177 @@
+{
+ "schema": 1,
+ "datum": "2026-11-05",
+ "messungen": [
+  {
+   "mid": "20261105T155212-00001",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-05T15:52:10+01:00",
+   "spielzeit_ms": 300,
+   "geld": 20000,
+   "bevoelkerung": 0,
+   "inseln": {}
+  },
+  {
+   "mid": "20261105T155307-00002",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T15:53:07+01:00",
+   "spielzeit_ms": 53000,
+   "geld": 20000,
+   "bilanz": 0,
+   "bevoelkerung": 0,
+   "je_stufe": {},
+   "inseln": {}
+  },
+  {
+   "mid": "20261105T155422-00003",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T15:54:22+01:00",
+   "spielzeit_ms": 98000,
+   "geld": 20000,
+   "bilanz": 0,
+   "bevoelkerung": 0,
+   "je_stufe": {},
+   "inseln": {}
+  },
+  {
+   "mid": "20261105T155522-00004",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T15:55:22+01:00",
+   "spielzeit_ms": 158000,
+   "geld": 19831,
+   "bilanz": -150,
+   "einnahmen": 0,
+   "ausgaben": 150,
+   "bevoelkerung": 0,
+   "je_stufe": {},
+   "inseln": {
+    "8897": 0
+   }
+  },
+  {
+   "mid": "20261105T155623-00005",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T15:56:23+01:00",
+   "spielzeit_ms": 218000,
+   "geld": 18174,
+   "bilanz": -195,
+   "einnahmen": 0,
+   "ausgaben": 195,
+   "bevoelkerung": 0,
+   "je_stufe": {},
+   "inseln": {
+    "8897": 0
+   }
+  },
+  {
+   "mid": "20261105T155723-00006",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T15:57:22+01:00",
+   "spielzeit_ms": 278000,
+   "geld": 17684,
+   "bilanz": -202,
+   "einnahmen": 0,
+   "ausgaben": 202,
+   "bevoelkerung": 0,
+   "je_stufe": {},
+   "inseln": {
+    "8897": 0
+   }
+  },
+  {
+   "mid": "20261105T155725-00007",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-05T15:57:22+01:00",
+   "spielzeit_ms": 272400,
+   "geld": 17726,
+   "bilanz": -202.0,
+   "ausgaben": 202.0,
+   "bevoelkerung": 0,
+   "inseln": {
+    "8897": null
+   }
+  },
+  {
+   "mid": "20261105T155858-00008",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T15:58:58+01:00",
+   "spielzeit_ms": 336500,
+   "geld": 17009,
+   "bilanz": -199.6,
+   "einnahmen": 2.4,
+   "ausgaben": 202,
+   "bevoelkerung": 2.4,
+   "je_stufe": {
+    "1499": 2.4
+   },
+   "inseln": {
+    "8897": 2.4
+   }
+  }
+ ],
+ "ereignisse": [
+  {
+   "mid": "20261105T155212-00001",
+   "art": "beginn",
+   "text": "Aufzeichnung begonnen: erster Datenstand dieser Welt erfasst.",
+   "spielzeit_ms": 300,
+   "erfasst_um": "2026-11-05T15:52:10+01:00",
+   "quelle": "spielstand"
+  },
+  {
+   "mid": "20261105T155307-00002",
+   "art": "beginn",
+   "text": "Erste Live-Messung dieser Welt.",
+   "spielzeit_ms": 53000,
+   "erfasst_um": "2026-11-05T15:53:07+01:00",
+   "quelle": "lua"
+  },
+  {
+   "mid": "20261105T155522-00004",
+   "art": "insel_neu",
+   "text": "Eigene Insel Beneventum erstmals beobachtet (0 Bewohner).",
+   "spielzeit_ms": 158000,
+   "erfasst_um": "2026-11-05T15:55:22+01:00",
+   "quelle": "lua",
+   "insel": 8897
+  },
+  {
+   "mid": "20261105T155522-00004",
+   "art": "bilanz",
+   "text": "Bilanz je Minute negativ (0 → -150).",
+   "spielzeit_ms": 158000,
+   "erfasst_um": "2026-11-05T15:55:22+01:00",
+   "quelle": "lua"
+  },
+  {
+   "mid": "20261105T155623-00005",
+   "art": "betriebe",
+   "text": "Beneventum: Sägewerk 0 → 3.",
+   "spielzeit_ms": 218000,
+   "erfasst_um": "2026-11-05T15:56:23+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "betrieb": "3089"
+  },
+  {
+   "mid": "20261105T155623-00005",
+   "art": "betriebe",
+   "text": "Beneventum: Holzfäller 0 → 3.",
+   "spielzeit_ms": 218000,
+   "erfasst_um": "2026-11-05T15:56:23+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "betrieb": "2878"
+  },
+  {
+   "mid": "20261105T155723-00006",
+   "art": "betriebe",
+   "text": "Beneventum: Sardinenhütte 0 → 1.",
+   "spielzeit_ms": 278000,
+   "erfasst_um": "2026-11-05T15:57:22+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "betrieb": "2955"
+  }
+ ]
+}

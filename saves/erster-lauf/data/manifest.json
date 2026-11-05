@@ -1,4 +1,4 @@
 {
   "latestReport": "chronik.html",
-  "monitor": null
+  "monitor": "data/monitor/index.json"
 }

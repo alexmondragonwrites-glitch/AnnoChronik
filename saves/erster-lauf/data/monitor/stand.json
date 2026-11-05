@@ -1,0 +1,201 @@
+{
+ "schema": 1,
+ "mid": "20261105T155858-00008",
+ "quelle": "lua",
+ "erfasst_um": "2026-11-05T15:58:58+01:00",
+ "spielzeit_ms": 336500,
+ "welt": {
+  "id": "anno117-1793890256",
+  "name": "Caesia Varilla",
+  "seed": 6949,
+  "schwierigkeit": 141148,
+  "dlcs": [
+   67902,
+   67903,
+   67904
+  ]
+ },
+ "geld": 17009,
+ "geld_je_minute": {
+  "bilanz": -199.6,
+  "einnahmen": 2.4,
+  "ausgaben": 202,
+  "kategorien": {
+   "Wohnhäuser": {
+    "einnahmen": 2.4,
+    "saldo": 2.4
+   },
+   "Grundsteuern": {
+    "ausgaben": 150,
+    "saldo": -150
+   },
+   "Produktionsgebäude": {
+    "ausgaben": 52,
+    "saldo": -52
+   }
+  },
+  "kategorien_text": true
+ },
+ "bevoelkerung": {
+  "gesamt": 2.4,
+  "je_stufe": {
+   "1499": 2.4
+  },
+  "hoechststand_je_stufe": {
+   "1499": 2.4
+  }
+ },
+ "attribute": {
+  "Knowledge": 0,
+  "Belief": 0,
+  "Prestige": 0
+ },
+ "provinzen": [
+  {
+   "id": 3245
+  }
+ ],
+ "inseln": [
+  {
+   "id": 8897,
+   "name": "Beneventum",
+   "provinz": 3245,
+   "bewohner": 2.4,
+   "grundsteuer": 150,
+   "stufen": {
+    "1499": {
+     "bewohner": 2.4,
+     "zufriedenheit": 0.0198485,
+     "haeuser": 22,
+     "bewohner_haeuser": 2.4,
+     "leer": 0,
+     "zufriedenheit_haeuser": 0.0201
+    }
+   },
+   "beduerfnisse": {
+    "1499": {
+     "2142": {
+      "erfuellung": 0
+     },
+     "2677": {
+      "erfuellung": 0
+     },
+     "2141": {
+      "erfuellung": 0
+     },
+     "2671": {
+      "erfuellung": 0
+     },
+     "2154": {
+      "erfuellung": 0
+     },
+     "2136": {
+      "erfuellung": 0
+     },
+     "2088": {
+      "erfuellung": 0.119091
+     }
+    }
+   },
+   "betriebe": {
+    "2878": {
+     "anzahl": 3,
+     "produktivitaet": 0.4789,
+     "pausiert": 0,
+     "voll": 0,
+     "ohne_lager": 2
+    },
+    "3089": {
+     "anzahl": 3,
+     "produktivitaet": 0.21,
+     "pausiert": 0,
+     "voll": 0,
+     "ohne_lager": 0
+    },
+    "2955": {
+     "anzahl": 1,
+     "produktivitaet": 0.2933,
+     "pausiert": 0,
+     "voll": 0,
+     "ohne_lager": 0
+    }
+   },
+   "status": "Außenposten",
+   "aus_spielstand": [
+    "lagerverlauf"
+   ],
+   "lager": {
+    "2174": 22,
+    "2173": 20
+   }
+  }
+ ],
+ "rivalen": [
+  {
+   "id": 31100,
+   "name": "Tarragon",
+   "attribute": {},
+   "geld_je_minute": {
+    "einnahmen": null,
+    "ausgaben": 150.0,
+    "bilanz": -150.0
+   },
+   "hoechststand_je_stufe": {
+    "1496": 0.0,
+    "1497": 0.0,
+    "1498": 0.0,
+    "1499": 1.0
+   },
+   "inseln": [
+    8833
+   ]
+  },
+  {
+   "id": 31102,
+   "name": "Athr Iorgwyn",
+   "attribute": {},
+   "geld_je_minute": {
+    "einnahmen": null,
+    "ausgaben": null,
+    "bilanz": null
+   },
+   "inseln": []
+  },
+  {
+   "id": 31103,
+   "name": "Zara Nitu",
+   "attribute": {},
+   "geld_je_minute": {
+    "einnahmen": null,
+    "ausgaben": null,
+    "bilanz": null
+   },
+   "inseln": []
+  }
+ ],
+ "ergaenzt_aus": {
+  "spielzeit_ms": 272400,
+  "gespeichert_um": "2026-11-05T15:57:16+01:00"
+ },
+ "namen": {
+  "stufen": {
+   "1499": "Liberti"
+  },
+  "waren": {
+   "2088": "Sardinen",
+   "2136": "Haferbrei",
+   "2141": "Tuniken",
+   "2142": "Pilei",
+   "2154": "Bier",
+   "2173": "Waffen",
+   "2174": "Bretter",
+   "2671": "Markt",
+   "2677": "Taberna"
+  },
+  "betriebe": {
+   "2878": "Holzfäller",
+   "2955": "Sardinenhütte",
+   "3089": "Sägewerk"
+  }
+ }
+}
