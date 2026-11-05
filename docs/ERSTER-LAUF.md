@@ -1,6 +1,6 @@
 # Caesia Varilla · Erster Lauf
 
-Erste Partie der AnnoChronik, angelegt am 5.11.2026 mit Update 3.0 und allen drei Erweiterungen; im Spiel heißt das Profil „Cassandra“. Erzählt wird sie im Tagebuch der Protagonistin Caesia Varilla. Ihr Charakterdossier `lore/caesia-varilla.md` ist der verbindliche Kanon des Spielers (Wunsch vom 5.11.2026: „verbindliche Charaktergrundlage“; „Ihre weitere Geschichte entwickeln wir anhand des tatsächlichen Spielverlaufs. das ist der erste lauf“). Wer gerade woran schreibt und wie weit erzählt ist: `werkstatt/erster-lauf/STAND.md` und `werkstatt/AUFGABEN.md`. Die Entscheidungen des Briefings stehen in `BRIEFING.md`.
+Erste Partie der AnnoChronik, angelegt am 5.11.2026 mit Update 3.0 und allen drei Erweiterungen; im Spielstand heißt die Partie „Caesia Varilla“, das Profil der Einstellungsübersicht „Cassandra“. Erzählt wird sie im Tagebuch der Protagonistin Caesia Varilla. Ihr Charakterdossier `lore/caesia-varilla.md` ist der verbindliche Kanon des Spielers (Wunsch vom 5.11.2026: „verbindliche Charaktergrundlage“; „Ihre weitere Geschichte entwickeln wir anhand des tatsächlichen Spielverlaufs. das ist der erste lauf“). Wer gerade woran schreibt und wie weit erzählt ist: `werkstatt/erster-lauf/STAND.md` und `werkstatt/AUFGABEN.md`. Die Entscheidungen des Briefings stehen in `BRIEFING.md`.
 
 ## Wo was liegt
 
@@ -78,4 +78,4 @@ Leitbild Bauinschrift und Pergament (`assets/roemisch.css`, Klassen mit `ac-`).
 
 ## Anno-Monitor
 
-Weltkennung `anno117-<Partie-Kennung>` aus dem ersten Autosave; bis dahin `world_id: null` in `data/monitor-sources.json`, und das Hochlade-Skript sucht die Partie über ihren Ordner „Cassandra“. Hochladen: `WEBSITE_AKTUALISIEREN.bat` im Anno-Monitor oder `py -3 scripts/publish-monitor.py --save erster-lauf`, nur mit Freigabe des Spielers. Einzelheiten: `docs/MONITOR.md`.
+Weltkennung `anno117-<Partie-Kennung>` aus dem ersten Autosave; bis dahin `world_id: null` in `data/monitor-sources.json`, und das Hochlade-Skript sucht die Partie über ihren Ordner „Caesia Varilla“ (seit dem ersten Autosave eingetragen: `anno117-1793890256`). Hochladen: `WEBSITE_AKTUALISIEREN.bat` im Anno-Monitor oder `py -3 scripts/publish-monitor.py --save erster-lauf`, nur mit Freigabe des Spielers. Einzelheiten: `docs/MONITOR.md`.

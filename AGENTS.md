@@ -1,6 +1,6 @@
 # AnnoChronik – Hinweise für KI-Sitzungen
 
-Statische Website (GitHub Pages) mit Chroniken eigener Partien in Anno 117: Pax Romana, aufgebaut wie die Transport Fever Chronicles. Erste Partie: Caesia Varilla · Erster Lauf (`saves/erster-lauf/`, seit 5.11.2026, Profil im Spiel „Cassandra“). Claude Code und Codex arbeiten daran, auch parallel.
+Statische Website (GitHub Pages) mit Chroniken eigener Partien in Anno 117: Pax Romana, aufgebaut wie die Transport Fever Chronicles. Erste Partie: Caesia Varilla · Erster Lauf (`saves/erster-lauf/`, seit 5.11.2026, im Spielstand „Caesia Varilla“). Claude Code und Codex arbeiten daran, auch parallel.
 
 ## Zuerst lesen
 

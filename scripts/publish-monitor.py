@@ -94,6 +94,8 @@ def bauen(quelle: dict, monitor: Path, module) -> tuple[str, dict[Path, bytes], 
     aktuell = aktueller_stand(welt, messung, verworfen)
     if aktuell:
         aktuell = messung.namen_anwenden(json.loads(json.dumps(aktuell)), namen)
+        # Live kennt Seed und Namen, Schwierigkeit und Erweiterungen stehen nur im Spielstand
+        aktuell["welt"] = {**((welt.letzte("spielstand") or {}).get("welt") or {}), **(aktuell.get("welt") or {})}
     # Vom Spieler umbenannte Inseln: Chronikzeilen aus Spielständen tragen den ursprünglichen Namen.
     umbenannt = {}
     for m in (welt.letzte("spielstand"), welt.letzte(), aktuell):

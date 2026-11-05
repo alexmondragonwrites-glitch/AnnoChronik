@@ -2,6 +2,12 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-05 – Partie-Name korrigiert, Datenweg mit der echten Partie geprüft (Claude)
+
+- Erster Autosave der Partie um 15:52: Im Spielstand heißt sie „Caesia Varilla“ (Partie-Ordner und Firmenname), Weltkennung `anno117-1793890256`, Seed 6949, drei Erweiterungen, Praetoren Tarragon, Athr Iorgwyn, Zara Nitu. „Cassandra“ ist das Profil der Einstellungsübersicht. `data/monitor-sources.json` und `meta.json` stehen jetzt auf `partie: "Caesia Varilla"`; mit „Cassandra“ hätte das Hochlade-Skript die Welt nie gefunden.
+- Chronik: Steckbrief der Partie mit „Name im Spielstand: Caesia Varilla“ (Q3), dazu ein Eintrag unter „Korrekturen“, weil dort seit dem ersten Push „Profil im Spiel: Cassandra“ stand.
+- `publish-monitor.py --save erster-lauf --no-push`: Weltkennung gefunden und eingetragen, 3 Messungen, Stand aus Live (1:38 min Spielzeit, Geld 20.000, noch ohne eigene Insel), Prüfung auf Privates bestanden. Schwierigkeit und Erweiterungen kommen jetzt auch bei einem Live-Stand aus dem Spielstand. Nicht hochgeladen.
+
 ## 2026-11-05 – Caesia Varilla als Protagonistin, Chronik „Erster Lauf“ (Claude)
 
 - Spieler: „Bitte berücksichtige die Datei lore/caesia-varilla.md als verbindliche Charaktergrundlage für unsere AnnoChronik. Baue Caesia als Protagonistin in die Website ein. Ihre weitere Geschichte entwickeln wir anhand des tatsächlichen Spielverlaufs. das ist der erste lauf“. Das Dossier hat er selbst hochgeladen (`6977952`); das Gerüst setzt darauf auf.

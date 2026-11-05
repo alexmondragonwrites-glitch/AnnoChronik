@@ -11,6 +11,7 @@
     "kanon": "lore/caesia-varilla.md"
   },
   "profile": "Cassandra",
+  "name_im_spielstand": "Caesia Varilla",
   "game_version": "Update 3.0",
   "difficulty": {
     "preset": "Erfahren",
@@ -19,10 +20,18 @@
     "fruchtbarkeiten_vorkommen": "Normal",
     "zwischenfaelle": "Mittel"
   },
-  "dlcs": ["Prophecies of Ash", "The Hippodrome", "Dawn of the Delta"],
-  "praetoren": ["Tarragon", "Athr Iorgwyn", "Zara Nitu"],
+  "dlcs": [
+    "Prophecies of Ash",
+    "The Hippodrome",
+    "Dawn of the Delta"
+  ],
+  "praetoren": [
+    "Tarragon",
+    "Athr Iorgwyn",
+    "Zara Nitu"
+  ],
   "monitor": {
-    "partie": "Cassandra",
-    "world_id": null
+    "partie": "Caesia Varilla",
+    "world_id": "anno117-1793890256"
   }
 }

@@ -4,7 +4,7 @@
 
 ## Partien
 
-- **Caesia Varilla · Erster Lauf** (seit 5.11.2026, Profil im Spiel „Cassandra“): erzählt im Tagebuch von Caesia Varilla, die aus Rom flieht; mit Update 3.0 und allen drei Erweiterungen. Figurenkanon: [lore/caesia-varilla.md](lore/caesia-varilla.md). Kapitel enden mit Einschnitten der Partie, etwa einer neuen Bevölkerungsstufe oder Provinz. [Chronik](saves/erster-lauf/chronik.html) · [Regeln](docs/ERSTER-LAUF.md)
+- **Caesia Varilla · Erster Lauf** (seit 5.11.2026): erzählt im Tagebuch von Caesia Varilla, die aus Rom flieht; mit Update 3.0 und allen drei Erweiterungen. Figurenkanon: [lore/caesia-varilla.md](lore/caesia-varilla.md). Kapitel enden mit Einschnitten der Partie, etwa einer neuen Bevölkerungsstufe oder Provinz. [Chronik](saves/erster-lauf/chronik.html) · [Regeln](docs/ERSTER-LAUF.md)
 
 ## Arbeitsweise
 
