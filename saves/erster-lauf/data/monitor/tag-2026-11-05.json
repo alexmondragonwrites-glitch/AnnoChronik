@@ -1242,6 +1242,222 @@
    "inseln": {
     "8897": 549.57
    }
+  },
+  {
+   "mid": "20261105T173159-00073",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-05T17:31:56+01:00",
+   "spielzeit_ms": 3357300,
+   "geld": 12896,
+   "bilanz": 321.0,
+   "einnahmen": 1108.0,
+   "ausgaben": 787.0,
+   "bevoelkerung": 553,
+   "je_stufe": {
+    "1496": 244.5,
+    "1499": 265.1
+   },
+   "inseln": {
+    "8897": 509.6
+   }
+  },
+  {
+   "mid": "20261105T173217-00074",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T17:32:17+01:00",
+   "spielzeit_ms": 3382500,
+   "geld": 13030,
+   "bilanz": 323.245,
+   "einnahmen": 1110.24,
+   "ausgaben": 787,
+   "bevoelkerung": 555.72,
+   "je_stufe": {
+    "1499": 299.95,
+    "1496": 255.77
+   },
+   "inseln": {
+    "8897": 555.72
+   }
+  },
+  {
+   "mid": "20261105T173316-00075",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T17:33:16+01:00",
+   "spielzeit_ms": 3440500,
+   "geld": 14663,
+   "bilanz": 298.33,
+   "einnahmen": 1112.33,
+   "ausgaben": 814,
+   "bevoelkerung": 556.66,
+   "je_stufe": {
+    "1499": 299.66,
+    "1496": 257
+   },
+   "inseln": {
+    "8897": 556.66
+   }
+  },
+  {
+   "mid": "20261105T173417-00076",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T17:34:17+01:00",
+   "spielzeit_ms": 3501000,
+   "geld": 14787,
+   "bilanz": 348.33,
+   "einnahmen": 1172.33,
+   "ausgaben": 824,
+   "bevoelkerung": 560.09,
+   "je_stufe": {
+    "1499": 301.09,
+    "1496": 259
+   },
+   "inseln": {
+    "8897": 560.09
+   }
+  },
+  {
+   "mid": "20261105T173518-00077",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T17:35:18+01:00",
+   "spielzeit_ms": 3561000,
+   "geld": 14908,
+   "bilanz": 379.83,
+   "einnahmen": 1215.83,
+   "ausgaben": 836,
+   "bevoelkerung": 585.945,
+   "je_stufe": {
+    "1499": 296.245,
+    "1496": 289.7
+   },
+   "inseln": {
+    "8897": 585.945
+   }
+  },
+  {
+   "mid": "20261105T173617-00078",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T17:36:17+01:00",
+   "spielzeit_ms": 3621000,
+   "geld": 15333,
+   "bilanz": 482.532,
+   "einnahmen": 1318.53,
+   "ausgaben": 836,
+   "bevoelkerung": 625.667,
+   "je_stufe": {
+    "1499": 314.565,
+    "1496": 311.102
+   },
+   "inseln": {
+    "8897": 625.667
+   }
+  },
+  {
+   "mid": "20261105T173708-00079",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-05T17:37:06+01:00",
+   "spielzeit_ms": 3662700,
+   "geld": 15670,
+   "bilanz": 501.1726,
+   "einnahmen": 1352.1726,
+   "ausgaben": 851.0,
+   "bevoelkerung": 650,
+   "je_stufe": {
+    "1496": 332.1,
+    "1499": 270.4
+   },
+   "inseln": {
+    "8897": 602.5
+   }
+  },
+  {
+   "mid": "20261105T173718-00080",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T17:37:18+01:00",
+   "spielzeit_ms": 3680500,
+   "geld": 15819,
+   "bilanz": 520.237,
+   "einnahmen": 1371.24,
+   "ausgaben": 851,
+   "bevoelkerung": 662.31,
+   "je_stufe": {
+    "1499": 305.88,
+    "1496": 356.43
+   },
+   "inseln": {
+    "8897": 662.31
+   }
+  },
+  {
+   "mid": "20261105T173817-00081",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T17:38:17+01:00",
+   "spielzeit_ms": 3741000,
+   "geld": 16374,
+   "bilanz": 578.382,
+   "einnahmen": 1429.38,
+   "ausgaben": 851,
+   "bevoelkerung": 695.182,
+   "je_stufe": {
+    "1499": 306,
+    "1496": 389.182
+   },
+   "inseln": {
+    "8897": 695.182
+   }
+  },
+  {
+   "mid": "20261105T173918-00082",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T17:39:18+01:00",
+   "spielzeit_ms": 3801000,
+   "geld": 16952,
+   "bilanz": 575.912,
+   "einnahmen": 1426.91,
+   "ausgaben": 851,
+   "bevoelkerung": 693.917,
+   "je_stufe": {
+    "1499": 306,
+    "1496": 387.917
+   },
+   "inseln": {
+    "8897": 693.917
+   }
+  },
+  {
+   "mid": "20261105T174019-00083",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-05T17:40:19+01:00",
+   "spielzeit_ms": 3861000,
+   "geld": 17525,
+   "bilanz": 571.492,
+   "einnahmen": 1422.49,
+   "ausgaben": 851,
+   "bevoelkerung": 691.632,
+   "je_stufe": {
+    "1499": 306,
+    "1496": 385.632
+   },
+   "inseln": {
+    "8897": 691.632
+   }
+  },
+  {
+   "mid": "20261105T174106-00084",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-05T17:41:04+01:00",
+   "spielzeit_ms": 3895600,
+   "geld": 17351,
+   "bilanz": 559.4048,
+   "einnahmen": 1422.4048,
+   "ausgaben": 863.0,
+   "bevoelkerung": 691,
+   "je_stufe": {
+    "1496": 372.5,
+    "1499": 271.0
+   },
+   "inseln": {
+    "8897": 643.5
+   }
   }
  ],
  "ereignisse": [
@@ -1963,7 +2179,7 @@
   {
    "mid": "20261105T172122-00063",
    "art": "entscheidung",
-   "text": "Entscheidung „Zwillinge in der Zwickmühle“: Gaius anheuern (erhalten: 1 71438).",
+   "text": "Entscheidung „Zwillinge in der Zwickmühle“: Gaius anheuern (erhalten: Gaius Julius Lupus, Vermögensfachmann).",
    "spielzeit_ms": 2845936,
    "erfasst_um": "2026-11-05T17:21:20+01:00",
    "quelle": "spielstand",
@@ -2095,6 +2311,141 @@
    "quelle": "lua",
    "insel": 8897,
    "betrieb": "3190"
+  },
+  {
+   "mid": "20261105T173159-00073",
+   "art": "auftrag",
+   "text": "Neuer Auftrag: Der verrückte Koch.",
+   "spielzeit_ms": 3357300,
+   "erfasst_um": "2026-11-05T17:31:56+01:00",
+   "quelle": "spielstand",
+   "auftrag": 82721,
+   "auftrag_id": "82721"
+  },
+  {
+   "mid": "20261105T173417-00076",
+   "art": "betriebe",
+   "text": "Beneventum: Schafshof 2 → 3.",
+   "spielzeit_ms": 3501000,
+   "erfasst_um": "2026-11-05T17:34:17+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "betrieb": "2786"
+  },
+  {
+   "mid": "20261105T173417-00076",
+   "art": "betriebe",
+   "text": "Beneventum: Hanfhof 3 → 4.",
+   "spielzeit_ms": 3501000,
+   "erfasst_um": "2026-11-05T17:34:17+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "betrieb": "31750"
+  },
+  {
+   "mid": "20261105T173417-00076",
+   "art": "betriebe",
+   "text": "Beneventum: Segelmacher 0 → 1.",
+   "spielzeit_ms": 3501000,
+   "erfasst_um": "2026-11-05T17:34:17+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "betrieb": "3169"
+  },
+  {
+   "mid": "20261105T173417-00076",
+   "art": "betriebe",
+   "text": "Beneventum: Seilmacher 0 → 1.",
+   "spielzeit_ms": 3501000,
+   "erfasst_um": "2026-11-05T17:34:17+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "betrieb": "3168"
+  },
+  {
+   "mid": "20261105T173518-00077",
+   "art": "bevoelkerung",
+   "text": "Beneventum: Plebejer 259 → 290 (+31).",
+   "spielzeit_ms": 3561000,
+   "erfasst_um": "2026-11-05T17:35:18+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1496"
+  },
+  {
+   "mid": "20261105T173617-00078",
+   "art": "bedarf_gut",
+   "text": "Beneventum: Haferbrei für Liberti wieder zu 96 % erfüllt (vorher 88 %).",
+   "spielzeit_ms": 3621000,
+   "erfasst_um": "2026-11-05T17:36:17+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1499",
+   "ware": "2136"
+  },
+  {
+   "mid": "20261105T173617-00078",
+   "art": "bedarf_gut",
+   "text": "Beneventum: Pilei für Liberti wieder zu 96 % erfüllt (vorher 88 %).",
+   "spielzeit_ms": 3621000,
+   "erfasst_um": "2026-11-05T17:36:17+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1499",
+   "ware": "2142"
+  },
+  {
+   "mid": "20261105T173617-00078",
+   "art": "bedarf_gut",
+   "text": "Beneventum: Tuniken für Liberti wieder zu 96 % erfüllt (vorher 88 %).",
+   "spielzeit_ms": 3621000,
+   "erfasst_um": "2026-11-05T17:36:17+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1499",
+   "ware": "2141"
+  },
+  {
+   "mid": "20261105T173617-00078",
+   "art": "bedarf_gut",
+   "text": "Beneventum: Sardinen für Liberti wieder zu 96 % erfüllt (vorher 88 %).",
+   "spielzeit_ms": 3621000,
+   "erfasst_um": "2026-11-05T17:36:17+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1499",
+   "ware": "2088"
+  },
+  {
+   "mid": "20261105T173708-00079",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Kontorverwaltung“ (Wirtschaftliche Forschung).",
+   "spielzeit_ms": 3662700,
+   "erfasst_um": "2026-11-05T17:37:06+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 24686
+  },
+  {
+   "mid": "20261105T173817-00081",
+   "art": "bedarf_gut",
+   "text": "Beneventum: Sandalen für Plebejer wieder zu 100 % erfüllt (vorher 40 %).",
+   "spielzeit_ms": 3741000,
+   "erfasst_um": "2026-11-05T17:38:17+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1496",
+   "ware": "2144"
+  },
+  {
+   "mid": "20261105T174106-00084",
+   "art": "auftrag",
+   "text": "Aus dem Auftragsbuch entfernt: Tutorial: Forschung (erledigt oder abgebrochen).",
+   "spielzeit_ms": 3895600,
+   "erfasst_um": "2026-11-05T17:41:04+01:00",
+   "quelle": "spielstand",
+   "auftrag": 71649,
+   "auftrag_id": "71649"
   }
  ]
 }
