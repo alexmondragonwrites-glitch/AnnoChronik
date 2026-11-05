@@ -135,5 +135,143 @@
     "title": "Zara Nitu hatte Plebejer vor Caesia.",
     "description": "Im Spielstand bei 13:56 min hat Zara Nitu schon Plebejer (bis zu 20), bei 16:32 min bis zu 50; auf Beneventum zählt der Monitor die ersten bei 19:33 min. Im Spielstand bei 16:32 min zählt Zara Nitu 143 Bewohner, Caesia 277.",
     "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0013",
+    "spielzeit_ms": 1378000,
+    "game_time_label": "0:22 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "entscheidung",
+    "chapter": 2,
+    "title": "Zara Nitu höflich gegrüßt.",
+    "description": "Ereignis „Begegnung mit einem Rivalen“ mit Zara Nitu. Zur Wahl standen: höflich grüßen, sich unbeeindruckt zeigen. Gewählt wurde der höfliche Gruß. Das Ereignisfenster stand laut Spielprotokoll zwischen den Messungen bei 22:35 und 22:58 min offen; im Spielstand liest der Monitor die Entscheidung ab 26:14 min.",
+    "source": "Q3, Q6"
+  },
+  {
+    "id": "erster-lauf-0014",
+    "spielzeit_ms": 1671800,
+    "game_time_label": "0:26 bis 0:27 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "bau",
+    "chapter": 2,
+    "title": "Die Villa des Praetors.",
+    "description": "Zwischen den Messungen bei 26:59 und 27:51 min erscheint die Villa des Praetors in den Ausgaben, mit 61 Denaren je Minute. Im selben Abschnitt sinkt die Kasse von 13.585 auf 12.613 Denare, und ab 27:51 min führt das Spiel Prestige (70). Im Auftragsbuch ist „Tutorial: Deine Villa“ bei 36:24 min erledigt.",
+    "source": "Q3, Q7"
+  },
+  {
+    "id": "erster-lauf-0015",
+    "spielzeit_ms": 1973000,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 2,
+    "title": "Brot: Weizenhöfe, Kornmühle, Bäckerei.",
+    "description": "Zwei Weizenhöfe (28:52 min), eine Kornmühle (30:52 min) und eine Bäckerei (32:53 min): Aus Weizen wird Mehl, aus Mehl Brot. Brot für die Plebejer meldet der Monitor bei 39:36 min zu 97 % erfüllt (vorher 61 %).",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0016",
+    "spielzeit_ms": 2153500,
+    "game_time_label": "0:34 bis 0:35 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "bau",
+    "chapter": 2,
+    "title": "Eine Stadtwache.",
+    "description": "Zwischen den Messungen bei 34:53 und 35:53 min kommt eine Stadtwache in die Ausgaben (7 Denare je Minute). Den Brandschutz führt der Spielstand bei 31:13 min mit −61,6 und bei 36:24 min mit −96,8.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0017",
+    "spielzeit_ms": 2184800,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "forschung",
+    "chapter": 2,
+    "title": "Die erste Forschung: „Attraktive Märkte“.",
+    "description": "Im Spielstand bei 36:24 min läuft die erste Forschung, „Attraktive Märkte“ (Zivile Forschung, 4.800 Wissen); vorgemerkt sind „Kontorverwaltung“, „Depots“, „Quartiermeisterei“ und „Provisorische Castra“. Bei 21:44 min ist die Forschung im Spielstand leer; Wissen führt das Spiel ab 22:58 min (186). Bei 43:47 min läuft „Kontorverwaltung“ dazu.",
+    "source": "Q7, Q3"
+  },
+  {
+    "id": "erster-lauf-0018",
+    "spielzeit_ms": 2184800,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "auftrag",
+    "chapter": 2,
+    "title": "Vertrag „Verlorene Fracht“ von Zara Nitu.",
+    "description": "Im Auftragsbuch steht bei 36:24 und 38:35 min ein Vertrag „Verlorene Fracht“ von Zara Nitu, bei 43:47 min einer mit demselben Namen von Tarragon. Kisten aus einem solchen Auftrag liegen bei 36:24 und 38:35 min an Bord des Flaggschiffs.",
+    "source": "Q7, Q3"
+  },
+  {
+    "id": "erster-lauf-0019",
+    "spielzeit_ms": 2315400,
+    "game_time_label": "0:36 bis 0:38 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "religion",
+    "chapter": 2,
+    "title": "Ceres wird Schutzgottheit, das erste Heiligtum.",
+    "description": "Im Spielstand bei 38:35 min ist Ceres Schutzgottheit von Beneventum (Hingabe 7,6), bei 36:24 min ist das Feld leer; „Tutorial: Eine Schutzgottheit wählen“ ist erledigt. Zwischen 37:53 und 38:35 min ist der Bedarf der Plebejer nach einem Heiligtum zum ersten Mal erfüllt (40 %), der Glaube steigt von −63 auf +94. Bei 43:47 min liegt die Hingabe bei 125.",
+    "source": "Q7, Q3"
+  },
+  {
+    "id": "erster-lauf-0020",
+    "spielzeit_ms": 2436000,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 2,
+    "title": "Garum: Salzgärten, Makrelenhütten, Garumsaucier.",
+    "description": "Salzgärten, zwei Makrelenhütten und drei Garumsaucier; der Garumsaucier macht aus Makrelen und Salz Garum. Garum für die Plebejer meldet der Monitor bei 45:37 min zu 100 % erfüllt (vorher 51 %).",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0021",
+    "spielzeit_ms": 2627000,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 2,
+    "title": "Beneventum wieder vor Umbra.",
+    "description": "Bevölkerung im Spielstand, Caesia zu Zara Nitu: 375 zu 329 bei 31:13 min, 376 zu 390 bei 36:24 min, 417 zu 421 bei 38:35 min, 438 zu 427 bei 43:47 min. Athr Iorgwyn zählt bei 43:47 min 194 Bewohner, Tarragon 81.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0022",
+    "spielzeit_ms": 2845500,
+    "game_time_label": "0:46 bis 0:47 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "entscheidung",
+    "chapter": 2,
+    "title": "Gaius Julius Lupus angeheuert.",
+    "description": "Ereignis „Zwillinge in der Zwickmühle“ mit den Brüdern Brutus Julius Lupus und Gaius Julius Lupus. Zur Wahl standen am Ende: die Zwillinge erneut befragen, Brutus anheuern, Gaius anheuern, eine Münze werfen. Gewählt wurde Gaius: Gaius Julius Lupus, Vermögensfachmann (Seltenheit episch), der erste Spezialist der Partie. Das Ereignisfenster stand laut Spielprotokoll zwischen den Messungen bei 46:37 und 47:25 min offen; im Spielstand liest der Monitor die Entscheidung ab 48:21 min.",
+    "source": "Q3, Q6"
+  },
+  {
+    "id": "erster-lauf-0023",
+    "spielzeit_ms": 2845500,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "stadtstatus",
+    "chapter": 2,
+    "title": "Beneventum ist ein Großer Vicus.",
+    "description": "Das Spiel führt Beneventum ab dieser Messung als Großen Vicus (Stufe 3), bei 46:37 min noch als Kleinen Vicus. Auf der Insel wohnen 508 Bewohner, 310 Liberti und 197 Plebejer, in 86 Wohnhäusern; bei 46:37 min waren es 468. Mit dem Großen Vicus schließt Kapitel II.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0024",
+    "spielzeit_ms": 1732500,
+    "game_time_label": "0:20 bis 0:28 h",
+    "recorded": "2026-11-05",
+    "kind": "rekonstruktion",
+    "category": "bevoelkerung",
+    "chapter": 2,
+    "title": "Liberti werden zu Plebejern.",
+    "description": "Von 20:34 bis 28:52 min bleibt die Zahl der Wohnhäuser bei 68 und die Bevölkerung bei 352 bis 354, während die Plebejer von 20 auf 65 steigen: Liberti werden zu Plebejern. Neue Häuser kommen ab 29:52 min dazu (73).",
+    "source": "Q3"
   }
 ]

@@ -1,60 +1,64 @@
 # Caesia Varilla · Erster Lauf · Stand
 
-Stand 5.11.2026, 17:45 (Claude, Nebensitzung Kapitel I).
+Stand 5.11.2026, 18:00 (Claude, Nebensitzung Kapitel I und II).
 
 ## Erzählt
 
-**Kapitel I „Zwanzig Bretter“** (`#kapitel-1` in `saves/erster-lauf/chronik.html`): 0:00 bis 19:33 min Spielzeit, aufgenommen am 5.11.2026 von 15:52 bis 16:34. Einschnitt: die ersten Plebejer auf Beneventum (19:33 min, vom Spieler bestätigt: „Bei den Plebejern“). Bericht mit Kennzahlen, Zeitachse und Quellen (Q3, Q5, Q6), neun Tagebucheinträge, Randnotiz „Abgeleitet“, Register `erster-lauf-0004` bis `-0012`. Dazu „Inseln und Provinzen“ mit Beneventum und den drei Inseln der Praetoren.
+**Kapitel I „Zwanzig Bretter“** (`#kapitel-1` in `saves/erster-lauf/chronik.html`): 0:00 bis 19:33 min Spielzeit, aufgenommen am 5.11.2026 von 15:52 bis 16:34. Einschnitt: die ersten Plebejer auf Beneventum (19:33 min, vom Spieler bestätigt: „Bei den Plebejern“). Bericht mit Kennzahlen, Zeitachse und Quellen (Q3, Q5, Q6), neun Tagebucheinträge, Randnotiz „Abgeleitet“, Register `erster-lauf-0004` bis `-0012`. Dazu „Inseln und Provinzen“ mit Beneventum und den drei Inseln der Praetoren. Online seit `21d4859`.
 
-- Ein Faktenblatt gibt es noch keins (Skript offen, `scripts/` gehört gerade der Monitor-Sitzung). Kapitel I ist direkt aus dem Anno-Monitor geschrieben: Kurzwerte und Chronik (`history/welten/anno117-1793890256/`), vollständige Messungen (`sessions/20261105_150917`, `20261105_162911`), Spielprotokolle vom 5.11. (15:05 und 16:30), Bildschirmfoto 15:58 (Libertus). Status, Wohnhäuser, Lager, Betriebe am Stichtag, Geldposten und die Zahlen der Praetoren stehen nur in den vollständigen Messungen; das sagt auch die Quellenzeile des Berichts.
-- Inselnahmen und Ereignisfenster aus dem Spielprotokoll (Q6, Ortszeit = Protokollzeit + 1 h): Beneventum 15:55:12, Hortia Poenitentium (Tarragon) 15:57:13, Umbra (Zara Nitu) 15:57:21, Werddon (Athr Iorgwyn) 15:59:48; Libertus 15:58:20–15:58:57, Tarragon 16:09:34–16:09:43, Zara Nitu 16:37:16 (33 s), ein weiteres Fenster 16:37:57 (12 s), Zuordnung offen. Der Monitor las das Protokoll erst ab seinem Neustart um 16:29; deshalb fehlen die Inselnahmen in den Messdaten.
-- Das Spiel lief 15:05–16:10 und 16:30–16:59 (Spielstand „Caesia Varilla 1“ um 16:59:31). Die Spielzeit läuft ohne Rücksprung weiter (16:32 → 16:33 min), es gibt nichts Verworfenes.
+**Kapitel II „Brot und Ziegel“** (`#kapitel-2`): 19:33 bis 47:25 min Spielzeit, aufgenommen am 5.11.2026 von 16:35 bis 17:20. Einschnitt: Beneventum wird Großer Vicus (47:25 min, vom Spieler bestätigt: „Beim Großen Vicus“). Bericht mit Kennzahlen, Zeitachse und Quellen (Q3, Q6, neu Q7), neun Tagebucheinträge, Randnotiz, Register `erster-lauf-0013` bis `-0024`, offene Frage zu Zara Nitus Vertrag.
 
-**Stoff für Kapitel II** (ab 19:33 min, gemessen bis 38:35 min, Aufnahme bis 16:59):
+- Beide Kapitel ohne Faktenblatt (Skript offen), direkt aus dem Anno-Monitor: Kurzwerte und Chronik (`history/welten/anno117-1793890256/`), vollständige Messungen (`sessions/20261105_150917`, `_162911`, `_170916`), Spielprotokolle vom 5.11. (15:05, 16:30, 17:09). Für Kapitel II dazu die Spielstände Autosave 4 (21:44), Autosave 8 (36:24) und „Caesia Varilla 1“ (38:35), als Kopie mit `spielstand.lies` des Monitors gelesen (Q7): Schutzgottheit, Forschung, Auftragsbuch, Gegenstände. Was nur in den vollständigen Messungen steht, sagt die Quellenzeile jedes Berichts.
+- Ereignisfenster aus dem Spielprotokoll (Q6, Ortszeit = Protokollzeit + 1 h): Kapitel I siehe Register; Zara Nitu 16:37:16 (33 s), ein weiteres Fenster 16:37:57 (12 s, Zuordnung offen), Zwillinge 17:19:41 (31 s), danach 17:21:11 (14 s) und 17:32:37 (2 s).
+- Das Spiel lief 15:05–16:10, 16:30–16:59 und ab 17:09 (geladen „Caesia Varilla 1“, 38:35 min). Die Spielzeit läuft ohne Rücksprung weiter; die erste Live-Messung nach dem Laden zeigt eine Bilanz von +656 (bei 16:33 min +427), solche Werte bleiben aus den Texten.
 
-- Köhler und Lehmgrube (20:34), zwei Ziegeleien (21:34), Weizenhof 2 (28:52), Kornmühle (30:52), Köhler 2 (31:52), Bäckerei (32:53), Spinnerei und Hanfhof je 2 (34:53).
-- Entscheidung „Begegnung mit einem Rivalen“ mit Zara Nitu: höflich gegrüßt (Wahl: höflich grüßen oder sich unbeeindruckt zeigen), Fenster 16:37:16, 22:50 min.
-- Erkundung Latium: 17 Inseln (Spielstand 21:44), 19 (26:14), 20 (27:51), 22 (31:13), 23 (36:24); darunter Umbra, Villa Augusta, Hortia Poenitentium.
-- Wissen ab 22:58 min 186 (laut Spieler und Monitor-Sitzung erste Forschung „Attraktive Märkte“, vier weitere vorgemerkt); Glaube fällt dabei auf −58.
-- Laut Monitor-Sitzung: Beneventum ist Ceres geweiht (Hingabe 7,6), „Tutorial: Eine Schutzgottheit wählen“ erledigt. Zeitpunkt der Wahl noch offen; der erste erhaltene Spielstand danach ist der bei 21:44 min.
-- Erstes Heiligtum zwischen 37:53 und 38:35 min (Bedarf Heiligtum der Plebejer 40 %, Glaube −63 → +94).
-- Bei 38:35 min: 417 Bewohner (147 Plebejer, 242 Liberti im Spielstand), 73 Häuser, Geld 8.659, Bilanz +52. Plebejer wollen Brot (60 %), Tuniken (56 %), Heiligtum (40 %).
-- Praetoren bei 38:35 min: Zara Nitu 421 (bis zu 306 Plebejer), Athr Iorgwyn 161, Tarragon 83.
-- Weitergespielt ab 17:09 (Spielzeit läuft ab 38:35 min weiter, kein Neuladen): Plebejer 120 → 152 (38:36), Brot und Heiligtum für Plebejer wieder erfüllt (39:36), Salzgärten, zwei Makrelenhütten, drei Garumsaucier (40:36), Erkundung 25 Inseln (43:47) und 26 (50:47), dritte Sardinenhütte, Haferhof, Breistand (44:37), Schafshof 2, je dritte Spinnerei, Hanfhof, Pileusfilzer (45:37), Liberti 273 → 310 (47:25), Gerberei 2, Salzgärten 2, Schweinehof (51:22).
-- Aus dem Spielstand bei 43:47 min (neue Monitor-Felder): Forschung in Arbeit „Attraktive Märkte“ (Zivile Forschung) und „Kontorverwaltung“ (Wirtschaftliche Forschung); Auftragsbuch mit 8 Einträgen, erledigt u. a. „Tutorial: Eine Schutzgottheit wählen“; Schutzgottheit von Beneventum Ceres, Hingabe 125,0.
-- Entscheidung „Zwillinge in der Zwickmühle“ (47:25 bis 48:21 min): „Gaius anheuern“. Die Belohnung ist der Spezialist Gaius Julius Lupus, Vermögensfachmann (Seltenheit episch); im Spielstand bei 48:21 min sitzt er schon in der Villa des Praetors auf Beneventum. (Früher zeigte der Monitor „1 71438“; seit Katalog Schema 5 kennt er Spezialisten, die Chronikzeile ist berichtigt.)
-- Die zwei Kisten aus dem Vertrag „Verlorene Fracht“ treiben im Spielstand bei 50:47 min noch im Meer (sammelbare Fracht, noch nicht an Bord).
+**Stoff für Kapitel III** (ab 47:25 min, gemessen bis 64:55 min, Aufnahme bis 17:41):
 
-- **Nächste freie Quellennummer:** Q7 (Q1 Einstellungen, Q2 Installation Update 3.0, Q3 Anno-Monitor, Q4 Dossier, Q5 Bildschirmfotos Libertus, Q6 Spielprotokoll).
-- **Nächste freie Registernummer:** `erster-lauf-0013`.
+- „Tutorial: Spezialisten“ erledigt (48:21). Im Spielstand bei 48:21 min sitzt Gaius Julius Lupus schon in der Villa des Praetors auf Beneventum; Ceres-Hingabe 159.
+- Erkundung 26 Inseln (50:47). Die zwei Kisten aus dem Vertrag „Verlorene Fracht“ treiben im Spielstand bei 50:47 min noch im Meer (sammelbare Fracht, noch nicht an Bord; Vertrag seit 43:47 von Tarragon).
+- Gerberei 2, Salzgärten 2, Schweinehof (51:22), zwei Sandalenmacher (54:22), neuer Auftrag „Der verrückte Koch“ (55:57), Schafshof 3, Hanfhof 4, Segelmacher, Seilmacher (58:21), Plebejer 259 → 290 (59:21), Forschung „Kontorverwaltung“ abgeschlossen (61:02), Sandalen für Plebejer 100 % (62:21), „Tutorial: Forschung“ aus dem Auftragsbuch (64:55).
+- Bei 64:21 min (Live): 692 Bewohner (306 Liberti, 386 Plebejer), Geld 17.525, Bilanz +571, Wissen 640, Glaube 197, Prestige 115.
+
+- **Nächste freie Quellennummer:** Q8 (Q1 Einstellungen, Q2 Installation Update 3.0, Q3 Anno-Monitor, Q4 Dossier, Q5 Bildschirmfotos Libertus, Q6 Spielprotokoll, Q7 nachgelesene Spielstände).
+- **Nächste freie Registernummer:** `erster-lauf-0025`.
 
 ## Protagonistin
 
-- **Caesia Varilla**, verbindlicher Kanon in `lore/caesia-varilla.md`. Seit Kapitel I auf Beneventum in Latium; den Landungsort lässt das Tagebuch offen. Kein Amt: Der Libertus und Caesia selbst sprechen Tarragon und die Rivalen als Praetoren an, Caesia lässt das Wort für sich nur als Anrede stehen.
+- **Caesia Varilla**, verbindlicher Kanon in `lore/caesia-varilla.md`. Seit Kapitel I auf Beneventum in Latium; den Landungsort lässt das Tagebuch offen. Kein Amt: Der Libertus nennt sie Praetor, die Leute nennen ihr Haus „Villa des Praetors“ (Name im Spiel); Caesia lässt das Wort stehen und beansprucht es nicht.
 - Offen laut Dossier: Mutter, Vater (Name nur vorgeschlagen, Rolle), Retter, Brandstifter, Verlobter (Name, Tod), Piratenverbindung (Vermutung), Landungsort, politische Zukunft.
-- Offene Fäden aus dem Tagebuch: Wer die Truhe mit den 20.000 Denaren gefüllt hat (Caesias Frage, gehört zur offenen Frage nach dem Retter); der Brief an die Mutter bleibt im Buch; Caesia fragt sich, wie Zara Nitu so früh zu Plebejern kam.
+- Offene Fäden aus dem Tagebuch:
+  - wer die Truhe mit den 20.000 Denaren gefüllt hat; deshalb fehlt in der Inschrift für Ceres das DE SVA PECVNIA (gehört zur offenen Frage nach dem Retter);
+  - der Brief an die Mutter bleibt im Buch;
+  - wie Zara Nitu so früh zu Plebejern kam (steht neben ihrem Namen);
+  - die Kisten für Zara Nitu im Laderaum, verschnürt; Ausgang des Vertrags offen;
+  - ob die Stadtwache auch löscht (Frage an ihren Hauptmann); Brandschutz um −95;
+  - die zwanzig Waffen aus dem Startlager liegen noch im Lager, Caesia zählt sie mit.
 
 ## Partie
 
 - Im Spielstand heißt die Partie „Caesia Varilla“ (Partie-Ordner und Firmenname, Weltkennung `anno117-1793890256`, Seed 6949, angelegt 15:06); „Cassandra“ ist das Profil der Einstellungsübersicht. Schwierigkeit Erfahren (Baukostenerstattung Hälfte, Startflotte Flaggschiff, Fruchtbarkeiten und Vorkommen normal, Zwischenfälle mittel).
 - Erweiterungen Prophecies of Ash, The Hippodrome, Dawn of the Delta. Praetoren Tarragon (Hortia Poenitentium), Athr Iorgwyn (Werddon, Albion), Zara Nitu (Umbra).
-- Startlager auf Beneventum: 25 Bretter, 20 Waffen. Grundsteuer 150 je Minute von Anfang an.
+- Beneventum: Außenposten ab 2:38, Kleiner Vicus ab 13:15, Großer Vicus ab 47:25 min. Villa des Praetors ab 26:59–27:51, Stadtwache ab 34:53–35:53, Schutzgottheit Ceres und erstes Heiligtum 36:24–38:35. Startlager 25 Bretter, 20 Waffen; Grundsteuer 150 je Minute von Anfang an.
 
 ## Daten
 
-- Anno-Monitor: Autosaves etwa alle fünf Minuten, Live-Mod alle 60 Sekunden mit Details (Grundwerte alle 10 Sekunden). Seit dem Neustart um 16:29 auch Entscheidungen, Erkundung und Spielprotokoll; Forschung, Aufträge und Religion baut die Monitor-Sitzung gerade ein.
-- Messdaten hochgeladen mit Kapitel I (`b3e3a10`, Skriptstand `067fbfb` mit Forschung, Auftragsbuch und Religion): 72 Messungen bis 55:22 min (Aufnahme bis 17:31), ohne Neuladen.
-- Häuser: Live (`stufen.*.haeuser`) und Spielstand weichen um eins ab (8:27 Live 32, 8:58 Spielstand 31). Der Bericht nennt Wohnhäuser nach der Live-Messung.
+- Anno-Monitor: Autosaves etwa alle fünf Minuten, Live-Mod alle 60 Sekunden mit Details. Entscheidungen, Erkundung und Spielprotokoll seit 16:29; Forschung, Auftragsbuch und Religion seit 17:09 (erste Lesung bei 43:47 min); Spezialisten und Gegenstände nach dem nächsten Neustart (`c778e0d`).
+- Online: Messdaten `e3214ee` (84 Messungen bis 1:04 h, von der Monitor-Sitzung), Kapitel I `21d4859`.
+- Häuser: Live (`stufen.*.haeuser`) und Spielstand weichen teils ab. Die Berichte nennen Wohnhäuser nach der Live-Messung.
+- Rivalen: „Bewohner“ der Praetoren ist ihr Attribut Bevölkerung im Spielstand; jeder hat bisher eine Insel.
 
 ## Tagebuch
 
-- **Formen bisher (Kapitel I):** Gespräch (Welche Insel), Rechnung (Kassenbuch als Tabelle), Notiz am Rand (Nachbarn), Eintrag (Ein Libertus grüßt mich), Gespräch am Hafen (Die ersten Liberti), Liste (Was die Liberti brauchen), Notiz am Rand (Bretter: null), Gespräch (Tarragon), eingelegter Brief an die Mutter (Zehn Plebejer). Noch offen: Abschrift einer Bauinschrift (etwa zum ersten Heiligtum), Opfergabe, beschriebene Skizze.
-- **Wiederkehrende Figuren** (alle ohne Namen; Namen erst mit dem Spieler):
-  - der Kapitän: kennt die Inseln und die Grundsteuer, bringt die Namen der Praetoren vom Wasser mit;
+- **Formen Kapitel I:** Gespräch (Welche Insel), Rechnung (Kassenbuch), Notiz am Rand (Nachbarn), Eintrag (Ein Libertus grüßt mich), Gespräch am Hafen (Die ersten Liberti), Liste (Was die Liberti brauchen), Notiz am Rand (Bretter: null), Gespräch (Tarragon), Brief an die Mutter (Zehn Plebejer).
+- **Formen Kapitel II:** Gespräch (Zara Nitu), Eintrag (Eine Villa), Rechnung (Brot), Gespräch am Hafen (Kisten im Wasser), Notiz am Rand (Brandschutz), Abschrift einer Bauinschrift (Für Ceres: CERERI · SACRVM / CAESIA · VARILLA · FECIT), Liste (Vier Inseln), Gespräch (Zwei Brüder), Opfergabe (Großer Vicus). Noch ungenutzt: beschriebene Skizze, Brief an den Kaiser (heikel: Wer die Soldaten schickte, ist offen).
+- **Wiederkehrende Figuren** (Namen erst mit dem Spieler, außer Namen aus dem Spiel):
+  - der Kapitän: kennt die Inseln und die Grundsteuer, bringt Namen und Nachrichten vom Wasser, holte Zara Nitus Kisten an Bord;
   - die Männer an Bord: rechnen in Stämmen; einer grinste über Tarragons Kleider;
-  - der Libertus mit den Brettern: erst seit kurzem frei, zählt das Geld Münze für Münze nach;
-  - die Frau mit dem Kind am Wasser (fragt nach Fisch und Brei), ihr Mann (Markt), eine alte Frau (Pilei);
-  - Tarragon: einfache, abgetragene Kleider, knapp und freundlich, eine Handvoll Leute auf Hortia Poenitentium;
-  - Zara Nitu und Athr Iorgwyn: bisher nur erwähnt;
-  - Mater: Empfängerin des Briefs; über sie sagt das Tagebuch nichts, was das Dossier offen lässt.
-- Caesias Stimme: zählt die Kasse nach jedem Gang, rechnet Preise je Stück, schreibt Zahlen und Fragen auf; nach außen gefasst, Unsicherheit als prüfbare Frage.
+  - der Libertus mit den Brettern; die Frau mit dem Kind am Wasser, ihr Mann, eine alte Frau (Kapitel I);
+  - der Hauptmann der Stadtwache: bisher nur erwähnt;
+  - Tarragon: einfache, abgetragene Kleider, knapp und freundlich; ab 43:47 min mit einem Vertrag „Verlorene Fracht“;
+  - Zara Nitu: vergleicht Preise auf dem Markt wie Caesia, behält ihre Plebejerzahl für sich, höflich begrüßt;
+  - Athr Iorgwyn: bisher nur als Zahl;
+  - Gaius Julius Lupus, Vermögensfachmann: rechnet, widerspricht Caesia beim Zählen, wohnt in der Villa; sein Zwilling Brutus Julius Lupus („spricht vom Staat“) blieb zurück;
+  - Mater: Empfängerin des Briefs; über sie legt das Tagebuch nichts fest.
+- Caesias Stimme: zählt die Kasse nach jedem Gang, rechnet Preise je Stück, schreibt Zahlen und Fragen auf; nach außen gefasst, Unsicherheit als prüfbare Frage. Seit der Villa: die Erinnerung an das Feuer in Rom, ohne Neues über die Nacht festzulegen.
