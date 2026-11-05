@@ -4,10 +4,12 @@ Stand 5.11.2026, 16:00 (Claude).
 
 ## Erzählt
 
-Noch kein Kapitel. Die Chronikseite hat Titelblatt, die Protagonistin als Figurenkanon (Q4), den Steckbrief der Partie (Q1, Q2) und ein Register mit einem Eintrag (`erster-lauf-0001`, Partie angelegt).
+Noch kein Kapitel. Die Chronikseite hat Titelblatt, die Protagonistin als Figurenkanon (Q4), den Steckbrief der Partie (Q1 bis Q3) und ein Register mit drei Einträgen.
 
-- **Nächste freie Quellennummer:** Q5 (Q1 Bildschirmfoto der Einstellungen, Q2 Installation von Update 3.0, Q3 Anno-Monitor, Q4 Charakterdossier `lore/caesia-varilla.md`).
-- **Nächste freie Registernummer:** `erster-lauf-0002`.
+**Stoff für Kapitel I:** Beneventum in Latium als erste Insel (ab 2:38 min Spielzeit), drei Holzfäller und drei Sägewerke, eine Sardinenhütte; der Libertus mit den Brettern (gekauft für 400 Münzen, 20 Bretter nach Beneventum; das Spiel spricht sie als „Praetor“ an, laut Dossier hat sie kein Amt). Erste Bewohner um 5:36 min (2,4 laut Live).
+
+- **Nächste freie Quellennummer:** Q6 (Q1 Bildschirmfoto der Einstellungen, Q2 Installation von Update 3.0, Q3 Anno-Monitor, Q4 Charakterdossier `lore/caesia-varilla.md`, Q5 Bildschirmfotos „Ein Libertus grüßt dich“).
+- **Nächste freie Registernummer:** `erster-lauf-0004` (0002 erste Insel Beneventum, 0003 Bretter vom Libertus gekauft).
 
 ## Protagonistin
 

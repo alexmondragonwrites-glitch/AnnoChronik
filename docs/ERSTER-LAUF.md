@@ -48,6 +48,15 @@ Aufbau eines Kapitels: `<article class="ac-kapitel" id="kapitel-N" data-spielzei
 4. Abgeleitetes als Randnotiz (`p.ac-randnotiz`, Etikett „Abgeleitet“).
 5. Registereinträge in `data/events.json` für das Belegte und Abgeleitete des Kapitels.
 
+## Ereignisse und Entscheidungen im Spiel
+
+Wunsch des Spielers vom 5.11.2026 („nehmen wir sowas auch mit auf?“, zum Ereignis „Ein Libertus grüßt dich“): Ereignisse mit einer Entscheidung gehören in die Chronik.
+
+- Quelle sind die Bildschirmfotos des Spielers (je Ereignis eine Quellennummer); die Bilder bleiben beim Spieler, weil sie Spielgrafik zeigen. Der Spieltext wird zusammengefasst, nicht abgeschrieben; die Namen der Wahlmöglichkeiten dürfen stehen.
+- Ins Register (`kind: fakt`, `category: entscheidung`): Anlass, die Wahlmöglichkeiten, die Wahl und ihr Ergebnis (Kosten, Waren, Ziel). Dazu die Spielzeit aus den Messungen davor und danach, wenn das Bild keine zeigt.
+- Die Folgen sieht der Monitor selbst (Geld, Lager, Betriebe); die Entscheidung selbst steht in seinen Daten nicht. In der Lua-Schnittstelle von 3.0 gibt es Bausteine für Entscheidungen (Kosten, Erfolgschance, Folgeentscheidungen), aber kein Ereignis „Entscheidung getroffen“; ob Live-Mod oder Spielstand Titel und Wahl liefern, ist offen (Aufgabe auf der Tafel).
+- Im Tagebuch erzählt Caesia, wie sie entschieden hat und warum, in ihrer Stimme und nach ihrem Wesen. Nennt das Spiel sie dabei mit einem Titel (beim Libertus „Praetor“), hält die Chronik das als Anrede fest; ein Amt folgt daraus erst, wenn die Geschichte es ergibt.
+
 ## Das Tagebuch
 
 - Ich-Form, in Caesias Stimme nach dem Dossier.

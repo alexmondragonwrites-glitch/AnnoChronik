@@ -2,6 +2,11 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-05 – Erste Insel und erste Entscheidung im Register (Claude)
+
+- Hochgeladen auf Freigabe („Ja, hochladen“): `a6e5341` (Partie-Name, Korrektur im Steckbrief), `0321ce3` (erste Messdaten, 8 Messungen bis 5:36 min). „Datenqualität“ und Pages grün, live geprüft.
+- Spieler schickte zwei Bildschirmfotos vom Ereignis „Ein Libertus grüßt dich“ mit der Frage „nehmen wir sowas auch mit auf? geht das?“. Eingetragen (lokal): Register `erster-lauf-0002` (erste eigene Insel Beneventum, Q3) und `erster-lauf-0003` (Bretter gekauft, Q5 und Q3), Q5 unter Quellen, Startprovinz im Steckbrief, Landungsort unter „Offene Fragen“, Regeln unter „Ereignisse und Entscheidungen im Spiel“ in `docs/ERSTER-LAUF.md`. Der Monitor zeigt den Kauf im Geld (17.684 bei 4:38 min, 17.009 bei 5:36 min), die Entscheidung selbst nicht; Probe dazu auf der Tafel.
+
 ## 2026-11-05 – Partie-Name korrigiert, Datenweg mit der echten Partie geprüft (Claude)
 
 - Erster Autosave der Partie um 15:52: Im Spielstand heißt sie „Caesia Varilla“ (Partie-Ordner und Firmenname), Weltkennung `anno117-1793890256`, Seed 6949, drei Erweiterungen, Praetoren Tarragon, Athr Iorgwyn, Zara Nitu. „Cassandra“ ist das Profil der Einstellungsübersicht. `data/monitor-sources.json` und `meta.json` stehen jetzt auf `partie: "Caesia Varilla"`; mit „Cassandra“ hätte das Hochlade-Skript die Welt nie gefunden.

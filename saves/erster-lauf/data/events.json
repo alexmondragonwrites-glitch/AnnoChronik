@@ -9,5 +9,28 @@
     "title": "Neue Partie angelegt.",
     "description": "Profil Cassandra, Schwierigkeit Erfahren, mit allen drei Erweiterungen; Praetoren Tarragon, Athr Iorgwyn und Zara Nitu.",
     "source": "Q1"
+  },
+  {
+    "id": "erster-lauf-0002",
+    "spielzeit_ms": 158000,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "insel",
+    "chapter": 1,
+    "title": "Erste eigene Insel: Beneventum.",
+    "description": "Der Monitor sieht Beneventum in Latium zum ersten Mal als eigene Insel, mit 0 Bewohnern. Eine Spielminute später stehen dort drei Holzfäller und drei Sägewerke, nach einer weiteren eine Sardinenhütte.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0003",
+    "spielzeit_ms": 336500,
+    "game_time_label": "0:04 bis 0:06 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "entscheidung",
+    "chapter": 1,
+    "title": "Bretter von einem Libertus gekauft.",
+    "description": "Ein Freigelassener, beladen mit Brettern, grüßt Caesia. Zur Wahl standen: seine Waren beschlagnahmen, seinen Vorrat kaufen, ihm alles Gute wünschen. Gewählt wurde der Kauf: 400 Münzen für 20 Bretter nach Beneventum (Geld 17.411 vorher, 17.011 danach).",
+    "source": "Q5, Q3"
   }
 ]
