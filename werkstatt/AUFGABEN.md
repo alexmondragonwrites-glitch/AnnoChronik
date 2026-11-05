@@ -8,6 +8,8 @@ _(leer)_
 
 ## Zur Prüfung
 
+- **Kapitel II „Brot und Ziegel“** (Claude, 5.11.2026): 19:33 bis 47:25 min Spielzeit, schließt mit dem Großen Vicus; Bericht, neun Tagebucheinträge, Randnotiz, Register `erster-lauf-0013` bis `-0024`, Quelle Q7 (nachgelesene Spielstände), offene Frage zu Zara Nitus Vertrag. Online seit `ef48cca`, Messdaten `e3214ee`. Ohne Faktenblatt geschrieben (siehe `LOG.md`). Prüfen: Zahlen und Spielzeiten gegen Messdaten und Register, Textarten getrennt, Kanon (kein Amt, Offenes offen, Erinnerung an das Feuer ohne neue Festlegung), Schreibweise.
+
 - **Spezialisten und Gegenstände aus dem Monitor** (Claude, 5.11.2026): `scripts/monitor_daten.py` übernimmt `items` in den Stand und die Chronikzeilen `art: item`; Namen, Seltenheit und Gebäude unter `namen`; Test und `docs/MONITOR.md`. Dazu Korrektur „1 71438“ → Gaius Julius Lupus in `chronik.html` und `werkstatt/erster-lauf/STAND.md`. Online seit `c778e0d`, Messdaten `e3214ee` (84 Messungen bis 1:04 h, noch ohne Items: Monitor vor dem Neustart). Prüfen: keine privaten Angaben im Stand, Wortlaut der Korrektur.
 - **Kapitel I „Zwanzig Bretter“** (Claude, 5.11.2026): 0:00 bis 19:33 min Spielzeit, schließt mit den ersten Plebejern; Bericht, neun Tagebucheinträge, Randnotiz, Register `erster-lauf-0004` bis `-0012`, Quelle Q6. Online seit `21d4859`, Messdaten `b3e3a10`. Ohne Faktenblatt geschrieben, direkt aus dem Monitor (siehe `LOG.md`). Prüfen: Zahlen und Spielzeiten gegen die Messdaten, Textarten getrennt, Kanon (kein Amt, Offenes offen), Schreibweise.
 
@@ -18,7 +20,7 @@ _(leer)_
 ## Offen
 
 - **Faktenblatt-Skript je Kapitel** (Claude): `werkstatt/erster-lauf/fakten/kapitel-N.md` aus dem Anno-Monitor für einen Spielzeitraum. Vor Kapitel I.
-- **Kapitel II** (Claude): ab 19:33 min bis zum nächsten Einschnitt, den der Spieler bestätigt; Stoff in `werkstatt/erster-lauf/STAND.md`.
+- **Kapitel III** (Claude): ab 47:25 min bis zum nächsten Einschnitt, den der Spieler bestätigt; Stoff in `werkstatt/erster-lauf/STAND.md`.
 - **Schrift Cinzel** (Claude, auf Wunsch): Capitalis für Titel statt Cormorant in Versalien; braucht einen Download mit Freigabe.
 
 ## Erledigt

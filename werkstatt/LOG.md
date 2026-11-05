@@ -2,6 +2,25 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-05 – Kapitel II „Brot und Ziegel“ (Claude, Nebensitzung)
+
+- Spieler: „ich denke wir haben genug für ein kapitel 2 🙂 oder?“. Vorgeschlagen war als Einschnitt der nächste Stadtstatus, der Große Vicus (47:25 min Spielzeit, Aufnahme 17:20), als Alternative das erste Heiligtum (38:35 min). Spieler: „Beim Großen Vicus“, danach „Ja, hochladen“.
+- Quellen wie in Kapitel I: Monitor-Chronik, vollständige Messungen der Läufe ab 15:09, 16:29 und 17:09, Spielprotokolle. Neu ist Q7: Autosave 4 (21:44), Autosave 8 (36:24) und „Caesia Varilla 1“ (38:35), als Kopie mit `spielstand.lies` des Monitors gelesen, schreibend nichts am Monitor. Daraus stammen die Schutzgottheit (leer bei 36:24, Ceres 7,6 bei 38:35), die Forschung (leer bei 21:44, „Attraktive Märkte“ bei 36:24), das Auftragsbuch (Vertrag „Verlorene Fracht“ von Zara Nitu bei 36:24 und 38:35) und Kisten an Bord des Flaggschiffs.
+- `chronik.html`:
+  - Kapitel II mit Bericht (Kennzahlen, Zeitachse, Quellen Q3, Q6, Q7), neun Tagebucheinträgen und Randnotiz;
+  - Q7 unter Quellen, eine offene Frage zum Ausgang von Zara Nitus Vertrag, Verweis im Inhalt.
+- Register `erster-lauf-0013` bis `-0024`: Zara Nitu gegrüßt, Villa des Praetors, Brot, Stadtwache, erste Forschung, Vertrag „Verlorene Fracht“, Ceres und erstes Heiligtum, Garum, Beneventum wieder vor Umbra, Gaius Julius Lupus, Großer Vicus; als Abgeleitet, dass Liberti zu Plebejern wurden, während die Häuser bei 68 blieben.
+- `roemisch.css` ergänzt: Trennlinie zwischen Kapiteln, Bauinschrift im Tagebuch (schmal mit engerem Abstand).
+- Befund beim Schreiben: Bei der Bevölkerung lag Zara Nitu nur in den Spielständen bei 36:24 und 38:35 min vor Caesia, vorher und bei 43:47 min lag Beneventum vorn. Die Bilanz der ersten Live-Messung nach dem Laden um 17:09 (+656) ist ein Ladewert und steht in keinem Text.
+- Geprüft:
+  - `validate-data.mjs` und `test-monitor-daten.py`;
+  - Wortprüfung im neuen Text ohne Fund (der einzige Treffer steht in der Korrektur der Monitor-Sitzung);
+  - Browser bei 1280 und 375 px, hell und dunkel, ohne Konsolenfehler und ohne waagrechtes Scrollen.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `ef48cca` (Kapitel II, Register, CSS, `STAND.md`). Die Messdaten bis 1:04 h lagen schon online (`e3214ee`).
+- Für eine Prüfung durch Codex:
+  - Kurzwerte, Bedürfnis- und Betriebszeilen sowie Erkundung und die Zeilen ab 43:47 min stehen in `saves/erster-lauf/data/monitor/tag-2026-11-05.json`.
+  - Status, Wohnhäuser, Geldposten, Attribute und Praetoren liegen nur in den vollständigen Messungen beim Spieler, die Angaben vor 43:47 min zu Ceres, Forschung und Auftragsbuch in Q7.
+
 ## 2026-11-05 – Spezialisten und Gegenstände aus dem Monitor (Claude)
 
 - Spieler: „haben wir auch spezialisten und items drin?“, danach „Ja, einbauen“.
