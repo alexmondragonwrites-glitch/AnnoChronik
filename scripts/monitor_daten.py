@@ -25,11 +25,12 @@ KURZ_FELDER = ("mid", "quelle", "erfasst_um", "spielzeit_ms", "geld", "bilanz", 
                "bevoelkerung", "je_stufe", "inseln")
 EREIGNIS_FELDER = ("mid", "art", "text", "spielzeit_ms", "erfasst_um", "quelle", "insel", "stufe", "ware", "betrieb",
                    "entscheidung", "wahl", "seit_ms", "spielzeit_stand_ms", "erstmals", "teilnehmer", "vorher",
-                   "provinz", "anzahl", "neu")
+                   "provinz", "anzahl", "neu", "forschung", "beginn", "auftrag", "auftrag_id", "gott",
+                   "hingabe_stufe")
 # Nur lokal im Monitor: technische Neuladen-Zeilen, Ereignisfenster (datieren Entscheidungen) und Bildschirmfotos
 LOKALE_ARTEN = {"neuladen", "verworfen", "fenster", "bildschirmfoto"}
 INSEL_FELDER = ("id", "name", "provinz", "bewohner", "haeuser", "grundsteuer", "stufen", "beduerfnisse", "betriebe",
-                "status", "aus_spielstand")
+                "status", "aus_spielstand", "religion")
 RIVALEN_FELDER = ("id", "name", "attribute", "geld_je_minute", "hoechststand_je_stufe", "inseln")
 
 
@@ -105,6 +106,14 @@ def stand(m: dict, katalog: dict | None = None) -> dict:
         "inseln": [_insel(i) for i in m.get("inseln") or [] if i.get("eigene")],
         "rivalen": [{k: r[k] for k in RIVALEN_FELDER if r.get(k) is not None} for r in m.get("rivalen") or []],
     }
+    if isinstance(m.get("forschung"), dict):  # Spieler und Praetoren: abgeschlossen, laufend, vorgemerkt
+        out["forschung"] = {pid: {k: f.get(k) or [] for k in ("fertig", "laeuft", "warteschlange")}
+                            for pid, f in m["forschung"].items()}
+    if isinstance(m.get("auftraege"), list):
+        out["auftraege"] = [{k: e[k] for k in ("auftrag", "erledigt", "vertrag", "provinz", "gegenueber") if k in e}
+                            for e in m["auftraege"]]
+    if isinstance(m.get("religion"), dict):  # gesammelte Hingabe je Teilnehmer und Gottheit
+        out["religion"] = m["religion"]
     erg = m.get("ergaenzt_aus")
     if isinstance(erg, dict):  # ohne Dateinamen des Spielstands
         out["ergaenzt_aus"] = {k: erg[k] for k in ("spielzeit_ms", "gespeichert_um") if erg.get(k) is not None}
@@ -140,8 +149,20 @@ def namen(s: dict, katalog: dict) -> dict:
                 out[str(g)] = e.get("text") or e.get("name")
         return out
 
+    forschungen, goetter, auftraege = set(), set(), set()
+    for f in (s.get("forschung") or {}).values():
+        for k in ("fertig", "laeuft", "warteschlange"):
+            forschungen.update(f.get(k) or [])
+    for verehrt in (s.get("religion") or {}).values():
+        goetter.update(verehrt or {})
+    for i in s.get("inseln") or []:
+        if (i.get("religion") or {}).get("gott"):
+            goetter.add(i["religion"]["gott"])
+    for e in s.get("auftraege") or []:
+        auftraege.add(e.get("auftrag"))
     return {"stufen": nachschlagen("stufen", stufen), "waren": nachschlagen("produkte", waren),
-            "betriebe": nachschlagen("betriebe", betriebe)}
+            "betriebe": nachschlagen("betriebe", betriebe), "forschungen": nachschlagen("forschungen", forschungen),
+            "goetter": nachschlagen("goetter", goetter), "auftraege": nachschlagen("auftraege", auftraege)}
 
 
 def nach_tagen(messungen: list[dict], ereignisse: list[dict]) -> dict[str, dict]:

@@ -79,6 +79,25 @@ class Ereignisse(unittest.TestCase):
             self.assertFalse(md.oeffentlich({"art": art}), art)
 
 
+class Fortschritt(unittest.TestCase):
+    def test_forschung_religion_auftraege_im_stand(self):
+        m = messung()
+        m["forschung"] = {"41": {"fertig": [37724], "laeuft": [37903], "warteschlange": []}}
+        m["religion"] = {"41": {"43594": 7}}
+        m["auftraege"] = [{"id": "40405-20", "auftrag": 40405, "vertrag": True, "gegenueber": 31103}]
+        m["inseln"][0]["religion"] = {"gott": 43594, "hingabe": 7.59}
+        kat = dict(KATALOG, forschungen={"37903": {"name": "Attraktive Märkte"}}, goetter={"43594": {"name": "Ceres"}},
+                   auftraege={"40405": {"name": "Auftrag: Verlorene Fracht von {ContractProviderName}"}})
+        s = md.stand(m, kat)
+        self.assertEqual(s["forschung"]["41"]["laeuft"], [37903])
+        self.assertEqual(s["inseln"][0]["religion"]["gott"], 43594)
+        self.assertEqual(s["auftraege"][0]["gegenueber"], 31103)
+        self.assertNotIn("id", s["auftraege"][0])
+        self.assertEqual(s["namen"]["forschungen"], {"37903": "Attraktive Märkte"})
+        self.assertEqual(s["namen"]["goetter"], {"43594": "Ceres"})
+        self.assertEqual(md.privat_funde(s), [])
+
+
 class Tage(unittest.TestCase):
     def test_tage_und_index(self):
         kurz = [{"mid": "a", "erfasst_um": "2026-11-05T15:30:00+01:00", "spielzeit_ms": 600_000},
