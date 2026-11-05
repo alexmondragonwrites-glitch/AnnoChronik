@@ -105,7 +105,7 @@ def bauen(quelle: dict, monitor: Path, module) -> tuple[str, dict[Path, bytes], 
                 umbenannt[alt] = neu
 
     tage = md.nach_tagen([md.kurz(k) for k in gueltig],
-                         [md.ereignis(e, umbenannt) for e in chronik if e.get("art") != "neuladen"])
+                         [md.ereignis(e, umbenannt) for e in chronik if md.oeffentlich(e)])
     eintrag = verzeichnis.lesen().get(wid) or {}
     ziel = ROOT / "saves" / quelle["save"] / "data" / "monitor"
     dateien: dict[Path, bytes] = {}

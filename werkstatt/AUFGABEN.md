@@ -16,10 +16,10 @@ _(leer)_
 
 - **Faktenblatt-Skript je Kapitel** (Claude): `werkstatt/erster-lauf/fakten/kapitel-N.md` aus dem Anno-Monitor für einen Spielzeitraum. Vor Kapitel I.
 - **Kapitel I** (Claude): nach dem ersten Einschnitt der Partie; den Einschnitt bestätigt der Spieler.
-- **Entscheidungen automatisch erfassen** (Claude, Probe): prüfen, ob der Spielstand oder der Live-Mod Titel, Wahlmöglichkeiten und Wahl von Ereignissen wie „Ein Libertus grüßt dich“ liefert (Lua: `CDecisionComponent`, `CGovernorDecisionManager`; Spielstand: Quest- und Entscheidungsdaten). Bis dahin über Bildschirmfotos des Spielers.
 - **Schrift Cinzel** (Claude, auf Wunsch): Capitalis für Titel statt Cormorant in Versalien; braucht einen Download mit Freigabe.
 
 ## Erledigt
 
 - **Steckbrief der Protagonistin** (Spieler, 5.11.2026): Dossier `lore/caesia-varilla.md`, Commit `6977952`.
 - **Erster Upload der Messdaten** (Claude, 5.11.2026): `0321ce3`, 8 Messungen bis 5:36 min Spielzeit.
+- **Entscheidungen, Erkundung, Inselnahmen automatisch** (Claude, 5.11.2026): im Anno-Monitor eingebaut (Spielstand, Spielprotokoll, Katalog Schema 2); die AnnoChronik übernimmt sie über `publish-monitor.py`, Ereignisfenster und Bildschirmfotos bleiben lokal.

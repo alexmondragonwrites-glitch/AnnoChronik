@@ -22,7 +22,7 @@ Hat eine Welt in `data/monitor-sources.json` noch keine `world_id`, sucht das Sk
 `saves/<welt>/data/monitor/`:
 
 - `index.json`: Weltkennung, Zahl der Messungen, verworfene Messungen und Neuladen (nur gezählt), Spielzeit von und bis, Aufnahmezeit von und bis, Liste der Tage.
-- `tag-JJJJ-MM-TT.json`: je Tag der Aufnahme die Kurzwerte jeder gültigen Messung (Spielzeit, Quelle, Geld, Bilanz je Minute, Bevölkerung gesamt und je Stufe, Bewohner je eigener Insel) und die Chronikzeilen des Monitors (neue Inseln und Stufen, Bevölkerungssprünge, Bedürfnisse, Betriebe, leere Lager).
+- `tag-JJJJ-MM-TT.json`: je Tag der Aufnahme die Kurzwerte jeder gültigen Messung (Spielzeit, Quelle, Geld, Bilanz je Minute, Bevölkerung gesamt und je Stufe, Bewohner je eigener Insel) und die Chronikzeilen des Monitors: neue Inseln und Stufen, Bevölkerungssprünge, Bedürfnisse, Betriebe, leere Lager. Seit 5.11.2026 kommen dazu Entscheidungen (`art: entscheidung`, mit `entscheidung` und `wahl` als GUID und `seit_ms`), Erkundung (`art: erkundung`, entdeckte Inseln je Provinz) und Inselnahmen von Spieler und Praetoren (`art: insel_besitz`, aus dem Spielprotokoll).
 - `stand.json`: der letzte Stand (Live, ergänzt um den letzten Spielstand, sonst der Spielstand): Geld und Kategorien, Bevölkerung, Attribute, Provinzen, je eigener Insel Stufen, Bedürfnisse, Lager (ohne Nullen), Betriebe und die letzte Spielstatistik, Rivalen; dazu die deutschen Namen der vorkommenden Stufen, Waren und Betriebe aus dem Spielkatalog.
 
 Abgeschlossene Tage bleiben byte-gleich und erscheinen in keinem weiteren Commit. Ein Neuladen im Spiel kann die Datei des laufenden Tages ändern, weil verworfene Messungen herausfallen.
@@ -32,6 +32,7 @@ Abgeschlossene Tage bleiben byte-gleich und erscheinen in keinem weiteren Commit
 - Pfade, Dateinamen der Spielstände, Prüfsummen, der Kontoordner und die Kontokennung des Spielers. `monitor_daten.privat_funde` und `validate-data.mjs` schlagen an, wenn doch etwas davon auftaucht.
 - Inseln anderer Teilnehmer und der Lagerverlauf der letzten 20 Minuten.
 - Verworfene Messungen nach einem Neuladen und die technischen Neuladen-Zeilen.
+- Ereignisfenster und Bildschirmfotos aus dem Spielprotokoll (`fenster`, `bildschirmfoto`): Sie datieren Entscheidungen im Monitor und bleiben lokal; die Bilder zeigen Spielgrafik.
 
 ## Bedeutung und Grenzen
 

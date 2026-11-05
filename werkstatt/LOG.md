@@ -2,6 +2,16 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-05 – Ereignisse automatisch aus dem Monitor (Claude)
+
+- Spieler: „können wir die ereignisse nicht irgenwie erfassen anders?“, danach „Ja, einbauen“.
+- Im Anno-Monitor:
+  - Entscheidungen aus dem Spielstand (QuestManager), mit Titel, Wahl, Kosten und Wirkung aus den Spieldaten;
+  - Erkundung (DiscoveryManager, entdeckte Inseln je Provinz);
+  - aus dem Spielprotokoll Inselnahmen von Spieler und Praetoren, Ereignisfenster (genaue Spielzeit der Entscheidung) und Bildschirmfotos.
+  - Am echten Lauf geprüft: Libertus (Vorrat gekauft), „Begegnung mit einem Rivalen“ (Tarragon, respektvoll gegrüßt), Latium bis 12 entdeckte Inseln, Inselnahmen von Tarragon (Hortia Poenitentium), Zara Nitu (Umbra) und Athr Iorgwyn (Werddon).
+- Hier: `publish-monitor.py` lässt Ereignisfenster und Bildschirmfotos weg (`monitor_daten.oeffentlich`), neue Felder in den Ereignissen; `docs/MONITOR.md`, `docs/ERSTER-LAUF.md`. Wirksam, sobald der Spieler den Monitor neu startet.
+
 ## 2026-11-05 – Erste Insel und erste Entscheidung im Register (Claude)
 
 - Hochgeladen auf Freigabe („Ja, hochladen“): `a6e5341` (Partie-Name, Korrektur im Steckbrief), `0321ce3` (erste Messdaten, 8 Messungen bis 5:36 min). „Datenqualität“ und Pages grün, live geprüft.

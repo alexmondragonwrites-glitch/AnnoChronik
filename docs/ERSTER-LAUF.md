@@ -52,9 +52,10 @@ Aufbau eines Kapitels: `<article class="ac-kapitel" id="kapitel-N" data-spielzei
 
 Wunsch des Spielers vom 5.11.2026 („nehmen wir sowas auch mit auf?“, zum Ereignis „Ein Libertus grüßt dich“): Ereignisse mit einer Entscheidung gehören in die Chronik.
 
-- Quelle sind die Bildschirmfotos des Spielers (je Ereignis eine Quellennummer); die Bilder bleiben beim Spieler, weil sie Spielgrafik zeigen. Der Spieltext wird zusammengefasst, nicht abgeschrieben; die Namen der Wahlmöglichkeiten dürfen stehen.
+- Seit 5.11.2026 erfasst der Anno-Monitor Entscheidungen selbst: Der Spielstand führt jede beendete Entscheidung mit der gewählten Folge, die Texte (Titel, Wahlmöglichkeiten, Kosten, Wirkung) kommen aus den Spieldaten, das Spielprotokoll gibt den Moment des Ereignisfensters. Die Chronikzeile steht in den Messdaten (`art: entscheidung`, Quelle Q3).
+- Bildschirmfotos aus dem Spiel (Taste im Spiel) ordnet der Monitor der Entscheidung zu; sie zeigen den Wortlaut und bleiben beim Spieler, weil sie Spielgrafik zeigen. Der Spieltext wird zusammengefasst, nicht abgeschrieben; die Namen der Wahlmöglichkeiten dürfen stehen.
 - Ins Register (`kind: fakt`, `category: entscheidung`): Anlass, die Wahlmöglichkeiten, die Wahl und ihr Ergebnis (Kosten, Waren, Ziel). Dazu die Spielzeit aus den Messungen davor und danach, wenn das Bild keine zeigt.
-- Die Folgen sieht der Monitor selbst (Geld, Lager, Betriebe); die Entscheidung selbst steht in seinen Daten nicht. In der Lua-Schnittstelle von 3.0 gibt es Bausteine für Entscheidungen (Kosten, Erfolgschance, Folgeentscheidungen), aber kein Ereignis „Entscheidung getroffen“; ob Live-Mod oder Spielstand Titel und Wahl liefern, ist offen (Aufgabe auf der Tafel).
+- Ebenso aus dem Monitor: Erkundung (entdeckte Inseln je Provinz) und Inselnahmen von Caesia und den Praetoren. Das Register übernimmt davon, was ein Kapitel braucht.
 - Im Tagebuch erzählt Caesia, wie sie entschieden hat und warum, in ihrer Stimme und nach ihrem Wesen. Nennt das Spiel sie dabei mit einem Titel (beim Libertus „Praetor“), hält die Chronik das als Anrede fest; ein Amt folgt daraus erst, wenn die Geschichte es ergibt.
 
 ## Das Tagebuch

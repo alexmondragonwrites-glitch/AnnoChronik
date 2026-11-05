@@ -67,6 +67,18 @@ class Datenschutz(unittest.TestCase):
         self.assertEqual(k, {"mid": "m1", "spielzeit_ms": 1})
 
 
+class Ereignisse(unittest.TestCase):
+    def test_entscheidung_und_lokales(self):
+        e = md.ereignis({"art": "entscheidung", "text": "Entscheidung „Ein Libertus grüßt dich“: Seinen Vorrat kaufen.",
+                         "entscheidung": 99153, "wahl": 99151, "seit_ms": 272400, "spielzeit_ms": 313000,
+                         "fenster_um": "2026-11-05T15:58:20+01:00", "gespeichert_um": "x"})
+        self.assertEqual((e["entscheidung"], e["wahl"], e["seit_ms"]), (99153, 99151, 272400))
+        self.assertNotIn("fenster_um", e)
+        self.assertTrue(md.oeffentlich({"art": "insel_besitz"}))
+        for art in ("fenster", "bildschirmfoto", "neuladen"):
+            self.assertFalse(md.oeffentlich({"art": art}), art)
+
+
 class Tage(unittest.TestCase):
     def test_tage_und_index(self):
         kurz = [{"mid": "a", "erfasst_um": "2026-11-05T15:30:00+01:00", "spielzeit_ms": 600_000},

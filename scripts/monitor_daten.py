@@ -23,7 +23,11 @@ PRIVAT = re.compile(
 
 KURZ_FELDER = ("mid", "quelle", "erfasst_um", "spielzeit_ms", "geld", "bilanz", "einnahmen", "ausgaben",
                "bevoelkerung", "je_stufe", "inseln")
-EREIGNIS_FELDER = ("mid", "art", "text", "spielzeit_ms", "erfasst_um", "quelle", "insel", "stufe", "ware", "betrieb")
+EREIGNIS_FELDER = ("mid", "art", "text", "spielzeit_ms", "erfasst_um", "quelle", "insel", "stufe", "ware", "betrieb",
+                   "entscheidung", "wahl", "seit_ms", "spielzeit_stand_ms", "erstmals", "teilnehmer", "vorher",
+                   "provinz", "anzahl", "neu")
+# Nur lokal im Monitor: technische Neuladen-Zeilen, Ereignisfenster (datieren Entscheidungen) und Bildschirmfotos
+LOKALE_ARTEN = {"neuladen", "verworfen", "fenster", "bildschirmfoto"}
 INSEL_FELDER = ("id", "name", "provinz", "bewohner", "haeuser", "grundsteuer", "stufen", "beduerfnisse", "betriebe",
                 "status", "aus_spielstand")
 RIVALEN_FELDER = ("id", "name", "attribute", "geld_je_minute", "hoechststand_je_stufe", "inseln")
@@ -53,6 +57,11 @@ def privat_funde(obj, pfad: str = "") -> list[str]:
 def kurz(k: dict) -> dict:
     """Kurzwerte einer Messung (Zeile aus messungen.jsonl des Monitors) ohne Dateinamen und Prüfsumme."""
     return {f: k[f] for f in KURZ_FELDER if k.get(f) is not None}
+
+
+def oeffentlich(e: dict) -> bool:
+    """Gehört diese Chronikzeile des Monitors auf die öffentliche Seite?"""
+    return e.get("art") not in LOKALE_ARTEN
 
 
 def ereignis(e: dict, umbenannt: dict | None = None) -> dict:
