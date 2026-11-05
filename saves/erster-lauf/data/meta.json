@@ -1,0 +1,28 @@
+{
+  "id": "erster-lauf",
+  "name": "Caesia Varilla",
+  "lauf": "Erster Lauf",
+  "game": "Anno 117: Pax Romana",
+  "status": "laufend",
+  "started": "2026-11-05",
+  "description": "Chronik des ersten Laufs, erzählt im Tagebuch von Caesia Varilla.",
+  "protagonistin": {
+    "name": "Caesia Varilla",
+    "kanon": "lore/caesia-varilla.md"
+  },
+  "profile": "Cassandra",
+  "game_version": "Update 3.0",
+  "difficulty": {
+    "preset": "Erfahren",
+    "baukostenerstattung": "Hälfte",
+    "startflotte": "Flaggschiff",
+    "fruchtbarkeiten_vorkommen": "Normal",
+    "zwischenfaelle": "Mittel"
+  },
+  "dlcs": ["Prophecies of Ash", "The Hippodrome", "Dawn of the Delta"],
+  "praetoren": ["Tarragon", "Athr Iorgwyn", "Zara Nitu"],
+  "monitor": {
+    "partie": "Cassandra",
+    "world_id": null
+  }
+}

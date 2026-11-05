@@ -1,0 +1,28 @@
+name: Datenqualität
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Skripte prüfen
+        run: |
+          node --check assets/chronik.js
+          node --check assets/portal.js
+          node --check scripts/validate-data.mjs
+          node --check scripts/new-save.mjs
+          python3 -m py_compile scripts/monitor_daten.py scripts/publish-monitor.py scripts/test-monitor-daten.py scripts/ornamente.py
+      - name: Daten prüfen
+        run: |
+          node scripts/validate-data.mjs
+          python3 scripts/test-monitor-daten.py
+      - name: Neue Partie anlegen testen
+        run: |
+          node scripts/new-save.mjs --id ci-test --name "Test-Partie" --partie "Test" --started 2026-11-05
+          node scripts/validate-data.mjs

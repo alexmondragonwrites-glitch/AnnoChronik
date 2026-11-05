@@ -1,0 +1,233 @@
+/* AnnoChronik · Erscheinungsbild „römisch“: Bauinschrift und Pergament.
+   Farben als Variablen, hell und dunkel; Schriften lokal (SIL OFL), keine fremden Server. */
+
+@font-face { font-family: "EB Garamond"; src: url("fonts/eb-garamond.woff2") format("woff2"); font-weight: 400 800; font-style: normal; font-display: swap; }
+@font-face { font-family: "EB Garamond"; src: url("fonts/eb-garamond-italic.woff2") format("woff2"); font-weight: 400 800; font-style: italic; font-display: swap; }
+@font-face { font-family: "Cormorant"; src: url("fonts/cormorant.woff2") format("woff2"); font-weight: 300 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Cormorant"; src: url("fonts/cormorant-italic.woff2") format("woff2"); font-weight: 300 700; font-style: italic; font-display: swap; }
+
+:root {
+  --ac-paper: #f3ead8;        /* Pergament */
+  --ac-paper-2: #faf5ea;      /* Bericht */
+  --ac-paper-3: #ead8b9;      /* Tagebuch */
+  --ac-ink: #2a2017;          /* Tinte, Sepia-Schwarz */
+  --ac-ink-soft: #5b4a39;
+  --ac-terra: #8f3f27;        /* Terrakotta: Kopf und Fuß */
+  --ac-terra-ink: #f8efe0;
+  --ac-purpur: #6a1d3a;       /* Tagebuch, Initialen */
+  --ac-bronze: #8a6a3a;       /* Linien, Rahmen, Ornamente */
+  --ac-bronze-text: #73562b;  /* Bronze für kleine Schrift (Kontrast AA) */
+  --ac-line: rgba(138, 106, 58, 0.45);
+  --ac-shadow: 0 1px 0 rgba(42, 32, 23, 0.06), 0 8px 24px -16px rgba(42, 32, 23, 0.35);
+  --ac-titel: "Cormorant", "EB Garamond", Georgia, serif;
+  --ac-text: "EB Garamond", Georgia, "Times New Roman", serif;
+  --ac-mass: 44rem;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ac-paper: #1c1916;      /* Basalt */
+    --ac-paper-2: #24201c;
+    --ac-paper-3: #2d2520;
+    --ac-ink: #eee3cf;        /* Elfenbein */
+    --ac-ink-soft: #c9b89d;
+    --ac-terra: #4a2418;
+    --ac-terra-ink: #f3e6d2;
+    --ac-purpur: #dc93ae;
+    --ac-bronze: #c29c62;
+    --ac-bronze-text: #cfab73;
+    --ac-line: rgba(194, 156, 98, 0.4);
+    --ac-shadow: 0 1px 0 rgba(0, 0, 0, 0.3), 0 10px 26px -18px rgba(0, 0, 0, 0.8);
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--ac-paper);
+  color: var(--ac-ink);
+  font: 400 1.125rem/1.62 var(--ac-text);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  overflow-wrap: break-word;
+}
+a { color: var(--ac-purpur); text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 2px solid var(--ac-purpur); outline-offset: 3px; }
+img { max-width: 100%; height: auto; }
+
+/* Ornamente als Masken, eingefärbt mit Bronze */
+.ac-maeander {
+  height: 10px;
+  background: var(--ac-bronze);
+  -webkit-mask: url("maeander.svg") repeat-x left center / 10px 10px;
+  mask: url("maeander.svg") repeat-x left center / 10px 10px;
+}
+.ac-lorbeer {
+  width: 9.5rem;
+  aspect-ratio: 200 / 112;
+  margin: 0 auto;
+  background: var(--ac-bronze);
+  -webkit-mask: url("lorbeer.svg") no-repeat center / contain;
+  mask: url("lorbeer.svg") no-repeat center / contain;
+}
+
+/* Kopf und Fuß */
+.ac-kopf { background: var(--ac-terra); color: var(--ac-terra-ink); }
+.ac-kopf-innen {
+  max-width: 64rem; margin: 0 auto; padding: 0.7rem 1rem;
+  display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; align-items: baseline; justify-content: space-between;
+}
+.ac-marke {
+  font: 600 1.05rem/1.2 var(--ac-titel); letter-spacing: 0.2em; text-transform: uppercase;
+  color: inherit; text-decoration: none;
+}
+.ac-kopf nav { display: flex; flex-wrap: wrap; gap: 0.2rem 1rem; font-size: 0.95rem; }
+.ac-kopf nav a { color: inherit; text-decoration: none; border-bottom: 1px solid transparent; }
+.ac-kopf nav a:hover { border-bottom-color: currentColor; }
+.ac-kopf .ac-maeander, .ac-fuss .ac-maeander { background: var(--ac-terra-ink); opacity: 0.55; }
+.ac-fuss { margin-top: 4rem; background: var(--ac-terra); color: var(--ac-terra-ink); font-size: 0.95rem; }
+.ac-fuss-innen { max-width: var(--ac-mass); margin: 0 auto; padding: 1.2rem 1rem 1.6rem; }
+.ac-fuss a { color: inherit; }
+.ac-fuss p { margin: 0.3rem 0; }
+
+/* Satzspiegel */
+main { max-width: var(--ac-mass); margin: 0 auto; padding: 0 1rem; }
+.ac-titelblatt { text-align: center; padding: 3.2rem 0 2.4rem; }
+.ac-titelblatt .ac-oben {
+  font: 500 0.95rem/1.3 var(--ac-titel); letter-spacing: 0.32em; text-transform: uppercase; color: var(--ac-bronze-text);
+  margin: 0 0 1rem;
+}
+.ac-titelblatt h1 {
+  font: 600 clamp(2.4rem, 8vw, 4.1rem)/1.02 var(--ac-titel);
+  letter-spacing: 0.14em; text-transform: uppercase; margin: 0.6rem 0 0.4rem;
+  font-variant-numeric: lining-nums;
+}
+.ac-titelblatt .ac-unter { font-style: italic; font-size: 1.25rem; color: var(--ac-ink-soft); margin: 0.2rem 0 1.4rem; }
+.ac-titelblatt .ac-zeile {
+  font: 500 0.92rem/1.5 var(--ac-titel); letter-spacing: 0.22em; text-transform: uppercase; color: var(--ac-bronze-text);
+  margin: 1.2rem 0 0;
+}
+.ac-titelblatt .ac-maeander { max-width: 16rem; margin: 1.4rem auto 0; }
+
+.ac-hinweis {
+  font-size: 0.98rem; color: var(--ac-ink-soft); text-align: center; font-style: italic; margin: 0 auto 2rem; max-width: 36rem;
+}
+
+/* Inhaltsverzeichnis */
+.ac-inhalt { border-top: 1px solid var(--ac-line); border-bottom: 1px solid var(--ac-line); padding: 1rem 0; margin: 0 0 2.5rem; }
+.ac-inhalt h2 { margin: 0 0 0.6rem; font: 600 0.95rem/1.3 var(--ac-titel); letter-spacing: 0.24em; text-transform: uppercase; color: var(--ac-bronze-text); text-align: center; }
+.ac-inhalt ol { list-style: none; margin: 0; padding: 0; columns: 2 14rem; column-gap: 2rem; }
+.ac-inhalt li { break-inside: avoid; padding: 0.15rem 0; }
+.ac-inhalt .ac-nr { display: inline-block; min-width: 2.4rem; font-family: var(--ac-titel); font-weight: 600; letter-spacing: 0.08em; color: var(--ac-bronze-text); font-variant-numeric: lining-nums; }
+
+/* Abschnitte */
+.ac-abschnitt { margin: 0 0 3rem; scroll-margin-top: 1rem; }
+.ac-abschnitt > h2 {
+  font: 600 clamp(1.5rem, 4.5vw, 2rem)/1.15 var(--ac-titel); letter-spacing: 0.12em; text-transform: uppercase;
+  text-align: center; margin: 0 0 0.5rem;
+}
+.ac-abschnitt > h2 .ac-nr { display: block; font-size: 0.8rem; letter-spacing: 0.34em; color: var(--ac-bronze-text); margin-bottom: 0.2rem; }
+.ac-abschnitt > .ac-maeander { max-width: 11rem; margin: 0 auto 1.6rem; }
+.ac-abschnitt h3 { font: 600 1.3rem/1.25 var(--ac-titel); letter-spacing: 0.04em; margin: 1.8rem 0 0.6rem; }
+.ac-schluss { text-align: center; color: var(--ac-bronze); margin: 1.6rem 0 0; font-size: 1.2rem; }
+
+/* Textarten */
+.ac-etikett {
+  display: inline-block; font: 600 0.74rem/1 var(--ac-titel); letter-spacing: 0.22em; text-transform: uppercase;
+  padding: 0.32rem 0.55rem 0.28rem; border: 1px solid currentColor; border-radius: 2px; margin: 0 0 0.8rem;
+}
+.ac-bericht {
+  background: var(--ac-paper-2); border-top: 3px double var(--ac-bronze); border-bottom: 3px double var(--ac-bronze);
+  padding: 1.2rem 1.3rem 1rem; margin: 1.4rem 0; box-shadow: var(--ac-shadow);
+}
+.ac-bericht .ac-etikett { color: var(--ac-bronze-text); }
+.ac-quelle { font-style: italic; font-size: 0.95rem; color: var(--ac-ink-soft); margin: 0.9rem 0 0; }
+.ac-kanon {
+  background: var(--ac-paper-2); border-top: 3px double var(--ac-purpur); border-bottom: 3px double var(--ac-purpur);
+  padding: 1.2rem 1.3rem 1rem; margin: 1.4rem 0; box-shadow: var(--ac-shadow);
+}
+.ac-kanon .ac-etikett { color: var(--ac-purpur); }
+.ac-kanon h3 { color: var(--ac-purpur); }
+.ac-tagebuch {
+  position: relative; background: var(--ac-paper-3); padding: 1.5rem 1.4rem 1.2rem; margin: 1.6rem 0;
+  border: 1px solid var(--ac-line); outline: 1px solid var(--ac-line); outline-offset: -7px;
+  text-align: justify; hyphens: auto; box-shadow: var(--ac-shadow);
+}
+.ac-tagebuch .ac-etikett { color: var(--ac-purpur); }
+.ac-tagebuch h3 { font-style: italic; font-weight: 500; letter-spacing: 0.02em; margin-top: 0.4rem; }
+.ac-tagebuch .ac-rand { float: right; margin: 0 0 0.4rem 1rem; font: italic 0.88rem/1.3 var(--ac-text); color: var(--ac-ink-soft); text-align: right; }
+.ac-tagebuch > p:first-of-type::first-letter {
+  float: left; font: 600 3.4rem/0.86 var(--ac-titel); color: var(--ac-purpur); padding: 0.28rem 0.5rem 0 0;
+}
+.ac-randnotiz { border-left: 3px solid var(--ac-bronze); padding: 0.2rem 0 0.2rem 1rem; margin: 1.2rem 0; font-style: italic; color: var(--ac-ink-soft); }
+.ac-randnotiz .ac-etikett { color: var(--ac-bronze-text); font-style: normal; }
+
+/* Steckbrief und Kennzahlen */
+.ac-steckbrief { display: grid; grid-template-columns: minmax(9rem, max-content) 1fr; gap: 0.35rem 1.2rem; margin: 0.4rem 0 0; }
+.ac-steckbrief dt { font: 600 0.82rem/1.6 var(--ac-titel); letter-spacing: 0.16em; text-transform: uppercase; color: var(--ac-bronze-text); padding-top: 0.15rem; }
+.ac-steckbrief dd { margin: 0; }
+.ac-steckbrief ul { margin: 0; padding-left: 1.1rem; }
+@media (max-width: 34rem) {
+  .ac-steckbrief { grid-template-columns: 1fr; gap: 0.1rem; }
+  .ac-steckbrief dd { margin-bottom: 0.6rem; }
+}
+.ac-kennzahlen { display: flex; flex-wrap: wrap; gap: 0.8rem; margin: 1rem 0; }
+.ac-kennzahl { flex: 1 1 9rem; border: 1px solid var(--ac-line); background: var(--ac-paper-2); padding: 0.7rem 0.9rem; }
+.ac-kennzahl b { display: block; font: 600 1.6rem/1.1 var(--ac-titel); font-variant-numeric: lining-nums tabular-nums; }
+.ac-kennzahl span { font-size: 0.9rem; color: var(--ac-ink-soft); }
+
+/* Register */
+.ac-tabelle-rahmen { overflow-x: auto; margin: 0.6rem 0; }
+table.ac-register { width: 100%; border-collapse: collapse; font-size: 1rem; }
+.ac-register th {
+  text-align: left; font: 600 0.78rem/1.3 var(--ac-titel); letter-spacing: 0.16em; text-transform: uppercase; color: var(--ac-bronze-text);
+  border-bottom: 2px solid var(--ac-bronze); padding: 0.4rem 0.5rem;
+}
+.ac-register td { border-bottom: 1px solid var(--ac-line); padding: 0.5rem; vertical-align: top; }
+.ac-register td.ac-zeit { white-space: nowrap; font-variant-numeric: lining-nums tabular-nums; }
+.ac-register .ac-art { font: 600 0.72rem/1 var(--ac-titel); letter-spacing: 0.16em; text-transform: uppercase; color: var(--ac-bronze-text); white-space: nowrap; }
+.ac-register .ac-leer { text-align: center; font-style: italic; color: var(--ac-ink-soft); }
+@media (max-width: 34rem) {
+  table.ac-register thead { display: none; }
+  .ac-register tr { display: block; border-bottom: 1px solid var(--ac-line); padding: 0.5rem 0; }
+  .ac-register td { display: block; border: 0; padding: 0.1rem 0; }
+}
+
+/* Quellen und Quellenmarken */
+a.ac-q {
+  font: 600 0.72rem/1 var(--ac-titel); letter-spacing: 0.08em; text-decoration: none; color: var(--ac-bronze-text);
+  border: 1px solid var(--ac-line); padding: 0.12rem 0.3rem; border-radius: 2px; vertical-align: 0.15em; font-variant-numeric: lining-nums;
+}
+a.ac-q:hover { border-color: var(--ac-bronze); }
+.ac-quellen { padding-left: 0; list-style: none; }
+.ac-quellen li { margin: 0 0 0.6rem; padding-left: 3rem; text-indent: -3rem; scroll-margin-top: 1rem; }
+.ac-quellen li b { display: inline-block; width: 3rem; text-indent: 0; font-family: var(--ac-titel); color: var(--ac-bronze-text); font-variant-numeric: lining-nums; }
+.ac-quellen li:target { background: var(--ac-paper-2); outline: 1px solid var(--ac-line); }
+
+/* Messdatenzeile */
+.ac-messdaten { font-size: 0.95rem; color: var(--ac-ink-soft); text-align: center; margin: -1rem 0 2.2rem; }
+
+/* Portal */
+.ac-welten { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1.2rem; margin: 0 0 2rem; }
+.ac-welt {
+  display: block; background: var(--ac-paper-2); border: 1px solid var(--ac-line); padding: 1.3rem 1.3rem 1.1rem;
+  color: inherit; text-decoration: none; box-shadow: var(--ac-shadow); transition: border-color 0.15s ease;
+}
+.ac-welt:hover { border-color: var(--ac-bronze); }
+.ac-welt h3 { font: 600 1.55rem/1.15 var(--ac-titel); letter-spacing: 0.12em; text-transform: uppercase; margin: 0.2rem 0 0.4rem; }
+.ac-welt .ac-status { font: 600 0.74rem/1 var(--ac-titel); letter-spacing: 0.2em; text-transform: uppercase; color: var(--ac-purpur); }
+.ac-welt p { margin: 0.4rem 0 0; }
+.ac-welt .ac-mehr { color: var(--ac-purpur); font-style: italic; margin-top: 0.8rem; }
+
+/* Versalzeilen mit Versalziffern; Mediävalziffern bleiben dem Lesetext. Am Ende, weil die
+   font-Kurzschreibweise oben die Ziffernart zurücksetzt. */
+.ac-titelblatt .ac-oben, .ac-titelblatt .ac-zeile, .ac-welt .ac-status, .ac-kopf .ac-marke, .ac-etikett,
+.ac-register th, .ac-steckbrief dt, .ac-abschnitt > h2, .ac-inhalt h2, .ac-titelblatt h1 { font-variant-numeric: lining-nums; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+@media print {
+  .ac-kopf, .ac-fuss { background: none; color: var(--ac-ink); }
+  .ac-bericht, .ac-tagebuch, .ac-welt { box-shadow: none; }
+}

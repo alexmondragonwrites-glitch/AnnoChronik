@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Caesia Varilla · Erster Lauf · AnnoChronik</title>
+<meta http-equiv="refresh" content="0; url=chronik.html">
+<link rel="canonical" href="chronik.html">
+<script>
+  fetch("data/manifest.json", { cache: "no-cache" })
+    .then(function (r) { return r.json(); })
+    .then(function (m) { location.replace(m.latestReport || "chronik.html"); })
+    .catch(function () { location.replace("chronik.html"); });
+</script>
+</head>
+<body>
+<p><a href="chronik.html">Zur Chronik „Caesia Varilla · Erster Lauf“</a></p>
+</body>
+</html>

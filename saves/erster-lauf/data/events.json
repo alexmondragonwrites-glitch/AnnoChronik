@@ -1,0 +1,13 @@
+[
+  {
+    "id": "erster-lauf-0001",
+    "spielzeit_ms": 0,
+    "game_time_label": "vor Spielbeginn",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "partie",
+    "title": "Neue Partie angelegt.",
+    "description": "Profil Cassandra, Schwierigkeit Erfahren, mit allen drei Erweiterungen; Praetoren Tarragon, Athr Iorgwyn und Zara Nitu.",
+    "source": "Q1"
+  }
+]
