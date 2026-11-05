@@ -32,5 +32,108 @@
     "title": "Bretter von einem Libertus gekauft.",
     "description": "Ein Freigelassener, beladen mit Brettern, grüßt Caesia. Zur Wahl standen: seine Waren beschlagnahmen, seinen Vorrat kaufen, ihm alles Gute wünschen. Gewählt wurde der Kauf: 400 Münzen für 20 Bretter nach Beneventum (Geld 17.411 vorher, 17.011 danach).",
     "source": "Q5, Q3"
+  },
+  {
+    "id": "erster-lauf-0004",
+    "spielzeit_ms": 278000,
+    "game_time_label": "0:03 bis 0:04 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 1,
+    "title": "Tarragon nimmt Hortia Poenitentium.",
+    "description": "Laut Spielprotokoll geht Hortia Poenitentium in Latium an Tarragon, zwischen den Messungen bei 3:38 und 4:38 min Spielzeit. Im Spielstand bei 16:32 min zählt Tarragon 12 Bewohner.",
+    "source": "Q6, Q3"
+  },
+  {
+    "id": "erster-lauf-0005",
+    "spielzeit_ms": 278000,
+    "game_time_label": "0:03 bis 0:04 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 1,
+    "title": "Zara Nitu nimmt Umbra.",
+    "description": "Laut Spielprotokoll geht Umbra in Latium gleich nach Hortia Poenitentium an Zara Nitu, zwischen den Messungen bei 3:38 und 4:38 min Spielzeit. Im Spielstand bei 16:32 min zählt Zara Nitu 143 Bewohner.",
+    "source": "Q6, Q3"
+  },
+  {
+    "id": "erster-lauf-0006",
+    "spielzeit_ms": 392000,
+    "game_time_label": "0:05 bis 0:06 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 1,
+    "title": "Athr Iorgwyn nimmt Werddon in Albion.",
+    "description": "Laut Spielprotokoll geht Werddon in der Provinz Albion an Athr Iorgwyn, zwischen den Messungen bei 5:36 und 6:32 min Spielzeit. Im Spielstand bei 16:32 min zählt Athr Iorgwyn 14 Bewohner.",
+    "source": "Q6, Q3"
+  },
+  {
+    "id": "erster-lauf-0007",
+    "spielzeit_ms": 336500,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 1,
+    "title": "Die ersten Bewohner: Liberti auf Beneventum.",
+    "description": "Der Monitor zählt die ersten Liberti auf Beneventum: 2,4 Bewohner. Bei 4:38 min standen dort 15 Wohnhäuser, alle noch leer. Bei 9:27 min wohnen 79 Liberti auf der Insel, bei 16:07 min 275.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0008",
+    "spielzeit_ms": 795000,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "stadtstatus",
+    "chapter": 1,
+    "title": "Beneventum ist ein Kleiner Vicus.",
+    "description": "Das Spiel führt Beneventum ab der Inselnahme als Außenposten (Stufe 1), zuletzt bei 12:15 min, und ab dieser Messung als Kleinen Vicus (Stufe 2). Auf der Insel wohnen dabei 205 Liberti.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0009",
+    "spielzeit_ms": 915500,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "geld",
+    "chapter": 1,
+    "title": "Die Bilanz steht im Plus.",
+    "description": "Von 2:38 bis 14:15 min Spielzeit lag die Bilanz im Minus, am tiefsten bei 12:15 min mit −213,86 je Minute; bei 15:15 min liegt sie bei +34. Die Kasse sank von 20.000 auf 13.320 Denare (Spielstand bei 16:32 min) und steht bei 19:33 min bei 13.536.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0010",
+    "spielzeit_ms": 967500,
+    "game_time_label": "0:15 bis 0:16 h",
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "entscheidung",
+    "chapter": 1,
+    "title": "Tarragon respektvoll gegrüßt.",
+    "description": "Ereignis „Begegnung mit einem Rivalen“ mit Tarragon. Zur Wahl standen: respektvoll grüßen, ihn für seine ärmliche Kleidung verspotten. Gewählt wurde der respektvolle Gruß. Das Ereignisfenster stand laut Spielprotokoll zwischen den Messungen bei 15:15 und 16:07 min offen; im Spielstand liest der Monitor die Entscheidung ab 21:44 min.",
+    "source": "Q3, Q6"
+  },
+  {
+    "id": "erster-lauf-0011",
+    "spielzeit_ms": 1173500,
+    "recorded": "2026-11-05",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 1,
+    "title": "Die ersten Plebejer.",
+    "description": "Auf Beneventum zählt der Monitor 10 Plebejer und 339 Liberti, zusammen 349 Bewohner; bei 18:33 min waren es 318 Liberti. Mit den ersten Plebejern schließt Kapitel I.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0012",
+    "spielzeit_ms": 1173500,
+    "recorded": "2026-11-05",
+    "kind": "rekonstruktion",
+    "category": "praetoren",
+    "chapter": 1,
+    "title": "Zara Nitu hatte Plebejer vor Caesia.",
+    "description": "Im Spielstand bei 13:56 min hat Zara Nitu schon Plebejer (bis zu 20), bei 16:32 min bis zu 50; auf Beneventum zählt der Monitor die ersten bei 19:33 min. Im Spielstand bei 16:32 min zählt Zara Nitu 143 Bewohner, Caesia 277.",
+    "source": "Q3"
   }
 ]

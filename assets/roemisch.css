@@ -221,6 +221,61 @@ a.ac-q:hover { border-color: var(--ac-bronze); }
 .ac-welt p { margin: 0.4rem 0 0; }
 .ac-welt .ac-mehr { color: var(--ac-purpur); font-style: italic; margin-top: 0.8rem; }
 
+/* Kapitel: Kopf, Zeitachse im Bericht, Einträge und Formen des Tagebuchs (seit Kapitel I) */
+.ac-inhalt .ac-inhalt-kapitel { columns: auto; margin: 0.1rem 0 0.15rem 2.4rem; font-size: 0.98rem; font-style: italic; }
+.ac-kapitel { margin: 2.8rem 0 0; scroll-margin-top: 1rem; }
+.ac-kapitel-kopf { text-align: center; margin: 0 0 1.2rem; }
+.ac-kapitel-kopf .ac-kapitel-nr {
+  margin: 0 0 0.35rem; font: 600 0.8rem/1.3 var(--ac-titel); letter-spacing: 0.34em; text-transform: uppercase;
+  color: var(--ac-bronze-text); font-variant-numeric: lining-nums;
+}
+.ac-abschnitt .ac-kapitel-kopf h3 {
+  margin: 0 0 0.5rem; font: 600 clamp(1.75rem, 6vw, 2.5rem)/1.08 var(--ac-titel); letter-spacing: 0.1em; text-transform: uppercase;
+  font-variant-numeric: lining-nums;
+}
+.ac-kapitel-kopf .ac-kapitel-zeit { margin: 0; font-style: italic; font-size: 1rem; color: var(--ac-ink-soft); }
+.ac-kapitel-kopf .ac-kapitel-einschnitt { margin: 0.25rem 0 0; font-size: 1rem; color: var(--ac-purpur); }
+.ac-kapitel-kopf .ac-maeander { max-width: 7rem; margin: 1rem auto 0; }
+
+.ac-kapitel .ac-kennzahl span { display: block; margin-top: 0.3rem; line-height: 1.4; }
+.ac-bericht h4 { margin: 1.2rem 0 0.5rem; font: 600 1.15rem/1.25 var(--ac-titel); letter-spacing: 0.04em; }
+.ac-zeitachse { list-style: none; margin: 0.4rem 0 1.3rem; padding: 0 0 0 0.3rem; }
+.ac-zeitachse li {
+  position: relative; display: grid; grid-template-columns: 9.4rem 1fr; column-gap: 0.4rem;
+  padding: 0.14rem 0 0.14rem 1.1rem; border-left: 2px solid var(--ac-line); line-height: 1.45;
+}
+.ac-zeitachse li::before {
+  content: ""; position: absolute; left: -5px; top: 0.62em; width: 8px; height: 8px; border-radius: 50%; background: var(--ac-bronze);
+}
+.ac-zeitachse .ac-zeitpunkt { padding-top: 0.08rem; font-size: 0.95rem; color: var(--ac-bronze-text); font-variant-numeric: lining-nums tabular-nums; }
+.ac-zeitachse .ac-einschnitt { font-weight: 600; }
+.ac-zeitachse .ac-einschnitt::before { background: var(--ac-purpur); }
+@media (max-width: 34rem) { .ac-zeitachse li { grid-template-columns: 1fr; padding-bottom: 0.3rem; } }
+
+.ac-tagebuch .ac-bezug { margin: 0 0 0.3rem; font-size: 0.95rem; font-style: italic; color: var(--ac-ink-soft); text-align: left; }
+.ac-eintrag { margin: 1.4rem 0 0; padding-top: 1.2rem; border-top: 1px solid var(--ac-line); }
+.ac-eintrag h4 { margin: 0 0 0.6rem; font: italic 500 1.3rem/1.25 var(--ac-titel); letter-spacing: 0.02em; }
+.ac-eintrag:not(.ac-eintrag--notiz):not(.ac-eintrag--rechnung) > p:first-of-type::first-letter {
+  float: left; font: 600 2.7rem/0.86 var(--ac-titel); color: var(--ac-purpur); padding: 0.22rem 0.45rem 0 0;
+}
+.ac-eintrag--notiz > p { font-style: italic; padding-left: 1rem; border-left: 1px solid var(--ac-line); }
+.ac-rechnung { min-width: min(100%, 22rem); border-collapse: collapse; margin: 0.2rem 0 0.9rem; text-align: left; font-variant-numeric: lining-nums tabular-nums; }
+.ac-rechnung caption { caption-side: top; text-align: left; font-style: italic; color: var(--ac-ink-soft); padding: 0 0 0.3rem; }
+.ac-rechnung td { padding: 0.15rem 0; border-bottom: 1px dotted var(--ac-line); vertical-align: bottom; }
+.ac-rechnung td + td { padding-left: 1.6rem; text-align: right; }
+.ac-rechnung .ac-summe td { border-top: 1px solid var(--ac-ink-soft); border-bottom: 0; font-weight: 600; }
+.ac-liste { list-style: none; margin: 0.3rem 0 0.9rem; padding: 0; text-align: left; }
+.ac-liste li { padding: 0.08rem 0 0.08rem 1.2rem; text-indent: -1.2rem; }
+.ac-liste li::before { content: "– "; color: var(--ac-bronze-text); }
+.ac-brief { margin: 0.4rem 0 0.2rem; padding: 0.1rem 0 0.1rem 1.1rem; border-left: 2px solid var(--ac-purpur); }
+.ac-brief .ac-anrede { font-style: italic; }
+.ac-brief .ac-gruss { text-align: right; font-style: italic; }
+
+@media (max-width: 34rem) { .ac-tagebuch { text-align: left; } }
+
+.ac-inselliste { list-style: none; margin: 0.4rem 0 0.8rem; padding: 0; }
+.ac-inselliste li { padding: 0.35rem 0; border-bottom: 1px solid var(--ac-line); }
+
 /* Versalzeilen mit Versalziffern; Mediävalziffern bleiben dem Lesetext. Am Ende, weil die
    font-Kurzschreibweise oben die Ziffernart zurücksetzt. */
 .ac-titelblatt .ac-oben, .ac-titelblatt .ac-zeile, .ac-welt .ac-status, .ac-kopf .ac-marke, .ac-etikett,
