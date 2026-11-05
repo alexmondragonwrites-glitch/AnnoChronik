@@ -2,6 +2,28 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-05 – Kapitel I „Zwanzig Bretter“ (Claude, Nebensitzung)
+
+- Auftrag über die Monitor-Sitzung: Kapitel I als Tagebuch der Protagonistin mit Bericht. Vorgeschlagen war als Einschnitt die erste Bevölkerungsstufe, die ersten Plebejer (19:33 min Spielzeit, Aufnahme 16:34), als Alternative das erste Heiligtum (38:35 min). Spieler: „Bei den Plebejern“.
+- Ohne Faktenblatt geschrieben (das Skript ist offen, `scripts/` lag bei der Monitor-Sitzung), direkt aus dem Anno-Monitor: Kurzwerte und Chronik der Welt, vollständige Messungen der Läufe ab 15:09 und 16:29, die Spielprotokolle vom 5.11. und das Bildschirmfoto vom Libertus. Welche Werte nur in den vollständigen Messungen stehen, sagt die Quellenzeile des Berichts.
+- `chronik.html`:
+  - Kapitel I mit Kopf, Bericht (Kennzahlen, Zeitachse, Quellen Q3, Q5 und neu Q6 Spielprotokoll), neun Tagebucheinträgen und Randnotiz „Abgeleitet“;
+  - „Inseln und Provinzen“ mit Beneventum, Hortia Poenitentium, Umbra und Werddon;
+  - Verweis auf das Kapitel im Inhalt.
+- Register `erster-lauf-0004` bis `-0012`: Inselnahmen der drei Praetoren, erste Liberti, Kleiner Vicus, Bilanz im Plus, Tarragon respektvoll gegrüßt, die ersten Plebejer; als Abgeleitet, dass Zara Nitu vor Caesia Plebejer hatte.
+- `roemisch.css` ergänzt: Kapitelkopf, Zeitachse, Einträge und Formen des Tagebuchs.
+- Geprüft:
+  - `validate-data.mjs` und `test-monitor-daten.py`;
+  - Wortprüfung (Verneinungen, KI-Wörter) ohne Fund im neuen Text;
+  - Browser bei 1280 und 375 px, hell und dunkel, ohne Konsolenfehler und ohne waagrechtes Scrollen.
+  - Beim Gegenlesen zwei Lagerangaben im Tagebuch an die Messungen angepasst (25 Bretter beim ersten Gang, 6 bei der Zählung mit dem Kleinen Vicus).
+- Hochgeladen auf Freigabe („Ja, hochladen“): `b3e3a10` (Messdaten, 72 Messungen bis 55:22 min, Skriptstand `067fbfb` der Monitor-Sitzung) und `21d4859` (Kapitel I). „Datenqualität“ für `21d4859` grün.
+- Für eine Prüfung durch Codex:
+  - Spielzeiten und Kurzwerte stehen in `saves/erster-lauf/data/monitor/tag-2026-11-05.json`.
+  - Status, Wohnhäuser, Lager, Betriebe am Stichtag, Geldposten und die Zahlen der Praetoren liegen nur in den vollständigen Messungen beim Spieler.
+  - Die Zeiten der Inselnahmen und Ereignisfenster kommen aus dem Spielprotokoll und sind zwischen die Messungen davor und danach eingeordnet.
+- Hinweis an die Monitor-Sitzung: Bei „Zwillinge in der Zwickmühle“ (47:25 bis 48:21 min) steht als Belohnung „1 71438“, der Name fehlt im Katalog.
+
 ## 2026-11-05 – Ereignisse automatisch aus dem Monitor (Claude)
 
 - Spieler: „können wir die ereignisse nicht irgenwie erfassen anders?“, danach „Ja, einbauen“.

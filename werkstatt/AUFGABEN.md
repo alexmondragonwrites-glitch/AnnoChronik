@@ -8,6 +8,8 @@ _(leer)_
 
 ## Zur Prüfung
 
+- **Kapitel I „Zwanzig Bretter“** (Claude, 5.11.2026): 0:00 bis 19:33 min Spielzeit, schließt mit den ersten Plebejern; Bericht, neun Tagebucheinträge, Randnotiz, Register `erster-lauf-0004` bis `-0012`, Quelle Q6. Online seit `21d4859`, Messdaten `b3e3a10`. Ohne Faktenblatt geschrieben, direkt aus dem Monitor (siehe `LOG.md`). Prüfen: Zahlen und Spielzeiten gegen die Messdaten, Textarten getrennt, Kanon (kein Amt, Offenes offen), Schreibweise.
+
 - **Gerüst der AnnoChronik** (Claude, 5.11.2026): Portal, Chronik „Caesia Varilla · Erster Lauf“, Design „römisch“, Register, Prüfskript, Action „Datenqualität“, Hochlade-Skript mit Datenschutzfilter, Werkstatt, Doku. Prüfen: Regeln in `docs/ERSTER-LAUF.md` gegen `BRIEFING.md` und `lore/caesia-varilla.md`.
 - **Caesia als Protagonistin** (Claude, 5.11.2026): Abschnitt „Die Protagonistin“ in `saves/erster-lauf/chronik.html` nach dem Dossier, offene Punkte unter „Offene Fragen“, Quelle Q4. Prüfen: nichts Offenes als Tatsache, kein Amt, Ton.
 - **Titel und Adresse** (Spieler): Die Chronik heißt „Caesia Varilla · Erster Lauf“ unter `saves/erster-lauf/`, online seit `caeddda`.
@@ -15,7 +17,7 @@ _(leer)_
 ## Offen
 
 - **Faktenblatt-Skript je Kapitel** (Claude): `werkstatt/erster-lauf/fakten/kapitel-N.md` aus dem Anno-Monitor für einen Spielzeitraum. Vor Kapitel I.
-- **Kapitel I** (Claude): nach dem ersten Einschnitt der Partie; den Einschnitt bestätigt der Spieler.
+- **Kapitel II** (Claude): ab 19:33 min bis zum nächsten Einschnitt, den der Spieler bestätigt; Stoff in `werkstatt/erster-lauf/STAND.md`.
 - **Schrift Cinzel** (Claude, auf Wunsch): Capitalis für Titel statt Cormorant in Versalien; braucht einen Download mit Freigabe.
 
 ## Erledigt
