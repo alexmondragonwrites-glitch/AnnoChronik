@@ -539,6 +539,124 @@
           "beschreibung": "Karte von Latium zum Ende von Kapitel V: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 24 von 26 Inseln."
         }
       ]
+    },
+    {
+      "id": "kapitel-6",
+      "kapitel": 6,
+      "titel": "Öl und Krüge",
+      "von_ms": 8769500,
+      "bis_ms": 11346000,
+      "spielstand_ms": 10864100,
+      "aufgenommen": "2026-11-06",
+      "karten": [
+        {
+          "provinz": "Latium",
+          "bild": "images/karte/kapitel-6.webp",
+          "klein": "images/karte/kapitel-6-klein.webp",
+          "breite": 2720,
+          "hoehe": 2720,
+          "klein_breite": 1400,
+          "klein_hoehe": 1400,
+          "caesia": [
+            "Beneventum",
+            "Olivaria"
+          ],
+          "praetoren": [
+            {
+              "name": "Hortia Poenitentium",
+              "von": "Tarragon"
+            },
+            {
+              "name": "Umbra",
+              "von": "Zara Nitu"
+            },
+            {
+              "name": "Zibanitu",
+              "von": "Zara Nitu"
+            }
+          ],
+          "dritte": [
+            {
+              "name": "Caeso Regulus Syracus",
+              "von": "Caeso Regulus Syracus"
+            },
+            {
+              "name": "Lilybaion",
+              "von": "Valeria"
+            },
+            {
+              "name": "Villa Augusta",
+              "von": "Diana"
+            }
+          ],
+          "frei": [
+            "Aegis",
+            "Alba Luna",
+            "Augustea",
+            "Capitoline",
+            "Capua Nova",
+            "Cinis",
+            "Confluenta",
+            "Fabula Togata",
+            "Florentia",
+            "Hestiacum",
+            "Omnia",
+            "Placentia",
+            "Pons Praetoria",
+            "Proventus",
+            "Tabula Raza",
+            "Vineta"
+          ],
+          "entdeckt": 24,
+          "inseln": 26,
+          "legende": [
+            {
+              "art": "besitz",
+              "text": "Caesia Varilla",
+              "farbe": "#6a1d3a"
+            },
+            {
+              "art": "besitz",
+              "text": "Tarragon",
+              "farbe": "#345482"
+            },
+            {
+              "art": "besitz",
+              "text": "Zara Nitu",
+              "farbe": "#3c6e46"
+            },
+            {
+              "art": "dritte",
+              "text": "Händler und Piraten"
+            },
+            {
+              "art": "haus",
+              "text": "Wohnhaus"
+            },
+            {
+              "art": "betrieb",
+              "text": "Betrieb, Lager"
+            },
+            {
+              "art": "strasse",
+              "text": "Straße"
+            },
+            {
+              "art": "fluss",
+              "text": "Fluss"
+            },
+            {
+              "art": "wald",
+              "text": "Wald"
+            },
+            {
+              "art": "unentdeckt",
+              "text": "noch nicht entdeckt"
+            }
+          ],
+          "beschreibung": "Karte von Latium zum Ende von Kapitel VI: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra und Zibanitu (Zara Nitu). Entdeckt sind 24 von 26 Inseln."
+        }
+      ]
     }
   ]
 }
