@@ -8,6 +8,8 @@ _(leer)_
 
 ## Zur Prüfung
 
+- **Kapitel III „Eisen und Segel“** (Claude, 6.11.2026): 47:25 bis 75:22 min Spielzeit, schließt mit der Kleinen Gemeinde; Bericht, acht Tagebucheinträge, Randnotiz, Register `erster-lauf-0025` bis `-0036`, Quelle Q8 (Feuer aus dem Spielstand und nach Angabe des Spielers), offene Frage zum Bevölkerungssprung bei 74:59 min. Erstes Kapitel nach `docs/SCHREIBSTIL.md`. Online seit `6695e44`, Messdaten `4d6145c`. Prüfen: Zahlen und Spielzeiten gegen Messdaten und Register, Feuer gegen den Spielstand, Kanon (Pirat ohne Bezug zum Vater, Entscheidung des Spielers), Schreibweise nach `SCHREIBSTIL.md`.
+
 - **Kapitel II „Brot und Ziegel“** (Claude, 5.11.2026): 19:33 bis 47:25 min Spielzeit, schließt mit dem Großen Vicus; Bericht, neun Tagebucheinträge, Randnotiz, Register `erster-lauf-0013` bis `-0024`, Quelle Q7 (nachgelesene Spielstände), offene Frage zu Zara Nitus Vertrag. Online seit `ef48cca`, Messdaten `e3214ee`. Ohne Faktenblatt geschrieben (siehe `LOG.md`). Prüfen: Zahlen und Spielzeiten gegen Messdaten und Register, Textarten getrennt, Kanon (kein Amt, Offenes offen, Erinnerung an das Feuer ohne neue Festlegung), Schreibweise.
 
 - **Spezialisten und Gegenstände aus dem Monitor** (Claude, 5.11.2026): `scripts/monitor_daten.py` übernimmt `items` in den Stand und die Chronikzeilen `art: item`; Namen, Seltenheit und Gebäude unter `namen`; Test und `docs/MONITOR.md`. Dazu Korrektur „1 71438“ → Gaius Julius Lupus in `chronik.html` und `werkstatt/erster-lauf/STAND.md`. Online seit `c778e0d`, Messdaten `e3214ee` (84 Messungen bis 1:04 h, noch ohne Items: Monitor vor dem Neustart). Prüfen: keine privaten Angaben im Stand, Wortlaut der Korrektur.
@@ -20,7 +22,8 @@ _(leer)_
 ## Offen
 
 - **Faktenblatt-Skript je Kapitel** (Claude): `werkstatt/erster-lauf/fakten/kapitel-N.md` aus dem Anno-Monitor für einen Spielzeitraum. Vor Kapitel I.
-- **Kapitel III** (Claude): ab 47:25 min bis zum nächsten Einschnitt, den der Spieler bestätigt; Stoff in `werkstatt/erster-lauf/STAND.md`.
+- **Kapitel IV** (Claude): ab 75:22 min bis zum nächsten Einschnitt, den der Spieler bestätigt; Stoff in `werkstatt/erster-lauf/STAND.md` (der Koch, Landeinheiten, Seife, Mars und Steinschleuderer).
+- **Kapitel I und II nach `SCHREIBSTIL.md`** (Claude, nur auf Freigabe des Spielers): Dort stehen noch Kontrastformeln und Schlusspointen (etwa „Stattdessen grüße ich sie höflich“); Überarbeitung nur, wenn der Spieler sie gesondert freigibt, mit Eintrag unter „Korrekturen“.
 - **Schrift Cinzel** (Claude, auf Wunsch): Capitalis für Titel statt Cormorant in Versalien; braucht einen Download mit Freigabe.
 
 ## Erledigt

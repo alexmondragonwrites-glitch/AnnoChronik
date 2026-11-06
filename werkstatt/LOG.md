@@ -2,6 +2,17 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-06 – Kapitel III „Eisen und Segel“ (Claude, Nebensitzung)
+
+- Spieler am Morgen: „haben sich neue geschichten ergeben?“. Er hatte von 5:42 bis 6:05 weitergespielt (64:55 bis 86:29 min, ohne Neuladen). Vorgeschlagen war als Einschnitt die Kleine Gemeinde (75:22 min, Aufnahme 6.11. 5:54); Spieler: „ja und achte dann auf unseren neuen schreibregeln SCHREIBSTIL.md“ (`docs/SCHREIBSTIL.md`, `68b2181`).
+- Auf Nachfrage entschieden: Beim Piraten Caeso Regulus Syracus denkt Caesia nicht an ihren Vater (Vermutung bleibt unberührt); das Feuer hat es gegeben. Die Monitor-Sitzung fand es danach im Spielstand; selbst nachgelesen in Autosave 14 bis 16: ausgebrochen bei 71:07 min, gelöscht bis 74:53 min von den Vigiles, sechs Liberti- und zwei Plebejer-Wohnhäuser betroffen, bisher der einzige Zwischenfall. Die zweite Stadtwache (73:34 min) entstand noch während des Feuers.
+- `chronik.html`: Kapitel III mit Bericht (Kennzahlen, Zeitachse, Quellen Q3, Q6, neu Q8), acht Tagebucheinträgen und Randnotiz; Verweis im Inhalt; offene Frage zum Bevölkerungssprung (74:35 bis 74:59 min um 161 bei gleich vielen Häusern).
+- Schreibweise nach `SCHREIBSTIL.md`: ruhige, verbundene Sätze, keine Schlusspointen, weniger Rechnungen und Zahlen als in I und II, eine beiläufige Erinnerung an Rom. Die Einträge am Stück gelesen; einen abgehackten Einzelsatz in „Eisen“ verbunden. Kapitel I und II enthalten noch Muster, die die Regel meint; sie bleiben bis zu einer Freigabe des Spielers (Tafel unter „Offen“).
+- Register `erster-lauf-0025` bis `-0036`: Leder und Sandalen, „Der verrückte Koch“ (Auftraggeber der Libertus aus Kapitel I), Segel und Hafengebäude, erste abgeschlossene Forschung, mehr Plebejer als Liberti, Tarragons Kisten, Eisen und Waffen, der Pirat, das Feuer, Essenzialistin und Pallas oleum, Kleine Gemeinde; als Abgeleitet Bevölkerung fast verdoppelt und neun Waffen ausgegeben.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Wortprüfung und Kontrastmuster ohne Fund im neuen Text, Browser bei 1280 und 375 px, hell und dunkel.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `818b436` (Zwischenfälle im Messdaten-Skript, Monitor-Sitzung; mit Zustimmung des Spielers mitgenommen), `4d6145c` (Messdaten, 113 Messungen bis 86:29 min, neue Tagesdatei 6.11.) und `6695e44` (Kapitel III).
+- Für eine Prüfung durch Codex: Die Feuerdaten stehen erst nach dem nächsten Neustart des Monitors in den Messdaten; bis dahin belegt sie Q8 (nachgelesener Autosave). Status, Wohnhäuser, Geldposten, Attribute, Lager und Praetoren liegen nur in den vollständigen Messungen.
+
 ## 2026-11-05 – Kapitel II „Brot und Ziegel“ (Claude, Nebensitzung)
 
 - Spieler: „ich denke wir haben genug für ein kapitel 2 🙂 oder?“. Vorgeschlagen war als Einschnitt der nächste Stadtstatus, der Große Vicus (47:25 min Spielzeit, Aufnahme 17:20), als Alternative das erste Heiligtum (38:35 min). Spieler: „Beim Großen Vicus“, danach „Ja, hochladen“.
