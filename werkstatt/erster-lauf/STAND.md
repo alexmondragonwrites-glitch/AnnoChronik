@@ -78,6 +78,7 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
 - Messdaten am 6.11. neu erzeugt (`publish-monitor.py --no-push`): 213 Messungen bis 165:38 min, Aufnahme bis 11:28, ohne Neuladen. Online bis zum nächsten Upload `9f866e3` (160 Messungen bis 125:17 min). Die Chronikzeile der Unruhen nennt dort 120:12 min als Ausbruch (siehe Kapitel V). Der Monitor läuft seit 6.11. 7:59 mit Zwischenfällen (Zähler bei 91:41 min: 1).
 - Häuser: Live (`stufen.*.haeuser`) und Spielstand weichen teils ab; die Berichte nennen Wohnhäuser nach der Live-Messung.
 - Rivalen: „Bewohner“ der Praetoren ist ihr Attribut Bevölkerung im Spielstand; jeder hat bisher eine Insel.
+- Karte (seit 6.11.2026, `saves/erster-lauf/karte.html`): Kartenstände I–V nach den Spielständen bei 16:32, 43:47, 74:59, 125:17 und 140:26 min. Nach jedem Kapitel im Anno-Monitor `py -3 karte.py --save erster-lauf` laufen lassen. Umbenennungen trägst du vorher in `data/karte.json` ein (siehe `docs/KARTE.md`). Die Spielstände liegen lokal in `Anno-Monitor/_sicherung/`. Agathea heißt seit der Inselnahme durch Zara Nitu Zibanitu; das kommt aus dem Spielstand, eine Umbenennung des Spielers ist es nicht.
 
 ## Tagebuch
 

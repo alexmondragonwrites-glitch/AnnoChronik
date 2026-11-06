@@ -126,6 +126,23 @@ AnnoChronik/
 4. Lokal prüfen (Browser, Handy, dunkel), dann Freigabe für den ersten Push. Danach schaltet der Spieler Pages ein: Repo-Einstellungen → Pages → „Deploy from a branch“, `main`, `/`.
 5. Kapitel I entsteht nach dem ersten Einschnitt und dem Steckbrief der Protagonistin.
 
+## Karte (Spieler, 6.11.2026)
+
+Wunsch des Spielers: „gibs auch wieder die möglichkeit ener karte? wie brauchen es nicht so auffwendig wie in tf3 aber hübsch sollte sie trtzdem sein eher so wie iene landkkarte“. Darauf eine Probekarte von Latium aus dem Spielstand bei 163:52 min; den Vorschlag hat der Spieler am 6.11.2026 freigegeben („Ja, so bauen“).
+
+- Eigene Kartenseite `saves/erster-lauf/karte.html` mit einem Kartenstand je Kapitel. Knöpfe wählen das Kapitel, ein Klick öffnet die Karte in voller Größe. Kein 3D, keine Kacheln: je Kapitel ein Bild.
+- Je Kapitel der letzte Spielstand vor dem Einschnitt; die Kartusche nennt dessen Spielzeit und den Tag der Aufnahme.
+- Gezeichnet im Stil der Chronik:
+  - Pergament, Wasserlinien an den Küsten, Schummerung, Wald als Baumkronen, Flüsse;
+  - Straßen rot wie auf der Tabula Peutingeriana, Häuser und Betriebe als kleine Blöcke;
+  - Besitz als Grenzkolorit, Caesia in Purpur, die Praetoren in eigenen Farben;
+  - unentdeckte Inseln nur gepunktet umrissen, ohne Namen;
+  - Kartusche, Windrose, Maßstab in Feldern.
+- Namen wie im Spiel; Umbenennungen des Spielers gelten ab ihrem Zeitpunkt (Lorica, ab 126:05 min Olivaria).
+- Quellen: Lage, Bauten, Straßen, Besitz und Entdeckung aus dem Spielstand; Küsten, Höhen, Flüsse und Wald aus den Inseldateien des Spiels. Veröffentlicht wird nur die eigene Zeichnung, keine Spielgrafik; die Inseldaten bleiben lokal beim Anno-Monitor.
+- Weitere Provinzen kommen dazu, sobald Caesia dort etwas entdeckt (Albion: bis 165:38 min nichts entdeckt).
+- Werkzeug `karte.py` im Anno-Monitor, Doku in `docs/KARTE.md`; hochladen nur mit Freigabe.
+
 ## Offen
 
 - Steckbrief der Protagonistin (Spieler).

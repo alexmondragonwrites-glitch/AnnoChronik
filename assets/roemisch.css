@@ -285,6 +285,48 @@ a.ac-q:hover { border-color: var(--ac-bronze); }
 .ac-inselliste { list-style: none; margin: 0.4rem 0 0.8rem; padding: 0; }
 .ac-inselliste li { padding: 0.35rem 0; border-bottom: 1px solid var(--ac-line); }
 
+/* Karte (karte.html): Kapitelwahl und Kartenstände, breiter als der Satzspiegel. Die Karte selbst bleibt Pergament, auch im Dunkelmodus. */
+.ac-karte-buehne { width: min(76rem, calc(100vw - 2rem)); margin: 0 0 3rem 50%; transform: translateX(-50%); }
+.ac-karte-wahl { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; margin: 0 0 1.2rem; }
+.ac-karte-wahl a {
+  min-width: 2.9rem; padding: 0.42rem 0.75rem 0.32rem; text-align: center; text-decoration: none;
+  font: 600 1rem/1.2 var(--ac-titel); letter-spacing: 0.1em; font-variant-numeric: lining-nums;
+  color: var(--ac-ink); background: var(--ac-paper-2); border: 1px solid var(--ac-line); border-radius: 2px;
+}
+.ac-karte-wahl a:hover { border-color: var(--ac-bronze); }
+.ac-karte-wahl a[aria-current="true"] { background: var(--ac-purpur); border-color: var(--ac-purpur); color: var(--ac-paper-2); }
+.ac-karte-stand { margin: 0 0 2.5rem; scroll-margin-top: 1rem; }
+.ac-karte-js .ac-karte-stand:not(.ist-aktiv) { display: none; }
+.ac-karte-bild { display: block; padding: 0.4rem; background: #f1e6cc; border: 1px solid var(--ac-bronze); box-shadow: var(--ac-shadow); }
+.ac-karte-bild + .ac-karte-bild { margin-top: 1rem; }
+.ac-karte-bild img { display: block; width: 100%; height: auto; }
+.ac-karte-stand figcaption { max-width: var(--ac-mass); margin: 1rem auto 0; text-align: center; }
+.ac-karte-stand figcaption p { margin: 0.3rem 0; }
+.ac-karte-titel { font: 600 1.35rem/1.3 var(--ac-titel); letter-spacing: 0.06em; }
+.ac-karte-titel .ac-kapitel-nr {
+  display: block; font: 600 0.8rem/1.3 var(--ac-titel); letter-spacing: 0.34em; text-transform: uppercase;
+  color: var(--ac-bronze-text); font-variant-numeric: lining-nums;
+}
+.ac-karte-zeit { font-size: 0.98rem; font-style: italic; color: var(--ac-ink-soft); }
+.ac-karte-links { font-size: 0.98rem; }
+.ac-zeichen { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 0.45rem 1.4rem; }
+.ac-zeichen li { display: flex; align-items: center; gap: 0.7rem; line-height: 1.35; }
+.ac-z {
+  flex: none; width: 2.2rem; height: 1.2rem; border-radius: 2px;
+  background-color: #f1e6cc; background-repeat: no-repeat; background-position: center; outline: 1px solid var(--ac-line);
+}
+.ac-z-caesia { background-image: linear-gradient(rgba(106, 29, 58, 0.3), rgba(106, 29, 58, 0.3)); box-shadow: inset 0 0 0 2px #6a1d3a; }
+.ac-z-tarragon { background-image: linear-gradient(rgba(52, 84, 130, 0.3), rgba(52, 84, 130, 0.3)); box-shadow: inset 0 0 0 2px #345482; }
+.ac-z-zara { background-image: linear-gradient(rgba(60, 110, 70, 0.3), rgba(60, 110, 70, 0.3)); box-shadow: inset 0 0 0 2px #3c6e46; }
+.ac-z-athr { background-image: linear-gradient(rgba(150, 110, 40, 0.3), rgba(150, 110, 40, 0.3)); box-shadow: inset 0 0 0 2px #966e28; }
+.ac-z-dritte { background-image: linear-gradient(#78643c, #78643c); background-size: 0.5rem 0.5rem; }
+.ac-z-haus { background-image: linear-gradient(#6a1d3a, #6a1d3a); background-size: 0.5rem 0.5rem; }
+.ac-z-betrieb { background-image: linear-gradient(#3c2418, #3c2418); background-size: 0.62rem 0.62rem; }
+.ac-z-strasse { background-image: linear-gradient(#8f3f27, #8f3f27); background-size: 80% 2px; }
+.ac-z-fluss { background-image: linear-gradient(#466e8c, #466e8c); background-size: 80% 4px; }
+.ac-z-wald { background-image: radial-gradient(circle, #707c4e 0 0.24rem, #424830 0.25rem 0.3rem, transparent 0.31rem); background-size: 0.7rem 0.7rem; background-repeat: repeat-x; background-position: 0.05rem center; }
+.ac-z-unentdeckt { box-shadow: inset 0 0 0 3px #f1e6cc; border: 2px dotted #5b4a39; border-radius: 50%; }
+
 /* Versalzeilen mit Versalziffern; Mediävalziffern bleiben dem Lesetext. Am Ende, weil die
    font-Kurzschreibweise oben die Ziffernart zurücksetzt. */
 .ac-titelblatt .ac-oben, .ac-titelblatt .ac-zeile, .ac-welt .ac-status, .ac-kopf .ac-marke, .ac-etikett,

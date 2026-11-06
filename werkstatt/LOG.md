@@ -2,6 +2,25 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-06 – Karte von Latium (Claude)
+
+- Spieler: „gibs auch wieder die möglichkeit ener karte? wie brauchen es nicht so auffwendig wie in tf3 aber hübsch sollte sie trtzdem sein eher so wie iene landkkarte“. Probekarte vorgelegt, Vorschlag freigegeben: „Ja, so bauen“ (`BRIEFING.md`, Abschnitt Karte).
+- Neu:
+  - `saves/erster-lauf/karte.html` mit Kapitelwahl (`assets/karte.js`), Zeichen und „Wie die Karte entsteht“;
+  - `data/karte.json`, Bilder in `images/karte/` (je Kapitel etwa 0,6 bis 0,7 MB in voller Größe und 0,15 MB für die Seite);
+  - Doku `docs/KARTE.md`, Zeile und Kapitelschritt in `docs/ERSTER-LAUF.md`, Link „Karte“ im Kopf von `chronik.html`.
+  - Das Werkzeug `karte.py` liegt im Anno-Monitor, nicht im Repo.
+- Kartenstände I–V nach den Spielständen bei 16:32, 43:47, 74:59, 125:17 und 140:26 min. Für Kapitel IV der Session Backup genau am Einschnitt, gesichert aus der Nebensitzung von Kapitel V.
+- Befunde:
+  - Inselnamen ändern sich mit der Inselnahme: Agathea (140:26 min, ohne Besitzer) heißt ab 155:55 min Zibanitu (Zara Nitu). Die Karte von Kapitel V zeigt deshalb Agathea.
+  - Olivaria steht als Umbenennung in `karte.json` (ab 126:05 min), weil der Spielstand weiter Lorica führt.
+- `validate-data.mjs` prüft jetzt auch die Karte (Bilder vorhanden und höchstens 3 MB, Spielstand im Kapitel, Seite aktuell, keine Kontokennung in Bildern); die Action prüft `assets/karte.js`.
+- Geprüft:
+  - `validate-data.mjs` (auch mit einem fehlenden Bild als Gegenprobe) und `test-monitor-daten.py`;
+  - im Anno-Monitor `test_karte.py`, 8 Tests;
+  - Browser: Kapitelwahl, Link aus der Chronik, volle Größe, 375 px ohne waagrechtes Scrollen, dunkel, keine Konsolenfehler.
+- Nicht hochgeladen; wartet auf Freigabe.
+
 ## 2026-11-06 – Kapitel V „Olivaria“ (Claude, Nebensitzung)
 
 - Inselname: Der Spieler wollte Lorica wegen Harz und Oliven umbenennen und wählte aus fünf Vorschlägen (Olivetum, Olivaria, Olea, Pinetum, Resina) „Olivaria denke ich“. Eingetragen in `werkstatt/erster-lauf/STAND.md`, hochgeladen auf Freigabe als `89f7593` (dabei die Uhrzeit im Kopf des Stands berichtigt). Im Spiel umbenannt zu Beginn der nächsten Sitzung, live ab 126:05 min.

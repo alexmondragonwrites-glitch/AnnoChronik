@@ -15,6 +15,7 @@ jobs:
         run: |
           node --check assets/chronik.js
           node --check assets/portal.js
+          node --check assets/karte.js
           node --check scripts/validate-data.mjs
           node --check scripts/new-save.mjs
           python3 -m py_compile scripts/monitor_daten.py scripts/publish-monitor.py scripts/test-monitor-daten.py scripts/ornamente.py

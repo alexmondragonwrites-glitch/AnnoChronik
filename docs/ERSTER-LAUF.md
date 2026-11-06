@@ -13,6 +13,7 @@ Erste Partie der AnnoChronik, angelegt am 5.11.2026 mit Update 3.0 und allen dre
 | `saves/erster-lauf/data/manifest.json` | `latestReport` (Seite der Chronik) und `monitor` (Messdaten). |
 | `saves/erster-lauf/data/monitor/` | Messdaten aus dem Anno-Monitor, geschrieben von `scripts/publish-monitor.py`. Nicht von Hand ändern. |
 | `werkstatt/erster-lauf/fakten/kapitel-N.md` | Faktenblatt je Kapitel aus dem Monitor. Nicht von Hand ändern. |
+| `saves/erster-lauf/karte.html`, `data/karte.json`, `images/karte/` | Karte von Latium, je Kapitel ein Stand, gezeichnet von `karte.py` im Anno-Monitor (siehe `docs/KARTE.md`). Den Block in `karte.html` und die Bilder nicht von Hand ändern; Umbenennungen in `karte.json` von Hand. |
 
 ## Caesia Varilla und ihr Kanon
 
@@ -47,6 +48,7 @@ Aufbau eines Kapitels: `<article class="ac-kapitel" id="kapitel-N" data-spielzei
 3. Tagebuch (`div.ac-tagebuch`, Etikett „Tagebuch“): Caesias Einträge, je Eintrag eine Überschrift aus dem Geschehen und die Spielzeit klein am Rand (`span.ac-rand`). Jahreszahlen nur, wo der Kanon sie gibt (117 n. Chr. zu Beginn); erfundene Tageszählungen gibt es keine.
 4. Abgeleitetes als Randnotiz (`p.ac-randnotiz`, Etikett „Abgeleitet“).
 5. Registereinträge in `data/events.json` für das Belegte und Abgeleitete des Kapitels.
+6. Kartenstand: im Anno-Monitor `py -3 karte.py --save erster-lauf`, nachdem das Kapitel mit `data-spielzeit-bis` in der Chronik steht (siehe `docs/KARTE.md`).
 
 ## Ereignisse und Entscheidungen im Spiel
 

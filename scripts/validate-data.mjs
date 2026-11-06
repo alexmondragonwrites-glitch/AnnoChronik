@@ -98,6 +98,40 @@ for (const id of ids) {
     if (e.correction && (!TAG.test(e.correction.date || "") || !e.correction.note)) meldung(wo, "correction braucht date und note");
   }
 
+  // Karte: je Kapitel ein Kartenstand (von Anno-Monitor/karte.py), Bilder unter images/karte/
+  const kartePfad = `${basis}/data/karte.json`;
+  const karte = existsSync(join(ROOT, kartePfad)) ? json(kartePfad) : null;
+  if (karte) {
+    if (karte.schema !== 1) meldung(kartePfad, "schema 1 erwartet");
+    for (const u of karte.umbenennungen || []) {
+      if (!Number.isInteger(u.bereich) || !u.name || !Number.isInteger(u.ab_ms)) meldung(kartePfad, "Umbenennung braucht bereich, name und ab_ms");
+    }
+    const kartenseite = existsSync(join(ROOT, basis, "karte.html")) ? lesen(`${basis}/karte.html`) : null;
+    if (!kartenseite) meldung(kartePfad, `${basis}/karte.html fehlt`);
+    const chronikSeite = existsSync(join(ROOT, basis, "chronik.html")) ? lesen(`${basis}/chronik.html`) : "";
+    for (const s of karte.staende || []) {
+      const wo = `${kartePfad} (${s.id})`;
+      if (!/^kapitel-\d+$/.test(s.id || "")) meldung(wo, "id im Format kapitel-N");
+      for (const f of ["von_ms", "bis_ms", "spielstand_ms"]) if (!Number.isInteger(s[f])) meldung(wo, `${f} fehlt`);
+      if (!(s.spielstand_ms > s.von_ms && s.spielstand_ms <= s.bis_ms)) meldung(wo, "der Spielstand liegt nicht im Kapitel");
+      if (!TAG.test(s.aufgenommen || "")) meldung(wo, "aufgenommen im Format JJJJ-MM-TT");
+      if (!chronikSeite.includes(`id="${s.id}"`)) meldung(wo, "Kapitel fehlt in chronik.html");
+      if (kartenseite && !kartenseite.includes(`id="${s.id}"`)) meldung(`${basis}/karte.html`, `Kartenstand ${s.id} fehlt; karte.py erneut laufen lassen`);
+      if (!Array.isArray(s.karten) || !s.karten.length) meldung(wo, "braucht mindestens eine Karte");
+      for (const k of s.karten || []) {
+        for (const bild of [k.bild, k.klein]) {
+          if (!/^images\/karte\/[a-z0-9-]+\.webp$/.test(bild || "")) {
+            meldung(wo, `Bildpfad ${bild} unerwartet`);
+            continue;
+          }
+          const voll = join(ROOT, basis, bild);
+          if (!existsSync(voll)) meldung(wo, `${bild} fehlt`);
+          else if (statSync(voll).size > 3 * 1024 * 1024) meldung(wo, `${bild} ist größer als 3 MB`);
+        }
+      }
+    }
+  }
+
   const index = manifest && manifest.monitor ? json(`${basis}/${manifest.monitor}`) : null;
   if (index) {
     const ordner = dirname(`${basis}/${manifest.monitor}`);
@@ -134,6 +168,10 @@ const MUSTERDATEIEN = new Set(["scripts/validate-data.mjs", "scripts/monitor_dat
 for (const d of alle.filter((d) => /\.(json|html|md|js|mjs|py|css|txt|yml)$/.test(d) && !MUSTERDATEIEN.has(d))) {
   const m = KONTO.exec(lesen(d));
   if (m) meldung(d, `enthält eine Kontokennung oder einen Kontoordner („${m[0]}“)`);
+}
+for (const d of alle.filter((d) => /^saves\/[^/]+\/images\/.+\.(webp|png|jpe?g)$/i.test(d))) {
+  const m = KONTO.exec(readFileSync(join(ROOT, d)).toString("latin1"));
+  if (m) meldung(d, `Bild enthält eine Kontokennung oder einen Kontoordner („${m[0]}“), etwa in den Metadaten`);
 }
 
 if (fehler.length) {
