@@ -1,9 +1,9 @@
 {
  "schema": 1,
- "mid": "20261106T085421-00160",
+ "mid": "20261106T112843-00213",
  "quelle": "spielstand",
- "erfasst_um": "2026-11-06T08:54:18+01:00",
- "spielzeit_ms": 7517000,
+ "erfasst_um": "2026-11-06T11:28:41+01:00",
+ "spielzeit_ms": 9938000,
  "welt": {
   "id": "anno117-1793890256",
   "name": "Caesia Varilla",
@@ -15,15 +15,15 @@
    67904
   ]
  },
- "geld": 152,
+ "geld": 19386,
  "geld_je_minute": {
-  "einnahmen": 2302.8218,
-  "ausgaben": 1563.0,
-  "bilanz": 739.8218,
+  "einnahmen": 3088.9846,
+  "ausgaben": 2096.0,
+  "bilanz": 992.9846,
   "kategorien": {
    "CityInstitutionBuildings": {
-    "ausgaben": 67.0,
-    "saldo": -67.0
+    "ausgaben": 113.0,
+    "saldo": -113.0
    },
    "CultureBuildings": {
     "ausgaben": 122.0,
@@ -34,28 +34,28 @@
     "saldo": -64.0
    },
    "InfrastructureBuildings": {
-    "ausgaben": 56.0,
-    "saldo": -56.0
+    "ausgaben": 91.0,
+    "saldo": -91.0
    },
    "ProductionBuildings": {
-    "ausgaben": 697.0,
-    "saldo": -697.0
+    "ausgaben": 1032.0,
+    "saldo": -1032.0
    },
    "PublicServiceBuildings": {
-    "ausgaben": 124.0,
-    "saldo": -124.0
+    "ausgaben": 172.0,
+    "saldo": -172.0
    },
    "Residences": {
-    "einnahmen": 1090.3218,
-    "saldo": 1090.3218
+    "einnahmen": 1612.9846,
+    "saldo": 1612.9846
    },
    "TradeShips": {
     "ausgaben": 18.0,
     "saldo": -18.0
    },
    "WarShips": {
-    "ausgaben": 37.0,
-    "saldo": -37.0
+    "ausgaben": 74.0,
+    "saldo": -74.0
    },
    "LandUnit": {
     "ausgaben": 49.0,
@@ -66,42 +66,42 @@
     "saldo": -300.0
    },
    "OtherAttribute": {
-    "einnahmen": 1212.5,
-    "saldo": 1212.5
+    "einnahmen": 1476.0,
+    "saldo": 1476.0
    },
    "MilitaryBuildings": {
-    "ausgaben": 29.0,
-    "saldo": -29.0
+    "ausgaben": 61.0,
+    "saldo": -61.0
    }
   }
  },
  "bevoelkerung": {
-  "gesamt": 1319,
+  "gesamt": 1849,
   "hoechststand_je_stufe": {
-   "1496": 599.8,
-   "1499": 721.0
+   "1496": 689.3,
+   "1499": 1161.2
   },
   "je_stufe": {
-   "1496": 578.0,
-   "1499": 668.0
+   "1496": 668.8,
+   "1499": 1091.2
   },
-  "summe_wohnhaeuser": 1246.0
+  "summe_wohnhaeuser": 1760.0
  },
  "attribute": {
-  "Population": 1319.0,
-  "Money": 2302.821,
-  "Happiness": 39.8148,
-  "Health": 197.0324,
-  "FireSafety": -356.2169,
-  "Belief": 395.3741,
-  "Knowledge": 1123.3728,
-  "Prestige": 645.3741
+  "Population": 1849.9844,
+  "Money": 3088.9912,
+  "Happiness": -16.9059,
+  "Health": 42.4227,
+  "FireSafety": -344.6366,
+  "Belief": 539.3547,
+  "Knowledge": 1658.0599,
+  "Prestige": 836.0637
  },
  "provinzen": [
   {
    "id": 3245,
    "name": "Latium",
-   "spielzeit_ms": 7516000
+   "spielzeit_ms": 9936600
   },
   {
    "id": 6627,
@@ -115,158 +115,158 @@
    "id": 8897,
    "name": "Beneventum",
    "provinz": 3245,
-   "bewohner": 1246.0,
-   "haeuser": 173,
+   "bewohner": 1398.0,
+   "haeuser": 203,
    "grundsteuer": 100,
    "stufen": {
     "1496": {
-     "bewohner": 578.0,
-     "haeuser": 53,
+     "bewohner": 579.8,
+     "haeuser": 54,
      "leer": 0,
-     "zufriedenheit": 0.8143
+     "zufriedenheit": 0.8046
     },
     "1499": {
-     "bewohner": 668.0,
-     "haeuser": 120,
+     "bewohner": 818.2,
+     "haeuser": 149,
      "leer": 0,
-     "zufriedenheit": 0.9268
+     "zufriedenheit": 0.9254
     }
    },
    "beduerfnisse": {
     "1496": {
      "2088": {
-      "haeuser": 53,
-      "unter_voll": 0,
+      "haeuser": 54,
+      "unter_voll": 54,
       "unter_halb": 0,
-      "erfuellung": 1.0,
-      "aktuell": 1.0
+      "erfuellung": 0.7733,
+      "aktuell": 0.7733
      },
      "2136": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2137": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2139": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2141": {
-      "haeuser": 53,
-      "unter_voll": 53,
+      "haeuser": 54,
+      "unter_voll": 0,
       "unter_halb": 0,
-      "erfuellung": 0.92,
-      "aktuell": 0.92
+      "erfuellung": 1.0,
+      "aktuell": 1.0
      },
      "2142": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2143": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2144": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2149": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0
      },
      "2671": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2677": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2679": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2680": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "31700": {
-      "haeuser": 53,
+      "haeuser": 54,
       "unter_voll": 0,
       "unter_halb": 0
      }
     },
     "1499": {
      "2088": {
-      "haeuser": 120,
-      "unter_voll": 0,
+      "haeuser": 149,
+      "unter_voll": 149,
       "unter_halb": 0,
-      "erfuellung": 1.0,
-      "aktuell": 1.0
+      "erfuellung": 0.7733,
+      "aktuell": 0.7733
      },
      "2136": {
-      "haeuser": 120,
+      "haeuser": 149,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2141": {
-      "haeuser": 120,
-      "unter_voll": 120,
+      "haeuser": 149,
+      "unter_voll": 0,
       "unter_halb": 0,
-      "erfuellung": 0.92,
-      "aktuell": 0.92
+      "erfuellung": 1.0,
+      "aktuell": 1.0
      },
      "2142": {
-      "haeuser": 120,
+      "haeuser": 149,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2671": {
-      "haeuser": 120,
+      "haeuser": 149,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
       "aktuell": 1.0
      },
      "2677": {
-      "haeuser": 120,
+      "haeuser": 149,
       "unter_voll": 0,
       "unter_halb": 0,
       "erfuellung": 1.0,
@@ -306,14 +306,14 @@
      "produktivitaet": 1.2
     },
     "31750": {
-     "anzahl": 5,
-     "laeuft": 5,
+     "anzahl": 7,
+     "laeuft": 7,
      "pausiert": 0,
      "produktivitaet": 1.0
     },
     "3187": {
-     "anzahl": 4,
-     "laeuft": 4,
+     "anzahl": 6,
+     "laeuft": 6,
      "pausiert": 0,
      "produktivitaet": 1.0
     },
@@ -336,8 +336,8 @@
      "produktivitaet": 1.0
     },
     "2880": {
-     "anzahl": 3,
-     "laeuft": 3,
+     "anzahl": 4,
+     "laeuft": 4,
      "pausiert": 0,
      "produktivitaet": 1.0
     },
@@ -366,8 +366,8 @@
      "produktivitaet": 1.2
     },
     "2957": {
-     "anzahl": 2,
-     "laeuft": 2,
+     "anzahl": 3,
+     "laeuft": 3,
      "pausiert": 0,
      "produktivitaet": 1.0
     },
@@ -384,14 +384,14 @@
      "produktivitaet": 1.0
     },
     "2793": {
-     "anzahl": 2,
-     "laeuft": 2,
+     "anzahl": 3,
+     "laeuft": 3,
      "pausiert": 0,
      "produktivitaet": 1.0
     },
     "2994": {
-     "anzahl": 2,
-     "laeuft": 2,
+     "anzahl": 3,
+     "laeuft": 3,
      "pausiert": 0,
      "produktivitaet": 1.0
     },
@@ -420,8 +420,8 @@
      "produktivitaet": 1.0
     },
     "3070": {
-     "anzahl": 1,
-     "laeuft": 1,
+     "anzahl": 2,
+     "laeuft": 2,
      "pausiert": 0,
      "produktivitaet": 1.0
     },
@@ -448,123 +448,422 @@
      "laeuft": 2,
      "pausiert": 0,
      "produktivitaet": 1.0
+    },
+    "13808": {
+     "anzahl": 1,
+     "laeuft": 1,
+     "pausiert": 0,
+     "produktivitaet": 1.0
     }
    },
    "religion": {
     "gott": 43594,
-    "hingabe": 395.9
+    "hingabe": 494.0
    },
    "zwischenfaelle": {
-    "anzahl": 1
+    "anzahl": 3
    },
    "lager": {
-    "2132": 6,
+    "2132": 12,
     "2069": 1,
-    "2136": 69,
-    "2137": 16,
-    "2073": 67,
-    "2139": 95,
-    "2141": 3,
-    "2077": 8,
-    "2142": 25,
-    "2143": 13,
-    "2144": 26,
-    "2080": 54,
-    "2085": 172,
-    "2088": 9,
-    "2089": 2,
-    "2090": 3,
-    "2110": 63,
-    "2115": 17,
-    "2119": 129,
+    "2136": 77,
+    "2137": 62,
+    "2073": 53,
+    "2139": 110,
+    "2141": 19,
+    "2077": 6,
+    "2142": 7,
+    "2143": 43,
+    "2144": 45,
+    "2080": 48,
+    "2085": 182,
+    "2088": 2,
+    "2090": 1,
+    "2110": 53,
+    "2115": 30,
+    "2119": 56,
     "2171": 12,
-    "2172": 22,
-    "2173": 38,
-    "2174": 68,
-    "2176": 34,
-    "31694": 27
+    "2172": 29,
+    "2173": 54,
+    "2174": 61,
+    "2176": 61,
+    "13810": 4,
+    "31694": 40
    },
    "statistik": {
-    "zeit_ms": 7201200,
+    "zeit_ms": 9601600,
     "erzeugung": {
+     "13810": 0.667,
      "2077": 6.0,
-     "2141": 4.0,
-     "2110": 2.0,
+     "2141": 6.0,
+     "2110": 3.0,
      "2174": 6.0,
-     "2136": 4.8,
      "2088": 4.0,
-     "2132": 2.0,
+     "2136": 4.8,
      "2068": 4.77,
-     "31694": 5.0,
-     "2137": 2.4,
+     "2132": 2.0,
+     "31694": 7.0,
      "2073": 6.0,
+     "2137": 2.4,
      "2142": 4.0,
      "2086": 2.0,
+     "2085": 8.0,
      "2149": 0.0,
-     "2085": 6.0,
      "2176": 2.0,
      "2069": 3.6,
      "2119": 3.6,
      "2089": 2.0,
-     "2090": 4.0,
+     "2090": 6.0,
      "2139": 2.0,
-     "2074": 4.0,
+     "2074": 6.0,
      "2071": 1.933,
      "2143": 2.0,
-     "2080": 2.0,
      "2144": 1.0,
+     "2080": 2.0,
      "2172": 0.667,
      "2171": 0.5,
-     "2115": 1.0,
+     "2115": 2.0,
      "2173": 0.667,
      "31700": 0.0
     },
     "verbrauch": {
+     "13810": 0.0,
      "2077": 6.0,
-     "2141": 4.307,
-     "2110": 1.0,
+     "2141": 5.104,
+     "2110": 1.667,
      "2174": 0.0,
-     "2136": 3.402,
-     "2088": 4.307,
-     "2132": 2.0,
+     "2088": 5.104,
+     "2136": 4.022,
      "2068": 4.8,
-     "31694": 4.5,
-     "2137": 1.287,
+     "2132": 2.0,
+     "31694": 6.5,
      "2073": 4.667,
-     "2142": 4.035,
+     "2137": 1.311,
+     "2142": 4.779,
      "2086": 2.0,
-     "2149": 0.585,
-     "2085": 3.833,
+     "2085": 4.833,
+     "2149": 0.596,
      "2176": 0.0,
      "2069": 3.6,
      "2119": 2.4,
      "2089": 2.0,
-     "2090": 4.0,
-     "2139": 0.692,
-     "2074": 4.0,
+     "2090": 5.0,
+     "2139": 0.705,
+     "2074": 5.0,
      "2071": 2.0,
-     "2143": 1.133,
-     "2080": 1.0,
-     "2144": 0.517,
+     "2143": 1.154,
+     "2144": 0.527,
+     "2080": 2.0,
      "2172": 0.0,
      "2171": 0.0,
-     "2115": 0.667,
+     "2115": 1.333,
      "2173": 0.0,
-     "31700": 0.954
+     "31700": 0.972
     }
    }
   },
   {
    "id": 9665,
-   "name": "Lorica",
+   "name": "Olivaria",
    "provinz": 3245,
+   "bewohner": 362.0,
+   "haeuser": 79,
    "grundsteuer": 100,
+   "stufen": {
+    "1496": {
+     "bewohner": 89.0,
+     "haeuser": 18,
+     "leer": 0,
+     "zufriedenheit": 0.4254
+    },
+    "1499": {
+     "bewohner": 273.0,
+     "haeuser": 61,
+     "leer": 0,
+     "zufriedenheit": 0.9243
+    }
+   },
+   "beduerfnisse": {
+    "1496": {
+     "2088": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2136": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2137": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0
+     },
+     "2139": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0
+     },
+     "2141": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2142": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2143": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0
+     },
+     "2144": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0
+     },
+     "2149": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0
+     },
+     "2671": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2677": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2679": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0
+     },
+     "2680": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0
+     },
+     "31700": {
+      "haeuser": 18,
+      "unter_voll": 0,
+      "unter_halb": 0
+     }
+    },
+    "1499": {
+     "2088": {
+      "haeuser": 61,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2136": {
+      "haeuser": 61,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2141": {
+      "haeuser": 61,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2142": {
+      "haeuser": 61,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2671": {
+      "haeuser": 61,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     },
+     "2677": {
+      "haeuser": 61,
+      "unter_voll": 0,
+      "unter_halb": 0,
+      "erfuellung": 1.0,
+      "aktuell": 1.0
+     }
+    }
+   },
+   "betriebe": {
+    "2878": {
+     "anzahl": 2,
+     "laeuft": 2,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "3089": {
+     "anzahl": 2,
+     "laeuft": 2,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "2955": {
+     "anzahl": 2,
+     "laeuft": 2,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "2200": {
+     "anzahl": 2,
+     "laeuft": 2,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "3171": {
+     "anzahl": 2,
+     "laeuft": 2,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "31750": {
+     "anzahl": 2,
+     "laeuft": 2,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "3187": {
+     "anzahl": 2,
+     "laeuft": 2,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "2786": {
+     "anzahl": 1,
+     "laeuft": 1,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "3188": {
+     "anzahl": 2,
+     "laeuft": 2,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "2970": {
+     "anzahl": 1,
+     "laeuft": 1,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "2880": {
+     "anzahl": 1,
+     "laeuft": 1,
+     "pausiert": 0,
+     "produktivitaet": 1.0
+    },
+    "3091": {
+     "anzahl": 2,
+     "laeuft": 2,
+     "pausiert": 0,
+     "produktivitaet": 0.87
+    },
+    "3075": {
+     "anzahl": 1,
+     "laeuft": 1,
+     "pausiert": 0,
+     "produktivitaet": 0.37
+    },
+    "2693": {
+     "anzahl": 3,
+     "laeuft": 3,
+     "pausiert": 0,
+     "produktivitaet": 0.5778
+    },
+    "3174": {
+     "anzahl": 1,
+     "laeuft": 0,
+     "pausiert": 0,
+     "produktivitaet": 0.0
+    }
+   },
    "zwischenfaelle": {
     "anzahl": 0
    },
    "lager": {
-    "2174": 60,
-    "2176": 50
+    "2136": 19,
+    "2073": 8,
+    "2141": 5,
+    "2077": 9,
+    "2142": 10,
+    "2085": 8,
+    "2086": 6,
+    "2088": 15,
+    "2119": 4,
+    "2174": 4,
+    "2176": 57,
+    "31694": 2
+   },
+   "statistik": {
+    "zeit_ms": 9601600,
+    "erzeugung": {
+     "2077": 4.0,
+     "2141": 2.0,
+     "2174": 4.0,
+     "2088": 2.0,
+     "2136": 2.0,
+     "2068": 2.0,
+     "31694": 2.0,
+     "2073": 2.0,
+     "2137": 0.0,
+     "2142": 2.0,
+     "2086": 2.0,
+     "2085": 2.0,
+     "2149": 0.0,
+     "2176": 2.0,
+     "2139": 0.0,
+     "2143": 0.0,
+     "2144": 0.0,
+     "31700": 0.0
+    },
+    "verbrauch": {
+     "2077": 4.0,
+     "2141": 1.601,
+     "2174": 0.0,
+     "2088": 1.601,
+     "2136": 1.259,
+     "2068": 2.0,
+     "31694": 2.0,
+     "2073": 2.0,
+     "2137": 0.34,
+     "2142": 1.498,
+     "2086": 2.0,
+     "2085": 1.0,
+     "2149": 0.154,
+     "2176": 0.0,
+     "2139": 0.183,
+     "2143": 0.299,
+     "2144": 0.137,
+     "31700": 0.252
+    }
    }
   }
  ],
@@ -573,23 +872,24 @@
    "id": 31100,
    "name": "Tarragon",
    "attribute": {
-    "Population": 159.0,
-    "Money": 200.0,
-    "Happiness": 64.0,
-    "Health": -12.0,
-    "FireSafety": -24.0,
-    "Prestige": 105.0
+    "Population": 193.475,
+    "Money": 290.0,
+    "Happiness": 75.475,
+    "Health": -9.0,
+    "FireSafety": -75.0,
+    "Knowledge": 3.0,
+    "Prestige": 123.0
    },
    "geld_je_minute": {
-    "einnahmen": 200.0,
-    "ausgaben": 456.0,
-    "bilanz": -256.0
+    "einnahmen": 290.0,
+    "ausgaben": 470.0,
+    "bilanz": -180.0
    },
    "hoechststand_je_stufe": {
-    "1496": 70.0,
+    "1496": 93.0,
     "1497": 0.0,
     "1498": 0.0,
-    "1499": 90.0
+    "1499": 110.0
    },
    "inseln": [
     8833
@@ -599,57 +899,59 @@
    "id": 31102,
    "name": "Athr Iorgwyn",
    "attribute": {
-    "Population": 365.96,
-    "Money": 521.92,
-    "Happiness": 448.3477,
-    "Health": 46.065,
-    "FireSafety": -65.0,
-    "Belief": 266.5285,
-    "Knowledge": 73.1053,
-    "Prestige": 197.0
+    "Population": 660.62,
+    "Money": 918.34,
+    "Happiness": 596.8748,
+    "Health": 15.0269,
+    "FireSafety": -134.0,
+    "Belief": 499.261,
+    "Knowledge": 194.8845,
+    "Prestige": 381.0
    },
    "geld_je_minute": {
-    "einnahmen": 521.92,
-    "ausgaben": 690.0,
-    "bilanz": -168.08
+    "einnahmen": 918.34,
+    "ausgaben": 1116.0,
+    "bilanz": -197.66
    },
    "hoechststand_je_stufe": {
-    "1500": 297.0,
-    "1501": 122.0,
-    "1502": 0.0,
+    "1500": 429.0,
+    "1501": 235.0,
+    "1502": 21.0,
     "1503": 0.0,
     "1504": 0.0
    },
    "inseln": [
-    8578
+    8578,
+    9026
    ]
   },
   {
    "id": 31103,
    "name": "Zara Nitu",
    "attribute": {
-    "Population": 915.5673,
-    "Money": 1370.0549,
-    "Happiness": 375.185,
-    "Health": -7.0,
-    "FireSafety": -341.3489,
-    "Belief": 485.3583,
-    "Knowledge": 421.3584,
-    "Prestige": 466.0
+    "Population": 1038.8295,
+    "Money": 1253.5055,
+    "Happiness": 338.5683,
+    "Health": 218.8254,
+    "FireSafety": -157.9251,
+    "Belief": 465.4894,
+    "Knowledge": 378.7521,
+    "Prestige": 557.5398
    },
    "geld_je_minute": {
-    "einnahmen": 1370.0649,
-    "ausgaben": 1385.0,
-    "bilanz": -14.9351
+    "einnahmen": 1253.5105,
+    "ausgaben": 1869.0,
+    "bilanz": -615.4895
    },
    "hoechststand_je_stufe": {
-    "1496": 554.0,
-    "1497": 0.0,
+    "1496": 662.0,
+    "1497": 120.0,
     "1498": 0.0,
-    "1499": 397.0
+    "1499": 531.0
    },
    "inseln": [
-    8961
+    8961,
+    9345
    ]
   }
  ],
@@ -664,21 +966,28 @@
     37724,
     37730,
     37731,
+    37737,
     37891,
     37903,
+    37914,
     38533,
+    38535,
+    38536,
+    38710,
+    81182,
+    81220,
     81222,
     94280
    ],
    "laeuft": [
-    38710
+    97103
    ],
    "warteschlange": [
-    37737,
-    38535,
-    37914,
-    81220,
-    38536
+    94976,
+    38709,
+    38695,
+    38532,
+    37893
    ]
   },
   "31100": {
@@ -704,10 +1013,11 @@
     37643,
     37724,
     37730,
+    38533,
     94976
    ],
    "laeuft": [
-    38533
+    38710
    ],
    "warteschlange": []
   }
@@ -757,23 +1067,29 @@
    "erledigt": true
   },
   {
-   "auftrag": 40404,
+   "auftrag": 81430,
    "vertrag": true,
    "provinz": 3245,
-   "gegenueber": 31100
+   "gegenueber": 32778
   }
  ],
  "religion": {
   "41": {
-   "43594": 395
+   "43594": 494
   },
   "31100": {},
   "31102": {
-   "80562": 267
+   "80562": 499
   },
   "31103": {}
  },
  "items": [
+  {
+   "guid": 81448,
+   "ort": "schiff",
+   "objekt": 5473,
+   "provinz": 3245
+  },
   {
    "guid": 71438,
    "ort": "eingesetzt",
@@ -828,6 +1144,7 @@
    "2677": "Taberna",
    "2679": "Heiligtum",
    "2680": "Grammaticus",
+   "13810": "Rüstungen",
    "31694": "Hanf",
    "31700": "Amphoren"
   },
@@ -859,6 +1176,7 @@
    "3188": "Pileusfilzer",
    "3189": "Seifensieder",
    "3190": "Sandalenmacher",
+   "13808": "Rüstungsschmied",
    "31750": "Hanfhof",
    "31756": "Sülzsieder"
   },
@@ -873,26 +1191,32 @@
    "37731": "Städtische Forschung",
    "37737": "Reparaturkräne",
    "37891": "Quartiermeisterei",
+   "37893": "Wachtürme",
    "37903": "Attraktive Märkte",
    "37914": "Brunnen",
+   "38532": "Trireme",
    "38533": "Depots",
    "38535": "Freiwillige Wachsamkeit",
    "38536": "Nachtwache",
+   "38695": "Koordinierte Salven",
+   "38709": "Gestampfte Erde",
    "38710": "Nähkreise",
+   "81182": "Phlogistikforschung",
    "81220": "Rüstungsschmieden",
    "81222": "Provisorische Castra",
    "94280": "Gastfreundschaft",
-   "94976": "Steinschleuderer"
+   "94976": "Steinschleuderer",
+   "97103": "Kult der Minerva"
   },
   "goetter": {
    "43594": "Ceres",
    "80562": "Mars"
   },
   "auftraege": {
-   "40404": "Auftrag: Lieferung für {ContractProviderName}",
    "54818": "Tutorial: Deine Villa",
    "67848": "Tutorial: Eine Schutzgottheit wählen",
    "77315": "Tutorial: Spezialisten",
+   "81430": "Auftrag: {ContractProviderName} beschützen",
    "82721": "Der verrückte Koch",
    "93795": "Tutorial: Gästehaus",
    "108704": "Tutorial: Audienz gewähren",
@@ -903,12 +1227,14 @@
   },
   "items": {
    "51330": "Essenzialistin",
-   "71438": "Gaius Julius Lupus, Vermögensfachmann"
+   "71438": "Gaius Julius Lupus, Vermögensfachmann",
+   "81448": "Unterschriebener Vertrag"
   },
   "item_seltenheit": {
    "71438": "episch"
   },
   "objekte": {
+   "5473": "Flaggschiff",
    "31032": "Villa des Praetors"
   },
   "zwischenfaelle": {}
