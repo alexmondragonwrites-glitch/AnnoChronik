@@ -412,5 +412,143 @@
     "title": "Fast doppelt so viele Bewohner, neun Waffen ausgegeben.",
     "description": "Im Kapitel wächst die Bevölkerung von 508 auf 1.014. Zwischen 74:35 und 74:59 min steigt sie um 161, bei gleich vielen Wohnhäusern (134); die Ursache ist offen. Zwischen 72:34 und 75:22 min verlassen neun Waffen das Lager, im selben Abschnitt steigen die Kosten der Militärgebäude von 12 auf 109 Denare je Minute.",
     "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0037",
+    "spielzeit_ms": 4561000,
+    "game_time_label": "1:15 bis 1:16 h",
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "entscheidung",
+    "chapter": 4,
+    "title": "Dem Koch einen Haufen Münzen geschenkt.",
+    "description": "Ereignis „Courage und Konfit-enz“, gegenüber der Libertus. Zur Wahl standen: Seife anbieten, eine Sandale überreichen, Hanf bringen, einen Haufen Münzen schenken. Gewählt wurden die Münzen (100 Denare). Das Ereignisfenster stand laut Spielprotokoll zwischen den Messungen bei 75:22 und 76:01 min offen; im Spielstand liest der Monitor die Entscheidung ab 79:52 min.",
+    "source": "Q3, Q6"
+  },
+  {
+    "id": "erster-lauf-0038",
+    "spielzeit_ms": 4792200,
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "auftrag",
+    "chapter": 4,
+    "title": "„Der verrückte Koch“ erledigt.",
+    "description": "Im Spielstand bei 79:52 min ist der Auftrag „Der verrückte Koch“ erledigt; das Auftragsgut Pallas oleum ist dort aus der Liste der Gegenstände verschwunden. Neu im Auftragsbuch ist „Tutorial: Gästehaus“.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0039",
+    "spielzeit_ms": 4792200,
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "militaer",
+    "chapter": 4,
+    "title": "Die ersten Einheiten.",
+    "description": "Ab dem Spielstand bei 79:52 min stehen Einheiten in den Ausgaben, 98 Denare je Minute, ab 104:33 min 49. Im Lager liegen bei 124:36 min 38 Waffen, 17 Eisen und 54 Eisenerz.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0040",
+    "spielzeit_ms": 5310000,
+    "game_time_label": "1:22 bis 1:28 h",
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 4,
+    "title": "Die erste Seife.",
+    "description": "Lavandulahof (82:00 min), Sülzsieder und zweiter Schweinehof (83:00 min), Seifensieder (84:00 min): Der Sülzsieder macht aus Schweinen Schmalz, der Seifensieder aus Lavandula und Schmalz Seife. Seife für die Plebejer meldet der Monitor bei 88:30 min zu 47 % erfüllt, ab 104:33 min zu 100 %.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0041",
+    "spielzeit_ms": 5370000,
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "schiffe",
+    "chapter": 4,
+    "title": "Das erste Handelsschiff.",
+    "description": "Ab 89:30 min stehen Handelsschiffe in den Ausgaben, 18 Denare je Minute.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0042",
+    "spielzeit_ms": 5731500,
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 4,
+    "title": "Taberna der Liberti unter der Hälfte.",
+    "description": "Der Monitor meldet die Taberna der Liberti zu 48 % erfüllt (vorher 51 %); bei 124:36 min sind es 65 %. Die Zufriedenheit liegt im Spielstand bei 79:52 min bei 237, bei 112:26 min bei 32 und bei 125:17 min bei 40.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0043",
+    "spielzeit_ms": 5815100,
+    "game_time_label": "1:36 bis 2:02 h",
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "auftrag",
+    "chapter": 4,
+    "title": "Drei Lieferverträge.",
+    "description": "Im Auftragsbuch folgen drei Lieferverträge aufeinander: für die Händlerin Diana (ab 96:55 min), für Zara Nitu (ab 112:26 min) und für Tarragon (ab 122:45 min). Bei 125:17 min steht der Vertrag für Tarragon offen.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0044",
+    "spielzeit_ms": 6693500,
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "schiffe",
+    "chapter": 4,
+    "title": "Das erste Kriegsschiff.",
+    "description": "Ab 111:33 min stehen Kriegsschiffe in den Ausgaben, 37 Denare je Minute.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0045",
+    "spielzeit_ms": 7365500,
+    "game_time_label": "2:01 bis 2:02 h",
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "bau",
+    "chapter": 4,
+    "title": "„Tutorial: Gästehaus“ erledigt.",
+    "description": "Zwischen 118:35 und 121:36 min steigen die Ausgaben unter „Villa des Praetors“ (im Spielstand Kulturbauten) von 61 auf 122 Denare je Minute. Im Spielstand bei 122:45 min ist „Tutorial: Gästehaus“ erledigt und die Forschung „Gastfreundschaft“ abgeschlossen.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0046",
+    "spielzeit_ms": 5189300,
+    "game_time_label": "1:19 bis 2:05 h",
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 4,
+    "title": "Mars und Steinschleuderer.",
+    "description": "Athr Iorgwyn verehrt ab 79:52 min Mars. Zara Nitu schließt die Forschungen „Steinschleuderer“ (Militärische Forschung, 86:29 min), „Lagerhausverwaltung“ (107:16 min) und „Kontorverwaltung“ (125:17 min) ab. Im Spielstand bei 125:17 min zählen Zara Nitu 916 Bewohner, Athr Iorgwyn 366 und Tarragon 159, Caesia 1.319.",
+    "source": "Q3"
+  },
+  {
+    "id": "erster-lauf-0047",
+    "spielzeit_ms": 7505585,
+    "recorded": "2026-11-06",
+    "kind": "fakt",
+    "category": "insel",
+    "chapter": 4,
+    "title": "Lorica, die erste neue Insel.",
+    "description": "Laut Spielprotokoll nimmt Caesia bei 125:05 min die Insel 9665 in Besitz, unmittelbar nachdem das Fenster der Siedlungsrechte offen war. Der Spielstand bei 125:17 min führt sie als Lorica in Latium, noch unbewohnt; die Grundsteuer kostet jetzt 300 statt 150 Denare je Minute, und in der Kasse liegen 152 Denare (bei 124:36 min 48.321). Mit Lorica schließt Kapitel IV.",
+    "source": "Q6, Q3"
+  },
+  {
+    "id": "erster-lauf-0048",
+    "spielzeit_ms": 7517000,
+    "game_time_label": "1:15 bis 2:05 h",
+    "recorded": "2026-11-06",
+    "kind": "rekonstruktion",
+    "category": "geld",
+    "chapter": 4,
+    "title": "Rund 48.000 Denare für Lorica, der Libertus urteilt allein.",
+    "description": "Die Siedlungsrechte für Lorica kosteten rund 48.000 Denare: Die Kasse fällt zwischen 124:36 und 125:17 min von 48.321 auf 152, und das Spielprotokoll zeigt in dieser Zeit die Inselnahme über die Siedlungsrechte. Beim Koch ließ Caesia den Libertus allein urteilen: Der Schritt nach dem Kosten fehlt im Spielstand, und der Auftrag ist bei 79:52 min erledigt. Das Pallas oleum war vermutlich für den Koch bestimmt.",
+    "source": "Q3, Q6"
   }
 ]
