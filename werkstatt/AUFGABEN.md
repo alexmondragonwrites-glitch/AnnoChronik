@@ -8,6 +8,8 @@ _(leer)_
 
 ## Zur Prüfung
 
+- **Kapitel V „Olivaria“** (Claude, 6.11.2026): 125:17 bis 146:09 min Spielzeit, schließt mit den ersten Plebejern auf Olivaria; Bericht, sieben Tagebucheinträge, Randnotiz, Register `erster-lauf-0049` bis `-0060`, neue Quelle Q9 (Spielstände bei 125:17 und 140:26 min), zwei offene Fragen (Beginn der Unruhen, Ausgang von Tarragons Lieferung); in der Inselliste Olivaria mit „bis 125:17 min Lorica“ sowie Caer Morgan und Zibanitu. Online seit `6272304`, Messdaten `a404828`. Prüfen: Zahlen und Spielzeiten gegen Messdaten und Register, die Unruhen (Messdaten nennen 120:12 min), Tarragons Zahlung und die Werft als Abgeleitet, Schreibweise nach `SCHREIBSTIL.md`.
+
 - **Kapitel IV „Lorica“** (Claude, 6.11.2026): 75:22 bis 125:17 min Spielzeit, schließt mit Lorica, der ersten neuen Insel; Bericht, sieben Tagebucheinträge (darunter der Brief „Die erste Seife“ mit dem Vergleich zu Rom, auf Wunsch des Spielers), Randnotiz, Register `erster-lauf-0037` bis `-0048`, offene Frage zu den Einheiten. Online seit `996cbe5`, Messdaten `9f866e3`. Prüfen: Zahlen und Spielzeiten gegen Messdaten und Register, Siedlungsrechte und Koch als Abgeleitet gekennzeichnet, Kanon (Mutter nichts festgelegt), Schreibweise nach `SCHREIBSTIL.md`.
 
 - **Kapitel III „Eisen und Segel“** (Claude, 6.11.2026): 47:25 bis 75:22 min Spielzeit, schließt mit der Kleinen Gemeinde; Bericht, acht Tagebucheinträge, Randnotiz, Register `erster-lauf-0025` bis `-0036`, Quelle Q8 (Feuer aus dem Spielstand und nach Angabe des Spielers), offene Frage zum Bevölkerungssprung bei 74:59 min. Erstes Kapitel nach `docs/SCHREIBSTIL.md`. Online seit `6695e44`, Messdaten `4d6145c`. Prüfen: Zahlen und Spielzeiten gegen Messdaten und Register, Feuer gegen den Spielstand, Kanon (Pirat ohne Bezug zum Vater, Entscheidung des Spielers), Schreibweise nach `SCHREIBSTIL.md`.
@@ -24,7 +26,8 @@ _(leer)_
 ## Offen
 
 - **Faktenblatt-Skript je Kapitel** (Claude): `werkstatt/erster-lauf/fakten/kapitel-N.md` aus dem Anno-Monitor für einen Spielzeitraum. Vor Kapitel I.
-- **Kapitel V** (Claude): ab 125:17 min bis zum nächsten Einschnitt, den der Spieler bestätigt; offene Fäden in `werkstatt/erster-lauf/STAND.md` (Lorica unbewohnt, Kasse 152, Vertrag für Tarragon, Taberna).
+- **Kapitel VI** (Claude): ab 146:09 min bis zum nächsten Einschnitt, den der Spieler bestätigt. Bis 165:38 min ist schon gemessen: Valerias Geleit und der unterschriebene Vertrag an Bord, Ceres auf Stufe 3, „Kult der Minerva“ begonnen, Ziegeleien und Brot auf Olivaria; Einzelheiten in `werkstatt/erster-lauf/STAND.md`.
+- **Ausbruchszeit der Unruhen in den Messdaten** (Monitor-Sitzung): Die Chronikzeile vom Autosave bei 135:16 min nennt 120:12 min, belegt ist ein Beginn nach 125:17 min (Kapitel V). Wenn der Monitor das berichtigt, unter „Korrekturen“ in `chronik.html` vermerken.
 - **Kapitel I und II nach `SCHREIBSTIL.md`** (Claude, nur auf Freigabe des Spielers): Dort stehen noch Kontrastformeln und Schlusspointen (etwa „Stattdessen grüße ich sie höflich“); Überarbeitung nur, wenn der Spieler sie gesondert freigibt, mit Eintrag unter „Korrekturen“.
 - **Schrift Cinzel** (Claude, auf Wunsch): Capitalis für Titel statt Cormorant in Versalien; braucht einen Download mit Freigabe.
 

@@ -2,6 +2,25 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-06 – Kapitel V „Olivaria“ (Claude, Nebensitzung)
+
+- Inselname: Der Spieler wollte Lorica wegen Harz und Oliven umbenennen und wählte aus fünf Vorschlägen (Olivetum, Olivaria, Olea, Pinetum, Resina) „Olivaria denke ich“. Eingetragen in `werkstatt/erster-lauf/STAND.md`, hochgeladen auf Freigabe als `89f7593` (dabei die Uhrzeit im Kopf des Stands berichtigt). Im Spiel umbenannt zu Beginn der nächsten Sitzung, live ab 126:05 min.
+- Spieler: „so ich denke es ist wieder was pasiert.“ (gespielt 10:36 bis 11:18 und 11:25 bis 11:28, 125:17 bis 165:38 min, ohne Neuladen). Vorgeschlagen: die ersten Plebejer auf Olivaria (146:09 min), daneben Kleiner Vicus auf Olivaria (138:08 min) oder bis zum Speichern (163:52 min). Spieler: „Erste Plebejer“.
+- Befunde:
+  - Unruhen: Die Monitor-Chronik (Autosave bei 135:16 min) nennt als Ausbruch 120:12 min. Der Session Backup bei 125:17 min zählt aber nur einen Zwischenfall, und das Spielprotokoll zeigt die Unruhen-Meldung um 10:48:46, zwischen 134:07 und 135:07 min. Im Bericht als Widerspruch benannt, dazu eine offene Frage; der Monitor-Sitzung gemeldet.
+  - Zweites Feuer von 133:57 bis 138:52 min (Vigiles), ein Gebäude, dessen Kennung der Katalog nicht kennt.
+  - Tarragons Lieferung verschwindet zwischen 130:07 und 135:16 min aus dem Auftragsbuch; zwischen 131:06 und 132:07 min steigt die Kasse um 3.432 Denare. Steht als vermutlich bezahlt (Abgeleitet).
+  - Die Hafengebäude kosten von 138:08 bis 143:08 min 100 statt 64, danach stehen zwei Kriegsschiffe in den Ausgaben, wie vor dem ersten (Abgeleitet: die Werft baute).
+  - Geleitbefehl zwischen 144:08 und 145:09 min (Spielprotokoll), Vertrag „Valeria beschützen“ ab 145:36 min.
+  - Zweite Inseln der Praetoren mit Namen aus dem Spielstand: Caer Morgan (Athr Iorgwyn, Albion), Zibanitu (Zara Nitu, Latium).
+- `chronik.html`: Kapitel V mit Bericht (Kennzahlen, Zeitachse, Quellen Q3, Q6 und neu Q9), sieben Tagebucheinträgen und Randnotiz; Verweis im Inhalt; Inselliste mit Olivaria („bis 125:17 min Lorica“), Caer Morgan und Zibanitu; zwei offene Fragen. Register `erster-lauf-0049` bis `-0060`.
+- Schreibweise nach `SCHREIBSTIL.md`, ohne Brief und ohne Erinnerung an Rom; Einträge am Stück gelesen.
+- Geprüft:
+  - `validate-data.mjs`, `test-monitor-daten.py` und der HTML-Aufbau;
+  - Wortprüfung: zwei sachliche Verneinungen in Bericht und Randnotiz, im Tagebuch keine;
+  - Browser: 5 Kapitel, 60 Registerzeilen, 375 px ohne waagrechtes Scrollen, dunkel, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `a404828` (Messdaten, 213 Messungen bis 165:38 min) und `6272304` (Kapitel V).
+
 ## 2026-11-06 – Kapitel IV „Lorica“ (Claude, Nebensitzung)
 
 - Spieler: „so gespielt ersten neuen schiffe seife und die erste neue insel“ (gespielt 8:14 bis 8:54, 86:30 bis 125:17 min, ohne Neuladen; der Monitor lief seit 7:59 mit Zwischenfällen und Gegenständen). Vorgeschlagen und bestätigt: Kapitel IV endet mit Lorica, der ersten neuen Insel („Ja, bis Lorica“). Während des Schreibens: „vllt auch mal den vergleich zu rom zu dem was sie jetzt durchmachen muss? und die erste seife?“, umgesetzt als Brief „Die erste Seife“.
