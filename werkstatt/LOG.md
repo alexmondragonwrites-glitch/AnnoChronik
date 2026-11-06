@@ -2,6 +2,53 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-06 – Kapitel VI „Öl und Krüge“ und Berichtigung von Kapitel V (Claude, Nebensitzung)
+
+- Spieler: „lleider vergessen den monitor laufen zu lassen hoffe trotzdem was brauchbares dabei“. Gespielt hatte er von 15:18 bis 16:24, bei 165:38 bis 223:00 min, ohne Neuladen; der Monitor lief erst ab 16:23.
+- Nachgelesen, nur aus Kopien:
+  - Der Live-Mod schreibt ins Spielprotokoll. Mit dem Leser des Monitors (`quelle_lua._json_aus_zeile`, `aus_lua`) kamen 61 Messungen von 165:38 bis 222:13 min heraus (neue Quelle Q10).
+  - Dazu die Spielstände bei 165:38, 181:04, 201:09, 220:40, 221:51 und 223:00 min (neue Quelle Q11), gelesen mit `spielstand.lies` und den Ereignisfunktionen in `messung.py`.
+- Vorgeschlagen: die ersten Equites (189:06 min), daneben bis zum Speichern (223:00 min). Spieler: „Erste Equites“.
+- Kapitel VI (146:09 bis 189:06 min): Bericht, sieben Tagebucheinträge mit einem Brief an die Mutter (Erinnerung an den Scherbenhügel am Tiber), Randnotiz, Register `erster-lauf-0062` bis `-0075`, eine offene Frage. Kartenstand VI mit `karte.py` aus dem Spielstand bei 181:04 min.
+- Befunde:
+  - Harz, Töpfer, Olivenzüchter und Pressen bringen Amphoren und Öl.
+  - Ein Angriff um 152:09 min, danach ein Kriegsschiff weniger, die Werft baut Ersatz (Abgeleitet).
+  - Litugenus trägt dieselbe Gegenstandskennung wie zuvor der unterschriebene Vertrag; daher vermutlich der Lohn für das Geleit.
+  - Krankheit bei 177:23 min (Medici).
+  - Die Villa auf Olivaria (Abgeleitet).
+- Kapitel V berichtigt, mit den Werten der Monitor-Sitzung:
+  - Zeitachse „133:58 bis 135:11 min“, im Bericht Auslösezeit, zweite Custodia und Lagerhaus;
+  - die Ableitung zu den Unruhen aus der Randnotiz gestrichen, ebenso die offene Frage nach ihrem Beginn;
+  - Eintrag unter „Korrekturen“, Register `-0061`.
+  - Im Korrektureintrag der Monitor-Sitzung ist der letzte Satz auf „Kapitel V ist im nächsten Eintrag berichtigt“ geändert.
+- Geprüft:
+  - `validate-data.mjs`, `test-monitor-daten.py`, HTML-Aufbau, Q-Anker und Wortprüfung;
+  - Browser: 6 Kapitel, 75 Registerzeilen, Karte mit Stand VI, 375 px ohne waagrechtes Scrollen, dunkel, keine Konsolenfehler;
+  - Einträge am Stück gelesen.
+- Hochgeladen auf Freigabe („Ja, hochladen“):
+  - `637aee5`: Messdaten, 233 Messungen bis 233:43 min, mit der berichtigten Zeile der Unruhen;
+  - `0eaaca4`: Kapitel VI, Berichtigung von Kapitel V und Kartenstand VI, mit den vorbereiteten Änderungen der Monitor-Sitzung.
+- Offen:
+  - Die Sitzung monitor-live-zeilen-aus baut die Nachlese der Live-Zeilen von 15:18 bis 16:23 in den Monitor. Danach die Messdaten neu erzeugen und mit Freigabe hochladen; dann im Quellensatz von Kapitel VI vermerken, dass die Werte ab 165:38 min auch in den Messdaten stehen.
+  - Seit 16:31 hat der Spieler mit Monitor weitergespielt: Runlet in Albion bei 230:29 min (siehe `STAND.md`).
+
+## 2026-11-06 – Ausbruchszeit der Unruhen (Claude, Monitor-Sitzung)
+
+- Anlass: Die Chronikzeile des Monitors vom Autosave bei 135:16 min nannte als Ausbruch der Unruhen 120:12 min (Befund aus Kapitel V).
+- Befund im Spielstand:
+  - Die Zahl der Zwischenfälle ist bis 130:07 min 1, bei 135:16 min 3.
+  - `IncidentTriggerTime` im Zeitplan ist nur ein Rechenwert. Er wird alle 3 s neu bestimmt. Rückt er in die Vergangenheit, löst der Zeitplan sofort aus, der Wert bleibt.
+  - Belegt ist die Auslösezeit je Zwischenfall-Asset und Teilnehmer (`MetaIncidentManager/IncidentsTriggerTimerMap`): zweites Feuer 133:57 min, Unruhen 133:58 min.
+  - Das `fx_riot` um 10:48:46 ist das Infofenster eines betroffenen Betriebs.
+- Anno-Monitor: Leser, Chronik und Test umgestellt; Chronikzeile berichtigt (Feld `korrigiert`, Sicherung daneben).
+- Hier lokal, nicht hochgeladen:
+  - `data/monitor/tag-2026-11-06.json` neu erzeugt; nur Text und `ausbruch_ms` der Unruhen-Zeile ändern sich;
+  - Eintrag unter „Korrekturen“ in `chronik.html`;
+  - Befund in `STAND.md` (Kapitel V).
+  - Kapitel V selbst blieb unverändert: Bericht und offene Frage nennen die alte Zeile; ob sie ergänzt werden, entscheidet der Spieler.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, HTML-Aufbau; im Anno-Monitor 44 Tests grün.
+- Die Kartenzeile der Karten-Sitzung in `chronik.html` ist seit `8e3795a` online; offen ist dort nur noch die Korrektur.
+
 ## 2026-11-06 – Karte von Latium (Claude)
 
 - Spieler: „gibs auch wieder die möglichkeit ener karte? wie brauchen es nicht so auffwendig wie in tf3 aber hübsch sollte sie trtzdem sein eher so wie iene landkkarte“. Probekarte vorgelegt, Vorschlag freigegeben: „Ja, so bauen“ (`BRIEFING.md`, Abschnitt Karte).
