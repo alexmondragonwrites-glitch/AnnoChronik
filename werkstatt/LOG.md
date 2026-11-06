@@ -19,7 +19,7 @@
   - `validate-data.mjs` (auch mit einem fehlenden Bild als Gegenprobe) und `test-monitor-daten.py`;
   - im Anno-Monitor `test_karte.py`, 8 Tests;
   - Browser: Kapitelwahl, Link aus der Chronik, volle Größe, 375 px ohne waagrechtes Scrollen, dunkel, keine Konsolenfehler.
-- Nicht hochgeladen; wartet auf Freigabe.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `8e3795a`.
 
 ## 2026-11-06 – Kapitel V „Olivaria“ (Claude, Nebensitzung)
 
