@@ -2377,6 +2377,416 @@
     "8897": 1398.0,
     "9665": 362.0
    }
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "spielzeit_ms": 12069300,
+   "geld": 44695,
+   "bilanz": 1291.0801,
+   "einnahmen": 4037.0801,
+   "ausgaben": 2746.0,
+   "bevoelkerung": 2597,
+   "je_stufe": {
+    "1496": 1060.0,
+    "1499": 1296.3,
+    "1497": 110.1
+   },
+   "inseln": {
+    "8897": 1831.8,
+    "9665": 634.6
+   }
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "spielzeit_ms": 13240400,
+   "geld": 22199,
+   "bilanz": 1544.6318,
+   "einnahmen": 4615.6318,
+   "ausgaben": 3071.0,
+   "bevoelkerung": 2917,
+   "je_stufe": {
+    "1496": 1041.5,
+    "1499": 1518.5,
+    "1497": 201.5
+   },
+   "inseln": {
+    "8897": 2023.1,
+    "9665": 738.4
+   }
+  },
+  {
+   "mid": "20261106T162333-00216",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-06T16:23:25+01:00",
+   "spielzeit_ms": 13311200,
+   "geld": 8888,
+   "bilanz": 1471.0093,
+   "einnahmen": 4615.0093,
+   "ausgaben": 3144.0,
+   "bevoelkerung": 2910,
+   "je_stufe": {
+    "1496": 1033.6,
+    "1499": 1518.5,
+    "1497": 201.5
+   },
+   "inseln": {
+    "8897": 2023.0,
+    "9665": 730.6
+   }
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "spielzeit_ms": 13333500,
+   "geld": 9933,
+   "bilanz": 1488.72,
+   "einnahmen": 4632.72,
+   "ausgaben": 3144,
+   "bevoelkerung": 2923.55,
+   "je_stufe": {
+    "1496": 1076.37,
+    "1497": 207,
+    "1499": 1640.19
+   },
+   "inseln": {
+    "8897": 2160.21,
+    "9665": 763.34
+   }
+  },
+  {
+   "mid": "20261106T162438-00218",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-06T16:24:35+01:00",
+   "spielzeit_ms": 13380400,
+   "geld": 11323,
+   "bilanz": 1498.7759,
+   "einnahmen": 4642.7759,
+   "ausgaben": 3144.0,
+   "bevoelkerung": 2954,
+   "je_stufe": {
+    "1496": 1060.2,
+    "1499": 1535.1,
+    "1497": 202.4
+   },
+   "inseln": {
+    "8897": 2044.3,
+    "9665": 753.4
+   }
+  },
+  {
+   "mid": "20261106T163217-00219",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:32:17+01:00",
+   "spielzeit_ms": 13381000,
+   "geld": 11364,
+   "bilanz": 6141.1,
+   "einnahmen": 9285.1,
+   "ausgaben": 3144,
+   "bevoelkerung": 2954.13,
+   "je_stufe": {
+    "1496": 1099.56,
+    "1497": 207.44,
+    "1499": 1647.13
+   },
+   "inseln": {
+    "8897": 2169.33,
+    "9665": 784.8
+   }
+  },
+  {
+   "mid": "20261106T163318-00220",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:33:18+01:00",
+   "spielzeit_ms": 13441000,
+   "geld": 12884,
+   "bilanz": 1499.84,
+   "einnahmen": 4643.84,
+   "ausgaben": 3144,
+   "bevoelkerung": 2969.84,
+   "je_stufe": {
+    "1496": 1113.76,
+    "1497": 207.44,
+    "1499": 1648.64
+   },
+   "inseln": {
+    "8897": 2170.84,
+    "9665": 799
+   }
+  },
+  {
+   "mid": "20261106T163417-00221",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:34:17+01:00",
+   "spielzeit_ms": 13501000,
+   "geld": 14392,
+   "bilanz": 1510,
+   "einnahmen": 4654,
+   "ausgaben": 3144,
+   "bevoelkerung": 2977.09,
+   "je_stufe": {
+    "1496": 1113.09,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 796.09
+   }
+  },
+  {
+   "mid": "20261106T163518-00222",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:35:18+01:00",
+   "spielzeit_ms": 13561500,
+   "geld": 16206,
+   "bilanz": 1510,
+   "einnahmen": 4654,
+   "ausgaben": 3144,
+   "bevoelkerung": 2970.47,
+   "je_stufe": {
+    "1496": 1106.47,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 789.465
+   }
+  },
+  {
+   "mid": "20261106T163617-00223",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:36:17+01:00",
+   "spielzeit_ms": 13621500,
+   "geld": 17821,
+   "bilanz": 1510,
+   "einnahmen": 4654,
+   "ausgaben": 3144,
+   "bevoelkerung": 2965.63,
+   "je_stufe": {
+    "1496": 1101.63,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 784.627
+   }
+  },
+  {
+   "mid": "20261106T163718-00224",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:37:18+01:00",
+   "spielzeit_ms": 13681500,
+   "geld": 19773,
+   "bilanz": 1510,
+   "einnahmen": 4654,
+   "ausgaben": 3144,
+   "bevoelkerung": 2965.63,
+   "je_stufe": {
+    "1496": 1101.63,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 784.627
+   }
+  },
+  {
+   "mid": "20261106T163740-00225",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-06T16:37:37+01:00",
+   "spielzeit_ms": 13693200,
+   "geld": 20070,
+   "bilanz": 1510.0,
+   "einnahmen": 4654.0,
+   "ausgaben": 3144.0,
+   "bevoelkerung": 2965,
+   "je_stufe": {
+    "1496": 1062.6,
+    "1499": 1544.0,
+    "1497": 203.0
+   },
+   "inseln": {
+    "8897": 2056.0,
+    "9665": 753.6
+   }
+  },
+  {
+   "mid": "20261106T163818-00226",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:38:18+01:00",
+   "spielzeit_ms": 13741500,
+   "geld": 21509,
+   "bilanz": 1510,
+   "einnahmen": 4654,
+   "ausgaben": 3144,
+   "bevoelkerung": 2965.63,
+   "je_stufe": {
+    "1496": 1101.63,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 784.627
+   }
+  },
+  {
+   "mid": "20261106T163917-00227",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:39:17+01:00",
+   "spielzeit_ms": 13801500,
+   "geld": 23054,
+   "bilanz": 1510,
+   "einnahmen": 4654,
+   "ausgaben": 3144,
+   "bevoelkerung": 2969.54,
+   "je_stufe": {
+    "1496": 1105.54,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 788.54
+   }
+  },
+  {
+   "mid": "20261106T164018-00228",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:40:18+01:00",
+   "spielzeit_ms": 13861500,
+   "geld": 24558,
+   "bilanz": 1385,
+   "einnahmen": 4654,
+   "ausgaben": 3269,
+   "bevoelkerung": 2978.34,
+   "je_stufe": {
+    "1496": 1114.34,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 797.34,
+    "8514": 0
+   }
+  },
+  {
+   "mid": "20261106T164135-00229",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:41:35+01:00",
+   "spielzeit_ms": 13900000,
+   "geld": 24959,
+   "bilanz": 1373,
+   "einnahmen": 4654,
+   "ausgaben": 3281,
+   "bevoelkerung": 2980,
+   "je_stufe": {
+    "1496": 1116,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 799,
+    "8514": 0
+   }
+  },
+  {
+   "mid": "20261106T164237-00230",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:42:36+01:00",
+   "spielzeit_ms": 13960000,
+   "geld": 26368,
+   "bilanz": 1366,
+   "einnahmen": 4654,
+   "ausgaben": 3288,
+   "bevoelkerung": 2981.5,
+   "je_stufe": {
+    "1500": 1.5,
+    "1496": 1116,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 799,
+    "8514": 1.5
+   }
+  },
+  {
+   "mid": "20261106T164252-00231",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-06T16:42:47+01:00",
+   "spielzeit_ms": 13963600,
+   "geld": 26452,
+   "bilanz": 1366.0,
+   "einnahmen": 4654.0,
+   "ausgaben": 3288.0,
+   "bevoelkerung": 2982,
+   "je_stufe": {
+    "1496": 1077.0,
+    "1499": 1544.0,
+    "1497": 203.0,
+    "1500": 2.1
+   },
+   "inseln": {
+    "8897": 2056.0,
+    "9665": 768.0,
+    "8514": 2.1
+   }
+  },
+  {
+   "mid": "20261106T164336-00232",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-06T16:43:36+01:00",
+   "spielzeit_ms": 14020000,
+   "geld": 27734,
+   "bilanz": 1366,
+   "einnahmen": 4654,
+   "ausgaben": 3288,
+   "bevoelkerung": 2991.1,
+   "je_stufe": {
+    "1500": 11.1,
+    "1496": 1116,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 799,
+    "8514": 11.1
+   }
+  },
+  {
+   "mid": "20261106T164353-00233",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-06T16:43:51+01:00",
+   "spielzeit_ms": 14023300,
+   "geld": 27814,
+   "bilanz": 1366.0,
+   "einnahmen": 4654.0,
+   "ausgaben": 3288.0,
+   "bevoelkerung": 2991,
+   "je_stufe": {
+    "1496": 1077.0,
+    "1499": 1544.0,
+    "1497": 203.0,
+    "1500": 11.7
+   },
+   "inseln": {
+    "8897": 2056.0,
+    "9665": 768.0,
+    "8514": 11.7
+   }
   }
  ],
  "ereignisse": [
@@ -3367,13 +3777,13 @@
   {
    "mid": "20261106T104919-00173",
    "art": "zwischenfall",
-   "text": "Unruhen auf Beneventum: ausgebrochen bei 120:12 min, beruhigt bis 135:11 min (Custodia), betroffen 2 Gebäude (1 × Eisenmine, 1 × Ofen).",
+   "text": "Unruhen auf Beneventum: ausgebrochen bei 133:58 min, beruhigt bis 135:11 min (Custodia), betroffen 2 Gebäude (1 × Eisenmine, 1 × Ofen).",
    "spielzeit_ms": 8116700,
    "erfasst_um": "2026-11-06T10:49:17+01:00",
    "quelle": "spielstand",
    "insel": 8897,
    "zwischenfall": 1,
-   "ausbruch_ms": 7212221
+   "ausbruch_ms": 8038000
   },
   {
    "mid": "20261106T104919-00173",
@@ -4002,6 +4412,945 @@
    "insel": 9665,
    "stufe": "1499",
    "ware": "2671"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "stufe_neu",
+   "text": "Beneventum: Equites erstmals beobachtet (110 Bewohner).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "stufe": "1497"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "bevoelkerung",
+   "text": "Beneventum: Liberti 818 → 941 (+123).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "stufe": "1499"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "bevoelkerung",
+   "text": "Beneventum: Plebejer 580 → 780 (+201).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "stufe": "1496"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Köhler 4 → 5.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "2880"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Lehmgrube 1 → 2.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "2970"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Töpfer 0 → 2.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "3199"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Kalksteinbruch 0 → 1.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "2916"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Sardinenhütte 4 → 5.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "2955"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Schafshof 3 → 4.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "2786"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Betonmischer 0 → 2.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "3129"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Sandraffinerie 0 → 2.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "2958"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Pileusfilzer 4 → 6.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "3188"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Beneventum: Olivenpresse 0 → 3.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "4831"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "lager_leer",
+   "text": "Beneventum: Lager Sardinen leer (vorher 2).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "ware": "2088"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "bevoelkerung",
+   "text": "Olivaria: Liberti 273 → 355 (+82).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "stufe": "1499"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "bevoelkerung",
+   "text": "Olivaria: Plebejer 89 → 280 (+191).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "stufe": "1496"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Olivaria: Bäckerei 1 → 2.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "3174"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Olivaria: Salzgärten 0 → 1.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "2957"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Olivaria: Gerberei 0 → 2.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "2994"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Olivaria: Schweinehof 0 → 1.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "2793"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Olivaria: Sandalenmacher 0 → 1.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "3190"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Olivaria: Olivenzüchter 0 → 6.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "2699"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "betriebe",
+   "text": "Olivaria: Harzzapfer 0 → 2.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "31752"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "lager_leer",
+   "text": "Olivaria: Lager Tuniken leer (vorher 5).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "ware": "2141"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "provinz",
+   "text": "Provinz Aegyptus erstmals im Spielstand.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "erkundung",
+   "text": "Albion: 2 Inseln neu entdeckt, zusammen 2 (darunter Klippenfurt).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "provinz": 6627,
+   "anzahl": 2,
+   "neu": 2
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "forschung",
+   "text": "Athr Iorgwyn schließt die Forschung „Lagerhausverwaltung“ (Wirtschaftliche Forschung) ab.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 31102,
+   "forschung": 23320
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "forschung",
+   "text": "Athr Iorgwyn schließt die Forschung „Steinschleuderer“ (Militärische Forschung) ab.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 31102,
+   "forschung": 94976
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "forschung",
+   "text": "Zara Nitu schließt die Forschung „Nähkreise“ (Wirtschaftliche Forschung) ab.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 31103,
+   "forschung": 38710
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Koordinierte Salven“ (Militärische Forschung).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 38695
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Gestampfte Erde“ (Militärische Forschung).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 38709
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Steinschleuderer“ (Militärische Forschung).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 94976
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Kult der Minerva“ (Zivile Forschung).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 97103
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "forschung",
+   "text": "Forschung begonnen: „Trireme“ (Zivile Forschung).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 38532,
+   "beginn": true
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "auftrag",
+   "text": "Neuer Auftrag: Auftrag 77326.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "auftrag": 77326,
+   "auftrag_id": "77326"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "auftrag",
+   "text": "Aus dem Auftragsbuch entfernt: Erwachen des Deltas (erledigt oder abgebrochen).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "auftrag": 180759,
+   "auftrag_id": "180759"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "auftrag",
+   "text": "Aus dem Auftragsbuch entfernt: Valeria beschützen (erledigt oder abgebrochen).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "auftrag": 81430,
+   "auftrag_id": "81430-31"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "religion",
+   "text": "Beneventum: Hingabe an Ceres erreicht Stufe 3 (620, Wirkung 30 %).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "gott": 43594,
+   "hingabe_stufe": 3
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "religion",
+   "text": "Olivaria: Schutzgottheit Ceres (Hingabe 325,0).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "gott": 43594
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "item",
+   "text": "Litugenus, Salbei-Kultivator (episch): jetzt eingesetzt in: Villa des Praetors auf Olivaria, vorher an Bord.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "item": 64962,
+   "item_id": "288230376151711750"
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "zwischenfall",
+   "text": "Feuer auf Beneventum: ausgebrochen bei 186:55 min, gelöscht bis 189:59 min (Vigiles).",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "zwischenfall": 0,
+   "ausbruch_ms": 11215500
+  },
+  {
+   "mid": "20261106T162322-00214",
+   "art": "zwischenfall",
+   "text": "Beneventum: 1 Zwischenfall seit dem letzten Spielstand; die Art steht nicht im Zeitplan.",
+   "spielzeit_ms": 12069300,
+   "erfasst_um": "2026-11-06T16:23:20+01:00",
+   "quelle": "spielstand",
+   "insel": 8897
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "bevoelkerung",
+   "text": "Beneventum: Liberti 941 → 1.036 (+95).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "stufe": "1499"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "bevoelkerung",
+   "text": "Beneventum: Equites 110 → 202 (+91).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "stufe": "1497"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Beneventum: Weingut 0 → 2.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "2694"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Beneventum: Sardinenhütte 5 → 7.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "2955"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Beneventum: Winzer 0 → 1.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "3177"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Beneventum: Bienenstock 0 → 1.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "betrieb": "2795"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "bevoelkerung",
+   "text": "Olivaria: Liberti 355 → 482 (+127).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "stufe": "1499"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "bedarf_schlecht",
+   "text": "Olivaria: Amphoren für Plebejer unter die Hälfte erfüllt (92 % → 32 %).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "stufe": "1496",
+   "ware": "31700"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Olivaria: Sardinenhütte 2 → 3.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "2955"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Olivaria: Schafshof 1 → 2.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "2786"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Olivaria: Hanfhof 2 → 3.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "31750"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Olivaria: Haferhof 2 → 3.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "2200"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Olivaria: Pileusfilzer 2 → 4.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "3188"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Olivaria: Spinnerei 2 → 3.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "3187"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "betriebe",
+   "text": "Olivaria: Breistand 2 → 3.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "betrieb": "3171"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "entscheidung",
+   "text": "Entscheidung „Begegnung mit einem Rivalen“ (Athr Iorgwyn): Höflich grüßen.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "entscheidung": 108320,
+   "wahl": 108322,
+   "seit_ms": 12069300
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "entscheidung",
+   "text": "Entscheidung „Besiedlungsanfrage“ (Tarragon): Insel gewähren.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "entscheidung": 115043,
+   "wahl": 115058,
+   "seit_ms": 12069300
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "entscheidung",
+   "text": "Entscheidung „Adlerstandarten“: Sold und Vorräte bereitstellen (40.000 Denare).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "entscheidung": 147447,
+   "wahl": 147448,
+   "seit_ms": 12069300
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "erkundung",
+   "text": "Albion: 10 Inseln neu entdeckt, zusammen 12 (darunter Werddon, Antica, Caer Morgan).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "provinz": 6627,
+   "anzahl": 12,
+   "neu": 10
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Wachtürme“ (Zivile Forschung).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 37893
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Trireme“ (Zivile Forschung).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 38532
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "forschung",
+   "text": "Forschung begonnen: „Gepanzerte Rümpfe“ (Militärische Forschung).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 38529,
+   "beginn": true
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "auftrag",
+   "text": "Neuer Auftrag: Adlerstandarten.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "auftrag": 147415,
+   "auftrag_id": "147415"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "auftrag",
+   "text": "Neuer Auftrag: Die Wiedererlangung der Freiheit.",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "auftrag": 119972,
+   "auftrag_id": "119972"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "auftrag",
+   "text": "Aus dem Auftragsbuch entfernt: Auftrag 77326 (erledigt oder abgebrochen).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "auftrag": 77326,
+   "auftrag_id": "77326"
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "zwischenfall",
+   "text": "Unruhen auf Beneventum: ausgebrochen bei 214:09 min, beruhigt bis 215:39 min (Custodia).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "zwischenfall": 1,
+   "ausbruch_ms": 12849800
+  },
+  {
+   "mid": "20261106T162330-00215",
+   "art": "zwischenfall",
+   "text": "Feuer auf Olivaria: ausgebrochen zwischen 201:09 und 220:40 min, gelöscht bis 208:48 min (Vigiles).",
+   "spielzeit_ms": 13240400,
+   "erfasst_um": "2026-11-06T16:23:22+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "zwischenfall": 0
+  },
+  {
+   "mid": "20261106T162333-00216",
+   "art": "lager_leer",
+   "text": "Beneventum: Lager Lavandula leer (vorher 1).",
+   "spielzeit_ms": 13311200,
+   "erfasst_um": "2026-11-06T16:23:25+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "ware": "2071"
+  },
+  {
+   "mid": "20261106T162333-00216",
+   "art": "erkundung",
+   "text": "Albion: 1 Insel neu entdeckt, zusammen 13 (darunter Cnocnees).",
+   "spielzeit_ms": 13311200,
+   "erfasst_um": "2026-11-06T16:23:25+01:00",
+   "quelle": "spielstand",
+   "provinz": 6627,
+   "anzahl": 13,
+   "neu": 1
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "stufe_neu",
+   "text": "Beneventum: Equites erstmals beobachtet (207 Bewohner).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1497"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bevoelkerung",
+   "text": "Beneventum: Plebejer 600 → 818 (+218).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1496"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bedarf_gut",
+   "text": "Beneventum: Sardinen für Liberti wieder zu 93 % erfüllt (vorher 77 %).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1499",
+   "ware": "2088"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bedarf_gut",
+   "text": "Beneventum: Sardinen für Plebejer wieder zu 93 % erfüllt (vorher 77 %).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1496",
+   "ware": "2088"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bedarf_gut",
+   "text": "Beneventum: Amphoren für Plebejer wieder zu 100 % erfüllt (vorher 0 %).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1496",
+   "ware": "31700"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bedarf_gut",
+   "text": "Beneventum: Olivenöl für Plebejer wieder zu 100 % erfüllt (vorher 0 %).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1496",
+   "ware": "2149"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bevoelkerung",
+   "text": "Olivaria: Plebejer 89 → 258 (+169).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 9665,
+   "stufe": "1496"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bedarf_gut",
+   "text": "Olivaria: Heiligtum für Plebejer wieder zu 100 % erfüllt (vorher 0 %).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 9665,
+   "stufe": "1496",
+   "ware": "2679"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bedarf_gut",
+   "text": "Olivaria: Sandalen für Plebejer wieder zu 100 % erfüllt (vorher 0 %).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 9665,
+   "stufe": "1496",
+   "ware": "2144"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bedarf_gut",
+   "text": "Olivaria: Brot für Plebejer wieder zu 100 % erfüllt (vorher 0 %).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 9665,
+   "stufe": "1496",
+   "ware": "2137"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bedarf_gut",
+   "text": "Olivaria: Olivenöl für Plebejer wieder zu 100 % erfüllt (vorher 0 %).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 9665,
+   "stufe": "1496",
+   "ware": "2149"
+  },
+  {
+   "mid": "20261106T162338-00217",
+   "art": "bedarf_gut",
+   "text": "Olivaria: Garum für Plebejer wieder zu 100 % erfüllt (vorher 0 %).",
+   "spielzeit_ms": 13333500,
+   "erfasst_um": "2026-11-06T16:23:38+01:00",
+   "quelle": "lua",
+   "insel": 9665,
+   "stufe": "1496",
+   "ware": "2139"
+  },
+  {
+   "mid": "20261106T163318-00220",
+   "art": "bedarf_gut",
+   "text": "Olivaria: Amphoren für Plebejer wieder zu 100 % erfüllt (vorher 68 %).",
+   "spielzeit_ms": 13441000,
+   "erfasst_um": "2026-11-06T16:33:18+01:00",
+   "quelle": "lua",
+   "insel": 9665,
+   "stufe": "1496",
+   "ware": "31700"
+  },
+  {
+   "mid": "20261106T163740-00225",
+   "art": "erkundung",
+   "text": "Albion: 5 Inseln neu entdeckt, zusammen 18 (darunter Calculus).",
+   "spielzeit_ms": 13693200,
+   "erfasst_um": "2026-11-06T16:37:37+01:00",
+   "quelle": "spielstand",
+   "provinz": 6627,
+   "anzahl": 18,
+   "neu": 5
+  },
+  {
+   "mid": "20261106T163740-00225",
+   "art": "forschung",
+   "text": "Athr Iorgwyn schließt die Forschung „Reparaturkräne“ (Militärische Forschung) ab.",
+   "spielzeit_ms": 13693200,
+   "erfasst_um": "2026-11-06T16:37:37+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 31102,
+   "forschung": 37737
+  },
+  {
+   "mid": "20261106T163917-00227",
+   "art": "insel_besitz",
+   "text": "Caesia Varilla nimmt Insel 8514 in Besitz.",
+   "spielzeit_ms": 13829593,
+   "erfasst_um": "2026-11-06T16:39:44+01:00",
+   "quelle": "protokoll",
+   "insel": 8514,
+   "teilnehmer": 41,
+   "vorher": 0
+  },
+  {
+   "mid": "20261106T164018-00228",
+   "art": "insel_neu",
+   "text": "Eigene Insel Runlet erstmals beobachtet (0 Bewohner).",
+   "spielzeit_ms": 13861500,
+   "erfasst_um": "2026-11-06T16:40:18+01:00",
+   "quelle": "lua",
+   "insel": 8514
+  },
+  {
+   "mid": "20261106T164018-00228",
+   "art": "provinz",
+   "text": "Provinz None erstmals im Spielstand.",
+   "spielzeit_ms": 13861500,
+   "erfasst_um": "2026-11-06T16:40:18+01:00",
+   "quelle": "lua"
+  },
+  {
+   "mid": "20261106T164135-00229",
+   "art": "betriebe",
+   "text": "Runlet: Holzfäller 1 → 2.",
+   "spielzeit_ms": 13900000,
+   "erfasst_um": "2026-11-06T16:41:35+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "betrieb": "5976"
+  },
+  {
+   "mid": "20261106T164135-00229",
+   "art": "betriebe",
+   "text": "Runlet: Herzmuschelfarm 0 → 1.",
+   "spielzeit_ms": 13900000,
+   "erfasst_um": "2026-11-06T16:41:35+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "betrieb": "5278"
+  },
+  {
+   "mid": "20261106T164353-00233",
+   "art": "erkundung",
+   "text": "Albion: 1 Insel neu entdeckt, zusammen 19.",
+   "spielzeit_ms": 14023300,
+   "erfasst_um": "2026-11-06T16:43:51+01:00",
+   "quelle": "spielstand",
+   "provinz": 6627,
+   "anzahl": 19,
+   "neu": 1
   }
  ]
 }

@@ -11,13 +11,13 @@
    67904
   ]
  },
- "messungen": 213,
+ "messungen": 233,
  "verworfen": 0,
  "neuladen": 0,
  "spielzeit_von_ms": 300,
- "spielzeit_bis_ms": 9938000,
+ "spielzeit_bis_ms": 14023300,
  "erfasst_von": "2026-11-05T15:52:10+01:00",
- "erfasst_bis": "2026-11-06T11:28:41+01:00",
+ "erfasst_bis": "2026-11-06T16:43:51+01:00",
  "tage": [
   {
    "datum": "2026-11-05",
@@ -30,10 +30,10 @@
   {
    "datum": "2026-11-06",
    "datei": "tag-2026-11-06.json",
-   "messungen": 129,
-   "ereignisse": 156,
+   "messungen": 149,
+   "ereignisse": 248,
    "spielzeit_von_ms": 3896000,
-   "spielzeit_bis_ms": 9938000
+   "spielzeit_bis_ms": 14023300
   }
  ],
  "stand": "stand.json"
