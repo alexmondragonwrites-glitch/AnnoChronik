@@ -2,6 +2,22 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-06 – Kapitel IV „Lorica“ (Claude, Nebensitzung)
+
+- Spieler: „so gespielt ersten neuen schiffe seife und die erste neue insel“ (gespielt 8:14 bis 8:54, 86:30 bis 125:17 min, ohne Neuladen; der Monitor lief seit 7:59 mit Zwischenfällen und Gegenständen). Vorgeschlagen und bestätigt: Kapitel IV endet mit Lorica, der ersten neuen Insel („Ja, bis Lorica“). Während des Schreibens: „vllt auch mal den vergleich zu rom zu dem was sie jetzt durchmachen muss? und die erste seife?“, umgesetzt als Brief „Die erste Seife“.
+- Befunde:
+  - Lorica ist Insel 9665 in Latium. Das Spielprotokoll zeigt um 8:53:57 die Inselnahme direkt nach dem Fenster der Siedlungsrechte (`OMSettlementRights`), danach Speichern und Spielende.
+  - Die Kasse fällt von 48.321 (124:36 min) auf 152 (Spielstand 125:17 min), die Grundsteuer steigt auf 300. Die rund 48.000 Denare für die Siedlungsrechte stehen als Abgeleitet.
+  - Koch („Courage und Konfit-enz“): Münzen geschenkt. Der Schritt nach „Die Sohle kosten“ fehlt im Spielstand, also urteilte der Libertus allein (Abgeleitet). Pallas oleum verschwindet mit dem Auftrag.
+  - „Villa des Praetors“ ist im Live-Mod die Kategorie Kulturbauten; die Verdopplung bei 121:36 min fällt mit „Tutorial: Gästehaus“ zusammen.
+- `chronik.html`: Kapitel IV mit Bericht (Kennzahlen, Zeitachse, Quellen Q3, Q6), sieben Tagebucheinträgen und Randnotiz; Lorica unter „Inseln und Provinzen“; offene Frage zu den Einheiten (98 → 49 bei 104:33 min); Verweis im Inhalt. Register `erster-lauf-0037` bis `-0048`.
+- Schreibweise nach `SCHREIBSTIL.md`; der Vergleich mit Rom nur im Brief, über die Mutter nichts festgelegt („unser Garten“). Einträge am Stück gelesen.
+- Geprüft:
+  - `validate-data.mjs` und `test-monitor-daten.py`;
+  - Wortprüfung im neuen Text ohne Fund;
+  - Browser per Seitentext: 4 Kapitel, 48 Registerzeilen, 375 px ohne waagrechtes Scrollen, dunkel, keine Konsolenfehler. Bildschirmfotos schlugen fehl, das Fenster lag im Hintergrund.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `9f866e3` (Messdaten, 160 Messungen bis 125:17 min) und `996cbe5` (Kapitel IV).
+
 ## 2026-11-06 – Kapitel III „Eisen und Segel“ (Claude, Nebensitzung)
 
 - Spieler am Morgen: „haben sich neue geschichten ergeben?“. Er hatte von 5:42 bis 6:05 weitergespielt (64:55 bis 86:29 min, ohne Neuladen). Vorgeschlagen war als Einschnitt die Kleine Gemeinde (75:22 min, Aufnahme 6.11. 5:54); Spieler: „ja und achte dann auf unseren neuen schreibregeln SCHREIBSTIL.md“ (`docs/SCHREIBSTIL.md`, `68b2181`).

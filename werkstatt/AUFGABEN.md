@@ -8,6 +8,8 @@ _(leer)_
 
 ## Zur Prüfung
 
+- **Kapitel IV „Lorica“** (Claude, 6.11.2026): 75:22 bis 125:17 min Spielzeit, schließt mit Lorica, der ersten neuen Insel; Bericht, sieben Tagebucheinträge (darunter der Brief „Die erste Seife“ mit dem Vergleich zu Rom, auf Wunsch des Spielers), Randnotiz, Register `erster-lauf-0037` bis `-0048`, offene Frage zu den Einheiten. Online seit `996cbe5`, Messdaten `9f866e3`. Prüfen: Zahlen und Spielzeiten gegen Messdaten und Register, Siedlungsrechte und Koch als Abgeleitet gekennzeichnet, Kanon (Mutter nichts festgelegt), Schreibweise nach `SCHREIBSTIL.md`.
+
 - **Kapitel III „Eisen und Segel“** (Claude, 6.11.2026): 47:25 bis 75:22 min Spielzeit, schließt mit der Kleinen Gemeinde; Bericht, acht Tagebucheinträge, Randnotiz, Register `erster-lauf-0025` bis `-0036`, Quelle Q8 (Feuer aus dem Spielstand und nach Angabe des Spielers), offene Frage zum Bevölkerungssprung bei 74:59 min. Erstes Kapitel nach `docs/SCHREIBSTIL.md`. Online seit `6695e44`, Messdaten `4d6145c`. Prüfen: Zahlen und Spielzeiten gegen Messdaten und Register, Feuer gegen den Spielstand, Kanon (Pirat ohne Bezug zum Vater, Entscheidung des Spielers), Schreibweise nach `SCHREIBSTIL.md`.
 
 - **Kapitel II „Brot und Ziegel“** (Claude, 5.11.2026): 19:33 bis 47:25 min Spielzeit, schließt mit dem Großen Vicus; Bericht, neun Tagebucheinträge, Randnotiz, Register `erster-lauf-0013` bis `-0024`, Quelle Q7 (nachgelesene Spielstände), offene Frage zu Zara Nitus Vertrag. Online seit `ef48cca`, Messdaten `e3214ee`. Ohne Faktenblatt geschrieben (siehe `LOG.md`). Prüfen: Zahlen und Spielzeiten gegen Messdaten und Register, Textarten getrennt, Kanon (kein Amt, Offenes offen, Erinnerung an das Feuer ohne neue Festlegung), Schreibweise.
@@ -22,7 +24,7 @@ _(leer)_
 ## Offen
 
 - **Faktenblatt-Skript je Kapitel** (Claude): `werkstatt/erster-lauf/fakten/kapitel-N.md` aus dem Anno-Monitor für einen Spielzeitraum. Vor Kapitel I.
-- **Kapitel IV** (Claude): ab 75:22 min bis zum nächsten Einschnitt, den der Spieler bestätigt; Stoff in `werkstatt/erster-lauf/STAND.md` (der Koch, Landeinheiten, Seife, Mars und Steinschleuderer).
+- **Kapitel V** (Claude): ab 125:17 min bis zum nächsten Einschnitt, den der Spieler bestätigt; offene Fäden in `werkstatt/erster-lauf/STAND.md` (Lorica unbewohnt, Kasse 152, Vertrag für Tarragon, Taberna).
 - **Kapitel I und II nach `SCHREIBSTIL.md`** (Claude, nur auf Freigabe des Spielers): Dort stehen noch Kontrastformeln und Schlusspointen (etwa „Stattdessen grüße ich sie höflich“); Überarbeitung nur, wenn der Spieler sie gesondert freigibt, mit Eintrag unter „Korrekturen“.
 - **Schrift Cinzel** (Claude, auf Wunsch): Capitalis für Titel statt Cormorant in Versalien; braucht einen Download mit Freigabe.
 
