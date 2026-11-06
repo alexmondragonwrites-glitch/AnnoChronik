@@ -1,6 +1,6 @@
 # Caesia Varilla · Erster Lauf · Stand
 
-Stand 6.11.2026, 09:20 (Claude, Nebensitzung Kapitel I bis IV, danach der neue Inselname).
+Stand 6.11.2026, 11:55 (Claude, Nebensitzung Kapitel I bis V).
 
 ## Schreibweise
 
@@ -27,12 +27,26 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
 - „Villa des Praetors“ ist im Live-Mod die Bezeichnung der Kategorie Kulturbauten; 61 → 122 bei 121:36 min, kurz vor „Tutorial: Gästehaus“ (Gästehaus, Abgeleitet).
 - Lieferverträge belegen jeweils einen Platz im Auftragsbuch: Diana (96:55), Zara Nitu (112:26), Tarragon (122:45, offen bei 125:17).
 
-**Stoff für Kapitel V** (ab 125:17 min): Noch keine Messungen danach; das Spiel endete um 8:54 mit dem Speichern. Offen am Stichtag: Lorica unbewohnt, Kasse 152, Vertrag für Tarragon, Forschung „Nähkreise“ (vorgemerkt „Reparaturkräne“, „Freiwillige Wachsamkeit“, „Brunnen“, „Rüstungsschmieden“, „Nachtwache“), Taberna der Liberti bei 65 %, Zufriedenheit 40, Brandschutz −356.
+**Kapitel V „Olivaria“** (`#kapitel-5`): 125:17 bis 146:09 min, aufgenommen am 6.11.2026 von 10:38 bis 11:00. Einschnitt: die ersten Plebejer auf Olivaria (im Spielstand bei 145:36 min, live ab 146:09 min; Spieler: „Erste Plebejer“). Bericht, sieben Tagebucheinträge, Randnotiz, Register `-0049` bis `-0060`, neu Q9 (Spielstände bei 125:17 und 140:26 min, nachgelesen), zwei neue offene Fragen (Beginn der Unruhen, Ausgang von Tarragons Lieferung).
+- Umbenennung: Der Spieler wählte Olivaria („Olivaria denke ich“, aus den Vorschlägen Olivetum, Olivaria, Olea, Pinetum, Resina; gebildet wie Capraria, der antike Name von Capraia) und benannte die Insel gleich zu Beginn der Sitzung um: live ab 126:05 min. Der Spielstand speichert weiter Lorica, der Monitor zeigt den Namen aus dem Live-Mod, auch in älteren Chronikzeilen. Kapitel IV bleibt bei Lorica; unter „Inseln und Provinzen“ steht jetzt Olivaria mit dem Vermerk „bis 125:17 min Lorica“.
+- Unruhen: Der Monitor nennt in seiner Chronikzeile (Autosave bei 135:16 min) als Ausbruch 120:12 min. Der Session Backup bei 125:17 min zählt aber nur einen Zwischenfall (das erste Feuer), und das Spielprotokoll zeigt die Unruhen-Meldung (`fx_riot`) um 10:48:46, zwischen 134:07 und 135:07 min. Beruhigt bis 135:11 min (Custodia), betroffen Eisenmine und Ofen. Der Monitor-Sitzung gemeldet; die Chronik nennt den Beginn offen (nach 125:17 min).
+- Zweites Feuer: 133:57 bis 138:52 min (Vigiles), ein Gebäude, dessen Kennung 3310 der Katalog nicht kennt. Feuer-Videos im Spielprotokoll 10:51:22 bis 10:52:45.
+- Geld (Abgeleitet): +3.432 zwischen 131:06 und 132:07 min (Bilanz etwa +700) mit Tarragons verschwundener Lieferung → vermutlich Bezahlung, rund 2.700. Ein ähnlicher Sprung bei 117:35 min (+4.827, Bilanz +974) fällt in die Zeit von Zara Nitus Liefervertrag; geprüft ist dieser Zusammenhang nicht. Ausgabenstufen: Militärgebäude 29 → 56 (133:07), Stadtwache 67 → 79 (135:07) → 86 (138:08) → 93 (140:08), Hafengebäude 64 → 100 (138:08) → 64 (144:08) mit dem zweiten Kriegsschiff (wie 105:33 bis 111:33 vor dem ersten).
+- Geleit: `Execute Escort` im Spielprotokoll um 10:58:31 (zwischen 144:08 und 145:09 min) über ein angeheftetes Schiff; Vertrag „Valeria beschützen“ (81430, gegenüber Valeria 32778) im Spielstand bei 145:36 min. Ein zweiter Geleitbefehl um 11:07:25 gehört zu Kapitel VI.
+- Inseln der Praetoren aus dem Spielstand: Caer Morgan (9026, Albion, Athr Iorgwyn, 133:41 min), Zibanitu (9345, Latium, Zara Nitu, 145:33 min).
+- Olivaria hat bis 146:09 min weder Olivenzüchter noch Harzzapfer; den Plebejern auf Beneventum fehlen Amphoren, Olivenöl und Bier (0 %). Im Tagebuch: Gaius meint, Öl und Harz könnten einmal von drüben kommen. Die 45 Ziegel im Lager von Olivaria bei 146:09 min kamen vermutlich von Beneventum (Olivaria bekommt erst danach eine Ziegelei).
 
-- **Neuer Inselname:** Der Spieler will Lorica wegen ihrer Rohstoffe Harz und Oliven umbenennen und wählte Olivaria („Olivaria denke ich“, 6.11.2026, aus den Vorschlägen Olivetum, Olivaria, Olea, Pinetum, Resina). Gebildet wie Capraria, der antike Name von Capraia („Ziegeninsel“). In der Chronik gilt der Name ab der Umbenennung im Spiel; der Monitor übernimmt umbenannte Inseln aus dem Live-Mod. Kapitel IV bleibt bei Lorica. In Kapitel V die Umbenennung erzählen: Caesia benennt die Insel nach dem, was dort wächst (aus den Oliven wird Öl, das Harz braucht der Töpfer für die Amphoren). Unter „Inseln und Provinzen“ dann „Olivaria (bis dahin Lorica)“, im Register ein neuer Eintrag.
+**Stoff für Kapitel VI** (ab 146:09 min), schon gemessen bis 165:38 min: Das Spiel lief am 6.11. von 10:36 bis 11:18 (manuell gespeichert als „Caesia Varilla 1“ bei 163:52 min) und nach dem Laden genau dieses Stands von 11:25 bis 11:28 (bis 165:38 min, Session Backup), ohne Rücksprung. Darin:
+- Olivaria: zwei Ziegeleien (147:09), Plebejer 40 → 70 und Liberti 262 → 232 (149:09), Kornmühle, drei Weizenhöfe, Bäckerei (162:11 bis 163:11); Taberna der Liberti unter der Hälfte (163:52); bei 163:11 min 332 Bewohner.
+- Beneventum: Schweinehof, Ofen, Salzgärten, Gerberei je +1 (157:10), erster Rüstungsschmied und vierter Köhler (158:10).
+- Forschung: „Brunnen“ (150:47), „Rüstungsschmieden“ (155:55), „Nachtwache“ (163:52); begonnen „Kult der Minerva“ (163:52). Minerva schreibt man den Ölbaum zu.
+- Ceres: Hingabe 503 und Stufe 3 bei 155:55 min (Wirkung 30 %), bei 161:03 min 496.
+- Valeria: zweiter Geleitbefehl um 11:07:25; ab 161:03 min liegt das Auftragsgut „Unterschriebener Vertrag“ auf dem Flaggschiff; der Vertrag ist bei 165:38 min offen.
+- 36 Inseln entdeckt (161:03); Kasse 17.651 bei 163:52 min.
+- Zwei Bildschirmfotos des Spielers im Spiel um 11:27:10 und 11:28:28 (164:48 und 165:36 min); bleiben beim Spieler, Spieltext nur zusammenfassen.
 
-- **Nächste freie Quellennummer:** Q9 (Q1 Einstellungen, Q2 Installation Update 3.0, Q3 Anno-Monitor, Q4 Dossier, Q5 Bildschirmfotos Libertus, Q6 Spielprotokoll, Q7 nachgelesene Spielstände, Q8 Feuer: Autosave bei 74:59 min, Angabe des Spielers, Spielprotokoll).
-- **Nächste freie Registernummer:** `erster-lauf-0049`.
+- **Nächste freie Quellennummer:** Q10 (Q1 Einstellungen, Q2 Installation Update 3.0, Q3 Anno-Monitor, Q4 Dossier, Q5 Bildschirmfotos Libertus, Q6 Spielprotokoll, Q7 nachgelesene Spielstände, Q8 Feuer: Autosave bei 74:59 min, Angabe des Spielers, Spielprotokoll, Q9 Spielstände bei 125:17 und 140:26 min: Zwischenfälle).
+- **Nächste freie Registernummer:** `erster-lauf-0061`.
 
 ## Protagonistin
 
@@ -44,20 +58,24 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
   - zwei Briefe an die Mutter liegen im Buch (Kapitel I und IV);
   - wie Zara Nitu so früh zu Plebejern kam; was aus den Kisten für Zara Nitu wurde;
   - das Feuer (Kapitel III): acht Häuser, die Vigiles löschten, Caesia stand in der Eimerreihe, noch während des Feuers eine zweite Wache; die Häuser stehen noch;
-  - die Taberna der Liberti ist zu klein; Gaius rechnet eine zweite durch (Kapitel IV);
-  - Lorica: gekauft mit fast allem, was in der Truhe lag (152 Denare übrig), noch unbewohnt; der Vertrag für Tarragon ist offen.
+  - die Taberna der Liberti ist zu klein; Gaius rechnet eine zweite durch (Kapitel IV); bei 146:09 min zu 77 % erfüllt;
+  - Lorica, gekauft mit fast allem, was in der Truhe lag, heißt seit Kapitel V Olivaria: nach Ölbäumen und Harz benannt, besiedelt von Liberti, Kleiner Vicus, die ersten Plebejer in fünf Häusern; Öl und Harz werden dort noch nicht gewonnen;
+  - die Unruhen an der Eisenmine und am Ofen: beruhigt, Ursache offen; ein Schmelzer erklärte Caesia, wie heiß es am Ofen wird;
+  - Tarragon hat für die Lieferung bezahlt (im Tagebuch so erzählt, im Bericht als vermutlich);
+  - Valeria: Caesia hat Begleitung zugesagt, eines ihrer Schiffe fährt ihr entgegen.
 
 ## Partie
 
 - Im Spielstand heißt die Partie „Caesia Varilla“ (Partie-Ordner und Firmenname, Weltkennung `anno117-1793890256`, Seed 6949, angelegt 15:06); „Cassandra“ ist das Profil der Einstellungsübersicht. Schwierigkeit Erfahren (Baukostenerstattung Hälfte, Startflotte Flaggschiff, Fruchtbarkeiten und Vorkommen normal, Zwischenfälle mittel).
 - Erweiterungen Prophecies of Ash, The Hippodrome, Dawn of the Delta. Praetoren Tarragon (Hortia Poenitentium), Athr Iorgwyn (Werddon, Albion), Zara Nitu (Umbra). Dritte Teilnehmer seit Spielbeginn: Pirat Caeso Regulus Syracus (Insel 9985), Händlerinnen Diana (Villa Augusta), Valeria (Lilybaion), Caecilia (Cinis); in Albion Piratin Voada von den Scáthach (Insel 9538), Prokurator Corvinus (Klippenfurt), Manx (Cnocnees).
 - Beneventum: Außenposten ab 2:38, Kleiner Vicus ab 13:15, Großer Vicus ab 47:25, Kleine Gemeinde ab 75:22 min. Villa des Praetors ab 26:59–27:51, Stadtwache ab 34:53–35:53 (zweite ab 73:34), Ceres und erstes Heiligtum 36:24–38:35, Hafengebäude ab 57:20, Militärgebäude ab 71:34 min, Einheiten ab 79:52, Handelsschiff ab 89:30, Kriegsschiff ab 111:33 min. Startlager 25 Bretter, 20 Waffen; Grundsteuer 150 je Minute.
-- Lorica (Insel 9665, Latium): eigene Insel ab 125:05 min über die Siedlungsrechte; Grundsteuer seitdem zusammen 300. Lorica ist ein vorgegebener Inselname des Spiels; der Spieler will die Insel Olivaria nennen (siehe „Stoff für Kapitel V“).
+- Olivaria (Insel 9665, Latium, bis 125:17 min Lorica, ein vorgegebener Inselname des Spiels): eigene Insel ab 125:05 min über die Siedlungsrechte; Grundsteuer seitdem zusammen 300. Vom Spieler umbenannt, live ab 126:05 min. Außenposten bis 137:08, Kleiner Vicus ab 138:08 min, erste Plebejer bei 145:36 min.
+- Zweite Inseln der Praetoren: Athr Iorgwyn Caer Morgan (Albion, 133:41 min), Zara Nitu Zibanitu (Latium, 145:33 min).
 
 ## Daten
 
 - Anno-Monitor: Autosaves etwa alle fünf Minuten, Live-Mod alle 60 Sekunden mit Details. Entscheidungen, Erkundung und Spielprotokoll seit 5.11. 16:29; Forschung, Auftragsbuch und Religion seit 17:09; Spezialisten und Gegenstände seit dem Neustart am 6.11. um 5:40 (erste Lesung 65:10 min, „erstmals im Spielstand gelesen“).
-- Messdaten am 6.11. erzeugt (`publish-monitor.py --no-push`), online seit `9f866e3`: 160 Messungen bis 125:17 min, Aufnahme bis 8:54, ohne Neuladen. Der Monitor läuft seit 6.11. 7:59 mit Zwischenfällen (Zähler bei 91:41 min: 1).
+- Messdaten am 6.11. neu erzeugt (`publish-monitor.py --no-push`): 213 Messungen bis 165:38 min, Aufnahme bis 11:28, ohne Neuladen. Online bis zum nächsten Upload `9f866e3` (160 Messungen bis 125:17 min). Die Chronikzeile der Unruhen nennt dort 120:12 min als Ausbruch (siehe Kapitel V). Der Monitor läuft seit 6.11. 7:59 mit Zwischenfällen (Zähler bei 91:41 min: 1).
 - Häuser: Live (`stufen.*.haeuser`) und Spielstand weichen teils ab; die Berichte nennen Wohnhäuser nach der Live-Messung.
 - Rivalen: „Bewohner“ der Praetoren ist ihr Attribut Bevölkerung im Spielstand; jeder hat bisher eine Insel.
 
@@ -67,6 +85,7 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
 - **Formen Kapitel II:** Gespräch, Eintrag, Rechnung, Gespräch am Hafen, Notiz am Rand, Abschrift einer Bauinschrift (CERERI · SACRVM), Liste, Gespräch, Opfergabe.
 - **Formen Kapitel III:** Eintrag (Gaius), beschriebene Skizze (Leder und Segel), Gespräch (Der Libertus), Notiz am Rand (Tarragons Kisten), Eintrag (Eisen), Gespräch (Ein Besuch von See), Eintrag (Feuer), Notiz am Rand (Tausend). Bewusst weniger Rechnungen und Zahlen als in I und II.
 - **Formen Kapitel IV:** Gespräch (Beim Koch), Notiz am Rand (Nachbarn), Brief an die Mutter (Die erste Seife, Vergleich mit Rom auf Wunsch des Spielers), Gespräch am Hafen (Schiffe), Notiz am Rand (Taberna), Liste (Lieferungen), Rechnung (Lorica). Noch ungenutzt: Brief an den Kaiser (heikel: Wer die Soldaten schickte, ist offen).
+- **Formen Kapitel V:** Eintrag (Olivaria), Liste (Was hinüberging), Gespräch (An der Eisenmine), Notiz am Rand (Noch ein Feuer), Rechnung (Die Truhe), Gespräch am Hafen (Valeria), Eintrag (Fünf Häuser). Ohne Erinnerung an Rom; ohne Brief.
 - **Wiederkehrende Figuren** (Namen erst mit dem Spieler, außer Namen aus dem Spiel):
   - der Kapitän: bringt Namen und Nachrichten vom Wasser, holte die Kisten an Bord, kennt das Schiff des Piraten, stand beim Besuch zwei Schritte hinter Caesia; bekam von Tarragon einen Korb Feigen;
   - die Männer an Bord; die Frau mit dem Kind am Wasser, ihr Mann, eine alte Frau (Kapitel I);
@@ -74,12 +93,15 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
   - der Koch: brät, was man ihm bringt; bekam hundert Denare und den Krug Pallas oleum;
   - der Wirt der Taberna: meldet, dass sie für die Liberti zu klein ist;
   - die Händlerin Diana (Villa Augusta): erster Liefervertrag;
-  - der Hauptmann der Stadtwache: rechnete mit Gaius die Waffen vor, riet während des Feuers zur zweiten Wache;
-  - die Vigiles: löschten das Feuer (Kapitel III);
+  - die Händlerin Valeria (Lilybaion): bat um Begleitung für ihre Schiffe (Kapitel V);
+  - der Hauptmann der Stadtwache: rechnete mit Gaius die Waffen vor, riet während des Feuers zur zweiten Wache, holte Caesia zu den Unruhen an der Eisenmine;
+  - die Custodes: beruhigten die Unruhen an Eisenmine und Ofen, gingen zwischen den Leuten herum und hörten zu (Kapitel V);
+  - ein Schmelzer am Ofen: erklärte Caesia lange, wie heiß es dort wird;
+  - die Vigiles: löschten das Feuer (Kapitel III) und das zweite, ein einzelnes Gebäude (Kapitel V); Caesia stand beide Male in der Eimerreihe;
   - Gaius Julius Lupus, Vermögensfachmann: wohnt in der Villa im Zimmer mit der Morgensonne, rechnet halblaut mit, führt das Buch mit den Kosten; sein Zwilling Brutus blieb zurück;
   - Caeso Regulus Syracus, Pirat: gut gekleidet, förmlich, kam allein an Land, sprach über Preise in Latium;
   - die Essenzialistin: ab 91:41 min in der Villa eingesetzt (Kapitel IV, im Tagebuch bisher ohne Szene);
   - Tarragon (bedankte sich für die Kisten), Zara Nitu (ihre Gelehrten studieren die Steinschleuder), Athr Iorgwyn (betet zu Mars);
   - Mater: Empfängerin zweier Briefe; über sie legt das Tagebuch nichts fest („unser Garten“ ist der Garten der Familie).
 - Caesias Stimme: ruhig, genau, nach außen gefasst; Zahlen dort, wo sie zur Szene gehören. Erinnerungen an Rom selten und mit Anlass (Kapitel III: die Soldaten vor dem Haus; Kapitel IV: der Brief zur ersten Seife).
-- **Schiffe:** Flaggschiff seit Spielbeginn (der Kapitän), Handelsschiff ab 89:30 min, Kriegsschiff ab 111:33 min (liegt am anderen Ende des Hafens).
+- **Schiffe:** Flaggschiff seit Spielbeginn (der Kapitän), Handelsschiff ab 89:30 min, Kriegsschiff ab 111:33 min (liegt am anderen Ende des Hafens), zweites Kriegsschiff ab 144:08 min daneben; eines der Schiffe fährt Valeria entgegen (welches, ist offen).
