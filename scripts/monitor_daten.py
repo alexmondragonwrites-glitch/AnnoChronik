@@ -26,11 +26,15 @@ KURZ_FELDER = ("mid", "quelle", "erfasst_um", "spielzeit_ms", "geld", "bilanz", 
 EREIGNIS_FELDER = ("mid", "art", "text", "spielzeit_ms", "erfasst_um", "quelle", "insel", "stufe", "ware", "betrieb",
                    "entscheidung", "wahl", "seit_ms", "spielzeit_stand_ms", "erstmals", "teilnehmer", "vorher",
                    "provinz", "anzahl", "neu", "forschung", "beginn", "auftrag", "auftrag_id", "gott",
-                   "hingabe_stufe", "item", "item_id")
+                   "hingabe_stufe", "item", "item_id", "zwischenfall", "ausbruch_ms", "vorbei")
 # Nur lokal im Monitor: technische Neuladen-Zeilen, Ereignisfenster (datieren Entscheidungen) und Bildschirmfotos
 LOKALE_ARTEN = {"neuladen", "verworfen", "fenster", "bildschirmfoto"}
 INSEL_FELDER = ("id", "name", "provinz", "bewohner", "haeuser", "grundsteuer", "stufen", "beduerfnisse", "betriebe",
-                "status", "aus_spielstand", "religion")
+                "status", "aus_spielstand", "religion", "zwischenfaelle")
+# Zwischenfälle je Insel öffentlich nur als Zähler, laufende Typen und Ausbruchszeit je Typ
+ZWISCHENFALL_FELDER = ("anzahl", "aktiv", "ausgeloest")
+# Typen wie im Anno-Monitor (messung.ZWISCHENFALL_TYPEN), Namen nach dem deutschen Spieltext
+ZWISCHENFALL_TYPEN = {0: "Feuer", 1: "Unruhen", 2: "Krankheit", 7: "Inferno", 8: "Aufstand", 9: "Pest", 10: "Beben"}
 RIVALEN_FELDER = ("id", "name", "attribute", "geld_je_minute", "hoechststand_je_stufe", "inseln")
 
 
@@ -80,6 +84,8 @@ def _ohne_nullen(d: dict | None) -> dict:
 
 def _insel(i: dict) -> dict:
     e = {f: i[f] for f in INSEL_FELDER if i.get(f) is not None}
+    if isinstance(e.get("zwischenfaelle"), dict):
+        e["zwischenfaelle"] = {k: v for k, v in e["zwischenfaelle"].items() if k in ZWISCHENFALL_FELDER}
     e["lager"] = _ohne_nullen(i.get("lager"))
     s = i.get("statistik")
     if isinstance(s, dict):  # nur der letzte Schnappschuss der Spielstatistik
@@ -175,7 +181,18 @@ def namen(s: dict, katalog: dict) -> dict:
     return {"stufen": nachschlagen("stufen", stufen), "waren": nachschlagen("produkte", waren),
             "betriebe": nachschlagen("betriebe", betriebe), "forschungen": nachschlagen("forschungen", forschungen),
             "goetter": nachschlagen("goetter", goetter), "auftraege": nachschlagen("auftraege", auftraege),
-            "items": nachschlagen("items", items), "item_seltenheit": seltenheit, "objekte": objektnamen}
+            "items": nachschlagen("items", items), "item_seltenheit": seltenheit, "objekte": objektnamen,
+            "zwischenfaelle": zwischenfall_namen(s)}
+
+
+def zwischenfall_namen(s: dict) -> dict:
+    """Namen der Zwischenfall-Typen, die im Stand vorkommen (Schlüssel als Text wie in `ausgeloest`)."""
+    typen = set()
+    for i in s.get("inseln") or []:
+        z = i.get("zwischenfaelle") or {}
+        typen.update(int(t) for t in (z.get("ausgeloest") or {}) if str(t).lstrip("-").isdigit())
+        typen.update(t for t in z.get("aktiv") or [] if isinstance(t, int))
+    return {str(t): ZWISCHENFALL_TYPEN.get(t, f"Typ {t}") for t in sorted(typen)}
 
 
 def nach_tagen(messungen: list[dict], ereignisse: list[dict]) -> dict[str, dict]:

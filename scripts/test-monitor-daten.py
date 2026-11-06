@@ -97,6 +97,19 @@ class Fortschritt(unittest.TestCase):
         self.assertEqual(s["namen"]["goetter"], {"43594": "Ceres"})
         self.assertEqual(md.privat_funde(s), [])
 
+    def test_zwischenfaelle(self):
+        m = messung()
+        m["inseln"][0]["zwischenfaelle"] = {"anzahl": 1, "ausgeloest": {"0": 4267708}, "bekaempft": {"30754": 4493400},
+                                            "betroffen": {"3087": 6, "3141": 2}}
+        s = md.stand(m, KATALOG)
+        self.assertEqual(s["inseln"][0]["zwischenfaelle"], {"anzahl": 1, "ausgeloest": {"0": 4267708}})
+        self.assertEqual(s["namen"]["zwischenfaelle"], {"0": "Feuer"})
+        e = md.ereignis({"art": "zwischenfall", "text": "Feuer auf Beneventum: ausgebrochen bei 71:07 min …",
+                         "insel": 8897, "zwischenfall": 0, "ausbruch_ms": 4267708, "spielzeit_ms": 4499200})
+        self.assertEqual((e["zwischenfall"], e["ausbruch_ms"]), (0, 4267708))
+        self.assertTrue(md.oeffentlich(e))
+        self.assertEqual(md.privat_funde(s), [])
+
     def test_spezialisten_und_gegenstaende(self):
         m = messung()
         m["items"] = [{"id": "288230376151711747", "guid": 71438, "provinz": 3245, "ort": "eingesetzt", "insel": 1,
