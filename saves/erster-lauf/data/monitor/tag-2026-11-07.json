@@ -1,0 +1,1511 @@
+{
+ "schema": 1,
+ "datum": "2026-11-07",
+ "messungen": [
+  {
+   "mid": "20261107T061631-00295",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:16:31+01:00",
+   "spielzeit_ms": 14024000,
+   "geld": 27866,
+   "bilanz": 6020.04,
+   "einnahmen": 9308.04,
+   "ausgaben": 3288,
+   "bevoelkerung": 2991.93,
+   "je_stufe": {
+    "1500": 11.925,
+    "1496": 1116,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 799,
+    "8514": 11.925
+   }
+  },
+  {
+   "mid": "20261107T061732-00296",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:17:32+01:00",
+   "spielzeit_ms": 14084000,
+   "geld": 29516,
+   "bilanz": 1377.33,
+   "einnahmen": 4665.33,
+   "ausgaben": 3288,
+   "bevoelkerung": 3009.16,
+   "je_stufe": {
+    "1500": 29.155,
+    "1496": 1116,
+    "1497": 208,
+    "1499": 1656
+   },
+   "inseln": {
+    "8897": 2181,
+    "9665": 799,
+    "8514": 29.155
+   }
+  },
+  {
+   "mid": "20261107T061833-00297",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:18:33+01:00",
+   "spielzeit_ms": 14140500,
+   "geld": 30975,
+   "bilanz": 1364,
+   "einnahmen": 4672,
+   "ausgaben": 3308,
+   "bevoelkerung": 3077.92,
+   "je_stufe": {
+    "1500": 38,
+    "1496": 1116,
+    "1497": 208,
+    "1499": 1715.92
+   },
+   "inseln": {
+    "8897": 2240.92,
+    "9665": 799,
+    "8514": 38
+   }
+  },
+  {
+   "mid": "20261107T061932-00298",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:19:32+01:00",
+   "spielzeit_ms": 14201000,
+   "geld": 31290,
+   "bilanz": 1301,
+   "einnahmen": 4661,
+   "ausgaben": 3360,
+   "bevoelkerung": 3145.67,
+   "je_stufe": {
+    "1500": 38,
+    "1496": 1153.9,
+    "1497": 214,
+    "1499": 1739.77
+   },
+   "inseln": {
+    "8897": 2308.67,
+    "9665": 799,
+    "8514": 38
+   }
+  },
+  {
+   "mid": "20261107T062034-00299",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:20:33+01:00",
+   "spielzeit_ms": 14261000,
+   "geld": 31586,
+   "bilanz": 1295,
+   "einnahmen": 4666,
+   "ausgaben": 3371,
+   "bevoelkerung": 3145.37,
+   "je_stufe": {
+    "1500": 38,
+    "1496": 1153.75,
+    "1497": 214,
+    "1499": 1739.61
+   },
+   "inseln": {
+    "8897": 2308.37,
+    "9665": 799,
+    "8514": 38
+   }
+  },
+  {
+   "mid": "20261107T062133-00300",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:21:33+01:00",
+   "spielzeit_ms": 14321000,
+   "geld": 33026,
+   "bilanz": 1275.15,
+   "einnahmen": 4666.15,
+   "ausgaben": 3391,
+   "bevoelkerung": 3145.37,
+   "je_stufe": {
+    "1500": 38.3,
+    "1496": 1153.6,
+    "1497": 214,
+    "1499": 1739.47
+   },
+   "inseln": {
+    "8897": 2308.07,
+    "9665": 799,
+    "8514": 38.3
+   }
+  },
+  {
+   "mid": "20261107T062150-00301",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-07T06:21:47+01:00",
+   "spielzeit_ms": 14328400,
+   "geld": 33186,
+   "bilanz": 1275.23,
+   "einnahmen": 4666.23,
+   "ausgaben": 3391.0,
+   "bevoelkerung": 3145,
+   "je_stufe": {
+    "1496": 1108.6,
+    "1499": 1609.4,
+    "1497": 208.0,
+    "1500": 38.5
+   },
+   "inseln": {
+    "8897": 2158.0,
+    "9665": 768.0,
+    "8514": 38.5
+   }
+  },
+  {
+   "mid": "20261107T062235-00302",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:22:35+01:00",
+   "spielzeit_ms": 14381500,
+   "geld": 33970,
+   "bilanz": 1239.76,
+   "einnahmen": 4666.76,
+   "ausgaben": 3427,
+   "bevoelkerung": 3146.29,
+   "je_stufe": {
+    "1500": 39.52,
+    "1496": 1153.45,
+    "1497": 214,
+    "1499": 1739.31
+   },
+   "inseln": {
+    "8897": 2307.77,
+    "9665": 799,
+    "8514": 39.52
+   }
+  },
+  {
+   "mid": "20261107T062334-00303",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:23:34+01:00",
+   "spielzeit_ms": 14442000,
+   "geld": 35179,
+   "bilanz": 1202.28,
+   "einnahmen": 4629.28,
+   "ausgaben": 3427,
+   "bevoelkerung": 3139.95,
+   "je_stufe": {
+    "1500": 40,
+    "1496": 1153.3,
+    "1497": 214,
+    "1499": 1732.65
+   },
+   "inseln": {
+    "8897": 2300.95,
+    "9665": 799,
+    "8514": 40
+   }
+  },
+  {
+   "mid": "20261107T062435-00304",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:24:35+01:00",
+   "spielzeit_ms": 14502000,
+   "geld": 36529,
+   "bilanz": 1198.52,
+   "einnahmen": 4628.52,
+   "ausgaben": 3430,
+   "bevoelkerung": 3138.15,
+   "je_stufe": {
+    "1500": 40,
+    "1496": 1153.15,
+    "1497": 214,
+    "1499": 1731
+   },
+   "inseln": {
+    "8897": 2299.15,
+    "9665": 799,
+    "8514": 40
+   }
+  },
+  {
+   "mid": "20261107T062534-00305",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:25:34+01:00",
+   "spielzeit_ms": 14562000,
+   "geld": 38110,
+   "bilanz": 1198.18,
+   "einnahmen": 4628.18,
+   "ausgaben": 3430,
+   "bevoelkerung": 3137.31,
+   "je_stufe": {
+    "1500": 40.82,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1729.49
+   },
+   "inseln": {
+    "8897": 2297.49,
+    "9665": 799,
+    "8514": 40.82
+   }
+  },
+  {
+   "mid": "20261107T062635-00306",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:26:35+01:00",
+   "spielzeit_ms": 14622000,
+   "geld": 33879,
+   "bilanz": 1101.02,
+   "einnahmen": 4628.02,
+   "ausgaben": 3527,
+   "bevoelkerung": 3136.98,
+   "je_stufe": {
+    "1500": 42,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1727.98
+   },
+   "inseln": {
+    "8897": 2295.98,
+    "9665": 799,
+    "8514": 42
+   }
+  },
+  {
+   "mid": "20261107T062704-00307",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-07T06:27:01+01:00",
+   "spielzeit_ms": 14641100,
+   "geld": 34232,
+   "bilanz": 1100.7827,
+   "einnahmen": 4627.7827,
+   "ausgaben": 3527.0,
+   "bevoelkerung": 3136,
+   "je_stufe": {
+    "1496": 1108.0,
+    "1499": 1597.5,
+    "1497": 208.0,
+    "1500": 42.0
+   },
+   "inseln": {
+    "8897": 2145.5,
+    "9665": 768.0,
+    "8514": 42.0
+   }
+  },
+  {
+   "mid": "20261107T062735-00308",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:27:35+01:00",
+   "spielzeit_ms": 14682500,
+   "geld": 35010,
+   "bilanz": 1100.27,
+   "einnahmen": 4627.27,
+   "ausgaben": 3527,
+   "bevoelkerung": 3135.47,
+   "je_stufe": {
+    "1500": 42,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1726.47
+   },
+   "inseln": {
+    "8897": 2294.47,
+    "9665": 799,
+    "8514": 42
+   }
+  },
+  {
+   "mid": "20261107T062836-00309",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:28:36+01:00",
+   "spielzeit_ms": 14743000,
+   "geld": 35686,
+   "bilanz": 1092.47,
+   "einnahmen": 4631.47,
+   "ausgaben": 3539,
+   "bevoelkerung": 3141.88,
+   "je_stufe": {
+    "1500": 49.92,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1724.96
+   },
+   "inseln": {
+    "8897": 2292.96,
+    "9665": 799,
+    "8514": 49.92
+   }
+  },
+  {
+   "mid": "20261107T062935-00310",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:29:35+01:00",
+   "spielzeit_ms": 14803500,
+   "geld": 36940,
+   "bilanz": 1112.34,
+   "einnahmen": 4651.34,
+   "ausgaben": 3539,
+   "bevoelkerung": 3164.98,
+   "je_stufe": {
+    "1500": 74.52,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1723.46
+   },
+   "inseln": {
+    "8897": 2291.46,
+    "9665": 799,
+    "8514": 74.52
+   }
+  },
+  {
+   "mid": "20261107T063036-00311",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:30:36+01:00",
+   "spielzeit_ms": 14864000,
+   "geld": 37855,
+   "bilanz": 1108.5,
+   "einnahmen": 4664.5,
+   "ausgaben": 3556,
+   "bevoelkerung": 3187.94,
+   "je_stufe": {
+    "1500": 97.94,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1723
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 799,
+    "8514": 97.94
+   }
+  },
+  {
+   "mid": "20261107T063137-00312",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:31:37+01:00",
+   "spielzeit_ms": 14924000,
+   "geld": 39226,
+   "bilanz": 1108.5,
+   "einnahmen": 4664.5,
+   "ausgaben": 3556,
+   "bevoelkerung": 3203.54,
+   "je_stufe": {
+    "1500": 113.54,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1723
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 799,
+    "8514": 113.54
+   }
+  },
+  {
+   "mid": "20261107T063215-00313",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-07T06:32:12+01:00",
+   "spielzeit_ms": 14935200,
+   "geld": 39540,
+   "bilanz": 1108.5,
+   "einnahmen": 4664.5,
+   "ausgaben": 3556.0,
+   "bevoelkerung": 3205,
+   "je_stufe": {
+    "1496": 1108.0,
+    "1499": 1593.0,
+    "1497": 208.0,
+    "1500": 110.0
+   },
+   "inseln": {
+    "8897": 2141.0,
+    "9665": 768.0,
+    "8514": 110.0
+   }
+  },
+  {
+   "mid": "20261107T063237-00314",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:32:37+01:00",
+   "spielzeit_ms": 14968000,
+   "geld": 39875,
+   "bilanz": 1102.5,
+   "einnahmen": 4664.5,
+   "ausgaben": 3562,
+   "bevoelkerung": 3205,
+   "je_stufe": {
+    "1500": 115,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1723
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 799,
+    "8514": 115
+   }
+  },
+  {
+   "mid": "20261107T063336-00315",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:33:36+01:00",
+   "spielzeit_ms": 15028000,
+   "geld": 40860,
+   "bilanz": 1090.5,
+   "einnahmen": 4664.5,
+   "ausgaben": 3574,
+   "bevoelkerung": 3205,
+   "je_stufe": {
+    "1500": 115,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1723
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 799,
+    "8514": 115
+   }
+  },
+  {
+   "mid": "20261107T063437-00316",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:34:37+01:00",
+   "spielzeit_ms": 15088000,
+   "geld": 42406,
+   "bilanz": 1085.5,
+   "einnahmen": 4664.5,
+   "ausgaben": 3579,
+   "bevoelkerung": 3205,
+   "je_stufe": {
+    "1500": 115,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1723
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 799,
+    "8514": 115
+   }
+  },
+  {
+   "mid": "20261107T063536-00317",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:35:36+01:00",
+   "spielzeit_ms": 15148000,
+   "geld": 43680,
+   "bilanz": 1078.29,
+   "einnahmen": 4667.29,
+   "ausgaben": 3589,
+   "bevoelkerung": 3210.58,
+   "je_stufe": {
+    "1500": 120.58,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1723
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 799,
+    "8514": 120.58
+   }
+  },
+  {
+   "mid": "20261107T063638-00318",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:36:38+01:00",
+   "spielzeit_ms": 15208000,
+   "geld": 44551,
+   "bilanz": 1048.89,
+   "einnahmen": 4681.89,
+   "ausgaben": 3633,
+   "bevoelkerung": 3228.74,
+   "je_stufe": {
+    "1500": 135.7,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1726.04
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 802.04,
+    "8514": 135.7
+   }
+  },
+  {
+   "mid": "20261107T063723-00319",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-07T06:37:18+01:00",
+   "spielzeit_ms": 15243100,
+   "geld": 45023,
+   "bilanz": 1145.3101,
+   "einnahmen": 4778.3101,
+   "ausgaben": 3633.0,
+   "bevoelkerung": 3253,
+   "je_stufe": {
+    "1496": 1108.0,
+    "1499": 1610.1,
+    "1497": 208.0,
+    "1500": 132.1
+   },
+   "inseln": {
+    "8897": 2141.0,
+    "9665": 785.1,
+    "8514": 132.1
+   }
+  },
+  {
+   "mid": "20261107T063738-00320",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:37:38+01:00",
+   "spielzeit_ms": 15268000,
+   "geld": 45954,
+   "bilanz": 1156.98,
+   "einnahmen": 4789.98,
+   "ausgaben": 3633,
+   "bevoelkerung": 3264.09,
+   "je_stufe": {
+    "1500": 145,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1752.09
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 828.09,
+    "8514": 145
+   }
+  },
+  {
+   "mid": "20261107T063837-00321",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:38:37+01:00",
+   "spielzeit_ms": 15328000,
+   "geld": 47123,
+   "bilanz": 1188.5,
+   "einnahmen": 4822.5,
+   "ausgaben": 3634,
+   "bevoelkerung": 3282,
+   "je_stufe": {
+    "1500": 145,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1770
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 846,
+    "8514": 145
+   }
+  },
+  {
+   "mid": "20261107T063938-00322",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:39:38+01:00",
+   "spielzeit_ms": 15388000,
+   "geld": 48203,
+   "bilanz": 1272.34,
+   "einnahmen": 4906.34,
+   "ausgaben": 3634,
+   "bevoelkerung": 3301.8,
+   "je_stufe": {
+    "1500": 145.16,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1789.64
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 865.635,
+    "8514": 145.16
+   }
+  },
+  {
+   "mid": "20261107T064037-00323",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:40:37+01:00",
+   "spielzeit_ms": 15447500,
+   "geld": 49224,
+   "bilanz": 1390.92,
+   "einnahmen": 5024.92,
+   "ausgaben": 3634,
+   "bevoelkerung": 3359.17,
+   "je_stufe": {
+    "1500": 183.65,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1808.52
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 884.515,
+    "8514": 183.65
+   }
+  },
+  {
+   "mid": "20261107T064138-00324",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:41:38+01:00",
+   "spielzeit_ms": 15507500,
+   "geld": 50489,
+   "bilanz": 1379.92,
+   "einnahmen": 5050.92,
+   "ausgaben": 3671,
+   "bevoelkerung": 3390,
+   "je_stufe": {
+    "1500": 213,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1810
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 213
+   }
+  },
+  {
+   "mid": "20261107T064234-00325",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-07T06:42:29+01:00",
+   "spielzeit_ms": 15551400,
+   "geld": 52024,
+   "bilanz": 1313.5449,
+   "einnahmen": 5039.5449,
+   "ausgaben": 3726.0,
+   "bevoelkerung": 3391,
+   "je_stufe": {
+    "1496": 1108.0,
+    "1499": 1677.0,
+    "1497": 208.0,
+    "1500": 203.1
+   },
+   "inseln": {
+    "8897": 2141.0,
+    "9665": 852.0,
+    "8514": 203.1
+   }
+  },
+  {
+   "mid": "20261107T064238-00326",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:42:38+01:00",
+   "spielzeit_ms": 15567500,
+   "geld": 53019,
+   "bilanz": 1326.91,
+   "einnahmen": 5057.91,
+   "ausgaben": 3731,
+   "bevoelkerung": 3395.04,
+   "je_stufe": {
+    "1500": 218.04,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1810
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 218.04
+   }
+  },
+  {
+   "mid": "20261107T064337-00327",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:43:37+01:00",
+   "spielzeit_ms": 15627500,
+   "geld": 54807,
+   "bilanz": 1312.28,
+   "einnahmen": 5053.28,
+   "ausgaben": 3741,
+   "bevoelkerung": 3402.24,
+   "je_stufe": {
+    "1500": 225.24,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1810
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 225.24
+   }
+  },
+  {
+   "mid": "20261107T064438-00328",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:44:38+01:00",
+   "spielzeit_ms": 15688000,
+   "geld": 56566,
+   "bilanz": 1323.15,
+   "einnahmen": 5064.15,
+   "ausgaben": 3741,
+   "bevoelkerung": 3408,
+   "je_stufe": {
+    "1500": 231,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1810
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 231
+   }
+  },
+  {
+   "mid": "20261107T064537-00329",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:45:37+01:00",
+   "spielzeit_ms": 15748000,
+   "geld": 57851,
+   "bilanz": 1318.36,
+   "einnahmen": 5073.36,
+   "ausgaben": 3755,
+   "bevoelkerung": 3408.8,
+   "je_stufe": {
+    "1500": 231.8,
+    "1496": 1153,
+    "1497": 214,
+    "1499": 1810
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 231.8
+   }
+  },
+  {
+   "mid": "20261107T064638-00330",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:46:38+01:00",
+   "spielzeit_ms": 15808500,
+   "geld": 59124,
+   "bilanz": 1337.14,
+   "einnahmen": 5092.14,
+   "ausgaben": 3755,
+   "bevoelkerung": 3416.12,
+   "je_stufe": {
+    "1499": 1810,
+    "1503": 4,
+    "1497": 214,
+    "1500": 235.12,
+    "1496": 1153
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 239.12
+   }
+  },
+  {
+   "mid": "20261107T064740-00331",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-07T06:47:37+01:00",
+   "spielzeit_ms": 15859700,
+   "geld": 60294,
+   "bilanz": 1349.3049,
+   "einnahmen": 5109.3047,
+   "ausgaben": 3760.0,
+   "bevoelkerung": 3420,
+   "je_stufe": {
+    "1496": 1108.0,
+    "1499": 1677.0,
+    "1497": 208.0,
+    "1500": 222.0,
+    "1503": 4.0
+   },
+   "inseln": {
+    "8897": 2141.0,
+    "9665": 852.0,
+    "8514": 226.0
+   }
+  },
+  {
+   "mid": "20261107T064740-00332",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:47:40+01:00",
+   "spielzeit_ms": 15869000,
+   "geld": 60528,
+   "bilanz": 1348.45,
+   "einnahmen": 5108.45,
+   "ausgaben": 3760,
+   "bevoelkerung": 3420,
+   "je_stufe": {
+    "1499": 1810,
+    "1503": 4,
+    "1497": 214,
+    "1500": 239,
+    "1496": 1153
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 243
+   }
+  },
+  {
+   "mid": "20261107T064839-00333",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:48:39+01:00",
+   "spielzeit_ms": 15921500,
+   "geld": 62705,
+   "bilanz": 1357.51,
+   "einnahmen": 5117.51,
+   "ausgaben": 3760,
+   "bevoelkerung": 3420,
+   "je_stufe": {
+    "1499": 1810,
+    "1503": 4,
+    "1497": 214,
+    "1500": 239,
+    "1496": 1153
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 243
+   }
+  },
+  {
+   "mid": "20261107T064940-00334",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:49:40+01:00",
+   "spielzeit_ms": 15969000,
+   "geld": 64372,
+   "bilanz": 1368.3,
+   "einnahmen": 5128.3,
+   "ausgaben": 3760,
+   "bevoelkerung": 3420,
+   "je_stufe": {
+    "1499": 1810,
+    "1503": 4,
+    "1497": 214,
+    "1500": 239,
+    "1496": 1153
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 243
+   }
+  },
+  {
+   "mid": "20261107T065039-00335",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:50:39+01:00",
+   "spielzeit_ms": 16029000,
+   "geld": 66262,
+   "bilanz": 1394.16,
+   "einnahmen": 5154.16,
+   "ausgaben": 3760,
+   "bevoelkerung": 3427.76,
+   "je_stufe": {
+    "1499": 1810,
+    "1503": 4,
+    "1497": 214,
+    "1500": 246.76,
+    "1496": 1153
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 250.76
+   }
+  },
+  {
+   "mid": "20261107T065141-00336",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:51:41+01:00",
+   "spielzeit_ms": 16089000,
+   "geld": 67748,
+   "bilanz": 1408.73,
+   "einnahmen": 5168.73,
+   "ausgaben": 3760,
+   "bevoelkerung": 3436,
+   "je_stufe": {
+    "1499": 1810,
+    "1503": 4,
+    "1497": 214,
+    "1500": 255,
+    "1496": 1153
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 259
+   }
+  },
+  {
+   "mid": "20261107T065240-00337",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:52:40+01:00",
+   "spielzeit_ms": 16149000,
+   "geld": 68658,
+   "bilanz": 1406.37,
+   "einnahmen": 5178.37,
+   "ausgaben": 3772,
+   "bevoelkerung": 3436,
+   "je_stufe": {
+    "1499": 1810,
+    "1503": 4,
+    "1497": 214,
+    "1500": 255,
+    "1496": 1153
+   },
+   "inseln": {
+    "8897": 2291,
+    "9665": 886,
+    "8514": 259
+   }
+  },
+  {
+   "mid": "20261107T065251-00338",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-07T06:52:48+01:00",
+   "spielzeit_ms": 16150200,
+   "geld": 68689,
+   "bilanz": 1406.3667,
+   "einnahmen": 5178.3667,
+   "ausgaben": 3772.0,
+   "bevoelkerung": 3436,
+   "je_stufe": {
+    "1496": 1108.0,
+    "1499": 1677.0,
+    "1497": 208.0,
+    "1500": 238.0,
+    "1503": 4.0
+   },
+   "inseln": {
+    "8897": 2141.0,
+    "9665": 852.0,
+    "8514": 242.0
+   }
+  },
+  {
+   "mid": "20261107T065340-00339",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:53:40+01:00",
+   "spielzeit_ms": 16209000,
+   "geld": 64946,
+   "bilanz": 1177.58,
+   "einnahmen": 5193.58,
+   "ausgaben": 4016,
+   "bevoelkerung": 3444.93,
+   "je_stufe": {
+    "1499": 1763,
+    "1503": 4,
+    "1497": 227,
+    "1500": 255,
+    "1496": 1195.93
+   },
+   "inseln": {
+    "8897": 2296.36,
+    "9665": 889.57,
+    "8514": 259
+   }
+  },
+  {
+   "mid": "20261107T065441-00340",
+   "quelle": "lua",
+   "erfasst_um": "2026-11-07T06:54:41+01:00",
+   "spielzeit_ms": 16269000,
+   "geld": 64763,
+   "bilanz": 1200.57,
+   "einnahmen": 5230.57,
+   "ausgaben": 4030,
+   "bevoelkerung": 3489,
+   "je_stufe": {
+    "1499": 1741,
+    "1503": 4,
+    "1497": 242,
+    "1500": 255,
+    "1496": 1247
+   },
+   "inseln": {
+    "8897": 2337,
+    "9665": 893,
+    "8514": 259
+   }
+  },
+  {
+   "mid": "20261107T065513-00341",
+   "quelle": "spielstand",
+   "erfasst_um": "2026-11-07T06:55:09+01:00",
+   "spielzeit_ms": 16287500,
+   "geld": 65140,
+   "bilanz": 1213.29,
+   "einnahmen": 5243.29,
+   "ausgaben": 4030.0,
+   "bevoelkerung": 3505,
+   "je_stufe": {
+    "1496": 1225.3,
+    "1499": 1599.0,
+    "1497": 236.0,
+    "1500": 238.0,
+    "1503": 4.0
+   },
+   "inseln": {
+    "8897": 2201.3,
+    "9665": 859.0,
+    "8514": 242.0
+   }
+  }
+ ],
+ "ereignisse": [
+  {
+   "mid": "20261107T061631-00295",
+   "art": "lager_leer",
+   "text": "Runlet: Lager Bretter leer (vorher 4).",
+   "spielzeit_ms": 14024000,
+   "erfasst_um": "2026-11-07T06:16:31+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "ware": "2174"
+  },
+  {
+   "mid": "20261107T061833-00297",
+   "art": "bedarf_gut",
+   "text": "Runlet: Herzmuscheln für Wanderer wieder zu 95 % erfüllt (vorher 89 %).",
+   "spielzeit_ms": 14140500,
+   "erfasst_um": "2026-11-07T06:18:33+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2097"
+  },
+  {
+   "mid": "20261107T061833-00297",
+   "art": "bedarf_gut",
+   "text": "Runlet: Aale für Wanderer wieder zu 95 % erfüllt (vorher 58 %).",
+   "spielzeit_ms": 14140500,
+   "erfasst_um": "2026-11-07T06:18:33+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2108"
+  },
+  {
+   "mid": "20261107T062150-00301",
+   "art": "entscheidung",
+   "text": "Entscheidung „Eine Unangenehme Bekanntschaft“: Sie an Roms Herrschaft erinnern.",
+   "spielzeit_ms": 14136063,
+   "erfasst_um": "2026-11-07T06:21:47+01:00",
+   "quelle": "spielstand",
+   "entscheidung": 88948,
+   "wahl": 88951,
+   "seit_ms": 14023300,
+   "spielzeit_stand_ms": 14328400
+  },
+  {
+   "mid": "20261107T062150-00301",
+   "art": "erkundung",
+   "text": "Albion: 4 Inseln neu entdeckt, zusammen 23 (darunter Insel 9538).",
+   "spielzeit_ms": 14328400,
+   "erfasst_um": "2026-11-07T06:21:47+01:00",
+   "quelle": "spielstand",
+   "provinz": 6627,
+   "anzahl": 23,
+   "neu": 4
+  },
+  {
+   "mid": "20261107T062704-00307",
+   "art": "erkundung",
+   "text": "Albion: 2 Inseln neu entdeckt, zusammen 25.",
+   "spielzeit_ms": 14641100,
+   "erfasst_um": "2026-11-07T06:27:01+01:00",
+   "quelle": "spielstand",
+   "provinz": 6627,
+   "anzahl": 25,
+   "neu": 2
+  },
+  {
+   "mid": "20261107T062704-00307",
+   "art": "forschung",
+   "text": "Tarragon schließt die Forschung „Steinschleuderer“ (Militärische Forschung) ab.",
+   "spielzeit_ms": 14641100,
+   "erfasst_um": "2026-11-07T06:27:01+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 31100,
+   "forschung": 94976
+  },
+  {
+   "mid": "20261107T062704-00307",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Gepanzerte Rümpfe“ (Militärische Forschung).",
+   "spielzeit_ms": 14641100,
+   "erfasst_um": "2026-11-07T06:27:01+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 38529
+  },
+  {
+   "mid": "20261107T062704-00307",
+   "art": "forschung",
+   "text": "Forschung begonnen: „Legionäre“ (Militärische Forschung).",
+   "spielzeit_ms": 14641100,
+   "erfasst_um": "2026-11-07T06:27:01+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 37654,
+   "beginn": true
+  },
+  {
+   "mid": "20261107T062704-00307",
+   "art": "auftrag",
+   "text": "Neuer Auftrag: Durch die Wellen fegen.",
+   "spielzeit_ms": 14641100,
+   "erfasst_um": "2026-11-07T06:27:01+01:00",
+   "quelle": "spielstand",
+   "auftrag": 95259,
+   "auftrag_id": "95259"
+  },
+  {
+   "mid": "20261107T062935-00310",
+   "art": "bedarf_gut",
+   "text": "Runlet: Herzmuscheln für Wanderer wieder zu 100 % erfüllt (vorher 86 %).",
+   "spielzeit_ms": 14803500,
+   "erfasst_um": "2026-11-07T06:29:35+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2097"
+  },
+  {
+   "mid": "20261107T062935-00310",
+   "art": "bedarf_gut",
+   "text": "Runlet: Aale für Wanderer wieder zu 100 % erfüllt (vorher 86 %).",
+   "spielzeit_ms": 14803500,
+   "erfasst_um": "2026-11-07T06:29:35+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2108"
+  },
+  {
+   "mid": "20261107T063036-00311",
+   "art": "bedarf_gut",
+   "text": "Runlet: Markt für Wanderer wieder zu 100 % erfüllt (vorher 60 %).",
+   "spielzeit_ms": 14864000,
+   "erfasst_um": "2026-11-07T06:30:36+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2671"
+  },
+  {
+   "mid": "20261107T063215-00313",
+   "art": "entscheidung",
+   "text": "Entscheidung „Ein Wanderer kniet im Dreck“: Dich gnädig zeigen (100 Denare).",
+   "spielzeit_ms": 14927572,
+   "erfasst_um": "2026-11-07T06:32:12+01:00",
+   "quelle": "spielstand",
+   "entscheidung": 99157,
+   "wahl": 99156,
+   "seit_ms": 14641100,
+   "spielzeit_stand_ms": 14935200
+  },
+  {
+   "mid": "20261107T063215-00313",
+   "art": "erkundung",
+   "text": "Albion: 1 Insel neu entdeckt, zusammen 26.",
+   "spielzeit_ms": 14935200,
+   "erfasst_um": "2026-11-07T06:32:12+01:00",
+   "quelle": "spielstand",
+   "provinz": 6627,
+   "anzahl": 26,
+   "neu": 1
+  },
+  {
+   "mid": "20261107T063215-00313",
+   "art": "forschung",
+   "text": "Zara Nitu schließt die Forschung „Trireme“ (Zivile Forschung) ab.",
+   "spielzeit_ms": 14935200,
+   "erfasst_um": "2026-11-07T06:32:12+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 31103,
+   "forschung": 38532
+  },
+  {
+   "mid": "20261107T063215-00313",
+   "art": "auftrag",
+   "text": "Aus dem Auftragsbuch entfernt: Adlerstandarten (erledigt oder abgebrochen).",
+   "spielzeit_ms": 14935200,
+   "erfasst_um": "2026-11-07T06:32:12+01:00",
+   "quelle": "spielstand",
+   "auftrag": 147415,
+   "auftrag_id": "147415"
+  },
+  {
+   "mid": "20261107T063237-00314",
+   "art": "bedarf_gut",
+   "text": "Runlet: Sängerstube für Wanderer wieder zu 93 % erfüllt (vorher 89 %).",
+   "spielzeit_ms": 14968000,
+   "erfasst_um": "2026-11-07T06:32:37+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "6709"
+  },
+  {
+   "mid": "20261107T063437-00316",
+   "art": "betriebe",
+   "text": "Runlet: Hanfhof 0 → 1.",
+   "spielzeit_ms": 15088000,
+   "erfasst_um": "2026-11-07T06:34:37+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "betrieb": "31762"
+  },
+  {
+   "mid": "20261107T063536-00317",
+   "art": "betriebe",
+   "text": "Runlet: Spinnerei 0 → 1.",
+   "spielzeit_ms": 15148000,
+   "erfasst_um": "2026-11-07T06:35:36+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "betrieb": "5958"
+  },
+  {
+   "mid": "20261107T064037-00323",
+   "art": "bevoelkerung",
+   "text": "Runlet: Wanderer 145 → 184 (+38).",
+   "spielzeit_ms": 15447500,
+   "erfasst_um": "2026-11-07T06:40:37+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500"
+  },
+  {
+   "mid": "20261107T064138-00324",
+   "art": "betriebe",
+   "text": "Beneventum: Salzgärten 3 → 4.",
+   "spielzeit_ms": 15507500,
+   "erfasst_um": "2026-11-07T06:41:38+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "betrieb": "2957"
+  },
+  {
+   "mid": "20261107T064138-00324",
+   "art": "betriebe",
+   "text": "Beneventum: Makrelenhütte 2 → 4.",
+   "spielzeit_ms": 15507500,
+   "erfasst_um": "2026-11-07T06:41:38+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "betrieb": "2956"
+  },
+  {
+   "mid": "20261107T064138-00324",
+   "art": "bedarf_gut",
+   "text": "Runlet: Herzmuscheln für Wanderer wieder zu 100 % erfüllt (vorher 86 %).",
+   "spielzeit_ms": 15507500,
+   "erfasst_um": "2026-11-07T06:41:38+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2097"
+  },
+  {
+   "mid": "20261107T064138-00324",
+   "art": "bedarf_gut",
+   "text": "Runlet: Markt für Wanderer wieder zu 100 % erfüllt (vorher 86 %).",
+   "spielzeit_ms": 15507500,
+   "erfasst_um": "2026-11-07T06:41:38+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2671"
+  },
+  {
+   "mid": "20261107T064138-00324",
+   "art": "bedarf_gut",
+   "text": "Runlet: Aale für Wanderer wieder zu 100 % erfüllt (vorher 86 %).",
+   "spielzeit_ms": 15507500,
+   "erfasst_um": "2026-11-07T06:41:38+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2108"
+  },
+  {
+   "mid": "20261107T064234-00325",
+   "art": "religion",
+   "text": "Olivaria: Hingabe an Ceres erreicht Stufe 3 (500, Wirkung 30 %).",
+   "spielzeit_ms": 15551400,
+   "erfasst_um": "2026-11-07T06:42:29+01:00",
+   "quelle": "spielstand",
+   "insel": 9665,
+   "gott": 43594,
+   "hingabe_stufe": 3
+  },
+  {
+   "mid": "20261107T064537-00329",
+   "art": "bedarf_schlecht",
+   "text": "Runlet: Schilfschuhe für Wanderer unter die Hälfte erfüllt (56 % → 48 %).",
+   "spielzeit_ms": 15748000,
+   "erfasst_um": "2026-11-07T06:45:37+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2159"
+  },
+  {
+   "mid": "20261107T064638-00330",
+   "art": "stufe_neu",
+   "text": "Runlet: Mercatoren erstmals beobachtet (4 Bewohner).",
+   "spielzeit_ms": 15808500,
+   "erfasst_um": "2026-11-07T06:46:38+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1503"
+  },
+  {
+   "mid": "20261107T064740-00331",
+   "art": "forschung",
+   "text": "Athr Iorgwyn schließt die Forschung „Axtträger“ (Militärische Forschung) ab.",
+   "spielzeit_ms": 15859700,
+   "erfasst_um": "2026-11-07T06:47:37+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 31102,
+   "forschung": 68312
+  },
+  {
+   "mid": "20261107T064740-00331",
+   "art": "forschung",
+   "text": "Zara Nitu schließt die Forschung „Axtträger“ (Militärische Forschung) ab.",
+   "spielzeit_ms": 15859700,
+   "erfasst_um": "2026-11-07T06:47:37+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 31103,
+   "forschung": 68312
+  },
+  {
+   "mid": "20261107T064740-00331",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Legionäre“ (Militärische Forschung).",
+   "spielzeit_ms": 15859700,
+   "erfasst_um": "2026-11-07T06:47:37+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 37654
+  },
+  {
+   "mid": "20261107T064740-00331",
+   "art": "forschung",
+   "text": "Forschung begonnen: „Portitores“ (Zivile Forschung).",
+   "spielzeit_ms": 15859700,
+   "erfasst_um": "2026-11-07T06:47:37+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 37902,
+   "beginn": true
+  },
+  {
+   "mid": "20261107T064740-00331",
+   "art": "religion",
+   "text": "Beneventum: Hingabe an Ceres erreicht Stufe 4 (1.078, Wirkung 40 %).",
+   "spielzeit_ms": 15859700,
+   "erfasst_um": "2026-11-07T06:47:37+01:00",
+   "quelle": "spielstand",
+   "insel": 8897,
+   "gott": 43594,
+   "hingabe_stufe": 4
+  },
+  {
+   "mid": "20261107T064740-00332",
+   "art": "betriebe",
+   "text": "Runlet: Schlammtrockner 0 → 1.",
+   "spielzeit_ms": 15869000,
+   "erfasst_um": "2026-11-07T06:47:40+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "betrieb": "5848"
+  },
+  {
+   "mid": "20261107T065141-00336",
+   "art": "bedarf_gut",
+   "text": "Runlet: Tuniken für Wanderer wieder zu 93 % erfüllt (vorher 86 %).",
+   "spielzeit_ms": 16089000,
+   "erfasst_um": "2026-11-07T06:51:41+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2141"
+  },
+  {
+   "mid": "20261107T065141-00336",
+   "art": "bedarf_gut",
+   "text": "Runlet: Tuniken für Mercatoren wieder zu 93 % erfüllt (vorher 89 %).",
+   "spielzeit_ms": 16089000,
+   "erfasst_um": "2026-11-07T06:51:41+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1503",
+   "ware": "2141"
+  },
+  {
+   "mid": "20261107T065240-00337",
+   "art": "bedarf_gut",
+   "text": "Runlet: Schilfschuhe für Wanderer wieder zu 100 % erfüllt (vorher 89 %).",
+   "spielzeit_ms": 16149000,
+   "erfasst_um": "2026-11-07T06:52:40+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1500",
+   "ware": "2159"
+  },
+  {
+   "mid": "20261107T065240-00337",
+   "art": "bedarf_gut",
+   "text": "Runlet: Schilfschuhe für Mercatoren wieder zu 100 % erfüllt (vorher 90 %).",
+   "spielzeit_ms": 16149000,
+   "erfasst_um": "2026-11-07T06:52:40+01:00",
+   "quelle": "lua",
+   "insel": 8514,
+   "stufe": "1503",
+   "ware": "2159"
+  },
+  {
+   "mid": "20261107T065340-00339",
+   "art": "stufe_neu",
+   "text": "Olivaria: Equites erstmals beobachtet (13 Bewohner).",
+   "spielzeit_ms": 16209000,
+   "erfasst_um": "2026-11-07T06:53:40+01:00",
+   "quelle": "lua",
+   "insel": 9665,
+   "stufe": "1497"
+  },
+  {
+   "mid": "20261107T065441-00340",
+   "art": "bedarf_schlecht",
+   "text": "Beneventum: Grammaticus für Plebejer unter die Hälfte erfüllt (52 % → 49 %).",
+   "spielzeit_ms": 16269000,
+   "erfasst_um": "2026-11-07T06:54:41+01:00",
+   "quelle": "lua",
+   "insel": 8897,
+   "stufe": "1496",
+   "ware": "2680"
+  },
+  {
+   "mid": "20261107T065513-00341",
+   "art": "forschung",
+   "text": "Forschung abgeschlossen: „Portitores“ (Zivile Forschung).",
+   "spielzeit_ms": 16287500,
+   "erfasst_um": "2026-11-07T06:55:09+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 37902
+  },
+  {
+   "mid": "20261107T065513-00341",
+   "art": "forschung",
+   "text": "Forschung begonnen: „Latrinen“ (Zivile Forschung).",
+   "spielzeit_ms": 16287500,
+   "erfasst_um": "2026-11-07T06:55:09+01:00",
+   "quelle": "spielstand",
+   "teilnehmer": 41,
+   "forschung": 37886,
+   "beginn": true
+  }
+ ]
+}
