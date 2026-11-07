@@ -1,6 +1,6 @@
 # Caesia Varilla · Erster Lauf · Stand
 
-Stand 6.11.2026, 16:50 (Claude, Nebensitzung Kapitel I bis VI).
+Stand 7.11.2026, 07:40 (Claude, Nebensitzung Kapitel I bis VIII).
 
 ## Schreibweise
 
@@ -47,28 +47,24 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
 - Harz und Öl: Harzzapfer 169:39/170:39, Töpfer 174:39 (Amphoren der Plebejer 21 → 81 % bei 177:34, 100 % bei 189:06), Olivenzüchter 180:35/181:35 (6), Olivenpressen 183:35/184:35 (3); Olivenöl 63 % bei 189:06, 100 % ab 190:02 (Kapitel VII).
 - Brief „Öl“ an die Mutter: Erinnerung an den Hügel aus zerschlagenen Ölkrügen hinter dem Emporium am Tiber, eine Scherbe mit Werkstattstempel aus Hispania (historisch: der heutige Monte Testaccio, Ölamphoren vor allem aus der Baetica; der Name ist mittelalterlich und steht deshalb nicht im Text).
 
-**Stoff für Kapitel VII** (ab 189:06 min), schon gelesen bis 223:00 min aus den Live-Zeilen (Q10) und den Spielständen bei 201:09, 220:40, 221:51 und 223:00 min (Q11):
-- Drittes Feuer auf Beneventum: ausgelöst 186:55 min (also noch vor dem Einschnitt), gelöscht bis 189:59 min (Vigiles); erst im Spielstand bei 201:09 min lesbar, deshalb in Kapitel VII erzählen.
-- Olivenöl für Plebejer und Equites 100 % ab 190:02; auf Olivaria Sandalen 100 % (197:03), Amphoren 100 % (197:58), Olivenöl 100 % (200:58); später Amphoren dort unter der Hälfte (219:50, 220:50).
-- Equites 14 → 41 (196:02) → 68 → 109 (197:58) → 194 (215:58) → 207; Kalksteinbruch (194:02), Sandraffinerien und Betonmischer (195:02).
-- Aegyptus: Inselnahmen für Valeria (Aegyptus), Kandis von Kashta und Epistratege Heron um 15:43:23 (etwa 188:43 min) mit zwei Ereignisfenstern; „Erwachen des Deltas“ bis 201:09 min aus dem Auftragsbuch, Provinz Aegyptus ab dem Spielstand bei 201:09 min.
-- Albion: 2 Inseln entdeckt (201:09), 12 (220:40), 13 (221:51); bei 221:51 min ist Albion die aktive Provinz.
-- Entscheidungen zwischen 201:09 und 220:40 min: „Begegnung mit einem Rivalen“ (Athr Iorgwyn): Höflich grüßen; „Besiedlungsanfrage“ (Tarragon): Insel gewähren (Tarragon nimmt Insel 8706 bei 211:18 min); „Adlerstandarten“: Sold und Vorräte bereitstellen (40.000 Denare; Kasse 49.567 → 9.047 zwischen 205:18 und 206:04 min, Ereignisfenster um 16:02:06).
-- Aufträge: Auftrag 77326 (Gnaeus Firmius Calidus) ab 201:09, bis 220:40 min verschwunden; „Adlerstandarten“ und „Die Wiedererlangung der Freiheit“ (Eques) ab 220:40 min.
-- Zwischenfälle: Feuer auf Olivaria (geplant 207:15, gelöscht bis 208:48 min, Vigiles), Unruhen auf Beneventum 214:09 bis 215:39 min (Custodia).
-- Wein: Weingut ×2 (213:58), Bienenstock (214:58), Winzer (215:58); Wein für die Equites 100 % (219:50). Theater für die Equites 40 → 100 % (223:00), dazu Kasse −13.700 und öffentliche Dienste +73 bei 221:45 min (Abgeleitet: ein Theater).
-- Forschung: „Gestampfte Erde“, „Koordinierte Salven“ (bis 201:09), „Trireme“, „Wachtürme“ (bis 220:40); dann „Gepanzerte Rümpfe“.
-- Praetoren: Zara Nitu nimmt Insel 8642 (209:24 min, die dritte), Tarragon Insel 8706 (211:18, die zweite); Kriegsschiffe 74 → 111 bei 218:50 min (das dritte).
-- Bei 223:00 min 2.954 Bewohner, Kasse 11.323; das Spiel endete um 16:24 nach dem Speichern. Ein Bildschirmfoto des Spielers um 16:07:54 (etwa 211:28 min) bleibt beim Spieler.
-- Weitergespielt von 16:31 bis 16:43, diesmal mit Monitor (223:00 bis 233:43 min):
-  - Bei 230:29 min nimmt Caesia Insel 8514 in Besitz, Runlet in Albion, ihre erste Insel dort; ab 231:40 min stehen dort zwei Holzfäller und eine Herzmuschelfarm.
-  - In Albion sind 18 Inseln entdeckt (228:13), dann 19 (233:43).
-  - Vier Bildschirmfotos des Spielers zwischen 225:25 und 228:36 min; sie bleiben beim Spieler.
-  - Gespeichert bei 233:43 min.
-  - Möglicher Einschnitt für Kapitel VII: Runlet, die erste Insel in Albion.
+**Kapitel VII „Nach Albion“** (`#kapitel-7`): 189:06 bis 231:01 min, aufgenommen am 6.11.2026 von 15:44 bis 16:24 und von 16:32 bis 16:40. Einschnitt: Runlet, die erste Insel in Albion (230:29 min laut Spielprotokoll, live ab 231:01 min; Spieler: „Zwei Kapitel“, VII bis Runlet). Bericht, sechs Tagebucheinträge, Randnotiz, Register `-0076` bis `-0088`. Kartenstand VII aus dem Spielstand bei 223:00 min (Kopie des damaligen „Caesia Varilla 1“; die Spielstände bei 228:13 und 233:43 min hat das Spiel überschrieben), deshalb noch ohne Runlet.
+- Werte bis 221:51 min aus der Nachlese (Q10, jetzt auch im Monitor), danach Monitor (Q3). Erste Live-Messung nach dem Laden um 16:32 (223:01, Bilanz +6.141) bleibt aus den Texten.
+- Entscheidungen bei 220:40 („seit 201:09“), datiert nach der Notiz der Nachlese: Adlerstandarten 205:58 (Kasse −40.520), Besiedlungsanfrage 211:17 (Tarragons Inselnahme 211:18), Begegnung mit Athr Iorgwyn 217:51 (Aktion 54165 um 16:14:05). Im Bericht belegt mit „seit 201:09“, die Zeiten in der Zeitachse und als Abgeleitet.
+- Theater: Theater der Equites 0 → 24 % bei 221:45 (Kasse −13.714, öffentliche Dienste +73), 71 % ab 223:01 (Abgeleitet: ein Theater).
+- Inseln: Calculus (8642, Zara Nitu, 209:23) und Antica (8706, Tarragon, 211:18), beide Albion; Aegyptus: Sepat der Feder (Valeria), Sepat der Palmen (Kandis von Kashta), zwei Inseln des Epistrategen Heron (188:43).
+- Equites aus Caesias Sicht „Leute meines Standes“: Laut Dossier stammt sie aus dem Ritterstand.
+
+**Kapitel VIII „Bögen und Ruder“** (`#kapitel-8`): 231:01 bis 271:27 min, aufgenommen am 6.11.2026 von 16:40 bis 16:43 und am 7.11. von 6:17 bis 6:55. Einschnitt: das Aquädukt und die ersten Legionäre (Wunsch des Spielers: „agueduct und die ersten legionäre die ausgebildet werden plus tireme“). Bericht, sechs Tagebucheinträge, Randnotiz, Register `-0089` bis `-0100`, zwei neue offene Fragen (Adlerstandarten erfüllt oder abgebrochen; Ziel der Angriffe). Kartenstand VIII aus dem Spielstand bei 271:27 min.
+- Trireme (Abgeleitet): Fenster zum Ausheben 6:25:09 bis 6:26:32 (zwischen 241:42 und 243:42 min), Hafengebäude 193 statt 96 von 243:42 bis 254:28, Kriegsschiffe 111 → 209 ab 255:28 (+98). Angriffsbefehle 6:38:02, 6:43:27 bis 6:44:29, 6:48:39 bis 6:48:43 (um 254:52, 260:17 bis 261:19, 265:21 min).
+- Legionäre (Abgeleitet): Forschung fertig 264:19; Fenster zum Ausheben 6:52:21 bis 6:53:18 (268:50 bis 269:47 min); Militärgebäude 54 → 298 bei 270:09 (Kasse −3.712), Einheiten bleiben bei 98, also noch in Ausbildung.
+- Aquädukt (Abgeleitet): `OMAqueduct` im Spielprotokoll um 6:54:47 (etwa 271:15 min), Zisterne der Equites 0 → 4 % bei 271:09, Infrastruktur 222 → 236 in derselben Minute. Baubeginn offen; die Infrastruktur stieg ab 239:41 in Stufen.
+- Entscheidungen: „Eine Unangenehme Bekanntschaft“ mit Voada von den Scáthach (88948; Wahl: an Roms Herrschaft erinnern; die andere Möglichkeit: Abstand vereinbaren), Fenster 235:36; „Ein Wanderer kniet im Dreck“ (99157; Wahl: gnädig zeigen, 100 Denare), Fenster 248:47.
+- Brief „Wasser“ an die Mutter: Erinnerung an die Einweihung der Aqua Traiana (Sommer 109 n. Chr., Caesia war zwanzig, Endpunkt am Ianiculum).
+
+**Stoff für Kapitel IX** (ab 271:27 min): noch keine Messungen danach; das Spiel endete am 7.11. um 6:55 nach dem Speichern. Offen am Stichtag: Legionäre in Ausbildung, Vertrag „Durch die Wellen fegen“, „Die Wiedererlangung der Freiheit“ (Eques), Forschung „Latrinen“ (nach „Portitores“, fertig bei 271:27), Equites ohne Bad, Forum und Togen, Mercatoren auf Runlet ohne Brot und Garum.
 
 - **Nächste freie Quellennummer:** Q12 (Q1 Einstellungen, Q2 Installation Update 3.0, Q3 Anno-Monitor, Q4 Dossier, Q5 Bildschirmfotos Libertus, Q6 Spielprotokoll, Q7 nachgelesene Spielstände, Q8 Feuer: Autosave bei 74:59 min, Angabe des Spielers, Spielprotokoll, Q9 Spielstände bei 125:17 und 140:26 min: Zwischenfälle, Q10 Live-Zeilen im Spielprotokoll 15:18 bis 16:24, Q11 Spielstände der Sitzung 15:18 bis 16:24).
-- **Nächste freie Registernummer:** `erster-lauf-0076`.
+- **Nächste freie Registernummer:** `erster-lauf-0101`.
 
 ## Protagonistin
 
@@ -88,6 +84,12 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
   - Caesia hat dem Medicus versprochen, sich die Brunnen anzusehen (Kapitel VI);
   - die Krüge tragen noch keinen Stempel; Gaius will damit warten, bis es mehr Öl gibt, als die Inseln brauchen (Kapitel VI);
   - die erste Familie der Equites wohnt am oberen Ende der Straße; Gaius' Liste dessen, was ihr noch fehlt (Kapitel VI).
+  - die Adlerstandarten: Caesia stellte Sold und Vorräte, vierzigtausend Denare (Kapitel VII); ob der Vertrag erfüllt wurde, ist offen;
+  - Tarragon siedelt mit Caesias Erlaubnis in Albion (Antica), sein Bote dankte (Kapitel VII);
+  - das Theater; bei der ersten Aufführung eine Komödie über einen Geizhals (Kapitel VII);
+  - Runlet in Albion, die erste Insel dort; Voada von den Scáthach hat Caesia an Roms Herrschaft erinnert (Kapitel VIII);
+  - ein Wanderer, dem Caesia Gnade erwies (hundert Denare an den Aufseher, Kapitel VIII);
+  - die Trireme fährt für den Vertrag „Durch die Wellen fegen“; die ersten Legionäre üben hinter der Wache; das Aquädukt bringt Wasser in die Zisterne (Kapitel VIII).
 
 ## Partie
 
@@ -95,7 +97,8 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
 - Erweiterungen Prophecies of Ash, The Hippodrome, Dawn of the Delta. Praetoren Tarragon (Hortia Poenitentium), Athr Iorgwyn (Werddon, Albion), Zara Nitu (Umbra). Dritte Teilnehmer seit Spielbeginn: Pirat Caeso Regulus Syracus (Insel 9985), Händlerinnen Diana (Villa Augusta), Valeria (Lilybaion), Caecilia (Cinis); in Albion Piratin Voada von den Scáthach (Insel 9538), Prokurator Corvinus (Klippenfurt), Manx (Cnocnees).
 - Beneventum: Außenposten ab 2:38, Kleiner Vicus ab 13:15, Großer Vicus ab 47:25, Kleine Gemeinde ab 75:22, Wachsende Gemeinde ab 174:39 min (Stufe 5); erste Equites bei 189:06 min. Villa des Praetors ab 26:59–27:51, Stadtwache ab 34:53–35:53 (zweite ab 73:34), Ceres und erstes Heiligtum 36:24–38:35, Hafengebäude ab 57:20, Militärgebäude ab 71:34 min, Einheiten ab 79:52, Handelsschiff ab 89:30, Kriegsschiff ab 111:33 min. Startlager 25 Bretter, 20 Waffen; Grundsteuer 150 je Minute.
 - Olivaria (Insel 9665, Latium, bis 125:17 min Lorica, ein vorgegebener Inselname des Spiels): eigene Insel ab 125:05 min über die Siedlungsrechte; Grundsteuer seitdem zusammen 300. Vom Spieler umbenannt, live ab 126:05 min. Außenposten bis 137:08, Kleiner Vicus ab 138:08 min, erste Plebejer bei 145:36 min, Großer Vicus ab 176:34 min (Stufe 3); Schutzgottheit Ceres (bei 181:04 min), Villa des Praetors mit Litugenus.
-- Zweite Inseln der Praetoren: Athr Iorgwyn Caer Morgan (Albion, 133:41 min), Zara Nitu Zibanitu (Latium, 145:33 min).
+- Zweite Inseln der Praetoren: Athr Iorgwyn Caer Morgan (Albion, 133:41 min), Zara Nitu Zibanitu (Latium, 145:33 min); dazu Zara Nitu Calculus (Albion, 209:23 min, die dritte), Tarragon Antica (Albion, 211:18 min, mit Caesias Erlaubnis).
+- Runlet (Insel 8514, Albion): eigene Insel ab 230:29 min, Außenposten, Kleiner Vicus ab 257:27 min, Wanderer und ab 263:28 min Mercatoren. Beneventum ab 264:19 min mit Ceres auf Stufe 4, Olivaria ab 259:11 min auf Stufe 3 und ab 270:09 min mit den ersten Equites.
 
 ## Daten
 
@@ -103,7 +106,7 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
 - Messdaten online seit `441e821`: 341 Messungen bis 271:27 min (Aufnahme bis 7.11. 6:55), mit der Nachlese vom 6.11., 15:18 bis 16:23 (60 Live-Messungen, Autosave 33), und mit der berichtigten Zeile der Unruhen (133:58 min). Korrektureintrag in `ac9f841`. Ohne Monitor gespielt? Dann im Anno-Monitor `nachlese.py --protokoll <Spielprotokoll>` (siehe Memory des Monitors). Der Monitor läuft seit 6.11. 7:59 mit Zwischenfällen (Zähler bei 91:41 min: 1).
 - Häuser: Live (`stufen.*.haeuser`) und Spielstand weichen teils ab; die Berichte nennen Wohnhäuser nach der Live-Messung.
 - Rivalen: „Bewohner“ der Praetoren ist ihr Attribut Bevölkerung im Spielstand; jeder hat bisher eine Insel.
-- Karte (seit 6.11.2026, `saves/erster-lauf/karte.html`): Kartenstände I–VI nach den Spielständen bei 16:32, 43:47, 74:59, 125:17, 140:26 und 181:04 min. Nach jedem Kapitel im Anno-Monitor `py -3 karte.py --save erster-lauf` laufen lassen. Umbenennungen trägst du vorher in `data/karte.json` ein (siehe `docs/KARTE.md`). Die Spielstände liegen lokal in `Anno-Monitor/_sicherung/`. Agathea heißt seit der Inselnahme durch Zara Nitu Zibanitu; das kommt aus dem Spielstand, eine Umbenennung des Spielers ist es nicht.
+- Karte (seit 6.11.2026, `saves/erster-lauf/karte.html`): Kartenstände I–VIII nach den Spielständen bei 16:32, 43:47, 74:59, 125:17, 140:26, 181:04, 223:00 und 271:27 min (VII und VIII je mit einer Karte von Albion). Nach jedem Kapitel im Anno-Monitor `py -3 karte.py --save erster-lauf` laufen lassen. Umbenennungen trägst du vorher in `data/karte.json` ein (siehe `docs/KARTE.md`). Die Spielstände liegen lokal in `Anno-Monitor/_sicherung/`. Agathea heißt seit der Inselnahme durch Zara Nitu Zibanitu; das kommt aus dem Spielstand, eine Umbenennung des Spielers ist es nicht.
 
 ## Tagebuch
 
@@ -113,6 +116,8 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
 - **Formen Kapitel IV:** Gespräch (Beim Koch), Notiz am Rand (Nachbarn), Brief an die Mutter (Die erste Seife, Vergleich mit Rom auf Wunsch des Spielers), Gespräch am Hafen (Schiffe), Notiz am Rand (Taberna), Liste (Lieferungen), Rechnung (Lorica). Noch ungenutzt: Brief an den Kaiser (heikel: Wer die Soldaten schickte, ist offen).
 - **Formen Kapitel V:** Eintrag (Olivaria), Liste (Was hinüberging), Gespräch (An der Eisenmine), Notiz am Rand (Noch ein Feuer), Rechnung (Die Truhe), Gespräch am Hafen (Valeria), Eintrag (Fünf Häuser). Ohne Erinnerung an Rom; ohne Brief.
 - **Formen Kapitel VI:** Notiz am Rand (Eigene Ziegel), Gespräch am Hafen (Ein Schiff weniger), Eintrag (Litugenus), Brief an die Mutter (Öl, mit der Erinnerung an den Scherbenhügel am Tiber), Gespräch (Drei Häuser), Eintrag (Die ersten Equites), Liste (Was noch fehlt).
+- **Formen Kapitel VII:** Notiz am Rand (Das dritte Feuer), Eintrag (Kalk und Sand), Rechnung (Sold für die Adler), Gespräch (Tarragons Bitte), Eintrag (Das Theater), Gespräch am Hafen (Runlet). Ohne Brief.
+- **Formen Kapitel VIII:** Gespräch (Voada), Liste (Was auf Runlet steht), Eintrag (Der Wanderer), Gespräch am Hafen (Die Trireme), Eintrag (Die ersten Legionäre), Brief an die Mutter (Wasser, mit der Einweihung der Aqua Traiana).
 - **Wiederkehrende Figuren** (Namen erst mit dem Spieler, außer Namen aus dem Spiel):
   - der Kapitän: bringt Namen und Nachrichten vom Wasser, holte die Kisten an Bord, kennt das Schiff des Piraten, stand beim Besuch zwei Schritte hinter Caesia; bekam von Tarragon einen Korb Feigen; meldete das verlorene Kriegsschiff (Kapitel VI);
   - die Männer an Bord; die Frau mit dem Kind am Wasser, ihr Mann, eine alte Frau (Kapitel I);
@@ -132,6 +137,11 @@ Wunsch des Spielers vom 6.11.2026 (während Kapitel IV): „vllt auch mal den ve
   - Caeso Regulus Syracus, Pirat: gut gekleidet, förmlich, kam allein an Land, sprach über Preise in Latium;
   - die Essenzialistin: ab 91:41 min in der Villa eingesetzt (Kapitel IV, im Tagebuch bisher ohne Szene);
   - Tarragon (bedankte sich für die Kisten), Zara Nitu (ihre Gelehrten studieren die Steinschleuder), Athr Iorgwyn (betet zu Mars);
-  - Mater: Empfängerin dreier Briefe; über sie legt das Tagebuch nichts fest („unser Garten“ ist der Garten der Familie).
-- Caesias Stimme: ruhig, genau, nach außen gefasst; Zahlen dort, wo sie zur Szene gehören. Erinnerungen an Rom selten und mit Anlass (Kapitel III: die Soldaten vor dem Haus; Kapitel IV: der Brief zur ersten Seife; Kapitel VI: der Scherbenhügel am Tiber, ohne den Vater).
-- **Schiffe:** Flaggschiff seit Spielbeginn (der Kapitän), Handelsschiff ab 89:30 min, Kriegsschiff ab 111:33 min (liegt am anderen Ende des Hafens), zweites Kriegsschiff ab 144:08 min daneben. Eines davon ging um 152 min vermutlich verloren, Ersatz von der Werft ab 160:11 min; ein drittes Kriegsschiff ab 218:50 min (Kapitel VII).
+  - Voada von den Scáthach, Piratin in Albion: ließ fragen, ob Caesia Abstand halten wolle; Caesia ließ antworten, die Gewässer gehörten zu Rom (Kapitel VIII);
+  - Tarragons Bote: fragte um Erlaubnis für eine Insel in Albion (Kapitel VII);
+  - ein Eques mit dem Schreiben wegen der Adlerstandarten (Kapitel VII);
+  - der Aufseher auf Runlet und der Wanderer im Schlamm (Kapitel VIII);
+  - die ersten Legionäre: üben mit Holzschwertern hinter der Wache; der Wirt verdünnte ihnen am ersten Abend den Wein (Kapitel VIII);
+  - Mater: Empfängerin von vier Briefen; über sie legt das Tagebuch nichts fest („unser Garten“ ist der Garten der Familie).
+- Caesias Stimme: ruhig, genau, nach außen gefasst; Zahlen dort, wo sie zur Szene gehören. Erinnerungen an Rom selten und mit Anlass (Kapitel III: die Soldaten vor dem Haus; Kapitel IV: der Brief zur ersten Seife; Kapitel VI: der Scherbenhügel am Tiber, ohne den Vater; Kapitel VIII: die Aqua Traiana).
+- **Schiffe:** Flaggschiff seit Spielbeginn (der Kapitän), Handelsschiff ab 89:30 min, Kriegsschiff ab 111:33 min (liegt am anderen Ende des Hafens), zweites Kriegsschiff ab 144:08 min daneben. Eines davon ging um 152 min vermutlich verloren, Ersatz von der Werft ab 160:11 min; ein drittes Kriegsschiff ab 218:50 min (Kapitel VII). Die Trireme kostet ab 255:28 min mit (Kriegsschiffe 209 Denare je Minute), sie fuhr bis 265:21 min dreimal zum Angriff aus und blieb in den Ausgaben.
