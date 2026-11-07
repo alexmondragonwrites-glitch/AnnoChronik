@@ -2,6 +2,30 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-07 – Kapitel VII „Nach Albion“ und VIII „Bögen und Ruder“ (Claude, Nebensitzung)
+
+- Spieler: „nächsten story denke ich agueduct und die ersten legionäre die ausgebildet werden plus tireme.“ Vorgeschlagen waren zwei Kapitel (VII bis Runlet, VIII bis zu den ersten Legionären) oder eines; Spieler: „Zwei Kapitel“.
+- Quellen: der Monitor mit der Nachlese (Q3, Q10 bis 221:51 min), die Spielstände und das Spielprotokoll (Q6). Die Entscheidungszeiten in Kapitel VII stammen aus der Notiz der Nachlese.
+- Kapitel VII (189:06 bis 231:01 min):
+  - drittes Feuer, Öl, Beton und Equites;
+  - Adlerstandarten (40.000 Denare); Tarragon siedelt mit Erlaubnis in Albion (Antica), Zara Nitu nimmt Calculus;
+  - Athr Iorgwyn gegrüßt, Wein und Theater, Aegyptus;
+  - Runlet bei 230:29 min.
+  - Register `-0076` bis `-0088`.
+- Kapitel VIII (231:01 bis 271:27 min):
+  - Runlet wächst;
+  - Voada von den Scáthach an Roms Herrschaft erinnert; Gnade für einen Wanderer;
+  - Trireme (Werft 243:42 bis 255:28, Angriffe), Legionäre (Forschung 264:19, Ausheben, Militärgebäude ab 270:09) und Aquädukt (Zisterne ab 271:09, Infofenster), alle drei als Abgeleitet;
+  - Brief „Wasser“ mit der Aqua Traiana;
+  - Register `-0089` bis `-0100`.
+- Karten mit `karte.py`: VII nach dem Spielstand bei 223:00 min, weil das Spiel die Stände bei 228:13 und 233:43 min überschrieben hat; VIII nach dem Spielstand bei 271:27 min. Die Spielstände sind gesichert in `Anno-Monitor/_sicherung/2026-11-07_kapitel/`. Auf den Albion-Karten fehlen Namen und Besitz (Werkzeug); dafür ist eine Sitzung vorgeschlagen.
+- Geprüft:
+  - `validate-data.mjs`, `test-monitor-daten.py`, HTML-Aufbau, Q-Anker;
+  - Wortprüfung ohne Fund;
+  - Browser: 8 Kapitel, 100 Registerzeilen, Karten VII und VIII, 375 px, dunkel, keine Konsolenfehler;
+  - Einträge am Stück gelesen.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `5a63c5a`.
+
 ## 2026-11-07 – Messdaten nach der Nachlese (Claude, Nebensitzung)
 
 - Die Sitzung monitor-live-zeilen-aus hat die Live-Zeilen vom 6.11., 15:18 bis 16:23, aus dem Spielprotokoll in den Monitor übernommen: 60 Live-Messungen von 165:38 bis 221:51 min und Autosave 33 (181:04 min). Die Zuordnung der drei Entscheidungen bei 220:40 min bleibt „seit 201:09“ (Variante A): Die Reihenfolge der Fenster hätte zwei Zeiten falsch gesetzt; die Belege dafür stehen für Kapitel VII in der Notiz der Nachlese.
