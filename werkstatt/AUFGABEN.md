@@ -8,6 +8,8 @@ _(leer)_
 
 ## Zur Prüfung
 
+- **Messdaten nach der Nachlese** (Claude, 7.11.2026): Die Nachlese-Sitzung hat die Live-Zeilen vom 6.11., 15:18 bis 16:23, in den Monitor übernommen (60 Live-Messungen, Autosave 33). Die Messdaten enthalten sie jetzt, dazu die Sitzung vom 7.11. ab 6:15 (341 Messungen bis 271:27 min). Zwei veröffentlichte Zeilen sind berichtigt (Krankheit, Feuer auf Olivaria), mit Eintrag unter „Korrekturen“; Q10 ergänzt. Online seit `441e821` (Messdaten) und `ac9f841` (Korrektur). Prüfen: Wortlaut der Korrektur; entfallene Sammelzeilen gegen die Liste in der Notiz der Nachlese.
+
 - **Kapitel VI „Öl und Krüge“ und Berichtigung von Kapitel V** (Claude, 6.11.2026): 146:09 bis 189:06 min Spielzeit, schließt mit den ersten Equites; Bericht, sieben Tagebucheinträge, Randnotiz, Register `erster-lauf-0062` bis `-0075`, neue Quellen Q10 (Live-Zeilen im Spielprotokoll, weil der Monitor von 15:18 bis 16:23 nicht lief) und Q11 (Spielstände der Sitzung), eine offene Frage, Kartenstand VI. Kapitel V zu den Unruhen berichtigt (133:58 min, zweite Custodia, Lagerhaus; Korrektureintrag, Register `-0061`). Online seit `0eaaca4`, Messdaten `637aee5`. Prüfen: Zahlen und Spielzeiten gegen Live-Zeilen, Spielstände und Register; das verlorene Kriegsschiff, Litugenus als Lohn und die Villa auf Olivaria als Abgeleitet; Wortlaut der Berichtigung; Schreibweise nach `SCHREIBSTIL.md`.
 
 - **Ausbruchszeit der Unruhen berichtigt** (Claude, Monitor-Sitzung, 6.11.2026): Der Anno-Monitor liest den Ausbruch jetzt aus der Auslösezeit im Spielstand. Die Unruhen begannen bei 133:58 min statt 120:12 min, die Chronikzeile des Monitors ist berichtigt. Hier: `saves/erster-lauf/data/monitor/tag-2026-11-06.json`, Eintrag unter „Korrekturen“ in `saves/erster-lauf/chronik.html`, Befund in `werkstatt/erster-lauf/STAND.md`. Mit Kapitel VI hochgeladen (`637aee5`, `0eaaca4`); Kapitel V ist dabei ebenfalls berichtigt. Prüfen: Wortlaut der Korrektur.
@@ -32,8 +34,8 @@ _(leer)_
 ## Offen
 
 - **Faktenblatt-Skript je Kapitel** (Claude): `werkstatt/erster-lauf/fakten/kapitel-N.md` aus dem Anno-Monitor für einen Spielzeitraum. Vor Kapitel I.
-- **Kapitel VII** (Claude): ab 189:06 min bis zum nächsten Einschnitt, den der Spieler bestätigt. Schon gelesen bis 233:43 min: drittes Feuer, Adlerstandarten (40.000 Denare), Tarragons Bitte um eine Insel, Aegyptus, Albion, Wein und Theater, Runlet als erste Insel in Albion (230:29 min); Einzelheiten in `werkstatt/erster-lauf/STAND.md`.
-- **Messdaten nach der Nachlese** (Claude, nach der Sitzung monitor-live-zeilen-aus): Wenn der Monitor die Live-Zeilen von 15:18 bis 16:23 übernommen hat, `publish-monitor.py --no-push`, prüfen und mit Freigabe hochladen; dann den Quellensatz von Kapitel VI ergänzen.
+- **Kapitel VII** (Claude): ab 189:06 min. Wunsch des Spielers vom 7.11.2026: „nächsten story denke ich agueduct und die ersten legionäre die ausgebildet werden plus tireme“. Gemessen bis 271:27 min, darunter drittes Feuer, Adlerstandarten (40.000 Denare), Tarragons Bitte um eine Insel, Aegyptus, Albion, Wein und Theater, Runlet als erste Insel in Albion (230:29 min). Einschnitt mit dem Spieler klären; Einzelheiten in `werkstatt/erster-lauf/STAND.md`.
+- **Begegnung mit Caeso Regulus Syracus** (Kapitel III, nur auf Freigabe): Laut Nachlese fiel die Wahl wohl im Fenster bei 69:56 min, Kapitel III und Register nennen 67:56 bis 68:38 min. Prüfen und gegebenenfalls berichtigen.
 - **Kapitel I und II nach `SCHREIBSTIL.md`** (Claude, nur auf Freigabe des Spielers): Dort stehen noch Kontrastformeln und Schlusspointen (etwa „Stattdessen grüße ich sie höflich“); Überarbeitung nur, wenn der Spieler sie gesondert freigibt, mit Eintrag unter „Korrekturen“.
 - **Schrift Cinzel** (Claude, auf Wunsch): Capitalis für Titel statt Cormorant in Versalien; braucht einen Download mit Freigabe.
 

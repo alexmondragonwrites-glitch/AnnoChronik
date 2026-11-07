@@ -2,6 +2,18 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-07 – Messdaten nach der Nachlese (Claude, Nebensitzung)
+
+- Die Sitzung monitor-live-zeilen-aus hat die Live-Zeilen vom 6.11., 15:18 bis 16:23, aus dem Spielprotokoll in den Monitor übernommen: 60 Live-Messungen von 165:38 bis 221:51 min und Autosave 33 (181:04 min). Die Zuordnung der drei Entscheidungen bei 220:40 min bleibt „seit 201:09“ (Variante A): Die Reihenfolge der Fenster hätte zwei Zeiten falsch gesetzt; die Belege dafür stehen für Kapitel VII in der Notiz der Nachlese.
+- Messdaten neu erzeugt (`publish-monitor.py --no-push`), mit der Sitzung vom 7.11. ab 6:15: 341 Messungen bis 271:27 min, ohne Neuladen.
+- Veröffentlichte Zeilen, die sich ändern:
+  - berichtigt: Krankheit auf Beneventum (177:23, eingedämmt bis 182:44 min, Medici) statt „die Art steht nicht im Zeitplan“; Feuer auf Olivaria bei 207:15 min statt des Zeitraums;
+  - Sammelzeilen der Spielstände entfallen zugunsten minutengenauer Live-Zeilen, darunter „Equites erstmals beobachtet (207 Bewohner)“ bei 222:13 min.
+- `chronik.html`: Eintrag unter „Korrekturen“ (7. November 2026); bei Q10 der Satz, dass die Live-Zeilen jetzt auch in den Messdaten stehen.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, keine Pfade oder Dateinamen in den Messdaten, Seite im Browser (5 Korrekturen, Messdaten 294 bzw. jetzt 341, keine Konsolenfehler).
+- Hochgeladen auf Freigabe („Ja, hochladen“): `441e821` (Messdaten), `ac9f841` (Korrektur).
+- Spieler danach: „nächsten story denke ich agueduct und die ersten legionäre die ausgebildet werden plus tireme.“ Kapitel VII ist noch offen.
+
 ## 2026-11-06 – Kapitel VI „Öl und Krüge“ und Berichtigung von Kapitel V (Claude, Nebensitzung)
 
 - Spieler: „lleider vergessen den monitor laufen zu lassen hoffe trotzdem was brauchbares dabei“. Gespielt hatte er von 15:18 bis 16:24, bei 165:38 bis 223:00 min, ohne Neuladen; der Monitor lief erst ab 16:23.
