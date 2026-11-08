@@ -4,6 +4,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## In Arbeit
 
+- **Antonia: Fortsetzung Erythia / Musculeum** (ChatGPT, 8.11.2026): Ergänzung des Vorspiels in `saves/zweiter-lauf/chronik.html`, Stand, Log und Tafel. Nur gewählter Kurs, kein belegter Landgang.
+
 
 
 ## Zur Prüfung
