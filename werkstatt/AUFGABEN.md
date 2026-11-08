@@ -4,7 +4,6 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## In Arbeit
 
-- **Vorspiel Antonia, erste Inselbegegnung** (ChatGPT, 8.11.2026): `saves/zweiter-lauf/chronik.html`, `werkstatt/zweiter-lauf/STAND.md`, `werkstatt/LOG.md`. Spieler hat direkt beauftragt, den Beginn mit Dorians Besetzung der erkundeten Insel auf der Seite zu hinterlegen. Keine neuen Namen, kein Kapitel I ohne Monitor-Einschnitt.
 
 
 ## Zur Prüfung
@@ -46,6 +45,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 - **Schrift Cinzel** (Claude, auf Wunsch): Capitalis für Titel statt Cormorant in Versalien; braucht einen Download mit Freigabe.
 
 ## Erledigt
+
+- **Vorspiel Antonia** (ChatGPT, 8.11.2026): „Eine Insel, die Dorian uns nahm“ als gekennzeichnete Rekonstruktion in `saves/zweiter-lauf/chronik.html`, Stand und Log ergänzt. Commit `0a4ce20`.
 
 - **Steckbrief der Protagonistin** (Spieler, 5.11.2026): Dossier `lore/caesia-varilla.md`, Commit `6977952`.
 - **Erster Upload der Messdaten** (Claude, 5.11.2026): `0321ce3`, 8 Messungen bis 5:36 min Spielzeit.
