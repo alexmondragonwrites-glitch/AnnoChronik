@@ -46,6 +46,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## Erledigt
 
+- **Windrose nach Spiel-Norden** (Claude, 8.11.2026): `karte.py` dreht die Windrose um 45°, die zehn Karten des ersten Laufs sind neu gezeichnet, I bis VI auch mit Abstand der Kartuschenzeile zum Rahmen. Hochgeladen auf Freigabe („Ja, hochladen“). Commit `133f63f`.
+
 - **Antonia: Kurs auf Erythia** (ChatGPT, 8.11.2026): Fortsetzung des Vorspiels, Musculeum als Dorians Insel bestätigt, Kurs auf Erythia festgehalten. Commit `bac5635`.
 
 - **Vorspiel Antonia** (ChatGPT, 8.11.2026): „Eine Insel, die Dorian uns nahm“ als gekennzeichnete Rekonstruktion in `saves/zweiter-lauf/chronik.html`, Stand und Log ergänzt. Commit `0a4ce20`.

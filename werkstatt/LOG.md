@@ -1,5 +1,14 @@
 # Werkstatt-Log
 
+## 2026-11-08 – Windrose nach Spiel-Norden (Claude)
+
+- Anlass: Das Bildschirmfoto der Spielkarte zur Wahl von Antonias Startinsel zeigt, dass das Spiel die Provinz als Raute darstellt. Norden ist deren obere Spitze, also die Richtung +x, +z. Unsere Karten stehen achsgerecht, ihr Norden liegt oben rechts; die Windrose zeigte bisher nach oben. Spieler: „Ja, drehen“.
+- `karte.py` im Anno-Monitor dreht Windrose und N um 45° (`WINDROSE_DREHUNG`), dazu ein Test. Die Karte selbst bleibt achsgerecht, die Beschriftung waagrecht.
+- Alle zehn Karten des ersten Laufs neu gezeichnet, die Spielstände sind dieselben. Der zweite Lauf hat noch keinen Kartenstand.
+- Karten I–VI bekommen dabei, was VII und VIII seit `ff7c671` haben: Die untere Zeile der Kartusche hält Abstand zum Rahmen (gleicher Wortlaut). In `data/karte.json` steht die Farbe jetzt auch bei „Wohnhaus“, und der Schlüssel `spieler` hat seinen Platz gewechselt.
+- Geprüft: Bildvergleich alt gegen neu je Karte (geändert nur die Windrose und auf I–VI die Zeile in der Kartusche), 92 Tests im Monitor, `validate-data.mjs`, `test-monitor-daten.py`, Kartenseite im Browser ohne Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `133f63f`.
+
 ## 2026-11-08 – Erythia als Ziel, Musculeum bestätigt (ChatGPT)
 
 - Der Spieler identifiziert die von Dorian besetzte Insel als Musculeum und wählt die unbesiedelte Erythia als Ziel; Antonia nimmt Kurs dorthin. Keine Landung oder Stadtgründung bestätigt. Das bestehende Vorspiel wurde als Fortsetzung ergänzt (belegte Angaben / erzählerische Rekonstruktion getrennt), statt Kapitel I vorzeitig zu eröffnen. Commit `bac5635`. Veröffentlichung direkt vom Spieler beauftragt.
