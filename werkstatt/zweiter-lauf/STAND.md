@@ -22,4 +22,4 @@ Stand 8.11.2026 (Claude). Noch kein Kapitel; nächste freie Quellennummer: **Q5*
 
 ## Tagebuch
 
-Noch kein Eintrag. Formen und wiederkehrende Figuren hier nachhalten.
+Vorspiel „Eine Insel, die Dorian uns nahm“ am 8.11.2026 in der Chronik ergänzt (Spielerangabe und Bildbelege, narrative Rekonstruktion klar markiert). Noch kein abgeschlossenes Kapitel I, kein bestätigter Inselname. Felix ist im Tagebuch erwähnt.
