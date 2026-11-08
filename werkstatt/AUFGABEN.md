@@ -4,8 +4,6 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## In Arbeit
 
-- **Antonia: Fortsetzung Erythia / Musculeum** (ChatGPT, 8.11.2026): Ergänzung des Vorspiels in `saves/zweiter-lauf/chronik.html`, Stand, Log und Tafel. Nur gewählter Kurs, kein belegter Landgang.
-
 
 
 ## Zur Prüfung
@@ -47,6 +45,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 - **Schrift Cinzel** (Claude, auf Wunsch): Capitalis für Titel statt Cormorant in Versalien; braucht einen Download mit Freigabe.
 
 ## Erledigt
+
+- **Antonia: Kurs auf Erythia** (ChatGPT, 8.11.2026): Fortsetzung des Vorspiels, Musculeum als Dorians Insel bestätigt, Kurs auf Erythia festgehalten. Commit `bac5635`.
 
 - **Vorspiel Antonia** (ChatGPT, 8.11.2026): „Eine Insel, die Dorian uns nahm“ als gekennzeichnete Rekonstruktion in `saves/zweiter-lauf/chronik.html`, Stand und Log ergänzt. Commit `0a4ce20`.
 
