@@ -25,14 +25,37 @@
   <p class="ac-hinweis">Jede Karte zeigt die Provinz so, wie sie im letzten Spielstand vor dem Ende eines Kapitels aussieht. Mit den Ziffern wählst du das Kapitel; ein Klick auf die Karte öffnet sie in voller Größe.</p>
   <section class="ac-karte-buehne" aria-label="Kartenstände">
     <!-- KARTE:ANFANG (von Anno-Monitor/karte.py geschrieben, nicht von Hand ändern) -->
-    <p class="ac-hinweis">Die erste Karte entsteht mit dem ersten Kapitel.</p>
+    <nav class="ac-karte-wahl" aria-label="Kapitel">
+      <a href="#kapitel-1" data-stand="kapitel-1" title="Kapitel I · Erythia">I</a>
+    </nav>
+    <figure class="ac-karte-stand" id="kapitel-1" data-stand="kapitel-1">
+      <a class="ac-karte-bild" href="images/karte/kapitel-1.webp" aria-label="Karte von Latium zu Kapitel I in voller Größe öffnen">
+        <img src="images/karte/kapitel-1-klein.webp" width="1400" height="1400" alt="Karte von Latium zum Ende von Kapitel I: Antonias Insel Erythia. Praetoren: Musculeum (Dorian Manlius Scaevola). Entdeckt sind 14 von 28 Inseln." loading="eager" decoding="async">
+      </a>
+      <figcaption>
+        <p class="ac-karte-titel"><span class="ac-kapitel-nr">Kapitel I</span> Erythia</p>
+        <p class="ac-karte-zeit">0:00 bis 28:19&nbsp;min Spielzeit · gezeichnet nach dem Spielstand bei 27:05&nbsp;min, aufgenommen am 8.&nbsp;November 2026</p>
+        <p>Karte von Latium zum Ende von Kapitel I: Antonias Insel Erythia. Praetoren: Musculeum (Dorian Manlius Scaevola). Entdeckt sind 14 von 28 Inseln.</p>
+        <p class="ac-karte-links"><a href="images/karte/kapitel-1.webp">Karte in voller Größe</a> · <a href="chronik.html#kapitel-1">Kapitel I in der Chronik</a></p>
+      </figcaption>
+    </figure>
     <!-- KARTE:ENDE -->
   </section>
   <section class="ac-abschnitt" id="zeichen" aria-labelledby="zeichen-titel">
     <h2 id="zeichen-titel">Zeichen der Karte</h2>
     <div class="ac-maeander" aria-hidden="true"></div>
     <!-- ZEICHEN:ANFANG (von Anno-Monitor/karte.py geschrieben, nicht von Hand ändern) -->
-    <p class="ac-hinweis">Die Zeichen erscheinen mit der ersten Karte.</p>
+    <ul class="ac-zeichen">
+      <li><span class="ac-z ac-z-besitz" style="--z:#1e3e6e" aria-hidden="true"></span>Antonia Corvina</li>
+      <li><span class="ac-z ac-z-besitz" style="--z:#965a82" aria-hidden="true"></span>Dorian Manlius Scaevola</li>
+      <li><span class="ac-z ac-z-dritte" aria-hidden="true"></span><span><i>Händler und Piraten</i>, Namen kursiv</span></li>
+      <li><span class="ac-z ac-z-haus" style="--z:#1e3e6e" aria-hidden="true"></span>Wohnhaus, in der Farbe des Besitzers</li>
+      <li><span class="ac-z ac-z-betrieb" aria-hidden="true"></span>Betrieb oder Lager</li>
+      <li><span class="ac-z ac-z-strasse" aria-hidden="true"></span>Straße</li>
+      <li><span class="ac-z ac-z-fluss" aria-hidden="true"></span>Fluss</li>
+      <li><span class="ac-z ac-z-wald" aria-hidden="true"></span>Wald</li>
+      <li><span class="ac-z ac-z-unentdeckt" aria-hidden="true"></span>Insel, die noch nicht entdeckt ist</li>
+    </ul>
     <!-- ZEICHEN:ENDE -->
     <p class="ac-schluss" aria-hidden="true">❦</p>
   </section>

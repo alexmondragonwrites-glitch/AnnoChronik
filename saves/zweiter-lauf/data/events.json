@@ -1,1 +1,214 @@
-[]
+[
+  {
+    "id": "zweiter-lauf-0001",
+    "spielzeit_ms": 0,
+    "game_time_label": "vor Spielbeginn",
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "partie",
+    "title": "Neue Partie angelegt.",
+    "description": "Partie „Antonia Corvina“ mit Kaiserin Julia Augusta und den Praetoren Dorian Manlius Scaevola, Athr Iorgwyn und Alba Concordia. Start in Latium mit 15.000 Denaren; 3 Inseln sind entdeckt.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0002",
+    "spielzeit_ms": 73828,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 1,
+    "title": "Dorian nimmt Musculeum.",
+    "description": "Dorian nimmt laut Spielprotokoll Musculeum in Latium in Besitz, als Erster der drei Praetoren.",
+    "source": "Q5"
+  },
+  {
+    "id": "zweiter-lauf-0003",
+    "spielzeit_ms": 90019,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 1,
+    "title": "Athr Iorgwyn nimmt Twrch.",
+    "description": "Athr Iorgwyn nimmt laut Spielprotokoll Twrch in Albion in Besitz.",
+    "source": "Q5"
+  },
+  {
+    "id": "zweiter-lauf-0004",
+    "spielzeit_ms": 115269,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "entscheidung",
+    "chapter": 1,
+    "title": "Dorian unbeeindruckt begegnet.",
+    "description": "Ereignis „Begegnung mit einem Rivalen“ mit Dorian. Zur Wahl standen: höflich grüßen, sich unbeeindruckt zeigen. Gewählt wurde „Unbeeindruckt zeigen“.",
+    "source": "Q4, Q5"
+  },
+  {
+    "id": "zweiter-lauf-0005",
+    "spielzeit_ms": 178072,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 1,
+    "title": "Alba Concordia nimmt Aquae Serius.",
+    "description": "Alba Concordia nimmt laut Spielprotokoll Aquae Serius in Latium in Besitz.",
+    "source": "Q5"
+  },
+  {
+    "id": "zweiter-lauf-0006",
+    "spielzeit_ms": 901612,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "insel",
+    "chapter": 1,
+    "title": "Erste eigene Insel: Erythia.",
+    "description": "Antonia nimmt laut Spielprotokoll Erythia in Latium in Besitz. Bei der ersten Messung danach (15:26 min) ist die Insel ein Außenposten mit drei Holzfällern; im Lager liegen 17 Bretter und 15 Waffen.",
+    "source": "Q4, Q5"
+  },
+  {
+    "id": "zweiter-lauf-0007",
+    "spielzeit_ms": 956500,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 1,
+    "title": "Drei Sägewerke.",
+    "description": "Neben den drei Holzfällern stehen drei Sägewerke. Die Live-Messung zählt 16 Wohnhäuser, alle noch leer; im Lager ist 1 Brett übrig.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0008",
+    "spielzeit_ms": 1017000,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "bau",
+    "chapter": 1,
+    "title": "Das Lager an Brettern ist leer.",
+    "description": "Bei 16:57 min liegen auf Erythia 0 Bretter im Lager, bei der Messung davor 1. Dazu die erste Sardinenhütte und 25 Wohnhäuser.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0009",
+    "spielzeit_ms": 1137000,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 1,
+    "title": "Die ersten Liberti.",
+    "description": "Der Monitor zählt 0,6 Bewohner auf Erythia, bei 25 Wohnhäusern, 7 davon leer.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0010",
+    "spielzeit_ms": 1141233,
+    "game_time_label": "um 0:19 h",
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "entscheidung",
+    "chapter": 1,
+    "title": "Bretter von einem Libertus gekauft.",
+    "description": "Ereignis „Ein Libertus grüßt dich“. Zur Wahl standen: seine Waren beschlagnahmen, seinen Vorrat kaufen, ihm alles Gute wünschen. Gewählt wurde der Kauf: 400 Denare für 20 Bretter. Der Monitor liest die Entscheidung im Spielstand bei 27:05 min; die Spielzeit folgt aus dem Ereignisfenster im Spielprotokoll.",
+    "source": "Q4, Q5"
+  },
+  {
+    "id": "zweiter-lauf-0011",
+    "spielzeit_ms": 1227000,
+    "game_time_label": "0:19 bis 0:20 h",
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 1,
+    "title": "Haferhof und Breistand.",
+    "description": "Der Haferhof steht bei 19:30 min, der Breistand bei 20:27 min. Die Live-Messung zählt dann 29 Wohnhäuser.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0012",
+    "spielzeit_ms": 1341500,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 1,
+    "title": "65 Liberti, Markt zu 100 % erfüllt.",
+    "description": "Bei 22:21 min wohnen 65 Liberti auf Erythia, der Markt versorgt alle; die Taberna steht bei 19 %.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0013",
+    "spielzeit_ms": 1458500,
+    "game_time_label": "0:23 bis 0:25 h",
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 1,
+    "title": "Tuniken und Pilei.",
+    "description": "Hanfhof und Spinnerei stehen bei 23:21 min, Schafshof und Pileusfilzer bei 24:18 min, der zweite Pileusfilzer bei 25:19 min.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0014",
+    "spielzeit_ms": 1458500,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "geld",
+    "chapter": 1,
+    "title": "Tiefster Stand der Bilanz.",
+    "description": "Bei 24:18 min liegt die Bilanz bei −226 je Minute, die Kasse bei 8.042 Denaren. Auf Erythia wohnen 147 Liberti, Haferbrei und Taberna sind zu 100 % erfüllt.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0015",
+    "spielzeit_ms": 1625000,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "auftrag",
+    "chapter": 1,
+    "title": "Vertrag von Caecilia.",
+    "description": "Im Spielstand bei 27:05 min steht der Vertrag „Verlorene Fracht“ von Caecilia im Auftragsbuch; das Tutorial „Audienz gewähren“ ist erledigt.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0016",
+    "spielzeit_ms": 1625000,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "insel",
+    "chapter": 1,
+    "title": "14 Inseln in Latium entdeckt.",
+    "description": "Im Spielstand bei 27:05 min sind in Latium 14 Inseln entdeckt, bei 9:21 min waren es 9, bei 2:26 min 4.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0017",
+    "spielzeit_ms": 1625000,
+    "recorded": "2026-11-08",
+    "kind": "rekonstruktion",
+    "category": "praetoren",
+    "chapter": 1,
+    "title": "Alba Concordia vorn, Dorian hinten.",
+    "description": "Im Spielstand bei 27:05 min zählen Alba Concordia 119, Athr Iorgwyn 103 und Dorian 21 Bewohner; Antonia zählt 177.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0018",
+    "spielzeit_ms": 1699500,
+    "recorded": "2026-11-08",
+    "kind": "fakt",
+    "category": "stadtstatus",
+    "chapter": 1,
+    "title": "Erythia ist ein Kleiner Vicus.",
+    "description": "Der Monitor führt Erythia bei 27:19 min noch als Außenposten, bei 28:19 min als Kleinen Vicus: 212 Liberti, 72 Wohnhäuser, 25 davon leer, 14 Betriebe. Der Spieler meldet gegen 15:30 Uhr die erste Siedlung.",
+    "source": "Q4, Q6"
+  },
+  {
+    "id": "zweiter-lauf-0019",
+    "spielzeit_ms": 1699500,
+    "recorded": "2026-11-08",
+    "kind": "rekonstruktion",
+    "category": "geld",
+    "chapter": 1,
+    "title": "8.227 Denare bis zum Kleinen Vicus.",
+    "description": "Die Kasse fällt von 15.000 auf 6.773 Denare. Die Bilanz bleibt im Minus, bessert sich aber seit 24:18 min: −226, bei 26:19 min −201,56, bei 28:19 min −61,51.",
+    "source": "Q4"
+  }
+]
