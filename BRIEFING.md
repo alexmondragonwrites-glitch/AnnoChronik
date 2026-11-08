@@ -143,6 +143,29 @@ Wunsch des Spielers: „gibs auch wieder die möglichkeit ener karte? wie brauch
 - Weitere Provinzen kommen dazu, sobald Caesia dort etwas entdeckt (Albion: bis 165:38 min nichts entdeckt).
 - Werkzeug `karte.py` im Anno-Monitor, Doku in `docs/KARTE.md`; hochladen nur mit Freigabe.
 
+## Zweiter Lauf (Spieler, 8.11.2026)
+
+Der Spieler beginnt am 8.11.2026 eine neue Partie, und sie bekommt eine eigene Chronik („Ja, eigene Chronik“).
+
+| Frage | Antwort |
+|---|---|
+| Erzählform | neue Figur, Tagebuch, wie bei Caesia |
+| Titel | „Name · Zweiter Lauf“; der Name kommt aus dem Spiel |
+| Erster Lauf | „Caesia Varilla · Erster Lauf“ läuft weiter, Kapitel IX folgt beim Weiterspielen |
+| Aussehen | „Ihre Farbe wird blau sein“ |
+
+Freigegeben am 8.11.2026 („Ja, so bauen“). Danach gab der Spieler die Figuren und die Welt vor: Antonia Corvina, ihr Sekretär Marcus Antonius Felix und die drei Provinzen unter Kaiserin Julia Augusta (`lore/antonia-corvina.md`, `lore/marcus-antonius-felix.md`, `lore/welt-antonia-corvina.md`).
+
+- **Ordner** `saves/zweiter-lauf/`, Titel „Antonia Corvina · Zweiter Lauf“. Partie-Ordner und Weltkennung kommen aus dem ersten Autosave; was der Spieler im Spiel vergibt, gilt als bestätigt.
+- **Aufbau** wie beim ersten Lauf: Figurenkanon aus den Dossiers, Steckbrief der Partie, Register, Tagebuch in Kapiteln nach Einschnitten, Inseln und Provinzen, offene Fragen, Quellen, Korrekturen, Messdaten, Karte je Kapitel. Dazu `docs/ZWEITER-LAUF.md` und `werkstatt/zweiter-lauf/STAND.md`. Die Partien bleiben getrennt.
+- **Farbe:** römisches Erscheinungsbild mit Antonias Palette aus dem Dossier: Dunkelblau, Elfenbein und Bronze als Grundfarben, Bordeaux als dezenter Akzent. Dunkelblau steht an der Stelle von Caesias Purpur und auch in Kopf und Fuß statt Terrakotta (`data-farbe="dunkelblau"`); auf der Karte tragen ihre Inseln und Wohnhäuser Dunkelblau. Ein Praetor, der auf Caesias Karten blau ist, bekommt auf den Karten dieses Laufs eine Ersatzfarbe.
+- **Vorbereitung an den Werkzeugen:**
+  - `karte.py` ohne festen Namen „Caesia“, Farbe je Chronik, Zeichen der Karte aus den Daten.
+  - Bereichskennungen je Provinz richtig: Bisher fehlen in Albion Namen und Besitz, weil die Kennungen dort auf +2 statt +1 enden.
+  - `scripts/new-save.mjs` legt die Kartenseite und die Farbe gleich mit an.
+- **Vom Spieler noch:** ein Bildschirmfoto der Spieleinstellungen vor der Provinzwahl.
+- Hochladen nur mit Freigabe.
+
 ## Offen
 
 - Steckbrief der Protagonistin (Spieler).

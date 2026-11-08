@@ -28,9 +28,6 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
-          "caesia": [
-            "Beneventum"
-          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -95,7 +92,10 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel I: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon). Entdeckt sind 11 von 26 Inseln."
+          "beschreibung": "Karte von Latium zum Ende von Kapitel I: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon). Entdeckt sind 11 von 26 Inseln.",
+          "spieler": [
+            "Beneventum"
+          ]
         }
       ]
     },
@@ -116,9 +116,6 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
-          "caesia": [
-            "Beneventum"
-          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -196,7 +193,10 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel II: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 16 von 26 Inseln."
+          "beschreibung": "Karte von Latium zum Ende von Kapitel II: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 16 von 26 Inseln.",
+          "spieler": [
+            "Beneventum"
+          ]
         }
       ]
     },
@@ -217,9 +217,6 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
-          "caesia": [
-            "Beneventum"
-          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -307,7 +304,10 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel III: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 20 von 26 Inseln."
+          "beschreibung": "Karte von Latium zum Ende von Kapitel III: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 20 von 26 Inseln.",
+          "spieler": [
+            "Beneventum"
+          ]
         }
       ]
     },
@@ -328,10 +328,6 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
-          "caesia": [
-            "Beneventum",
-            "Lorica"
-          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -421,7 +417,11 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel IV: Caesias Inseln Beneventum und Lorica. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 23 von 26 Inseln."
+          "beschreibung": "Karte von Latium zum Ende von Kapitel IV: Caesias Inseln Beneventum und Lorica. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 23 von 26 Inseln.",
+          "spieler": [
+            "Beneventum",
+            "Lorica"
+          ]
         }
       ]
     },
@@ -442,10 +442,6 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
-          "caesia": [
-            "Beneventum",
-            "Olivaria"
-          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -536,7 +532,11 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel V: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 24 von 26 Inseln."
+          "beschreibung": "Karte von Latium zum Ende von Kapitel V: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 24 von 26 Inseln.",
+          "spieler": [
+            "Beneventum",
+            "Olivaria"
+          ]
         }
       ]
     },
@@ -557,10 +557,6 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
-          "caesia": [
-            "Beneventum",
-            "Olivaria"
-          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -654,7 +650,11 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel VI: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra und Zibanitu (Zara Nitu). Entdeckt sind 24 von 26 Inseln."
+          "beschreibung": "Karte von Latium zum Ende von Kapitel VI: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra und Zibanitu (Zara Nitu). Entdeckt sind 24 von 26 Inseln.",
+          "spieler": [
+            "Beneventum",
+            "Olivaria"
+          ]
         }
       ]
     },
@@ -675,7 +675,7 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
-          "caesia": [
+          "spieler": [
             "Beneventum",
             "Olivaria"
           ],
@@ -749,7 +749,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -782,10 +783,38 @@
           "hoehe": 1954,
           "klein_breite": 1385,
           "klein_hoehe": 1400,
-          "caesia": [],
-          "praetoren": [],
-          "dritte": [],
-          "frei": [],
+          "spieler": [],
+          "praetoren": [
+            {
+              "name": "Antica",
+              "von": "Tarragon"
+            },
+            {
+              "name": "Caer Morgan",
+              "von": "Athr Iorgwyn"
+            },
+            {
+              "name": "Werddon",
+              "von": "Athr Iorgwyn"
+            }
+          ],
+          "dritte": [
+            {
+              "name": "Cnocnees",
+              "von": "Manx"
+            },
+            {
+              "name": "Klippenfurt",
+              "von": "Prokurator Corvinus"
+            }
+          ],
+          "frei": [
+            "Duromagus",
+            "Faewynn",
+            "Haredale",
+            "Hogsark",
+            "Runlet"
+          ],
           "entdeckt": 10,
           "inseln": 19,
           "legende": [
@@ -805,7 +834,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -828,7 +858,7 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Albion zum Ende von Kapitel VII. Entdeckt sind 10 von 19 Inseln."
+          "beschreibung": "Karte von Albion zum Ende von Kapitel VII: Praetoren: Antica (Tarragon); Caer Morgan und Werddon (Athr Iorgwyn). Entdeckt sind 10 von 19 Inseln."
         }
       ]
     },
@@ -849,7 +879,7 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
-          "caesia": [
+          "spieler": [
             "Beneventum",
             "Olivaria"
           ],
@@ -923,7 +953,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -956,10 +987,54 @@
           "hoehe": 1954,
           "klein_breite": 1385,
           "klein_hoehe": 1400,
-          "caesia": [],
-          "praetoren": [],
-          "dritte": [],
-          "frei": [],
+          "spieler": [
+            "Runlet"
+          ],
+          "praetoren": [
+            {
+              "name": "Antica",
+              "von": "Tarragon"
+            },
+            {
+              "name": "Caer Morgan",
+              "von": "Athr Iorgwyn"
+            },
+            {
+              "name": "Calculus",
+              "von": "Zara Nitu"
+            },
+            {
+              "name": "Werddon",
+              "von": "Athr Iorgwyn"
+            }
+          ],
+          "dritte": [
+            {
+              "name": "Cnocnees",
+              "von": "Manx"
+            },
+            {
+              "name": "Klippenfurt",
+              "von": "Prokurator Corvinus"
+            },
+            {
+              "name": "Voada von den Scáthach",
+              "von": "Voada von den Scáthach"
+            }
+          ],
+          "frei": [
+            "Carradunon",
+            "Cavalon",
+            "Corbenicca",
+            "Duromagus",
+            "Faewynn",
+            "Hadrianum",
+            "Haredale",
+            "Hogsark",
+            "Rosethorn",
+            "Skelligton ",
+            "Vidumagus"
+          ],
           "entdeckt": 19,
           "inseln": 19,
           "legende": [
@@ -989,7 +1064,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -1012,7 +1088,7 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Albion zum Ende von Kapitel VIII. Entdeckt sind 19 von 19 Inseln."
+          "beschreibung": "Karte von Albion zum Ende von Kapitel VIII: Caesias Insel Runlet. Praetoren: Antica (Tarragon); Caer Morgan und Werddon (Athr Iorgwyn); Calculus (Zara Nitu). Entdeckt sind 19 von 19 Inseln."
         }
       ]
     }

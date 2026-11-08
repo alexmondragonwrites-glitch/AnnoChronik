@@ -2,6 +2,20 @@
 
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
+## 2026-11-08 – Zweiter Lauf: Antonia Corvina (Claude)
+
+- Spieler: „Ich werd ein neues Anno Spiel beginnen gleich“; eigene Chronik mit neuer Figur und Tagebuch, Titel „Name · Zweiter Lauf“, Caesia läuft weiter. Freigabe „Ja, so bauen“; danach die Dossiers von Antonia Corvina und ihrem Sekretär Marcus Antonius Felix. Abgelegt in `lore/antonia-corvina.md` und `lore/marcus-antonius-felix.md`, Wortlaut des Spielers, nur als Markdown gegliedert.
+- Dazu der Weltentwurf des Spielers (Kaiserin Julia Augusta, die drei Provinzen, drei Praetoren): `lore/welt-antonia-corvina.md`, ohne die Quellenvermerke und Bildreste aus dem Einfügen.
+- Neu: `saves/zweiter-lauf/` (Chronik mit Figuren- und Weltkanon, Kartenseite, Daten), `docs/ZWEITER-LAUF.md`, `werkstatt/zweiter-lauf/STAND.md`, Eintrag im Portal und in `AGENTS.md`. Der erste Autosave (14:44) bestätigt Partie-Ordner „Antonia Corvina“, Kaiserin Julia Augusta, die Praetoren Dorian, Athr Iorgwyn, Concordia und Latium als Startprovinz; Weltkennung `anno117-1794145443`.
+- Farben aus dem Dossier: Dunkelblau, Elfenbein, Bronze, Bordeaux als dezenter Akzent. `data-farbe="dunkelblau"` an `<html>` setzt sie in `assets/roemisch.css`, hell und dunkel.
+- Werkzeuge:
+  - `karte.py`: Name und Farbe je Chronik aus `meta.json`, Zeichen der Karte aus den Daten, Praetoren weichen der Farbe der Figur aus (Ersatzfarbe), lange Kartuschenzeilen bleiben im Rahmen.
+  - Bereichsnummern je Provinz: Latium endet auf 64·n + 1, Albion + 2, Aegyptus + 4. Deshalb fehlten in Albion Namen und Besitz. Geprüft an allen drei Provinzen: Jede Fläche im Gitter hat ihren Bereich und umgekehrt.
+  - `new-save.mjs`: neue Optionen `--untertitel`, `--figur`, `--farbe`; legt Kartenseite und `karte.json` mit an.
+- Erster Lauf: Karten von Kapitel VII und VIII neu gezeichnet, Albion jetzt mit Namen und Besitz. Die Zahl „19 von 19“ auf der Karte zählt Inseln ohne Deko-Inseln, der Monitor (26) zählt sie mit.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, `test_karte.py` (15 Tests); Browser: Chronik, Kartenseite und Portal, 375 px ohne waagrechtes Scrollen, dunkel, keine Konsolenfehler.
+- Nicht hochgeladen; wartet auf Freigabe.
+
 ## 2026-11-07 – Kapitel VII „Nach Albion“ und VIII „Bögen und Ruder“ (Claude, Nebensitzung)
 
 - Spieler: „nächsten story denke ich agueduct und die ersten legionäre die ausgebildet werden plus tireme.“ Vorgeschlagen waren zwei Kapitel (VII bis Runlet, VIII bis zu den ersten Legionären) oder eines; Spieler: „Zwei Kapitel“.

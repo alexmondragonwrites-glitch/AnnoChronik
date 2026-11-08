@@ -8,5 +8,15 @@
     "status": "laufend",
     "started": "2026-11-05",
     "description": "Caesia Varilla auf der Flucht aus Rom, unterwegs Richtung Latium; erzählt in ihrem Tagebuch, mit Update 3.0 und allen drei Erweiterungen."
+  },
+  {
+    "id": "zweiter-lauf",
+    "name": "Antonia Corvina",
+    "untertitel": "Zweiter Lauf",
+    "path": "saves/zweiter-lauf/",
+    "page": "chronik.html",
+    "status": "laufend",
+    "started": "2026-11-08",
+    "description": "Antonia Corvina soll im kaiserlichen Auftrag Siedlungen gründen, verwalten und Gebiete befrieden; erzählt in ihrem Tagebuch, mit Update 3.0."
   }
 ]

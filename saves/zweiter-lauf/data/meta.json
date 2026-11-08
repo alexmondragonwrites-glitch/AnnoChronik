@@ -1,0 +1,39 @@
+{
+  "id": "zweiter-lauf",
+  "name": "Antonia Corvina",
+  "lauf": "Zweiter Lauf",
+  "name_status": "vom Spieler festgelegt (Dossier vom 8.11.2026)",
+  "name_im_spielstand": "Antonia Corvina",
+  "game": "Anno 117: Pax Romana",
+  "status": "laufend",
+  "started": "2026-11-08",
+  "description": "Chronik des zweiten Laufs, erzählt im Tagebuch von Antonia Corvina.",
+  "protagonistin": {
+    "name": "Antonia Corvina",
+    "kanon": "lore/antonia-corvina.md"
+  },
+  "figuren": [
+    {
+      "name": "Marcus Antonius Felix",
+      "rolle": "persönlicher Sekretär",
+      "kanon": "lore/marcus-antonius-felix.md"
+    }
+  ],
+  "welt": "lore/welt-antonia-corvina.md",
+  "kaiserin": "Julia Augusta",
+  "praetoren": [
+    "Dorian Manlius Scaevola",
+    "Athr Iorgwyn",
+    "Alba Concordia"
+  ],
+  "namen_teilnehmer": {
+    "31099": "Dorian Manlius Scaevola",
+    "31104": "Alba Concordia"
+  },
+  "farbe": "dunkelblau",
+  "game_version": "Update 3.0",
+  "monitor": {
+    "partie": "Antonia Corvina",
+    "world_id": null
+  }
+}
