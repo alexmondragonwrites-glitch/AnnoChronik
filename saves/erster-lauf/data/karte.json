@@ -28,6 +28,9 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
+          "spieler": [
+            "Beneventum"
+          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -69,7 +72,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -92,10 +96,7 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel I: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon). Entdeckt sind 11 von 26 Inseln.",
-          "spieler": [
-            "Beneventum"
-          ]
+          "beschreibung": "Karte von Latium zum Ende von Kapitel I: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon). Entdeckt sind 11 von 26 Inseln."
         }
       ]
     },
@@ -116,6 +117,9 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
+          "spieler": [
+            "Beneventum"
+          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -170,7 +174,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -193,10 +198,7 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel II: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 16 von 26 Inseln.",
-          "spieler": [
-            "Beneventum"
-          ]
+          "beschreibung": "Karte von Latium zum Ende von Kapitel II: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 16 von 26 Inseln."
         }
       ]
     },
@@ -217,6 +219,9 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
+          "spieler": [
+            "Beneventum"
+          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -281,7 +286,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -304,10 +310,7 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel III: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 20 von 26 Inseln.",
-          "spieler": [
-            "Beneventum"
-          ]
+          "beschreibung": "Karte von Latium zum Ende von Kapitel III: Caesias Insel Beneventum. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 20 von 26 Inseln."
         }
       ]
     },
@@ -328,6 +331,10 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
+          "spieler": [
+            "Beneventum",
+            "Lorica"
+          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -394,7 +401,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -417,11 +425,7 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel IV: Caesias Inseln Beneventum und Lorica. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 23 von 26 Inseln.",
-          "spieler": [
-            "Beneventum",
-            "Lorica"
-          ]
+          "beschreibung": "Karte von Latium zum Ende von Kapitel IV: Caesias Inseln Beneventum und Lorica. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 23 von 26 Inseln."
         }
       ]
     },
@@ -442,6 +446,10 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
+          "spieler": [
+            "Beneventum",
+            "Olivaria"
+          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -509,7 +517,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -532,11 +541,7 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel V: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 24 von 26 Inseln.",
-          "spieler": [
-            "Beneventum",
-            "Olivaria"
-          ]
+          "beschreibung": "Karte von Latium zum Ende von Kapitel V: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra (Zara Nitu). Entdeckt sind 24 von 26 Inseln."
         }
       ]
     },
@@ -557,6 +562,10 @@
           "hoehe": 2720,
           "klein_breite": 1400,
           "klein_hoehe": 1400,
+          "spieler": [
+            "Beneventum",
+            "Olivaria"
+          ],
           "praetoren": [
             {
               "name": "Hortia Poenitentium",
@@ -627,7 +636,8 @@
             },
             {
               "art": "haus",
-              "text": "Wohnhaus"
+              "text": "Wohnhaus",
+              "farbe": "#6a1d3a"
             },
             {
               "art": "betrieb",
@@ -650,11 +660,7 @@
               "text": "noch nicht entdeckt"
             }
           ],
-          "beschreibung": "Karte von Latium zum Ende von Kapitel VI: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra und Zibanitu (Zara Nitu). Entdeckt sind 24 von 26 Inseln.",
-          "spieler": [
-            "Beneventum",
-            "Olivaria"
-          ]
+          "beschreibung": "Karte von Latium zum Ende von Kapitel VI: Caesias Inseln Beneventum und Olivaria. Praetoren: Hortia Poenitentium (Tarragon); Umbra und Zibanitu (Zara Nitu). Entdeckt sind 24 von 26 Inseln."
         }
       ]
     },

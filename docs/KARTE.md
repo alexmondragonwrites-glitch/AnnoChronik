@@ -12,7 +12,7 @@ Die Kartenseite `saves/<partie>/karte.html` zeigt die Provinz zum Ende jedes Kap
 - **Aus den Inseldaten des Spiels:** Küsten und Höhen, Flüsse, Wald (aus der Vorlage der Insel; wo gebaut ist, fehlt er) und die Flächen einer Insel.
 - **Unentdeckte Inseln** erscheinen nur gepunktet umrissen, ohne Namen, Besitz und Bauten.
 - **Namen** wie im Spiel. Umbenennungen des Spielers stehen in `data/karte.json` unter `umbenennungen` und gelten ab `ab_ms`, denn der Spielstand führt nur den Originalnamen.
-- **Zeichen:** Kartusche mit Spielzeit des Spielstands und Tag der Aufnahme, Legende, Windrose, Maßstab in Feldern.
+- **Zeichen:** Kartusche mit Spielzeit des Spielstands und Tag der Aufnahme, Legende, Windrose, Maßstab in Feldern. Die Spielkarte steht als Raute, unsere Karten stehen achsgerecht: Norden des Spiels ist die obere Spitze der Raute (Richtung +x, +z), auf unseren Karten also oben rechts. Dorthin zeigt die Windrose.
 - **Je Chronik** (`data/meta.json`): `protagonistin.name` steht in Legende und Bildbeschreibung, `farbe` färbt die eigenen Inseln und Wohnhäuser (`purpur`, `dunkelblau` oder `#rrggbb`, ohne Angabe Purpur). Liegt die Stammfarbe eines Praetors zu nah an dieser Farbe, bekommt er in dieser Chronik seine Ersatzfarbe.
 
 Gezeichnet wird für die Chronik: Pergament, Wasserlinien, Schummerung, Farben, Schrift (Cormorant, EB Garamond). Bilder aus dem Spiel sind nicht verwendet. Die Inseldaten bleiben beim Anno-Monitor im lokalen Zwischenspeicher.
