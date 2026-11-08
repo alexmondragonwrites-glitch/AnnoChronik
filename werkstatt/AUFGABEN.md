@@ -8,6 +8,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## Zur Prüfung
 
+- **Kapitel III „Mithraeum“, Antonia Corvina** (Claude, 8.11.2026): 66:00 bis 150:33 min, schließt mit Mithraeum, der zweiten Insel (150:19 min). Bericht, neun Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0038` bis `-0052`, neu Q8, Kartenstand III nach dem Spielstand bei 150:26 min. Online seit `d44cb0e`. Prüfen: Zahlen gegen Monitor und Spielprotokoll, Concordias Geschenk und Dorians Verträge, Siedlungsrechte als Abgeleitet, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
+
 - **Kapitel II „Die Villa“, Antonia Corvina** (Claude, 8.11.2026): 28:19 bis 66:00 min, schließt mit dem Großen Vicus (62:15 min). Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0020` bis `-0037`, neu Q7, Kartenstand II nach dem Spielstand bei 66:00 min. Online seit `cb58395`. Prüfen: Zahlen gegen Monitor und Spielprotokoll, Concordia bei 43:20 min, Caecilias Lohn und der Sprung der Bilanz als Abgeleitet, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
 
 - **Kapitel I „Erythia“, Antonia Corvina** (Claude, 8.11.2026): 0:00 bis 28:19 min, schließt mit dem Kleinen Vicus (Spieler: „so die erste siedlung steht“). Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0001` bis `-0019`, neu Q5 und Q6, Kartenstand I nach dem Spielstand bei 27:05 min. Online seit `3c8d0b7`. Prüfen: Zahlen gegen Monitor und Spielprotokoll, Dorian bei 1:55 min, Libertus um 19:01 min als Abgeleitet, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`. Die Messdaten der Partie fehlen noch (siehe Log).

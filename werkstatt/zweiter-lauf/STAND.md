@@ -1,6 +1,6 @@
 # Antonia Corvina · Zweiter Lauf · Stand
 
-Stand 8.11.2026 (Claude). Kapitel I und II geschrieben; nächste freie Quellennummer: **Q8** (Q1 und Q2 die Figurendossiers, Q3 der Weltentwurf, Q4 der Monitor, Q5 das Spielprotokoll, Q6 Angabe des Spielers und Bildschirmfoto, Q7 Bildschirmfotos bei 36:24 und 42:51 bis 43:34 min). Nächste freie Registernummer: `zweiter-lauf-0038`.
+Stand 8.11.2026 (Claude). Kapitel I bis III geschrieben; nächste freie Quellennummer: **Q9** (Q1 und Q2 die Figurendossiers, Q3 der Weltentwurf, Q4 der Monitor, Q5 das Spielprotokoll, Q6 Angabe des Spielers und Bildschirmfoto, Q7 Bildschirmfotos bei 36:24 und 42:51 bis 43:34 min, Q8 Angabe des Spielers zur zweiten Insel und Bildschirmfoto bei 111:08 min). Nächste freie Registernummer: `zweiter-lauf-0053`.
 
 ## Figuren und Welt
 
@@ -38,7 +38,15 @@ Stand 8.11.2026 (Claude). Kapitel I und II geschrieben; nächste freie Quellennu
 - Betriebe am Stichtag nach dem Spielstand (44); die Live-Messung kurz davor zählt weniger, weil sie Baustellen auslässt.
 - Das erste Heiligtum und Concordias Geschenk liegen nach 66:00 min (im Spielstand bei 66:00 min noch ohne, bei 75 min erledigt). Die Plebejer haben bei 66:00 min Heiligtum 0 %, Merkur-Lugus ist aber schon Schutzgottheit.
 
-**Stoff für Kapitel III** (ab 66:00 min, nur Beobachtetes): „Zwillinge in der Zwickmühle“ (Brutus Julius Lupus angeheuert, 71:34 min), „Der verrückte Koch“ (offen seit 70:56 min), Concordias Lieferung (bis 70:56 min aus dem Buch) und ihr Geschenk, Hingabe an Merkur-Lugus Stufe 2 (70:56 min), Garantiegeberin (70:56 min), Valerias Fracht (bis 81:06 min), Eisen, Ofen und Waffen (77 bis 79 min), Seile und Segel (82:45 min). Bei 89:48 min 665 Bewohner, Bilanz +306.
+**Kapitel III „Mithraeum“** (`#kapitel-3`): 66:00 bis 150:33 min, aufgenommen am 8.11.2026 von 16:12 bis 17:46. Einschnitt: Mithraeum, die zweite Insel (150:19 min laut Spielprotokoll; Spieler: „und die zweite insel ist am start“, „Ja, Kapitel III“). Bericht, neun Tagebucheinträge, Randnotiz, Register `-0038` bis `-0052`, neu Q8, offene Frage „Der verrückte Koch“ statt Concordias Lieferung. Kartenstand III aus dem Spielstand bei 150:26 min. Online seit `d44cb0e`.
+
+- Diplomatie laut Spielprotokoll: Concordia bietet bei 69:42 min ein kleines Geschenk an (`OfferGift_Small`), einen Geldbetrag zeigt die Kasse dabei nicht. Dorian trägt direkt nach der Inselnahme einen Nichtangriffspakt (Aktion 31737) und einen Handelsvertrag (31739) an, um 17:46:31; gelöst um 17:46:42 und 17:46:47. Der Spielstand bei 150:26 min führt den Handelsvertrag, der bei 155:27 min beide. Athr Iorgwyn und die Piraten sind weiter unentdeckt.
+- Siedlungsrechte: Kasse 47.964 (149:27) → 178 (150:33); das Fenster war schon um 120, 143 und 148 min offen. Grundsteuer seitdem 300.
+- Feuer: 96:42 bis 100:31 min, Vigiles, 7 Liberti-Wohnhäuser und 2 weitere Gebäude. „Brandstifter“ bei Dorian und Athr Iorgwyn (Diplomatie) hat damit nichts zu tun, das ist die niedrige Brandsicherheit.
+- Kasse springt mehrmals weit über die Bilanz (+2.683 bei 67:17, +1.588 bei 76:47, +1.424 bei 100:38, +2.253 bei 103:38, +3.441 bei 114:34, +3.846 bei 146:27 min). Wahrscheinlich Lieferverträge, einzeln nicht zugeordnet.
+- Im Monitor heißt die Fracht je Partei „Verlorene Fracht von …“; Kisten waren bei Dorian bei 94:51 und 99:55 min an Bord.
+
+**Stoff für Kapitel IV** (ab 150:33 min, nur Beobachtetes): Mithraeum wächst (drei Holzfäller, drei Sägewerke, Sardinenhütte, Haferhof, Breistand bis 157:25 min), die Kasse fällt kurz ins Minus, „Leere Kassen“ bis 155:27 min erledigt; Athr Iorgwyn nimmt Insel 9218 (151:10 min); „Der verrückte Koch“ offen; Lieferung für Dorian offen.
 
 ## Tagebuch
 
@@ -46,6 +54,7 @@ Stand 8.11.2026 (Claude). Kapitel I und II geschrieben; nächste freie Quellennu
 - **Formen Kapitel I:** Gespräch (Dorian), Notiz am Rand (Wer schon da ist), Eintrag (Der Strand), Rechnung (Felix rechnet), Gespräch (Eine Audienz), Eintrag (In der Taberna), Brief an die Kaiserin, Entwurf einer Inschrift (Für den Platz).
 - **Antonias Stimme:** Vergangenheitsform, urban, sie denkt in Menschen und Wirkungen. Ungeduld zeigt sich an Handlungen (Platz abgesteckt, Baumeister vor seinen Leuten angefahren, später Wein geschickt). Sie rechnet nicht selbst; die Zahlen bringt Felix. Anrede durch Felix: „Domina“.
 - **Formen Kapitel II:** Notiz am Rand (Plus null), Gespräch am Hafen (Eine Kiste für Caecilia), Eintrag (Vier Häuser), Gespräch (Alba Concordia), Opfer (Merkur-Lugus), Liste (Wer in der Villa wohnt), Gespräch (Das erste Brot), Eintrag (Großer Vicus).
+- **Formen Kapitel III:** eingelegter Brief von Concordia (Eine Gabe aus Aquae Serius), Notiz am Rand (Ein Koch), Gespräch (Brutus oder Gaius), Gespräch am Hafen (Dorians Kisten), Eintrag (Sieben Häuser), Eintrag (Lugnasad), Gespräch (Merypath), Notiz am Rand (Tausendneun), Brief an die Kaiserin.
 - **Wiederkehrende Figuren** (Namen erst mit dem Spieler, außer Namen aus dem Spiel):
   - Felix: legt die Kasse vor, führt die Liste der Kontakte (Spalte „was wir von ihnen wollen und sie von uns“), wartet mit der Laterne, siegelt;
   - der Baumeister: fragt erst, wenn die Träger außer Hörweite sind; bekam nach dem Anfahren einen Krug Wein;
@@ -54,5 +63,6 @@ Stand 8.11.2026 (Claude). Kapitel I und II geschrieben; nächste freie Quellennu
   - Dorian Manlius Scaevola: rief von der Bordwand herüber; Antonia nickte einmal;
   - der Mann vom Haferhof wohnt seit Kapitel II in einem der vier ersten Plebejerhäuser; der Wirt brachte das erste Brot selbst und stiftete Salz fürs Opfer; der Baumeister zimmerte den Altar aus Brettern und wollte sie zurück;
   - der Steuermann (Caecilias Kiste, hob die Schultern); Alba Concordia und ihr Priester, der zum Himmel sah;
-  - in der Villa: Troucotouto (Subiudex, ließ beide Seiten eines Zaunstreits zahlen), Menander von Nikomedes (Haruspex), Actorius Maximinus (Nummularius, sitzt abends mit Felix über den Büchern).
-- **Offene Fäden:** wer in Rom Dorian etwas schuldet (Felix sieht die Briefe durch); der Platz für die Verwaltung ist abgesteckt, die Straße vom Hafen dorthin gewünscht, das Forum nur erzählt; der Brief an die Kaiserin ohne Kasse; der Entwurf der Inschrift liegt bei den Briefen; die Villa steht auf dem abgesteckten Platz; Antonia will die Ziegel im nächsten Brief an die Kaiserin erwähnen; Caecilia hat eine eigene Zeile in Felix’ Liste.
+  - in der Villa: Troucotouto (Subiudex, ließ beide Seiten eines Zaunstreits zahlen, schlichtet Streit, bevor er anfängt), Menander von Nikomedes (Haruspex, liest immer Gutes), Actorius Maximinus (Nummularius, sitzt abends mit Felix über den Büchern), Brutus Julius Lupus (fragte, woran es am meisten fehlt; sein Zwilling Gaius reiste mit Reisegeld ab);
+  - Merypath, Gromaticus-Vermesser auf dem Flaggschiff (fand Mithraeum); der Hauptmann der Vigiles (Feuer); der Libertus mit dem Karren schwört auf einen Koch am Hafen.
+- **Offene Fäden:** wer in Rom Dorian etwas schuldet (Felix sieht die Briefe durch); der Platz für die Verwaltung ist abgesteckt, die Straße vom Hafen dorthin gewünscht, das Forum nur erzählt; der Brief an die Kaiserin ohne Kasse; der Entwurf der Inschrift liegt bei den Briefen; die Villa steht auf dem abgesteckten Platz; Antonia will die Ziegel im nächsten Brief an die Kaiserin erwähnen; Caecilia hat eine eigene Zeile in Felix’ Liste; neben Concordias Namen steht ein Fragezeichen (was sie für ihre Gabe will); der Koch steht auf Felix’ Liste; Antonia hat Dorians Kisten „mit einem Gruß“ zurückbringen lassen und hat jetzt Verträge mit ihm; die Kaiserin kennt die Kasse weiterhin nicht.

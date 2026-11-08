@@ -1,5 +1,13 @@
 # Werkstatt-Log
 
+## 2026-11-08 – Kapitel III „Mithraeum“ des zweiten Laufs (Claude)
+
+- Spieler: „und die zweite insel ist am start“, dann „Ja, Kapitel III“. Einschnitt: Inselnahme von Mithraeum bei 150:19 min, Stichtag die erste Live-Messung danach bei 150:33 min.
+- Bericht, neun Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0038` bis `-0052`, neu Q8, Kartenstand III nach dem Spielstand bei 150:26 min.
+- Aus dem Spielprotokoll und dem Spielstand gelesen, was der Monitor bisher nicht führt: Concordias Geschenk (69:42 min) und Dorians Handelsvertrag und Nichtangriffspakt direkt nach der Inselnahme.
+- Geprüft: `validate-data.mjs`, Browser, 375 px im Dunkelmodus ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `d44cb0e`.
+
 ## 2026-11-08 – Kapitel II „Die Villa“ des zweiten Laufs (Claude)
 
 - Spieler: „Ja, Kapitel II“ auf den Vorschlag, bis zum Großen Vicus zu gehen. Stichtag ist der Spielstand bei 66:00 min, weil der letzte gesicherte Stand davor bei 45:19 min liegt und die Karte sonst veraltet wäre.
