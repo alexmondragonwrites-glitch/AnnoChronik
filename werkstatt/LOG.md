@@ -14,7 +14,7 @@
   - `new-save.mjs`: neue Optionen `--untertitel`, `--figur`, `--farbe`; legt Kartenseite und `karte.json` mit an.
 - Erster Lauf: Karten von Kapitel VII und VIII neu gezeichnet, Albion jetzt mit Namen und Besitz. Die Zahl „19 von 19“ auf der Karte zählt Inseln ohne Deko-Inseln, der Monitor (26) zählt sie mit.
 - Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, `test_karte.py` (15 Tests); Browser: Chronik, Kartenseite und Portal, 375 px ohne waagrechtes Scrollen, dunkel, keine Konsolenfehler.
-- Nicht hochgeladen; wartet auf Freigabe.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `ff7c671`.
 
 ## 2026-11-07 – Kapitel VII „Nach Albion“ und VIII „Bögen und Ruder“ (Claude, Nebensitzung)
 
