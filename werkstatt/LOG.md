@@ -1,5 +1,9 @@
 # Werkstatt-Log
 
+## 2026-11-08 – Erythia als Ziel, Musculeum bestätigt (ChatGPT)
+
+- Der Spieler identifiziert die von Dorian besetzte Insel als Musculeum und wählt die unbesiedelte Erythia als Ziel; Antonia nimmt Kurs dorthin. Keine Landung oder Stadtgründung bestätigt. Das bestehende Vorspiel wurde als Fortsetzung ergänzt (belegte Angaben / erzählerische Rekonstruktion getrennt), statt Kapitel I vorzeitig zu eröffnen. Commit `bac5635`. Veröffentlichung direkt vom Spieler beauftragt.
+
 ## 2026-11-08 – Vorspiel Antonia: Dorian nimmt die erkundete Insel (ChatGPT)
 
 - Spieler schilderte seine erste Wunschinsel in Latium mit Fluss, Wasserfall und Ressourcen sowie Dorians frühere Besetzung. Das Vorspiel ist als erzählerische Rekonstruktion klar vom belegten Spielverlauf getrennt; kein Name vergeben, keine Stadt gegründet. Direktauftrag des Spielers zur Veröffentlichung. `saves/zweiter-lauf/chronik.html` (Commit `0a4ce20`).
