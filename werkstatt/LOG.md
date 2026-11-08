@@ -1,5 +1,12 @@
 # Werkstatt-Log
 
+## 2026-11-08 – Kapitel II „Die Villa“ des zweiten Laufs (Claude)
+
+- Spieler: „Ja, Kapitel II“ auf den Vorschlag, bis zum Großen Vicus zu gehen. Stichtag ist der Spielstand bei 66:00 min, weil der letzte gesicherte Stand davor bei 45:19 min liegt und die Karte sonst veraltet wäre.
+- Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0020` bis `-0037`, neu Q7, Kartenstand II nach dem Spielstand bei 66:00 min. Die offene Frage zu Caecilias Vertrag ist durch Concordias Lieferung ersetzt.
+- Geprüft: `validate-data.mjs`, Browser hell und dunkel, 375 px ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `cb58395`.
+
 ## 2026-11-08 – Kapitel I „Erythia“ des zweiten Laufs (Claude)
 
 - Spieler: „so die erste siedlung steht“, auf die Frage nach dem Kapitel „Ja, Kapitel I“. Einschnitt: Erythia wird Kleiner Vicus (28:19 min), eine Spielminute nach dem Autosave bei 27:05 min. Bis 27:19 min führt das Spiel die Insel als Außenposten.

@@ -1,6 +1,6 @@
 # Antonia Corvina · Zweiter Lauf · Stand
 
-Stand 8.11.2026 (Claude). Kapitel I geschrieben; nächste freie Quellennummer: **Q7** (Q1 und Q2 die Figurendossiers, Q3 der Weltentwurf, Q4 der Monitor, Q5 das Spielprotokoll, Q6 Angabe des Spielers und Bildschirmfoto). Nächste freie Registernummer: `zweiter-lauf-0020`.
+Stand 8.11.2026 (Claude). Kapitel I und II geschrieben; nächste freie Quellennummer: **Q8** (Q1 und Q2 die Figurendossiers, Q3 der Weltentwurf, Q4 der Monitor, Q5 das Spielprotokoll, Q6 Angabe des Spielers und Bildschirmfoto, Q7 Bildschirmfotos bei 36:24 und 42:51 bis 43:34 min). Nächste freie Registernummer: `zweiter-lauf-0038`.
 
 ## Figuren und Welt
 
@@ -30,17 +30,29 @@ Stand 8.11.2026 (Claude). Kapitel I geschrieben; nächste freie Quellennummer: *
 - Status laut Live: Außenposten bis 27:19 min, Kleiner Vicus ab 28:19 min. Wohnhäuser nach Live (bei 27:05 min Spielstand 40, Live bei 27:19 min 64).
 - Rivalen bei 27:05 min (Attribut Bevölkerung): Dorian 21, Athr Iorgwyn 103, Concordia 119. Aquae Serius ist bei 27:05 min noch unentdeckt und deshalb auf der Karte gepunktet.
 
-**Stoff für Kapitel II** (ab 28:19 min, nur Beobachtetes): bei 40:22 min 405 Liberti, Bilanz +144, von Sardinen, Haferbrei, Hafer, Hanf, Tuniken und Schafen je zwei Betriebe; Bretter weiter knapp. Offen am Stichtag: der Vertrag „Verlorene Fracht“ von Caecilia.
+**Kapitel II „Die Villa“** (`#kapitel-2`): 28:19 bis 66:00 min, aufgenommen am 8.11.2026 von 15:32 bis 16:12. Einschnitt: der Große Vicus (62:15 min); Stichtag ist der Spielstand bei 66:00 min, damit die Karte aktuell ist (Spieler: „Ja, Kapitel II“). Bericht, acht Tagebucheinträge, Randnotiz, Register `-0020` bis `-0037`, neu Q7, eine offene Frage (Concordias Lieferung). Kartenstand II aus dem Spielstand bei 66:00 min. Online seit `cb58395`.
+
+- Zeitpunkte aus dem Spielstand (`LastDecayTime` der Wirkungen): Dorians „Schlechter Eindruck“ bei 1:55,2 min, „Kleiner Außenposten“ (Einwohnerstufe 2) bei 40:29,4 min, Concordias „Guter Anfang“ bei 43:19,6 min.
+- Kasse: +1.248 um 37 min (Caecilias Fracht, Abgeleitet), −1.675 bei 52:13 min (Villa, Bretter 24 → 0), −1.544 bei 61:15 und −1.258 bei 63:16 min (Bauten, im Kapitel unerklärt).
+- Bilanz: bei 53:13 min von +61 auf +198 (Spezialisten, Abgeleitet; die Villa war laut Protokoll um 15:58 und 15:59 geöffnet). Posten „Bereichseffekte und Spezialisten“ von 52 (28:19 min) auf 479 (66:00 min). „Villa des Praetors“ im Live-Mod ist die Kategorie Kulturbauten.
+- Betriebe am Stichtag nach dem Spielstand (44); die Live-Messung kurz davor zählt weniger, weil sie Baustellen auslässt.
+- Das erste Heiligtum und Concordias Geschenk liegen nach 66:00 min (im Spielstand bei 66:00 min noch ohne, bei 75 min erledigt). Die Plebejer haben bei 66:00 min Heiligtum 0 %, Merkur-Lugus ist aber schon Schutzgottheit.
+
+**Stoff für Kapitel III** (ab 66:00 min, nur Beobachtetes): „Zwillinge in der Zwickmühle“ (Brutus Julius Lupus angeheuert, 71:34 min), „Der verrückte Koch“ (offen seit 70:56 min), Concordias Lieferung (bis 70:56 min aus dem Buch) und ihr Geschenk, Hingabe an Merkur-Lugus Stufe 2 (70:56 min), Garantiegeberin (70:56 min), Valerias Fracht (bis 81:06 min), Eisen, Ofen und Waffen (77 bis 79 min), Seile und Segel (82:45 min). Bei 89:48 min 665 Bewohner, Bilanz +306.
 
 ## Tagebuch
 
 - Vorspiel „Eine Insel, die Dorian uns nahm“ am 8.11.2026 ergänzt (Spielerangabe und Bildbelege, Rekonstruktion klar markiert). Nach Spielerbestätigung: Dorians Insel heißt Musculeum, Antonia nahm Kurs auf Erythia.
 - **Formen Kapitel I:** Gespräch (Dorian), Notiz am Rand (Wer schon da ist), Eintrag (Der Strand), Rechnung (Felix rechnet), Gespräch (Eine Audienz), Eintrag (In der Taberna), Brief an die Kaiserin, Entwurf einer Inschrift (Für den Platz).
 - **Antonias Stimme:** Vergangenheitsform, urban, sie denkt in Menschen und Wirkungen. Ungeduld zeigt sich an Handlungen (Platz abgesteckt, Baumeister vor seinen Leuten angefahren, später Wein geschickt). Sie rechnet nicht selbst; die Zahlen bringt Felix. Anrede durch Felix: „Domina“.
+- **Formen Kapitel II:** Notiz am Rand (Plus null), Gespräch am Hafen (Eine Kiste für Caecilia), Eintrag (Vier Häuser), Gespräch (Alba Concordia), Opfer (Merkur-Lugus), Liste (Wer in der Villa wohnt), Gespräch (Das erste Brot), Eintrag (Großer Vicus).
 - **Wiederkehrende Figuren** (Namen erst mit dem Spieler, außer Namen aus dem Spiel):
   - Felix: legt die Kasse vor, führt die Liste der Kontakte (Spalte „was wir von ihnen wollen und sie von uns“), wartet mit der Laterne, siegelt;
   - der Baumeister: fragt erst, wenn die Träger außer Hörweite sind; bekam nach dem Anfahren einen Krug Wein;
   - der Libertus mit dem Karren (400 Denare für 20 Bretter);
   - der Wirt der Taberna; ein Mann vom Haferhof;
-  - Dorian Manlius Scaevola: rief von der Bordwand herüber; Antonia nickte einmal.
-- **Offene Fäden:** wer in Rom Dorian etwas schuldet (Felix sieht die Briefe durch); der Platz für die Verwaltung ist abgesteckt, die Straße vom Hafen dorthin gewünscht, das Forum nur erzählt; der Brief an die Kaiserin ohne Kasse; der Entwurf der Inschrift liegt bei den Briefen.
+  - Dorian Manlius Scaevola: rief von der Bordwand herüber; Antonia nickte einmal;
+  - der Mann vom Haferhof wohnt seit Kapitel II in einem der vier ersten Plebejerhäuser; der Wirt brachte das erste Brot selbst und stiftete Salz fürs Opfer; der Baumeister zimmerte den Altar aus Brettern und wollte sie zurück;
+  - der Steuermann (Caecilias Kiste, hob die Schultern); Alba Concordia und ihr Priester, der zum Himmel sah;
+  - in der Villa: Troucotouto (Subiudex, ließ beide Seiten eines Zaunstreits zahlen), Menander von Nikomedes (Haruspex), Actorius Maximinus (Nummularius, sitzt abends mit Felix über den Büchern).
+- **Offene Fäden:** wer in Rom Dorian etwas schuldet (Felix sieht die Briefe durch); der Platz für die Verwaltung ist abgesteckt, die Straße vom Hafen dorthin gewünscht, das Forum nur erzählt; der Brief an die Kaiserin ohne Kasse; der Entwurf der Inschrift liegt bei den Briefen; die Villa steht auf dem abgesteckten Platz; Antonia will die Ziegel im nächsten Brief an die Kaiserin erwähnen; Caecilia hat eine eigene Zeile in Felix’ Liste.
