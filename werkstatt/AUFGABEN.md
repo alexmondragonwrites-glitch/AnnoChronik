@@ -4,7 +4,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## In Arbeit
 
-_(leer)_
+- **Vorspiel Antonia, erste Inselbegegnung** (ChatGPT, 8.11.2026): `saves/zweiter-lauf/chronik.html`, `werkstatt/zweiter-lauf/STAND.md`, `werkstatt/LOG.md`. Spieler hat direkt beauftragt, den Beginn mit Dorians Besetzung der erkundeten Insel auf der Seite zu hinterlegen. Keine neuen Namen, kein Kapitel I ohne Monitor-Einschnitt.
+
 
 ## Zur Prüfung
 
