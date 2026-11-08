@@ -94,6 +94,112 @@
           "beschreibung": "Karte von Latium zum Ende von Kapitel I: Antonias Insel Erythia. Praetoren: Musculeum (Dorian Manlius Scaevola). Entdeckt sind 14 von 28 Inseln."
         }
       ]
+    },
+    {
+      "id": "kapitel-2",
+      "kapitel": 2,
+      "titel": "Die Villa",
+      "von_ms": 1699500,
+      "bis_ms": 3960300,
+      "spielstand_ms": 3960300,
+      "aufgenommen": "2026-11-08",
+      "karten": [
+        {
+          "provinz": "Latium",
+          "bild": "images/karte/kapitel-2.webp",
+          "klein": "images/karte/kapitel-2-klein.webp",
+          "breite": 2728,
+          "hoehe": 2728,
+          "klein_breite": 1400,
+          "klein_hoehe": 1400,
+          "spieler": [
+            "Erythia"
+          ],
+          "praetoren": [
+            {
+              "name": "Aquae Serius",
+              "von": "Alba Concordia"
+            },
+            {
+              "name": "Musculeum",
+              "von": "Dorian Manlius Scaevola"
+            }
+          ],
+          "dritte": [
+            {
+              "name": "Lilybaion",
+              "von": "Valeria"
+            }
+          ],
+          "frei": [
+            "Apricus",
+            "Cinis",
+            "Forum Aquili",
+            "Hestiacum",
+            "Illiadunum",
+            "Kypressia",
+            "Mithraeum",
+            "Mogontia Sum",
+            "Mytholos",
+            "Neapolis",
+            "Nubicuculia ",
+            "Pompus",
+            "Pons Census",
+            "Proventus",
+            "Sartago",
+            "Silvanium"
+          ],
+          "entdeckt": 20,
+          "inseln": 28,
+          "legende": [
+            {
+              "art": "besitz",
+              "text": "Antonia Corvina",
+              "farbe": "#1e3e6e"
+            },
+            {
+              "art": "besitz",
+              "text": "Dorian Manlius Scaevola",
+              "farbe": "#965a82"
+            },
+            {
+              "art": "besitz",
+              "text": "Alba Concordia",
+              "farbe": "#a84834"
+            },
+            {
+              "art": "dritte",
+              "text": "Händler und Piraten"
+            },
+            {
+              "art": "haus",
+              "text": "Wohnhaus",
+              "farbe": "#1e3e6e"
+            },
+            {
+              "art": "betrieb",
+              "text": "Betrieb, Lager"
+            },
+            {
+              "art": "strasse",
+              "text": "Straße"
+            },
+            {
+              "art": "fluss",
+              "text": "Fluss"
+            },
+            {
+              "art": "wald",
+              "text": "Wald"
+            },
+            {
+              "art": "unentdeckt",
+              "text": "noch nicht entdeckt"
+            }
+          ],
+          "beschreibung": "Karte von Latium zum Ende von Kapitel II: Antonias Insel Erythia. Praetoren: Aquae Serius (Alba Concordia); Musculeum (Dorian Manlius Scaevola). Entdeckt sind 20 von 28 Inseln."
+        }
+      ]
     }
   ]
 }
