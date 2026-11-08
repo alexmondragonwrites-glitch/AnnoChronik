@@ -1,5 +1,9 @@
 # Werkstatt-Log
 
+## 2026-11-08 – Vorspiel Antonia: Dorian nimmt die erkundete Insel (ChatGPT)
+
+- Spieler schilderte seine erste Wunschinsel in Latium mit Fluss, Wasserfall und Ressourcen sowie Dorians frühere Besetzung. Das Vorspiel ist als erzählerische Rekonstruktion klar vom belegten Spielverlauf getrennt; kein Name vergeben, keine Stadt gegründet. Direktauftrag des Spielers zur Veröffentlichung. `saves/zweiter-lauf/chronik.html` (Commit `0a4ce20`).
+
 Übergaben und Reviews, neueste oben. Nur ergänzen.
 
 ## 2026-11-08 – Zweiter Lauf: Antonia Corvina (Claude)
