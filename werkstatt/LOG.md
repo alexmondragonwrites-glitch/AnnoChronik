@@ -1,5 +1,13 @@
 # Werkstatt-Log
 
+## 2026-11-08 – Kapitel I „Erythia“ des zweiten Laufs (Claude)
+
+- Spieler: „so die erste siedlung steht“, auf die Frage nach dem Kapitel „Ja, Kapitel I“. Einschnitt: Erythia wird Kleiner Vicus (28:19 min), eine Spielminute nach dem Autosave bei 27:05 min. Bis 27:19 min führt das Spiel die Insel als Außenposten.
+- Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0001` bis `-0019`, neu Q5 und Q6, Inseln, eine offene Frage, Startkapital im Steckbrief; Kartenstand I nach dem Spielstand bei 27:05 min.
+- Gefunden: Der Monitor meldet nach dem Laden die Begegnung mit Dorian erneut und datiert sie auf das Fenster bei 19:01 min. Sie fiel bei 1:55 min; das Fenster gehört zum Libertus (Abgeleitet). Die Messdaten dieser Partie sind deshalb noch nicht veröffentlicht.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Browser hell und dunkel, 375 px ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `3c8d0b7`.
+
 ## 2026-11-08 – Windrose nach Spiel-Norden (Claude)
 
 - Anlass: Das Bildschirmfoto der Spielkarte zur Wahl von Antonias Startinsel zeigt, dass das Spiel die Provinz als Raute darstellt. Norden ist deren obere Spitze, also die Richtung +x, +z. Unsere Karten stehen achsgerecht, ihr Norden liegt oben rechts; die Windrose zeigte bisher nach oben. Spieler: „Ja, drehen“.
