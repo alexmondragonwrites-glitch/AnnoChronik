@@ -1,5 +1,12 @@
 # Werkstatt-Log
 
+## 2026-11-09 – Kapitel IV „Zwei Städte“ des zweiten Laufs (Claude)
+
+- Spieler: „und ich hab weitergespielt neues kapitel?“, dann „Ja, Kapitel IV“. Einschnitt: die ersten Equites auf Erythia (209:48 min), Stichtag die Live-Messung dort, Karte nach dem Spielstand bei 209:47 min.
+- Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0053` bis `-0069`, Inselliste um Caer Defod, Veritas und Flammentia ergänzt, eine neue offene Frage.
+- Geprüft: `validate-data.mjs`, Browser, 375 px im Dunkelmodus ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `50a44ea`.
+
 ## 2026-11-09 – Messdaten des zweiten Laufs online (Claude)
 
 - Spieler: „Ja, Messdaten hoch“. Erster Upload für die Partie: 266 Messungen bis 216:50 min Spielzeit, aufgenommen vom 8.11. 14:44 bis 9.11. 6:39; 22 Messungen aus verworfenen Abschnitten bleiben weg.
