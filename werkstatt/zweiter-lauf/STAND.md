@@ -18,8 +18,9 @@ Stand 8.11.2026 (Claude). Kapitel I bis III geschrieben; nächste freie Quellenn
 
 ## Daten
 
-- Karte: `saves/zweiter-lauf/karte.html`, noch ohne Stand. Nach jedem Kapitel im Anno-Monitor `py -3 karte.py --save zweiter-lauf` laufen lassen (siehe `docs/KARTE.md`).
-- Der Monitor sichert seit dem 8.11.2026 jeden gelesenen Spielstand, aber erst ab seinem nächsten Start; der laufende Monitor stammt von 13:58.
+- Karte: `saves/zweiter-lauf/karte.html`, Kartenstände I bis III nach den Spielständen bei 27:05, 66:00 und 150:26 min. Nach jedem Kapitel im Anno-Monitor `py -3 karte.py --save zweiter-lauf` laufen lassen (siehe `docs/KARTE.md`).
+- Der Monitor sichert jeden gelesenen Spielstand; gestartet am 9.11.2026 um 5:35 mit der neuen Erkennung beim Neuladen.
+- Messdaten online seit dem 9.11.2026: 266 Messungen bis 216:50 min (Aufnahme bis 9.11. 6:39), 22 aus verworfenen Abschnitten bleiben weg. Concordias Begegnung steht dort bei 45:19 min (Zeit des Spielstands), im Kapitel II bei 43:20 min aus dem Spielprotokoll; beides stimmt.
 
 ## Erzählt
 

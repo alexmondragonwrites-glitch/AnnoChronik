@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "world_id": "anno117-1794145443",
+ "welt": {
+  "name": "Antonia Corvina",
+  "seed": 565,
+  "schwierigkeit": 141148,
+  "dlcs": [
+   67902,
+   67903,
+   67904
+  ]
+ },
+ "messungen": 266,
+ "verworfen": 22,
+ "neuladen": 6,
+ "spielzeit_von_ms": 200,
+ "spielzeit_bis_ms": 13010500,
+ "erfasst_von": "2026-11-08T14:44:22+01:00",
+ "erfasst_bis": "2026-11-09T06:39:42+01:00",
+ "tage": [
+  {
+   "datum": "2026-11-08",
+   "datei": "tag-2026-11-08.json",
+   "messungen": 200,
+   "ereignisse": 227,
+   "spielzeit_von_ms": 200,
+   "spielzeit_bis_ms": 9862000
+  },
+  {
+   "datum": "2026-11-09",
+   "datei": "tag-2026-11-09.json",
+   "messungen": 66,
+   "ereignisse": 81,
+   "spielzeit_von_ms": 9862500,
+   "spielzeit_bis_ms": 13010500
+  }
+ ],
+ "stand": "stand.json"
+}

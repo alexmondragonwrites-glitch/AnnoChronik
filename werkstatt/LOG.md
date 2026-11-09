@@ -1,5 +1,12 @@
 # Werkstatt-Log
 
+## 2026-11-09 – Messdaten des zweiten Laufs online (Claude)
+
+- Spieler: „Ja, Messdaten hoch“. Erster Upload für die Partie: 266 Messungen bis 216:50 min Spielzeit, aufgenommen vom 8.11. 14:44 bis 9.11. 6:39; 22 Messungen aus verworfenen Abschnitten bleiben weg.
+- Vorher hat die Monitor-Sitzung die Welt berichtigt: Dorian bei 1:55 min, der Libertus bei 19:01 min, die frühen Messungen gelten wieder.
+- `world_id` eingetragen, das Manifest zeigt auf `data/monitor/index.json`, Q4 verlinkt die Messdaten.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Prüfschritte der GitHub-Prüfung in einer sauberen Kopie, Suche nach Privatem.
+
 ## 2026-11-08 – Kapitel III „Mithraeum“ des zweiten Laufs (Claude)
 
 - Spieler: „und die zweite insel ist am start“, dann „Ja, Kapitel III“. Einschnitt: Inselnahme von Mithraeum bei 150:19 min, Stichtag die erste Live-Messung danach bei 150:33 min.
