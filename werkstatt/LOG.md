@@ -1,5 +1,13 @@
 # Werkstatt-Log
 
+## 2026-11-10 – Kapitel VII „Whisperwind“ des zweiten Laufs (Claude)
+
+- Spieler: „lässt sich schon wieder was schreiben?“, dann „okey ich mach jetzt mittag“ und „ich hab auch einmal neu geladen“. 344:15 bis 393:50 min, Einschnitt die ersten Mercatoren auf Whisperwind (389:30 min), Stichtag der Spielstand vor der Mittagspause.
+- Der Monitor stand von 9:59 bis 10:46 Uhr (neu gestartet auf Freigabe). `nachlese.py` holte aus dem Spielprotokoll 45 Live-Messungen nach und erkannte das Neuladen um 10:29 Uhr; 7 Messungen aus dem Abzweig sind verworfen, Autosave 75 gehört dazu und wird nicht verwendet.
+- Bericht, sieben Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0112` bis `-0123`, Whisperwind in der Inselliste, die offene Frage zum verrückten Koch entfällt (Auftrag erledigt). Kartenstand VII mit Latium und Albion.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Browser (Kapitel und Kartenseite), 375 px im Dunkelmodus ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `ac3418a`.
+
 ## 2026-11-10 – Sonderkapitel „Der Krieg um Veritas“ des zweiten Laufs (Claude)
 
 - Spieler: „sonderkapitel zum krieg flotten von beiden seiten die belagerung und vllt auch die feier in unser haupstadt danach?“, dazu der Rat nach dem Frieden (Albion wachsen lassen und schützen, Aegyptus noch nicht); auf den Vorschlag „Ja, so bauen“.

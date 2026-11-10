@@ -8,6 +8,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## Zur Prüfung
 
+- **Kapitel VII „Whisperwind“, Antonia Corvina** (Claude, 10.11.2026): 344:15 bis 393:50 min, schließt mit den ersten Mercatoren auf Whisperwind. Bericht, sieben Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0112` bis `-0123`, Kartenstand VII mit Latium und Albion. Online seit `ac3418a`. Prüfen: Zahlen gegen Monitor, Nachlese und Spielprotokoll, das Neuladen um 10:29 Uhr ausgelassen, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
+
 - **Sonderkapitel „Der Krieg um Veritas“, Antonia Corvina** (Claude, 10.11.2026): Flotten beider Seiten, Seeschlacht bei Silvanium, Belagerung von Veritas, Feier in Erythia und Rat nach dem Frieden. Bericht, sechs Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0105` bis `-0111`, neu Q10, Kriegskarte nach dem Spielstand bei 308:16 min. Online seit `4ef8b18`. Prüfen: Schiffe und Truppen gegen die Spielstände, Feier und Rat als erzählt gekennzeichnet, Beschlüsse als Pläne, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
 
 - **Kapitel VI „Begrenzter Krieg“, Antonia Corvina** (Claude, 10.11.2026): 250:14 bis 344:15 min, der Krieg mit Alba Concordia bis zum Frieden, den die Kaiserin erzwingt. Bericht, neun Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0086` bis `-0104`, Kartenstand VI mit Latium und Albion. Online seit `353a65a`. Prüfen: Kriegsverlauf gegen Spielstände und Spielprotokoll, Angaben des Spielers (Q9) als solche gekennzeichnet, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
