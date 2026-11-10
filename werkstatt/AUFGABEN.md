@@ -8,6 +8,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## Zur Prüfung
 
+- **Sonderkapitel „Der Krieg um Veritas“, Antonia Corvina** (Claude, 10.11.2026): Flotten beider Seiten, Seeschlacht bei Silvanium, Belagerung von Veritas, Feier in Erythia und Rat nach dem Frieden. Bericht, sechs Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0105` bis `-0111`, neu Q10, Kriegskarte nach dem Spielstand bei 308:16 min. Online seit `4ef8b18`. Prüfen: Schiffe und Truppen gegen die Spielstände, Feier und Rat als erzählt gekennzeichnet, Beschlüsse als Pläne, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
+
 - **Kapitel VI „Begrenzter Krieg“, Antonia Corvina** (Claude, 10.11.2026): 250:14 bis 344:15 min, der Krieg mit Alba Concordia bis zum Frieden, den die Kaiserin erzwingt. Bericht, neun Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0086` bis `-0104`, Kartenstand VI mit Latium und Albion. Online seit `353a65a`. Prüfen: Kriegsverlauf gegen Spielstände und Spielprotokoll, Angaben des Spielers (Q9) als solche gekennzeichnet, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
 
 - **Kapitel V „Isca Corvina“, Antonia Corvina** (Claude, 10.11.2026): 209:48 bis 250:14 min, schließt mit Isca Corvina, der ersten Insel in Albion. Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0070` bis `-0085`, neu Q9, Kartenstand V mit Latium und Albion. Online seit `353a65a`. Prüfen: Zahlen gegen Monitor und Spielprotokoll, Adlerstandarten und Theater, Neuladen bei 243:38 min ausgelassen, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.

@@ -1,5 +1,13 @@
 # Werkstatt-Log
 
+## 2026-11-10 – Sonderkapitel „Der Krieg um Veritas“ des zweiten Laufs (Claude)
+
+- Spieler: „sonderkapitel zum krieg flotten von beiden seiten die belagerung und vllt auch die feier in unser haupstadt danach?“, dazu der Rat nach dem Frieden (Albion wachsen lassen und schützen, Aegyptus noch nicht); auf den Vorschlag „Ja, so bauen“.
+- Eigene Form nach Kapitel VI (`#sonderkapitel-krieg`, ohne `data-spielzeit-bis`): Bericht mit Schlachtordnung, Seeschlacht, Belagerung, Verlusten und der Lage nach dem Frieden; sechs Tagebucheinträge; Randnotiz; Register `zweiter-lauf-0105` bis `-0111`; neu Q10; Kriegskarte nach dem Spielstand bei 308:16 min.
+- Gelesen aus den gesicherten Spielständen: Schiffe und Truppen beider Seiten mit Namen (`Nameable/VehicleTextGuid`), Besitzer aus `OwnerProfile`, Lage über die Inselkarte. Feier und Rat sind erzählt, die Beschlüsse sind Pläne.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Browser (Kapitel, Kriegskarte), 375 px im Dunkelmodus ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `4ef8b18`.
+
 ## 2026-11-10 – Kapitel VI „Begrenzter Krieg“ des zweiten Laufs (Claude)
 
 - Spieler: „dann mach aber den krieg das nächste Kapitel, falls du fragen dazu hast kannst du sie stellen“; Antworten zu Name, Kriegsgrund, Waffenstillstand, Veritas und Frieden stehen in Q9. 250:14 bis 344:15 min, Einschnitt der von der Kaiserin erzwungene Frieden (343:37 min).
