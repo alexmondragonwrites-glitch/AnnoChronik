@@ -1,5 +1,15 @@
 # Werkstatt-Log
 
+## 2026-11-10 – Kapitel IX „Edelmänner“ und X „Sieben Inseln“ des zweiten Laufs (Claude)
+
+- Spieler: „so ich denke wieder eine ganze menge passier“, dann „Ja, zwei Kapitel“; mitten in der Arbeit die Antworten zu Albion, Neapolis, Villa Victualia und Mistletown (neu Q11).
+- IX: 436:25 bis 479:36 min, Einschnitt Mistletown (478:18 min), Register `zweiter-lauf-0145` bis `-0158`. X: 479:36 bis 517:46 min, Einschnitt Villa Victualia (514:59 min), Register `-0159` bis `-0178`. Je sechs Tagebucheinträge, Bericht, Randnotiz, Kartenstand mit Latium und Albion.
+- Inselliste um Mistletown, Neapolis und Villa Victualia sowie fünf Inseln der Praetoren ergänzt; eine neue offene Frage (zwei verlorene Trieren, zwei Kassensprünge, Concordias Bitte um Handel).
+- Das Neuladen um 14:14 Uhr hat der Monitor erkannt; der Abzweig bleibt draußen und wird nicht erzählt.
+- Danach hat der Spieler bestätigt, dass „Anfas Wiegenlied“ in Manx’ Scheingefechten verloren ging und die rund 50.000 Denare bei 514 min aus den Scheingefechten kamen; beides steht jetzt in Q11, Bericht, Tagebuch und Register.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Browser (beide Kapitel und Kartenseite), 375 px im Dunkelmodus ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `9d90c47`.
+
 ## 2026-11-10 – Kapitel VIII „Silber und Eisen“ des zweiten Laufs (Claude)
 
 - Spieler: „gibts neues material?“, dann „Ja, bis zum Vertrag“. 393:50 bis 436:25 min, Einschnitt der Handelsvertrag mit Athr Iorgwyn (432:53 min), Stichtag Autosave 84.

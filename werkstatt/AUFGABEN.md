@@ -8,6 +8,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## Zur Prüfung
 
+- **Kapitel IX „Edelmänner“ und X „Sieben Inseln“, Antonia Corvina** (Claude, 10.11.2026): IX von 436:25 bis 479:36 min bis Mistletown, X von 479:36 bis 517:46 min bis Villa Victualia. Je sechs Tagebucheinträge, Bericht, Randnotiz, Register `zweiter-lauf-0145` bis `-0178`, neu Q11, Kartenstände IX und X. Online seit `9d90c47`. Prüfen: Zahlen gegen Monitor und Spielstände, das Neuladen um 14:14 Uhr ausgelassen, verlorene Trieren ohne erfundene Ursache, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
+
 - **Kapitel VIII „Silber und Eisen“, Antonia Corvina** (Claude, 10.11.2026): 393:50 bis 436:25 min, schließt mit dem Handelsvertrag mit Athr Iorgwyn. Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0124` bis `-0144`, Kartenstand VIII mit Latium und Albion. Online seit `17b5d62`. Prüfen: Zahlen gegen Monitor und Spielstände, Spieltexte zu Voada und Phoebe nur sinngemäß, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
 
 - **Kapitel VII „Whisperwind“, Antonia Corvina** (Claude, 10.11.2026): 344:15 bis 393:50 min, schließt mit den ersten Mercatoren auf Whisperwind. Bericht, sieben Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0112` bis `-0123`, Kartenstand VII mit Latium und Albion. Online seit `ac3418a`. Prüfen: Zahlen gegen Monitor, Nachlese und Spielprotokoll, das Neuladen um 10:29 Uhr ausgelassen, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
