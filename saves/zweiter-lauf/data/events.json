@@ -1248,5 +1248,142 @@
     "title": "Rat nach dem Frieden.",
     "description": "Laut Spieler hält Antonia nach dem Frieden Rat: Der Frieden wird nicht von Dauer sein, Albion soll wachsen und geschützt werden, Aegyptus muss noch warten. Die Beschlüsse im Tagebuch sind Pläne, keine Spielereignisse.",
     "source": "Q10"
+  },
+  {
+    "id": "zweiter-lauf-0112",
+    "spielzeit_ms": 20700100,
+    "game_time_label": "5:30 bis 5:45 h",
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "zwischenfall",
+    "chapter": 7,
+    "title": "Feuer auf Erythia gelöscht.",
+    "description": "Das Feuer auf Erythia, ausgebrochen bei 330:03 min, ist bis 345:01 min von den Vigiles gelöscht.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0113",
+    "spielzeit_ms": 21391851,
+    "game_time_label": "rund 356 min",
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 7,
+    "title": "Concordia verlängert den Nichtangriffspakt.",
+    "description": "Laut Spielprotokoll bittet Alba Concordia bei rund 356 min um die Verlängerung des Nichtangriffspakts; das Fenster steht bei 356:31 min. Im Spielstand bei 390:50 min gilt der Pakt, sein Zähler steht bei 15.941.100 Millisekunden.",
+    "source": "Q4, Q5"
+  },
+  {
+    "id": "zweiter-lauf-0114",
+    "spielzeit_ms": 21572307,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "insel",
+    "chapter": 7,
+    "title": "Vierte Insel: Whisperwind.",
+    "description": "Laut Spielprotokoll nimmt Antonia bei 359:32 min Whisperwind in Albion in Besitz, die erste ihrer Inseln mit Silber. Zwischen 358:56 und 359:56 min sinkt die Kasse von 57.299 auf 34.430 Denare.",
+    "source": "Q4, Q5"
+  },
+  {
+    "id": "zweiter-lauf-0115",
+    "spielzeit_ms": 21674000,
+    "game_time_label": "6:01 bis 6:02 h",
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "zwischenfall",
+    "chapter": 7,
+    "title": "Unruhen auf Mithraeum.",
+    "description": "Ausgebrochen bei 361:14 min, beruhigt bis 362:19 min von der Custodia. Betroffen sind eine Lehmgrube und ein weiteres Gebäude.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0116",
+    "spielzeit_ms": 21807800,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "bau",
+    "chapter": 7,
+    "title": "Die erste Triere.",
+    "description": "Im Spielstand bei 363:27 min führt Antonia die Triere „Anfas Wiegenlied“; die Kosten für Kriegsschiffe steigen bei 356:06 min von 201 auf 317 Denare je Minute. Auf Isca Augusta steht ein hölzernes Tor.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0117",
+    "spielzeit_ms": 22145373,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "entscheidung",
+    "chapter": 7,
+    "title": "„Courage und Konfit-enz“.",
+    "description": "Zur Wahl standen „Die Sohle kosten“ und „Den Libertus allein urteilen lassen“; gewählt wurde die Sohle. Das Fenster steht bei 369:05 min im Spielprotokoll. Danach ist der Auftrag „Der verrückte Koch“ erledigt, und der Verrückte Koch, Liebling von Mogon (episch), ist in der Villa auf Erythia eingesetzt.",
+    "source": "Q4, Q5"
+  },
+  {
+    "id": "zweiter-lauf-0118",
+    "spielzeit_ms": 22426500,
+    "game_time_label": "6:13 bis 6:16 h",
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "zwischenfall",
+    "chapter": 7,
+    "title": "Krankheit auf Isca Augusta.",
+    "description": "Ausgebrochen bei 373:46 min, eingedämmt bis 376:16 min von den Medici.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0119",
+    "spielzeit_ms": 22470000,
+    "game_time_label": "6:14 bis 6:17 h",
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "zwischenfall",
+    "chapter": 7,
+    "title": "Feuer auf Mithraeum.",
+    "description": "Ausgebrochen bei 374:30 min, gelöscht bis 377:36 min von den Vigiles.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0120",
+    "spielzeit_ms": 22820000,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 7,
+    "title": "Seile und Segel aus Albion.",
+    "description": "Ab 380:20 min stehen auf Isca Augusta ein Seilmacher, ein Segelmacher und ein Schafshof.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0121",
+    "spielzeit_ms": 23370500,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 7,
+    "title": "Die ersten Mercatoren auf Whisperwind.",
+    "description": "Der Monitor führt Whisperwind ab 386:30 min als Kleinen Vicus und zählt bei 389:30 min zwölf Mercatoren. Im Spielstand bei 393:50 min hat die Insel 55 Wohnhäuser der Wanderer und drei der Mercatoren.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0122",
+    "spielzeit_ms": 23630100,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 7,
+    "title": "Zwei Trieren in Albion.",
+    "description": "Im Spielstand bei 393:50 min liegen die Trieren „Anfas Wiegenlied“ und „Isis‘ Lachen“ in Albion; Antonias Truppen von Veritas stehen wieder auf Erythia.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0123",
+    "spielzeit_ms": 23630100,
+    "recorded": "2026-11-10",
+    "kind": "rekonstruktion",
+    "category": "praetoren",
+    "chapter": 7,
+    "title": "Antonia vorn bei den Bewohnern, Alba Concordia bei Inseln und Prestige.",
+    "description": "Im Spielstand bei 393:50 min zählen Antonia 4.923, Alba Concordia 4.172, Athr Iorgwyn 1.499 und Dorian 232 Bewohner. Alba Concordia hält fünf Inseln, Antonia vier, Athr Iorgwyn zwei, Dorian eine. Beim Prestige führt Alba Concordia (2.212) vor Antonia (1.744), Athr Iorgwyn (946) und Dorian (235). Concordias Ruf bei der Kaiserin steigt auf −28.",
+    "source": "Q4"
   }
 ]
