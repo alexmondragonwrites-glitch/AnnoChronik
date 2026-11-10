@@ -8,6 +8,10 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## Zur Prüfung
 
+- **Kapitel VI „Begrenzter Krieg“, Antonia Corvina** (Claude, 10.11.2026): 250:14 bis 344:15 min, der Krieg mit Alba Concordia bis zum Frieden, den die Kaiserin erzwingt. Bericht, neun Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0086` bis `-0104`, Kartenstand VI mit Latium und Albion. Online seit `353a65a`. Prüfen: Kriegsverlauf gegen Spielstände und Spielprotokoll, Angaben des Spielers (Q9) als solche gekennzeichnet, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
+
+- **Kapitel V „Isca Corvina“, Antonia Corvina** (Claude, 10.11.2026): 209:48 bis 250:14 min, schließt mit Isca Corvina, der ersten Insel in Albion. Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0070` bis `-0085`, neu Q9, Kartenstand V mit Latium und Albion. Online seit `353a65a`. Prüfen: Zahlen gegen Monitor und Spielprotokoll, Adlerstandarten und Theater, Neuladen bei 243:38 min ausgelassen, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
+
 - **Kapitel IV „Zwei Städte“, Antonia Corvina** (Claude, 9.11.2026): 150:33 bis 209:48 min, schließt mit den ersten Equites auf Erythia. Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0053` bis `-0069`, Kartenstand IV nach dem Spielstand bei 209:47 min. Online seit `50a44ea`. Prüfen: Zahlen gegen Monitor und Spielprotokoll, Unruhen und Feuer, Inseln der Praetoren, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
 
 - **Kapitel III „Mithraeum“, Antonia Corvina** (Claude, 8.11.2026): 66:00 bis 150:33 min, schließt mit Mithraeum, der zweiten Insel (150:19 min). Bericht, neun Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0038` bis `-0052`, neu Q8, Kartenstand III nach dem Spielstand bei 150:26 min. Online seit `d44cb0e`. Prüfen: Zahlen gegen Monitor und Spielprotokoll, Concordias Geschenk und Dorians Verträge, Siedlungsrechte als Abgeleitet, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.

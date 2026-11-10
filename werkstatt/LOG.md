@@ -1,5 +1,21 @@
 # Werkstatt-Log
 
+## 2026-11-10 – Kapitel VI „Begrenzter Krieg“ des zweiten Laufs (Claude)
+
+- Spieler: „dann mach aber den krieg das nächste Kapitel, falls du fragen dazu hast kannst du sie stellen“; Antworten zu Name, Kriegsgrund, Waffenstillstand, Veritas und Frieden stehen in Q9. 250:14 bis 344:15 min, Einschnitt der von der Kaiserin erzwungene Frieden (343:37 min).
+- Bericht, neun Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0086` bis `-0104`, Inselliste um Sepat des Vermissten, Radiata und das zerstörte Veritas ergänzt, Isca Corvina dort jetzt Isca Augusta, eine offene Frage. Kartenstand VI mit Latium und Albion; Umbenennung Isca Corvina → Isca Augusta in `data/karte.json`.
+- Den Krieg führt der Monitor nicht (keine Diplomatie); gelesen aus `DiplomacyManager/Relations` (WarState mit Kriegspunkten, IsFeud) und dem Spielprotokoll (DeclareFeudAction, RequestCeasefireTreatyAction, MakePeaceAction, MilitaryTakeover, ChangeOwner).
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Browser (Kapitel V und VI, Kartenseite), 375 px im Dunkelmodus ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `353a65a`.
+
+## 2026-11-10 – Kapitel V „Isca Corvina“ des zweiten Laufs (Claude)
+
+- Spieler: „dann ist heute glaub echt viel passiert“, auf den Vorschlag zweier Kapitel „Ja, Kapitel V“; der Krieg mit Alba Concordia wird Kapitel VI („dann mach aber den krieg das nächste Kapitel“). Einschnitt: Axby in Albion (245:54 min), im Spiel Isca Corvina genannt (249:29 min); Stichtag der Spielstand bei 250:14 min, der letzte des 9.11.
+- Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0070` bis `-0085`, neu Q9 (Antworten des Spielers vom 10.11.), Inselliste um Isca Corvina und Arenum Lucidum ergänzt. Kartenstand V mit zwei Karten, Latium und Albion; Umbenennung Axby → Isca Corvina in `data/karte.json`.
+- Gefunden: Der Monitor zählt in Albion entdeckte Kartenelemente, nicht Inseln (16 gegen 9 von 19 auf der Karte). Die 15.000 Denare bei 231:03 min waren das Theater (Spieler), gesetzt bei rund 219 min, bezahlt mit der Fertigstellung. Der Krieg (284 bis 343 min) steht nicht in den Monitorzeilen, weil der Monitor Diplomatie noch nicht erfasst; gelesen aus Spielständen und Spielprotokoll.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Browser (Kapitel und Kartenseite, keine Konsolenfehler).
+- Hochgeladen auf Freigabe („Ja, hochladen“): `353a65a`.
+
 ## 2026-11-09 – Kapitel IV „Zwei Städte“ des zweiten Laufs (Claude)
 
 - Spieler: „und ich hab weitergespielt neues kapitel?“, dann „Ja, Kapitel IV“. Einschnitt: die ersten Equites auf Erythia (209:48 min), Stichtag die Live-Messung dort, Karte nach dem Spielstand bei 209:47 min.
