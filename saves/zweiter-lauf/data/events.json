@@ -1171,5 +1171,82 @@
     "title": "Antonia vorn bei den Bewohnern, Alba Concordia bei Inseln und Prestige.",
     "description": "Im Spielstand bei 344:15 min zählen Antonia 3.960, Alba Concordia 3.142, Athr Iorgwyn 1.194 und Dorian 251 Bewohner. Alba Concordia hält fünf Inseln, Antonia drei, Athr Iorgwyn zwei, Dorian eine. Beim Prestige führt Alba Concordia (1.703) vor Antonia (1.406), Athr Iorgwyn (747) und Dorian (232).",
     "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0105",
+    "spielzeit_ms": 18496200,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 6,
+    "title": "Schlachtordnung vor der Seeschlacht.",
+    "description": "Im Spielstand bei 308:16 min hat Antonia das Flaggschiff „Die Sängerin“, fünf Penteconteren, vier Abteilungen Auxilia und zwei Abteilungen Bogenschützen; Alba Concordia hat in Latium das Flaggschiff „Delias“ und sieben Penteconteren, in Albion die Gladiatrix.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0106",
+    "spielzeit_ms": 18796600,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 6,
+    "title": "Sechs Penteconteren Concordias fehlen.",
+    "description": "Zwischen den Spielständen bei 308:16 und 313:16 min verschwinden Nikosa, Naus, Thalassa, Tragodia, Astra inclinant und Chryse; Antonia hat alle Schiffe. Laut Spieler hat Antonia Concordias Flotte zerstört.",
+    "source": "Q4, Q9"
+  },
+  {
+    "id": "zweiter-lauf-0107",
+    "spielzeit_ms": 19120700,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 6,
+    "title": "Antonias Truppen eingeschifft.",
+    "description": "Bei 313:16 min stehen Antonias sechs Landeinheiten auf Mithraeum, bei 318:40 min sind sie eingeschifft; bei 324:08 min liegt ihre Flotte vor Veritas.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0108",
+    "spielzeit_ms": 19758200,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 6,
+    "title": "Antonias Truppen auf Veritas.",
+    "description": "Bei 329:18 min stehen „Signum des Pferdes“, „des Brachvogels“, „des Igels“ und „des Mantikors“ auf Veritas, „Signum des Kranichs“ fehlt. Von Concordia stehen dort nur noch die Auxiliareserve „Signum des Kamels“ und „Signum des Triton“.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0109",
+    "spielzeit_ms": 20359600,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 6,
+    "title": "Veritas ohne Concordias Truppen.",
+    "description": "Bei 339:19 min stehen auf Veritas nur noch Antonias Einheiten, „Signum des Brachvogels“ fehlt. Antonias Kriegspunkte für Landkämpfe stehen bei 3.480; auf der Insel zählt der Spielstand 27 Wohnhäuser Concordias.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0110",
+    "spielzeit_ms": 20655500,
+    "recorded": "2026-11-10",
+    "kind": "rekonstruktion",
+    "category": "praetoren",
+    "chapter": 6,
+    "title": "Der Nichtangriffspakt mit Concordia läuft ab.",
+    "description": "Nach dem Spielstand bei 344:15 min endet der Nichtangriffspakt mit Alba Concordia nach rund 29 weiteren Spielminuten, bei etwa 373 min; der Zähler läuft wie der bei Dorian mit der Spielzeit herunter.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0111",
+    "spielzeit_ms": 20655500,
+    "recorded": "2026-11-10",
+    "kind": "fakt",
+    "category": "partie",
+    "chapter": 6,
+    "title": "Rat nach dem Frieden.",
+    "description": "Laut Spieler hält Antonia nach dem Frieden Rat: Der Frieden wird nicht von Dauer sein, Albion soll wachsen und geschützt werden, Aegyptus muss noch warten. Die Beschlüsse im Tagebuch sind Pläne, keine Spielereignisse.",
+    "source": "Q10"
   }
 ]
