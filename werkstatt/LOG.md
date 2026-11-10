@@ -1,5 +1,13 @@
 # Werkstatt-Log
 
+## 2026-11-10 – Kapitel VIII „Silber und Eisen“ des zweiten Laufs (Claude)
+
+- Spieler: „gibts neues material?“, dann „Ja, bis zum Vertrag“. 393:50 bis 436:25 min, Einschnitt der Handelsvertrag mit Athr Iorgwyn (432:53 min), Stichtag Autosave 84.
+- Nach der Mittagspause lud der Spieler den Stand von 396:23 min; kein Abzweig, der Monitor lief durch.
+- Bericht, acht Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0124` bis `-0144`, eine neue offene Frage (Kassensprünge bei 405 und 428 min, Herkunft von Caemgen Sciathóir). Spieltexte zu Voada und Phoebe stehen nur sinngemäß. Kartenstand VIII mit Latium und Albion.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Browser (Kapitel und Kartenseite), 375 px im Dunkelmodus ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `17b5d62`.
+
 ## 2026-11-10 – Kapitel VII „Whisperwind“ des zweiten Laufs (Claude)
 
 - Spieler: „lässt sich schon wieder was schreiben?“, dann „okey ich mach jetzt mittag“ und „ich hab auch einmal neu geladen“. 344:15 bis 393:50 min, Einschnitt die ersten Mercatoren auf Whisperwind (389:30 min), Stichtag der Spielstand vor der Mittagspause.
