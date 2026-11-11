@@ -1,5 +1,13 @@
 # Werkstatt-Log
 
+## 2026-11-11 – Kapitel XI „Togen“ des zweiten Laufs (Claude)
+
+- Spieler am 10.11.: „so dabb beenede ich mein spiel heute mit togen :)“, „Beim nächsten Mal“; am 11.11.: „dann können wir starten heut“. 517:46 bis 554:34 min, Einschnitt die ersten Togen (552:20 min).
+- Bericht, sechs Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0179` bis `-0193`, Kartenstand XI mit Latium und Albion. In der Inselliste steht Veritas jetzt als Dorians Pandora‘s Beach. Die offene Frage zu Concordias Bitte um Handel ist erledigt (Vertrag bei rund 524 min), neu offen ist die Herkunft von Scorpio Africanus Minor.
+- Versäumt: der Eintrag unter „In Arbeit“ vor dem Ändern; direkt unter „Zur Prüfung“ nachgetragen.
+- Geprüft: `validate-data.mjs`, `test-monitor-daten.py`, Browser (Kapitel und Kartenseite), 375 px im Dunkelmodus ohne waagrechtes Scrollen, keine Konsolenfehler.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `803bf1a`.
+
 ## 2026-11-10 – Kapitel IX „Edelmänner“ und X „Sieben Inseln“ des zweiten Laufs (Claude)
 
 - Spieler: „so ich denke wieder eine ganze menge passier“, dann „Ja, zwei Kapitel“; mitten in der Arbeit die Antworten zu Albion, Neapolis, Villa Victualia und Mistletown (neu Q11).
