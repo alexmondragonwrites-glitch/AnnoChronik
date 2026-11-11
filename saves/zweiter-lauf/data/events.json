@@ -2004,5 +2004,173 @@
     "title": "Alba Concordia mit acht Inseln.",
     "description": "Im Spielstand bei 517:46 min zählen Antonia 6.870, Alba Concordia 6.406, Athr Iorgwyn 2.043 und Dorian 667 Bewohner. Concordia hält acht Inseln, Antonia sieben, Athr Iorgwyn vier, Dorian eine. Beim Prestige führt Alba Concordia mit 3.693 vor Antonia mit 2.996. Athr Iorgwyns Ruf bei der Kaiserin sinkt auf 15, Dorians steigt auf 26; Antonia bleibt bei 16, Concordia bei −23.",
     "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0179",
+    "spielzeit_ms": 31307500,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 11,
+    "title": "Die ersten Liberti auf Villa Victualia.",
+    "description": "Ab 519:47 min stehen auf Villa Victualia zwei Holzfäller und zwei Sägewerke, ab 520:47 min ein Breistand, eine Sardinenhütte und ein Haferhof; bei 521:47 min wohnen dort 71 Liberti, im Spielstand bei 554:34 min 166, mit drei Flachshöfen.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0180",
+    "spielzeit_ms": 31355100,
+    "game_time_label": "8:38 bis 8:42 h",
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "zwischenfall",
+    "chapter": 11,
+    "title": "Unruhen auf Erythia.",
+    "description": "Ausgebrochen bei 518:43 min, beruhigt bis 522:36 min von der Custodia. Betroffen sind drei Wohnhäuser der Liberti und ein weiteres Gebäude.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0181",
+    "spielzeit_ms": 31367500,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "stadtstatus",
+    "chapter": 11,
+    "title": "Mistletown ist ein Kleiner Vicus.",
+    "description": "Der Monitor führt Mistletown ab 522:47 min als Kleinen Vicus.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0182",
+    "spielzeit_ms": 31378500,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "gegenstaende",
+    "chapter": 11,
+    "title": "Scorpio Africanus Minor.",
+    "description": "Im Spielstand bei 522:58 min ist Scorpio Africanus Minor, unabhängiger General (legendär), in der Villa auf Mithraeum eingesetzt; woher er kommt, zeigen die Daten nicht.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0183",
+    "spielzeit_ms": 31444757,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 11,
+    "title": "Handelsvertrag mit Concordia.",
+    "description": "Laut Spielprotokoll bittet Alba Concordia bei rund 524 min zweimal um einen Handelsvertrag, kurz darauf trägt Antonia ihn ihr selbst an. Im Spielstand bei 554:34 min gilt er neben dem Nichtangriffspakt.",
+    "source": "Q4, Q5"
+  },
+  {
+    "id": "zweiter-lauf-0184",
+    "spielzeit_ms": 31579200,
+    "game_time_label": "8:42 bis 8:46 h",
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "zwischenfall",
+    "chapter": 11,
+    "title": "Feuer auf Mithraeum.",
+    "description": "Ausgebrochen bei 522:04 min, gelöscht bis 526:20 min von den Vigiles. Betroffen sind ein Wohnhaus der Plebejer und ein weiteres Gebäude.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0185",
+    "spielzeit_ms": 31964500,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 11,
+    "title": "Purpurschnecken auf Neapolis.",
+    "description": "Ab 532:44 min stehen auf Neapolis drei Schneckenzuchten; laut Spieler ist die Insel für den Purpur gedacht.",
+    "source": "Q4, Q11"
+  },
+  {
+    "id": "zweiter-lauf-0186",
+    "spielzeit_ms": 32024500,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 11,
+    "title": "Mehr Equites auf Erythia.",
+    "description": "Bei 533:44 min steigen die Equites auf Erythia von 308 auf 373, bei 554:18 min sind es 701; im Spielstand bei 554:34 min wohnen sie in 46 Häusern statt 23.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0187",
+    "spielzeit_ms": 32384500,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "stadtstatus",
+    "chapter": 11,
+    "title": "Erythia ist eine Große Gemeinde.",
+    "description": "Der Monitor führt Erythia ab 539:44 min als Große Gemeinde.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0188",
+    "spielzeit_ms": 32583470,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 11,
+    "title": "Dorian nimmt Veritas.",
+    "description": "Bei „Besiedlungsanfrage“ standen zur Wahl: „Insel gewähren“, „Insel ansehen“ und „Anfrage ablehnen“; gewählt wurde „Insel gewähren“. Laut Spielprotokoll nimmt Dorian bei 543:03 min Veritas in Besitz, die Insel, die Antonia im Krieg zerstört hatte; im Spielstand bei 554:34 min heißt sie „Pandora‘s Beach“.",
+    "source": "Q4, Q5"
+  },
+  {
+    "id": "zweiter-lauf-0189",
+    "spielzeit_ms": 32782000,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 11,
+    "title": "Weber, Färber und Webstühle auf Erythia.",
+    "description": "Ab 539:44 min stehen auf Erythia vier Weber, ab 541:44 min vier Färberwerkstätten und ab 546:22 min zwei Webstühle.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0190",
+    "spielzeit_ms": 33140000,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 11,
+    "title": "Die ersten Togen.",
+    "description": "Ab 552:20 min sind Togen für die Equites auf Erythia zu 100 % erfüllt, versorgt von drei Schneckenzuchten auf Neapolis, drei Flachshöfen auf Villa Victualia sowie vier Färberwerkstätten, vier Webern und zwei Webstühlen auf Erythia. Den Edelmännern auf Isca Augusta fehlen die Togen noch.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0191",
+    "spielzeit_ms": 33212600,
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "auftrag",
+    "chapter": 11,
+    "title": "„Die Venen des Vulcanus“.",
+    "description": "Nach der Entscheidung „Vulcanus‘ Venen“ bei 550:40 min steht ab 553:32 min der Auftrag „Die Venen des Vulcanus“ von Caecilia im Buch; „Verheißung des Vulkans“ ist seit 543:15 min nicht mehr darin. Neu ist außerdem „Bei Venus“ von Diana ab 538:27 min.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0192",
+    "spielzeit_ms": 33223400,
+    "game_time_label": "9:10 bis 9:13 h",
+    "recorded": "2026-11-11",
+    "kind": "fakt",
+    "category": "zwischenfall",
+    "chapter": 11,
+    "title": "Feuer auf Isca Augusta.",
+    "description": "Ausgebrochen bei 550:36 min, gelöscht bis 553:44 min von den Vigiles. Betroffen sind neun Gebäude: sechs Wohnhäuser der Wanderer, zwei der Mercatoren und ein Schuhweber.",
+    "source": "Q4"
+  },
+  {
+    "id": "zweiter-lauf-0193",
+    "spielzeit_ms": 33274700,
+    "recorded": "2026-11-11",
+    "kind": "rekonstruktion",
+    "category": "praetoren",
+    "chapter": 11,
+    "title": "Antonia holt beim Prestige auf.",
+    "description": "Im Spielstand bei 554:34 min zählen Antonia 7.667, Alba Concordia 6.477, Athr Iorgwyn 2.200 und Dorian 751 Bewohner. Beim Prestige führt Alba Concordia mit 3.741 vor Antonia mit 3.281, Athr Iorgwyn mit 1.646 und Dorian mit 586. Antonias Ruf bei der Kaiserin steigt auf 26, Concordias bleibt bei −23. Concordia verehrt Minerva und erforscht Schiffsskorpione.",
+    "source": "Q4"
   }
 ]
