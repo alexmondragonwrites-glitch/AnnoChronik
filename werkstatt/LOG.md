@@ -1,5 +1,21 @@
 # Werkstatt-Log
 
+## 2026-11-15 – Dritter Lauf angelegt: Aelwen (Claude)
+
+- Spieler: „Ja, so bauen“. Danach kamen die Praetorenwahl (Concordia, Tarragon, Licia Ma) und „da ich auf einer start insel anfange muss ich die spielstände ein paar mal neu laden bis ich eine gute karte erwische.“
+- `scripts/new-save.mjs` kennt `--stil`; angelegt mit `--id dritter-lauf --name "Aelwen" --partie "Aelwen" --untertitel "Dritter Lauf" --figur "Aelwen" --farbe waldgruen --stil keltisch`.
+- Kanon `lore/aelwen.md` (Dossier wörtlich, die Persönlichkeitsbalken in Worten) und `lore/welt-aelwen.md` (Einstellungen, Kaiser und Praetoren in eigenen Worten). Chronikseite wie beim zweiten Lauf: Protagonistin, Welt, Steckbrief, Register, Tagebuch, Inseln, offene Fragen, Quellen Q1 bis Q3, Korrekturen. Dazu `docs/DRITTER-LAUF.md`, `werkstatt/dritter-lauf/STAND.md` und Waldgrün für die Karte (`karte.py` im Anno-Monitor, mit Test).
+- Was nur zum ersten Kartenversuch gehört (Startinsel, Seed, Nachbarn, Weltkennung), steht nicht in der Chronik; `world_id` bleibt leer, bis der Spieler die Karte bestätigt. Ein Probelauf von `publish-monitor.py --no-push --save dritter-lauf` hatte lokal Messdaten des ersten Versuchs geschrieben und dessen Kennung eingetragen; beides wieder entfernt, nichts hochgeladen.
+- README, AGENTS (Leseliste), Portal mit drittem Lauf und ARCHITECTURE nachgezogen. Datenprüfung, Skripte und Vorschau ok, die Datenschutz-Suche findet nichts.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `fd1b266`.
+
+## 2026-11-15 – Dritter Lauf vorbereitet: Briefing und keltisches Erscheinungsbild (Claude)
+
+- Spieler am 15.11.: neue Figur Aelwen (Dossier mit Steckbrief, Persönlichkeitsprofil, Geschichte vor Spielbeginn und Ausgangslage), dann Welteinstellungen, Kaiser Gnaeus Firmius Calidus und die Praetoren Concordia, Tarragon und Licia Ma. Aussehen: „Ja, keltisch“.
+- `BRIEFING.md`, Abschnitt „Dritter Lauf“: Welt, Wirtschaft, Kaiser und Praetoren (Spieltexte nur in eigenen Worten), Plan für Ordner, Kanon, Aufbau, Erscheinungsbild, Werkzeuge und Bilder.
+- Entwurf keltisch: `scripts/ornamente.py` erzeugt jetzt auch `assets/knotenband.svg` (Flechtband, Kachel 24 × 14) und `assets/knotenring.svg` (Ring aus zwei verflochtenen Bändern); `assets/roemisch.css` kennt `data-farbe="waldgruen"` und `data-stil="keltisch"`. In der Vorschau hell und dunkel geprüft; Schrift mindestens 4,5 : 1, Initialen mindestens 3 : 1. Ohne Triskele, solange Aelwens Zeichen offen ist.
+- Gebaut auf „Ja, so bauen“, hochgeladen mit dem dritten Lauf (`fd1b266`).
+
 ## 2026-11-15 – Abschluss und Archiv beider Läufe (Claude)
 
 - Spieler am 15.11.: „Ich würde jetzt auch meinen antonia corvina spielstand beenden. und auch den caesia varilla. können wir die ins archiv stellen?“ Auf Nachfrage: kein Schlusskapitel („Nein, so abschließen“), keine weiteren Messdaten („Nein“), Originale in den Papierkorb, Monitor beenden.

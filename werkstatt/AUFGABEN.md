@@ -8,6 +8,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## Zur Prüfung
 
+- **Dritter Lauf: Aelwen** (Claude, 15.11.2026): Dossier, Welt, Kaiser und Praetoren vom Spieler, keltisches Erscheinungsbild („Ja, keltisch“), gebaut auf „Ja, so bauen“: Chronik `saves/dritter-lauf/`, Kanon `lore/aelwen.md` und `lore/welt-aelwen.md`, `docs/DRITTER-LAUF.md`, `data-farbe="waldgruen"` und `data-stil="keltisch"`, Knotenband und Knotenring, `new-save.mjs --stil`, Portal, README und AGENTS. Die Karte steht noch nicht fest; Weltkennung, Startinsel und Seed folgen, wenn der Spieler sie behält. Online seit `fd1b266`.
+
 - **Abschluss und Archiv beider Läufe** (Claude, 15.11.2026): Der Spieler hat Caesia Varilla und Antonia Corvina beendet („können wir die ins archiv stellen?“; kein Schlusskapitel, keine weiteren Messdaten, Originale in den Papierkorb). Beide Chroniken mit Abschlussvermerk (`#abschluss`), Weltregister und `meta.json` auf „abgeschlossen“ mit `ended`, Portal „Erster Lauf · abgeschlossen am 15.11.2026“, `data/monitor-sources.json` mit `abgeschlossen`, `publish-monitor.py` überspringt abgeschlossene Partien ohne `--save`, `validate-data.mjs` prüft `ended`; README, AGENTS, docs, Stände und Log nachgezogen. Spielstände und alle Messungen liegen im lokalen Archiv des Spielers. Online seit `b8e635b`.
 
 - **Kapitel XI „Togen“, Antonia Corvina** (Claude, 11.11.2026): 517:46 bis 554:34 min, schließt mit den ersten Togen auf Erythia. Bericht, sechs Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0179` bis `-0193`, Kartenstand XI mit Latium und Albion. Online seit `803bf1a`. Prüfen: Zahlen gegen Monitor und Spielstände, Handelsvertrag mit Concordia aus dem Spielprotokoll, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
