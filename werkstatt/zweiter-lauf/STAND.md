@@ -2,6 +2,8 @@
 
 Stand 10.11.2026 (Claude). Kapitel I bis XI und das Sonderkapitel „Der Krieg um Veritas“ geschrieben; nächste freie Quellennummer: **Q12** (Q1 und Q2 die Figurendossiers, Q3 der Weltentwurf, Q4 der Monitor, Q5 das Spielprotokoll, Q6 Angabe des Spielers und Bildschirmfoto, Q7 Bildschirmfotos bei 36:24 und 42:51 bis 43:34 min, Q8 Angabe des Spielers zur zweiten Insel und Bildschirmfoto bei 111:08 min, Q9 Angaben des Spielers vom 10.11.2026 zu Theater, Isca Augusta und Krieg, Q10 Angaben des Spielers zum Sonderkapitel und zum Rat, Q11 Angaben des Spielers zu Albion, Neapolis, Villa Victualia, Mistletown und den Scheingefechten). Nächste freie Registernummer: `zweiter-lauf-0194`.
 
+**Abgeschlossen am 15.11.2026** (Claude): Der Spieler hat die Partie beendet („Ich würde jetzt auch meinen antonia corvina spielstand beenden. und auch den caesia varilla. können wir die ins archiv stellen?“). Kein Schlusskapitel („Nein, so abschließen“), keine weiteren Messdaten („Nein“). Erzählt bis 554:34 min (Kapitel XI), letzter gültiger Spielstand 593:21 min (der am 11.11. neu geladene Abschnitt bis 598:50 min ist verworfen); was nach 554:34 min liegt, bleibt unerzählt. Spielstände, Monitor-Sitzungen, Weltdaten, Kartensicherungen und Spielprotokolle liegen mit Prüfsummen im lokalen Archiv des Spielers, die Originale im Papierkorb. Online seit `b8e635b`.
+
 ## Figuren und Welt
 
 - **Antonia Corvina:** `lore/antonia-corvina.md`, verbindlicher Kanon. Kaiserlich beauftragte Verwalterin und Siedlungsgründerin, 36 Jahre, ehrgeizig, pragmatisch, ungeduldig, gesellig. Das Amt ist hier festgelegt, als bewusst alternative historische Setzung.
@@ -130,7 +132,7 @@ Stand 10.11.2026 (Claude). Kapitel I bis XI und das Sonderkapitel „Der Krieg u
 - Scorpio Africanus Minor (legendär, Katalogpreis 180.000) ab 522:58 min in der Villa auf Mithraeum, Herkunft offen. Penteconteren „Komodia“ und „Hippokampos“ neu bei 554:34 min.
 - Ruf bei 554:34 min: Antonia 26 (vorher 16), Concordia −23, Athr 15, Dorian 26; Pakt-Zähler 6.116.200 ms.
 
-**Stoff für Kapitel XII:** ab 554:34 min; am 11.11. ab 5:39 Uhr weitergespielt bis 582:10 min („Antonia Corvina 1“, gespeichert 6:11); der Monitor zeichnet seit 5:39 Uhr in einer neuen Sitzung auf.
+**Stoff für Kapitel XII:** ab 554:34 min; am 11.11. ab 5:39 Uhr weitergespielt bis 582:10 min („Antonia Corvina 1“, gespeichert 6:11); der Monitor zeichnet seit 5:39 Uhr in einer neuen Sitzung auf. Bleibt unerzählt, die Partie ist seit 15.11.2026 abgeschlossen.
 
 ## Tagebuch
 

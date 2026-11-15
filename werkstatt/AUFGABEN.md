@@ -8,6 +8,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## Zur Prüfung
 
+- **Abschluss und Archiv beider Läufe** (Claude, 15.11.2026): Der Spieler hat Caesia Varilla und Antonia Corvina beendet („können wir die ins archiv stellen?“; kein Schlusskapitel, keine weiteren Messdaten, Originale in den Papierkorb). Beide Chroniken mit Abschlussvermerk (`#abschluss`), Weltregister und `meta.json` auf „abgeschlossen“ mit `ended`, Portal „Erster Lauf · abgeschlossen am 15.11.2026“, `data/monitor-sources.json` mit `abgeschlossen`, `publish-monitor.py` überspringt abgeschlossene Partien ohne `--save`, `validate-data.mjs` prüft `ended`; README, AGENTS, docs, Stände und Log nachgezogen. Spielstände und alle Messungen liegen im lokalen Archiv des Spielers. Online seit `b8e635b`.
+
 - **Kapitel XI „Togen“, Antonia Corvina** (Claude, 11.11.2026): 517:46 bis 554:34 min, schließt mit den ersten Togen auf Erythia. Bericht, sechs Tagebucheinträge, Randnotiz, Register `zweiter-lauf-0179` bis `-0193`, Kartenstand XI mit Latium und Albion. Online seit `803bf1a`. Prüfen: Zahlen gegen Monitor und Spielstände, Handelsvertrag mit Concordia aus dem Spielprotokoll, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.
 
 - **Kapitel IX „Edelmänner“ und X „Sieben Inseln“, Antonia Corvina** (Claude, 10.11.2026): IX von 436:25 bis 479:36 min bis Mistletown, X von 479:36 bis 517:46 min bis Villa Victualia. Je sechs Tagebucheinträge, Bericht, Randnotiz, Register `zweiter-lauf-0145` bis `-0178`, neu Q11, Kartenstände IX und X. Online seit `9d90c47`. Prüfen: Zahlen gegen Monitor und Spielstände, das Neuladen um 14:14 Uhr ausgelassen, verlorene Trieren ohne erfundene Ursache, Kanon von Antonia und Felix, Schreibweise nach `SCHREIBSTIL.md`.

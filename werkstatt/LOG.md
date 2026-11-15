@@ -1,5 +1,13 @@
 # Werkstatt-Log
 
+## 2026-11-15 – Abschluss und Archiv beider Läufe (Claude)
+
+- Spieler am 15.11.: „Ich würde jetzt auch meinen antonia corvina spielstand beenden. und auch den caesia varilla. können wir die ins archiv stellen?“ Auf Nachfrage: kein Schlusskapitel („Nein, so abschließen“), keine weiteren Messdaten („Nein“), Originale in den Papierkorb, Monitor beenden.
+- Lokales Archiv je Partie mit Spielständen, Monitor-Sitzungen, Weltdaten, Sicherungen, Spielprotokollen und Prüfsummen, jede Datei byte-gleich geprüft. Danach die Originale in den Papierkorb; im Monitor ist keine Welt mehr gewählt, er folgt dem neuesten Spielstand.
+- `data/worlds.json` und `meta.json` auf „abgeschlossen“ mit `ended`, das Portal zeigt „Erster Lauf · abgeschlossen am 15.11.2026“. Abschlussvermerk unter dem Hinweis zur Figur in beiden Chroniken (`#abschluss`); der bestehende Wortlaut bleibt. `data/monitor-sources.json` mit `abgeschlossen`, `publish-monitor.py` überspringt abgeschlossene Partien ohne `--save`, `validate-data.mjs` prüft `ended`. README (jetzt mit dem zweiten Lauf), AGENTS, docs und STAND nachgezogen.
+- Caesia: erzählt bis 271:27 min, letzter Spielstand 345:06 min. Antonia: erzählt bis 554:34 min, letzter gültiger Spielstand 593:21 min, Messdaten online bis 216:50 min.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `b8e635b`.
+
 ## 2026-11-11 – Kapitel XI „Togen“ des zweiten Laufs (Claude)
 
 - Spieler am 10.11.: „so dabb beenede ich mein spiel heute mit togen :)“, „Beim nächsten Mal“; am 11.11.: „dann können wir starten heut“. 517:46 bis 554:34 min, Einschnitt die ersten Togen (552:20 min).

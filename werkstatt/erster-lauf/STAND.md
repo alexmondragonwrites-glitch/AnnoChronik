@@ -2,6 +2,8 @@
 
 Stand 7.11.2026, 07:40 (Claude, Nebensitzung Kapitel I bis VIII).
 
+**Abgeschlossen am 15.11.2026** (Claude): Der Spieler hat die Partie beendet („Ich würde jetzt auch meinen antonia corvina spielstand beenden. und auch den caesia varilla. können wir die ins archiv stellen?“). Kein Schlusskapitel („Nein, so abschließen“), keine weiteren Messdaten („Nein“). Erzählt bis 271:27 min (Kapitel VIII), letzter Spielstand 345:06 min vom 8.11.2026; was dazwischen liegt, bleibt unerzählt. Spielstände, Monitor-Sitzungen, Weltdaten, Sicherungen und Spielprotokolle liegen mit Prüfsummen im lokalen Archiv des Spielers, die Originale im Papierkorb. Online seit `b8e635b`.
+
 ## Schreibweise
 
 Seit 6.11.2026 gilt `docs/SCHREIBSTIL.md` (Entscheidung des Spielers): unaufgeregt erzählen, Alltägliches alltäglich lassen, keine Pflichtdramaturgie, kein Kontrast-Automatismus („Ich wollte X. Stattdessen Y“), keine Schlusserklärung oder Pointe am Szenenende, ruhige verbundene Sätze als Normalfall, Caesia nicht auf ihre Zahlen reduzieren. Vor der Veröffentlichung die neuen Szenen am Stück lesen. Kapitel III und IV sind danach geschrieben. Kapitel I und II bleiben, wie sie sind; dort stehen noch Muster, die die Regel meint (etwa „Stattdessen grüße ich sie höflich“ in „Zara Nitu“, pointierte Schlusssätze). Überarbeiten nur, wenn der Spieler das gesondert freigibt.
