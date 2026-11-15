@@ -1,5 +1,12 @@
 # Werkstatt-Log
 
+## 2026-11-15 – Dritter Lauf: Karte gewählt (Claude)
+
+- Spieler: „so start ist da jetzt“. Der Monitor hat vier Versuche gesehen; gewählt ist der neueste: Weltkennung `anno117-1794727599`, Seed 6917, Partie-Ordner „Aelwen“, erster Autosave um 08:26.
+- Eingetragen: Seed in Welt und Kanon, Startinsel Tir Ardan (vom Spieler bei 0:08 min so benannt, im Spiel Meriscum), Startkapital 15.000 Denare, die Inseln der Praetoren (Pertinacia, Lamentium, Xihai), `world_id` in `meta.json` und `data/monitor-sources.json`. Der vorläufige Hinweis zum Neustarten im Steckbrief ist entfernt; Neustarts werden nicht erzählt.
+- Die früheren Versuche bleiben im Monitor, bis der Spieler dem Aufräumen zustimmt.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `70c85df`.
+
 ## 2026-11-15 – Dritter Lauf angelegt: Aelwen (Claude)
 
 - Spieler: „Ja, so bauen“. Danach kamen die Praetorenwahl (Concordia, Tarragon, Licia Ma) und „da ich auf einer start insel anfange muss ich die spielstände ein paar mal neu laden bis ich eine gute karte erwische.“

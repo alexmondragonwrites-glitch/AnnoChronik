@@ -10,12 +10,12 @@ Stand 15.11.2026 (Claude). Angelegt und online seit `fd1b266`, noch kein Kapitel
 
 ## Partie
 
-- **Die Karte steht noch nicht fest.** Spieler am 15.11.: „da ich auf einer start insel anfange muss ich die spielstände ein paar mal neu laden bis ich eine gute karte erwische.“ Jeder Versuch ist im Monitor eine eigene Welt. Weltkennung, Partie-Ordner (bei gleichem Namen auch `Aelwen_1` …), Seed, Startinsel und Nachbarn erst eintragen, wenn der Spieler die Karte bestätigt; frühere Versuche werden nicht erzählt.
-- Erster Versuch, nur zur Orientierung: Weltkennung `anno117-1794726596`, Seed 3924, angelegt um 08:01, Spielstand-Version 80, Start in Albion auf Lughdanum mit 15.000 Denaren; die Praetoren von Beginn an auf Gelidum (Concordia), Quietum (Tarragon) und Fubao (Licia Ma). Der Monitor läuft seit 08:01.
+- **Karte gewählt** (Spieler am 15.11.: „so start ist da jetzt“): Weltkennung `anno117-1794727599`, Seed 6917, Partie-Ordner „Aelwen“, angelegt um 08:24, Spielstand-Version 80, erster Autosave um 08:26. Start in Albion auf Tir Ardan mit 15.000 Denaren; der Spieler hat die Insel bei 0:08 min so benannt, im Spiel hieß sie Meriscum. Die Praetoren von Beginn an auf Pertinacia (Concordia), Lamentium (Tarragon) und Xihai (Licia Ma), alle in Albion. Der Monitor läuft seit 08:01 und folgt dieser Welt. Online seit `70c85df`.
+- Frühere Versuche, nicht Teil der Chronik: `anno117-1794726596` (Seed 3924), `anno117-1794727187` (Seed 6252, Ordner Aelwen_1), `anno117-1794727437` (Seed 5985, Ordner Aelwen_2), dazu ihre Live-Welten. Im Monitor aufräumen, wenn der Spieler zustimmt.
 - Messdaten: noch nicht online, hochladen nur mit Freigabe.
 
 ## Erzählt
 
 Noch nichts.
 
-**Stoff für Kapitel I:** ab 0:00 min der Karte, die der Spieler behält.
+**Stoff für Kapitel I:** ab 0:00 min auf Tir Ardan.
