@@ -1,5 +1,12 @@
 # Werkstatt-Log
 
+## 2026-11-15 – Kapitel I „Tir Ardan“ des dritten Laufs (Claude)
+
+- Spieler: „ich würde sagen der anfang ist gemacht und die insel steht oder?“, dann „Ja, schreiben“. 0:00 bis 25:16 min (Stichtag „Aelwen 1“), Einschnitt Kleiner Vicus (20:02 min) und Bilanz im Plus (24:02 min).
+- Bericht mit Kennzahlen und Zeitachse, sechs Tagebucheinträge, Randnotiz; Register `dritter-lauf-0001` bis `-0013`; neue Quellen Q4 (Spielprotokoll) und Q5 (Angabe des Spielers). Die drei Möglichkeiten bei „Ein Wanderer kniet im Dreck“ stammen aus dem Katalog des Monitors.
+- Kartenstand I von `karte.py` (Albion, 1 von 19 Inseln entdeckt), mit der Umbenennung Meriscum → Tir Ardan ab 0:08 min in `karte.json`; Aelwens Farbe auf der Karte Waldgrün.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `eb72e6a`.
+
 ## 2026-11-15 – Dritter Lauf: Karte gewählt (Claude)
 
 - Spieler: „so start ist da jetzt“. Der Monitor hat vier Versuche gesehen; gewählt ist der neueste: Weltkennung `anno117-1794727599`, Seed 6917, Partie-Ordner „Aelwen“, erster Autosave um 08:26.
