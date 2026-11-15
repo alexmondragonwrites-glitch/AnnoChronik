@@ -1,5 +1,11 @@
 # Werkstatt-Log
 
+## 2026-11-15 – Kapitel II „Die Erlaubnis“ des dritten Laufs (Claude)
+
+- Spieler: „dann das nächste kapitel ich hab soweit gespielt das der kaiser mir die möglichkeit gegeben hat in andere provinzen also latium und ägyptus zu reisen.“ 25:16 bis 56:51 min (Stichtag „Aelwen 1“, von Hand gespeichert). Im Spielstand steht Aegyptus als Provinz, Latium noch nicht; das Spielprotokoll zeigt das Anlegen von Aegyptus um 9:42 Uhr.
+- Bericht mit Kennzahlen und Zeitachse, sechs Tagebucheinträge, Randnotiz; Register `dritter-lauf-0014` bis `-0027`; neue Quellen Q6 (Spielprotokoll ab 9:09 Uhr) und Q7 (Angabe des Spielers); Provinzen in der Inselliste; eine neue offene Frage (zwei große Ausgaben, Herkunft des Nomadischen Hirten). Kartenstand II von `karte.py`.
+- Hochgeladen auf Freigabe („Ja, hochladen“): `b71df7d`.
+
 ## 2026-11-15 – Kapitel I „Tir Ardan“ des dritten Laufs (Claude)
 
 - Spieler: „ich würde sagen der anfang ist gemacht und die insel steht oder?“, dann „Ja, schreiben“. 0:00 bis 25:16 min (Stichtag „Aelwen 1“), Einschnitt Kleiner Vicus (20:02 min) und Bilanz im Plus (24:02 min).

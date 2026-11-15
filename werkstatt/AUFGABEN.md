@@ -8,6 +8,8 @@ Wer etwas anfängt, trägt sich unter „In Arbeit“ ein (wer, seit wann, welch
 
 ## Zur Prüfung
 
+- **Kapitel II „Die Erlaubnis“, Aelwen** (Claude, 15.11.2026): 25:16 bis 56:51 min, schließt mit der Erlaubnis des Kaisers, nach Latium und Aegyptus zu reisen. Bericht, sechs Tagebucheinträge, Randnotiz, Register `dritter-lauf-0014` bis `-0027`, Quellen Q6 und Q7, Provinzen, offene Frage, Kartenstand II. Online seit `b71df7d`.
+
 - **Kapitel I „Tir Ardan“, Aelwen** (Claude, 15.11.2026): 0:00 bis 25:16 min, schließt mit einer Insel, die sich trägt: Kleiner Vicus und Bilanz im Plus. Bericht, sechs Tagebucheinträge, Randnotiz, Register `dritter-lauf-0001` bis `-0013`, Quellen Q4 und Q5, Kartenstand I mit der Umbenennung Meriscum → Tir Ardan. Online seit `eb72e6a`.
 
 - **Dritter Lauf: gewählte Karte** (Claude, 15.11.2026): Seed 6917, Startinsel Tir Ardan (im Spiel Meriscum), Startkapital 15.000 Denare, die Praetoren auf Pertinacia, Lamentium und Xihai; Weltkennung `anno117-1794727599` in `meta.json` und `data/monitor-sources.json`. Online seit `70c85df`.
