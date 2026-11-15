@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "hinweis": "Von Anno-Monitor/karte.py erzeugt: je Kapitel ein Kartenstand nach dem letzten Spielstand vor dem Einschnitt. Umbenennungen trägt ein, wer ein Kapitel schreibt; sie gelten ab ab_ms.",
+  "umbenennungen": [],
+  "staende": []
+}

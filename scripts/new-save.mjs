@@ -1,6 +1,6 @@
 // AnnoChronik · neue Partie anlegen: Ordner, Seiten (Chronik und Karte), Daten und Einträge in den Registern.
 // node scripts/new-save.mjs --id neue-partie --name "Neue Partie" --partie "Profilname" [--started JJJJ-MM-TT]
-//   [--untertitel "Zweiter Lauf"] [--figur "Name der Figur"] [--farbe dunkelblau]
+//   [--untertitel "Zweiter Lauf"] [--figur "Name der Figur"] [--farbe dunkelblau] [--stil keltisch]
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -18,8 +18,9 @@ const started = args.started || new Date().toISOString().slice(0, 10);
 const untertitel = typeof args.untertitel === "string" ? args.untertitel : "";
 const figur = typeof args.figur === "string" ? args.figur : "";
 const farbe = typeof args.farbe === "string" ? args.farbe : "";
-if (!/^[a-z0-9-]+$/.test(id || "") || !name || (farbe && !/^[a-z]+$/.test(farbe))) {
-  console.error('Aufruf: node scripts/new-save.mjs --id kennung --name "Name" [--partie "Profilname"] [--started JJJJ-MM-TT] [--untertitel "Zweiter Lauf"] [--figur "Name"] [--farbe dunkelblau]');
+const stil = typeof args.stil === "string" ? args.stil : "";
+if (!/^[a-z0-9-]+$/.test(id || "") || !name || (farbe && !/^[a-z]+$/.test(farbe)) || (stil && !/^[a-z]+$/.test(stil))) {
+  console.error('Aufruf: node scripts/new-save.mjs --id kennung --name "Name" [--partie "Profilname"] [--started JJJJ-MM-TT] [--untertitel "Zweiter Lauf"] [--figur "Name"] [--farbe dunkelblau] [--stil keltisch]');
   process.exit(2);
 }
 const basis = join(ROOT, "saves", id);
@@ -37,7 +38,7 @@ const html = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&
 const [j, m, t] = started.split("-");
 const titel = html(untertitel ? `${name} · ${untertitel}` : name);
 const oben = `Anno 117 · Pax Romana${untertitel ? ` · ${html(untertitel)}` : ""}`;
-const wurzel = `<html lang="de"${farbe ? ` data-farbe="${html(farbe)}"` : ""}>`;
+const wurzel = `<html lang="de"${farbe ? ` data-farbe="${html(farbe)}"` : ""}${stil ? ` data-stil="${html(stil)}"` : ""}>`;
 const fuss = `<footer class="ac-fuss"><div class="ac-maeander" aria-hidden="true"></div>
   <div class="ac-fuss-innen"><p><a href="../../">AnnoChronik</a> · Chroniken eigener Partien in Anno 117: Pax Romana.</p>
   <p>Eine private Fan-Chronik, unabhängig von Ubisoft. Anno ist eine Marke von Ubisoft Entertainment.</p></div>
@@ -163,6 +164,7 @@ schreiben(join(basis, "data", "meta.json"), json({
   id, name, ...(untertitel ? { lauf: untertitel } : {}), name_status: "Arbeitstitel", game: "Anno 117: Pax Romana", status: "laufend", started,
   ...(figur ? { protagonistin: { name: figur } } : {}),
   ...(farbe ? { farbe } : {}),
+  ...(stil ? { stil } : {}),
   monitor: { partie, world_id: null },
 }));
 schreiben(join(basis, "data", "manifest.json"), json({ latestReport: "chronik.html", monitor: null }));

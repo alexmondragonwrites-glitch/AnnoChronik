@@ -355,6 +355,52 @@ a.ac-q:hover { border-color: var(--ac-bronze); }
 :root[data-farbe="dunkelblau"] .ac-eintrag:not(.ac-eintrag--notiz):not(.ac-eintrag--rechnung) > p:first-of-type::first-letter,
 :root[data-farbe="dunkelblau"] .ac-kapitel-kopf .ac-kapitel-einschnitt { color: var(--ac-bordeaux); }
 
+/* Waldgrün ist die Palette von Aelwen (dritter Lauf): Waldgrün für Kopf, Fuß und Tagebuch, Gold für Linien,
+   Ornamente und Initialen. Kontrast: Schrift mindestens 4,5 : 1, die großen Initialen mindestens 3 : 1. */
+:root[data-farbe="waldgruen"] {
+  --ac-paper: #f1eedf;        /* helles Pergament */
+  --ac-paper-2: #f9f7ee;
+  --ac-paper-3: #e6e2c9;
+  --ac-terra: #1f3a29;        /* Waldgrün: Kopf und Fuß */
+  --ac-terra-ink: #f2ead0;
+  --ac-purpur: #275236;       /* Waldgrün an der Stelle von Purpur */
+  --ac-bronze: #a17e24;       /* Gold: Linien, Rahmen, Ornamente */
+  --ac-bronze-text: #6e5414;  /* Gold für kleine Schrift */
+  --ac-line: rgba(161, 126, 36, 0.45);
+  --ac-gold: #9c7a1f;         /* Initialen */
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-farbe="waldgruen"] {
+    --ac-paper: #121814;      /* Nachtwald */
+    --ac-paper-2: #182019;
+    --ac-paper-3: #1f2a21;
+    --ac-ink: #ece6d1;
+    --ac-ink-soft: #c3bc9f;
+    --ac-terra: #15291c;
+    --ac-terra-ink: #efe4c3;
+    --ac-purpur: #9fcaa9;
+    --ac-bronze: #cfac55;
+    --ac-bronze-text: #d8b966;
+    --ac-line: rgba(207, 172, 85, 0.4);
+    --ac-gold: #d6b45c;
+  }
+}
+:root[data-farbe="waldgruen"] .ac-tagebuch > p:first-of-type::first-letter,
+:root[data-farbe="waldgruen"] .ac-eintrag:not(.ac-eintrag--notiz):not(.ac-eintrag--rechnung) > p:first-of-type::first-letter { color: var(--ac-gold); }
+
+/* Keltisch (data-stil an <html>): Knotenband statt Mäander, Knotenring statt Lorbeer. Erzeugt von scripts/ornamente.py. */
+:root[data-stil="keltisch"] .ac-maeander {
+  height: 14px;
+  -webkit-mask: url("knotenband.svg") center / 24px 14px round;
+  mask: url("knotenband.svg") center / 24px 14px round;
+}
+:root[data-stil="keltisch"] .ac-lorbeer {
+  width: 6.5rem;
+  aspect-ratio: 1;
+  -webkit-mask-image: url("knotenring.svg");
+  mask-image: url("knotenring.svg");
+}
+
 /* Versalzeilen mit Versalziffern; Mediävalziffern bleiben dem Lesetext. Am Ende, weil die
    font-Kurzschreibweise oben die Ziffernart zurücksetzt. */
 .ac-titelblatt .ac-oben, .ac-titelblatt .ac-zeile, .ac-welt .ac-status, .ac-kopf .ac-marke, .ac-etikett,

@@ -20,5 +20,15 @@
     "started": "2026-11-08",
     "ended": "2026-11-15",
     "description": "Antonia Corvina soll im kaiserlichen Auftrag Siedlungen gründen, verwalten und Gebiete befrieden; erzählt in ihrem Tagebuch, mit Update 3.0. Abgeschlossen nach elf Kapiteln und einem Sonderkapitel."
+  },
+  {
+    "id": "dritter-lauf",
+    "name": "Aelwen",
+    "untertitel": "Dritter Lauf",
+    "path": "saves/dritter-lauf/",
+    "page": "chronik.html",
+    "status": "laufend",
+    "started": "2026-11-15",
+    "description": "Aelwen, verwitwete Keltin aus Albion, beginnt auf einer abgelegenen Insel, die Rom ihr überlassen hat; erzählt in ihrem Tagebuch, mit Update 3.0."
   }
 ]

@@ -166,6 +166,33 @@ Freigegeben am 8.11.2026 („Ja, so bauen“). Danach gab der Spieler die Figure
 - **Vom Spieler noch:** ein Bildschirmfoto der Spieleinstellungen vor der Provinzwahl.
 - Hochladen nur mit Freigabe.
 
+## Dritter Lauf (Spieler, 15.11.2026)
+
+Der Spieler beginnt am 15.11.2026 eine dritte Partie mit einer neuen Figur. Dossier, Welteinstellungen, Kaiser und Praetoren hat er am selben Tag vorgegeben; das Erscheinungsbild wird keltisch („Ja, keltisch“).
+
+| Frage | Antwort |
+|---|---|
+| Figur | Aelwen, 26 Jahre, aus Albion, aus einem verarmten keltischen Adelshaus, verwitwet; Dossier des Spielers vom 15.11.2026 |
+| Titel | Vorschlag „Aelwen · Dritter Lauf“; im Spiel heißt das Profil „Aelwen“ |
+| Aussehen | „Ja, keltisch“: Waldgrün und Gold, Knotenband statt Mäander, Knotenring statt Lorbeer |
+| Frühere Läufe | Caesia Varilla und Antonia Corvina sind abgeschlossen; aus ihnen geht nichts in die neue Partie über |
+
+**Welt** (Einstellungen des Spielers): Karten-Layout Graben, Inselgröße groß, Fruchtbarkeiten und Vorkommen normal, Waldgröße und Bauplätze regulär, Karten-Seed 3924, Startflotte keine, Startinsel aktiviert, Startwaren, Startkapital und Insel-Arbeitskräfte gering, Kartenaufdeckung bedeckt. Das passt zum Dossier: kein eigenes Schiff, eine zugewiesene Insel, begrenzte Vorräte. Weil die Partie auf einer Startinsel beginnt, startet der Spieler neu, bis ihm die Karte gefällt; Seed, Startinsel und Weltkennung gelten erst für die Karte, die er behält.
+
+**Wirtschaftliche Herausforderung:** Warenverbrauch hoch; Siedlungskosten, Grundsteuern und Unterhaltskosten mittel; inaktive Instandhaltung und Baukostenerstattung je Hälfte; Neupositionierung gebührenpflichtig; Zwischenfälle mittel, Schutz vor Zwischenfällen aus.
+
+**Kaiser:** Gnaeus Firmius Calidus (drei von fünf Sternen). Seine Beschreibung im Spiel erscheint in der Chronik nur in eigenen Worten: ein Kaiser aus dem Militär, der die Reichskasse ordnen will, von seinen Praetoren Gehorsam erwartet und Abweichler streng straft.
+
+**Praetoren** (Gegenspieler, nach der Praetorenwahl): Concordia (drei Sterne, fortgeschrittene Rivalin), Tarragon und Licia Ma (je zwei Sterne, normale Rivalen). Auch ihre Spieltexte nur sinngemäß. Sie tragen ihre Spielnamen; dass Figuren mit diesen Namen in früheren Partien vorkamen, verbindet sie mit nichts in dieser.
+
+- **Ordner** `saves/dritter-lauf/`, angelegt mit `scripts/new-save.mjs` (`--untertitel "Dritter Lauf" --figur "Aelwen" --farbe waldgruen`, dazu neu `--stil keltisch`). Partie-Ordner und Weltkennung kommen aus dem ersten Autosave der Karte, die der Spieler behält (frühere Versuche zählen nicht); was der Spieler im Spiel vergibt, gilt als bestätigt.
+- **Kanon:** `lore/aelwen.md` aus dem Dossier (Steckbrief, Geschichte vor Spielbeginn, Ausgangslage, Herrschaftsfarben); die Persönlichkeitsbalken des Dossiers als erzählerisches Profil, ausdrücklich keine Spielwerte. Offen bleiben Familienname, Titel, Herrschaftsgebiet, Herrschaftssymbol und ihre Rolle beim Tod ihres Mannes. `lore/welt-aelwen.md` mit Welt, Kaiser und Praetoren.
+- **Aufbau** wie bei den anderen Läufen: Figurenkanon, Steckbrief der Partie, Register, Tagebuch in Kapiteln nach Einschnitten, Inseln und Provinzen, offene Fragen, Quellen, Korrekturen, Messdaten, Karte je Kapitel. Dazu `docs/DRITTER-LAUF.md` und `werkstatt/dritter-lauf/STAND.md`.
+- **Erscheinungsbild:** `data-farbe="waldgruen"` (Waldgrün für Kopf, Fuß, Tagebuch und Verweise; Gold für Linien, Ornamente und Initialen; helles Pergament, dunkel „Nachtwald“) und `data-stil="keltisch"` (Knotenband und Knotenring aus `scripts/ornamente.py`). Bewusst ohne Triskele oder anderes festes Zeichen, solange Aelwens Herrschaftssymbol offen ist. Entwurf am 15.11.2026 in der Vorschau geprüft, hell und dunkel; Kontraste: Schrift mindestens 4,5 : 1, Initialen mindestens 3 : 1.
+- **Vorbereitung an den Werkzeugen:** `new-save.mjs` mit `--stil`; `karte.py` mit Waldgrün für Aelwens Inseln, ein Praetor in ähnlicher Farbe bekommt auf ihren Karten eine andere.
+- **Bilder:** Porträts und Wappen aus dem Spiel kommen nicht auf die Seite, auch keine Bildschirmfotos mit dem Kontonamen. Ob die Bilder aus dem Dossier (Porträt, Landschaft, Zeichen) auf die Seite dürfen, entscheidet der Spieler; bis dahin bleiben sie draußen.
+- Gebaut wird nach Freigabe dieses Abschnitts; hochladen nur mit Freigabe.
+
 ## Offen
 
 - Steckbrief der Protagonistin (Spieler).

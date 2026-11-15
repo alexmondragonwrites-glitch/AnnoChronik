@@ -18,10 +18,10 @@ Ein Repository für beliebig viele Partien in Anno 117: Pax Romana, nach dem Vor
 /
 ├── index.html                  # Portal: alle Partien (data/worlds.json)
 ├── assets/
-│   ├── roemisch.css            # Erscheinungsbild „römisch“ (Variablen, Bausteine)
+│   ├── roemisch.css            # Erscheinungsbild „römisch“ (Variablen, Bausteine); je Chronik data-farbe und data-stil an <html>
 │   ├── chronik.js              # Weltseite: Register, Zeile zu den Messdaten
 │   ├── portal.js               # Portal: Karten aus dem Weltregister
-│   ├── lorbeer.svg, maeander.svg   # Ornamente (scripts/ornamente.py)
+│   ├── lorbeer.svg, maeander.svg   # Ornamente (scripts/ornamente.py); keltisch: knotenring.svg, knotenband.svg
 │   └── fonts/                  # EB Garamond, Cormorant (SIL OFL)
 ├── data/
 │   ├── worlds.json             # Weltregister
@@ -36,7 +36,7 @@ Ein Repository für beliebig viele Partien in Anno 117: Pax Romana, nach dem Vor
 │   ├── monitor_daten.py        # Verdichten und Datenschutzfilter (getestet in test-monitor-daten.py)
 │   ├── validate-data.mjs       # Datenprüfung
 │   ├── new-save.mjs            # neue Partie anlegen
-│   └── ornamente.py            # Lorbeer und Mäander als SVG
+│   └── ornamente.py            # Lorbeer, Mäander, Knotenring und Knotenband als SVG
 ├── docs/                       # ARCHITECTURE.md, MONITOR.md, <PARTIE>.md
 ├── .github/workflows/validate.yml
 └── AGENTS.md, CLAUDE.md, README.md, BRIEFING.md

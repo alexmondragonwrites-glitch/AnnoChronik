@@ -1,6 +1,6 @@
 # AnnoChronik – Hinweise für KI-Sitzungen
 
-Statische Website (GitHub Pages) mit Chroniken eigener Partien in Anno 117: Pax Romana, aufgebaut wie die Transport Fever Chronicles. Erste Partie: Caesia Varilla · Erster Lauf (`saves/erster-lauf/`, begonnen am 5.11.2026, im Spielstand „Caesia Varilla“). Zweite Partie: Antonia Corvina · Zweiter Lauf (`saves/zweiter-lauf/`, begonnen am 8.11.2026). Beide hat der Spieler am 15.11.2026 abgeschlossen; ihre Chroniken bleiben online, neue Kapitel und Messdaten kommen nicht hinzu. Claude Code und Codex arbeiten daran, auch parallel.
+Statische Website (GitHub Pages) mit Chroniken eigener Partien in Anno 117: Pax Romana, aufgebaut wie die Transport Fever Chronicles. Erste Partie: Caesia Varilla · Erster Lauf (`saves/erster-lauf/`, begonnen am 5.11.2026, im Spielstand „Caesia Varilla“). Zweite Partie: Antonia Corvina · Zweiter Lauf (`saves/zweiter-lauf/`, begonnen am 8.11.2026). Beide hat der Spieler am 15.11.2026 abgeschlossen; ihre Chroniken bleiben online, neue Kapitel und Messdaten kommen nicht hinzu. Dritte Partie: Aelwen · Dritter Lauf (`saves/dritter-lauf/`, seit 15.11.2026, keltisches Erscheinungsbild). Claude Code und Codex arbeiten daran, auch parallel.
 
 ## Zuerst lesen
 
@@ -9,6 +9,7 @@ Statische Website (GitHub Pages) mit Chroniken eigener Partien in Anno 117: Pax 
 3. Die obersten Einträge in `werkstatt/LOG.md`.
 4. Für den ersten Lauf: `werkstatt/erster-lauf/STAND.md`, `docs/ERSTER-LAUF.md` und der verbindliche Figurenkanon `lore/caesia-varilla.md`.
 5. Für den zweiten Lauf: `werkstatt/zweiter-lauf/STAND.md`, `docs/ZWEITER-LAUF.md` und der verbindliche Kanon `lore/antonia-corvina.md`, `lore/marcus-antonius-felix.md` und `lore/welt-antonia-corvina.md`.
+6. Für den dritten Lauf: `werkstatt/dritter-lauf/STAND.md`, `docs/DRITTER-LAUF.md` und der verbindliche Kanon `lore/aelwen.md` und `lore/welt-aelwen.md`.
 
 ## Kurzregeln
 

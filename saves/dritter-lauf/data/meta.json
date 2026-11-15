@@ -1,0 +1,54 @@
+{
+  "id": "dritter-lauf",
+  "name": "Aelwen",
+  "lauf": "Dritter Lauf",
+  "name_status": "vom Spieler festgelegt (Dossier vom 15.11.2026)",
+  "name_im_spielstand": "Aelwen",
+  "game": "Anno 117: Pax Romana",
+  "status": "laufend",
+  "started": "2026-11-15",
+  "description": "Chronik des dritten Laufs, erzählt im Tagebuch von Aelwen.",
+  "protagonistin": {
+    "name": "Aelwen",
+    "kanon": "lore/aelwen.md"
+  },
+  "welt": "lore/welt-aelwen.md",
+  "kaiser": "Gnaeus Firmius Calidus",
+  "praetoren": [
+    "Concordia",
+    "Tarragon",
+    "Licia Ma"
+  ],
+  "farbe": "waldgruen",
+  "stil": "keltisch",
+  "game_version": "Update 3.0",
+  "welteinstellungen": {
+    "karten_layout": "Graben",
+    "inselgroesse": "Groß",
+    "fruchtbarkeiten_vorkommen": "Normal",
+    "waldgroesse": "Regulär",
+    "bauplaetze": "Regulär",
+    "startflotte": "Keine",
+    "startinsel": "Aktiviert",
+    "startwaren": "Gering",
+    "startkapital": "Gering",
+    "insel_arbeitskraefte": "Gering",
+    "kartenaufdeckung": "Bedeckt"
+  },
+  "wirtschaft": {
+    "warenverbrauch": "Hoch",
+    "siedlungskosten": "Mittel",
+    "grundsteuern": "Mittel",
+    "unterhaltskosten": "Mittel",
+    "inaktive_instandhaltung": "Hälfte",
+    "baukostenerstattung": "Hälfte",
+    "neupositionierung": "Gebührenpflichtig",
+    "zwischenfaelle": "Mittel",
+    "schutz_vor_zwischenfaellen": "Aus"
+  },
+  "karte_offen": "Der Spieler startet neu, bis ihm die Karte gefällt. Weltkennung, Partie-Ordner, Seed und Startinsel kommen mit der Karte, die er behält.",
+  "monitor": {
+    "partie": "Aelwen",
+    "world_id": null
+  }
+}
