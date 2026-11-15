@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "id": "dritter-lauf-0001",
+    "spielzeit_ms": 0,
+    "game_time_label": "vor Spielbeginn",
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "partie",
+    "chapter": 1,
+    "title": "Neue Partie angelegt.",
+    "description": "Partie „Aelwen“ mit Kaiser Gnaeus Firmius Calidus und den Praetoren Concordia, Tarragon und Licia Ma. Start in Albion auf einer Startinsel, ohne Schiff, mit 15.000 Denaren, 20 Brettern und 15 Waffen. Die Praetoren sitzen von Beginn an auf Pertinacia (Concordia), Lamentium (Tarragon) und Xihai (Licia Ma), ebenfalls in Albion.",
+    "source": "Q2, Q3"
+  },
+  {
+    "id": "dritter-lauf-0002",
+    "spielzeit_ms": 8000,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "insel",
+    "chapter": 1,
+    "title": "Tir Ardan.",
+    "description": "Die Startinsel heißt im Spiel Meriscum. Bei der Live-Messung bei 0:08 min trägt sie den Namen Tir Ardan, den der Spieler ihr gegeben hat.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0003",
+    "spielzeit_ms": 68000,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 1,
+    "title": "Holzfäller und Sägewerke.",
+    "description": "Bei 1:08 min stehen drei Holzfäller, drei Sägewerke und 20 Wohnhäuser, alle leer; die 20 Bretter aus dem Lager sind verbaut.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0004",
+    "spielzeit_ms": 102000,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "forschung",
+    "chapter": 1,
+    "title": "Vier Forschungen abgeschlossen.",
+    "description": "Im Spielstand bei 1:42 min gelten „Sumpfwache“ (Wirtschaftliche Forschung), „Kult des Merkur Lugus“ und „Epona-Kult“ (Zivile Forschung) und „Schiffsskorpione“ (Militärische Forschung) als abgeschlossen; im ersten Spielstand war es noch keine.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0005",
+    "spielzeit_ms": 162500,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 1,
+    "title": "Die Herzmuschelfarm.",
+    "description": "Ab 2:42 min steht auf Tir Ardan eine Herzmuschelfarm.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0006",
+    "spielzeit_ms": 521500,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 1,
+    "title": "Die ersten Wanderer.",
+    "description": "Bei 8:41 min wohnen 20 Wanderer auf Tir Ardan, in 24 Wohnhäusern.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0007",
+    "spielzeit_ms": 649500,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 1,
+    "title": "Der Aalfänger.",
+    "description": "Ab 10:49 min steht auf Tir Ardan ein Aalfänger; bei 15:29 min sind Aale für die Wanderer zu 97 % erfüllt.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0008",
+    "spielzeit_ms": 989500,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 1,
+    "title": "Hanfhof und Spinnerei.",
+    "description": "Ab 16:29 min stehen auf Tir Ardan ein Hanfhof und eine Spinnerei.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0009",
+    "spielzeit_ms": 1052833,
+    "game_time_label": "um 17:32 min",
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "entscheidung",
+    "chapter": 1,
+    "title": "„Ein Wanderer kniet im Dreck“.",
+    "description": "Zur Wahl standen: seine Schilfschuhe nehmen, seine Tuniken nehmen (400 Denare) oder sich gnädig zeigen (100 Denare). Gewählt wurde „Seine Schilfschuhe nehmen“, das brachte 20 Schilfschuhe. Das Spielprotokoll zeigt das Ereignisfenster bei 17:32 min, 28 Sekunden offen; der Monitor liest die Entscheidung im Spielstand bei 19:50 min.",
+    "source": "Q3, Q4"
+  },
+  {
+    "id": "dritter-lauf-0010",
+    "spielzeit_ms": 1202000,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "stadtstatus",
+    "chapter": 1,
+    "title": "Tir Ardan ist ein Kleiner Vicus.",
+    "description": "Der Monitor führt Tir Ardan ab 20:02 min als Kleinen Vicus, vorher als Außenposten. Es wohnen 163 Wanderer in 56 Wohnhäusern.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0011",
+    "spielzeit_ms": 1382000,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 1,
+    "title": "Schilfschneider und Schuhweber.",
+    "description": "Ab 23:02 min stehen auf Tir Ardan ein Schilfschneider und ein Schuhweber.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0012",
+    "spielzeit_ms": 1442000,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "geld",
+    "chapter": 1,
+    "title": "Die Bilanz ist im Plus.",
+    "description": "Bei 24:02 min steigt die Bilanz von −61,83 auf +70,11 Denare je Minute. Am tiefsten lag sie bei 12:29 min mit −186.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0013",
+    "spielzeit_ms": 1516400,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 1,
+    "title": "Stand der Praetoren.",
+    "description": "Im Spielstand bei 25:16 min zählen Aelwen 236, Concordia 108, Tarragon 51 und Licia Ma 50 Bewohner. Aelwens Bilanz liegt bei +90,25 je Minute, die der Praetoren im Minus: Concordia −237, Tarragon −189, Licia Ma −141.",
+    "source": "Q3"
+  }
+]

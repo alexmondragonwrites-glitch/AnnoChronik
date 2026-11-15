@@ -1,6 +1,76 @@
 {
   "schema": 1,
   "hinweis": "Von Anno-Monitor/karte.py erzeugt: je Kapitel ein Kartenstand nach dem letzten Spielstand vor dem Einschnitt. Umbenennungen trägt ein, wer ein Kapitel schreibt; sie gelten ab ab_ms.",
-  "umbenennungen": [],
-  "staende": []
+  "umbenennungen": [
+    {
+      "bereich": 8577,
+      "vorher": "Meriscum",
+      "name": "Tir Ardan",
+      "ab_ms": 8000,
+      "quelle": "vom Spieler im Spiel benannt, live ab 0:08 min (Kapitel I)"
+    }
+  ],
+  "staende": [
+    {
+      "id": "kapitel-1",
+      "kapitel": 1,
+      "titel": "Tir Ardan",
+      "von_ms": 0,
+      "bis_ms": 1516400,
+      "spielstand_ms": 1516400,
+      "aufgenommen": "2026-11-15",
+      "karten": [
+        {
+          "provinz": "Albion",
+          "bild": "images/karte/kapitel-1.webp",
+          "klein": "images/karte/kapitel-1-klein.webp",
+          "breite": 2024,
+          "hoehe": 2151,
+          "klein_breite": 1317,
+          "klein_hoehe": 1400,
+          "spieler": [
+            "Tir Ardan"
+          ],
+          "praetoren": [],
+          "dritte": [],
+          "frei": [],
+          "entdeckt": 1,
+          "inseln": 19,
+          "legende": [
+            {
+              "art": "besitz",
+              "text": "Aelwen",
+              "farbe": "#14644c"
+            },
+            {
+              "art": "haus",
+              "text": "Wohnhaus",
+              "farbe": "#14644c"
+            },
+            {
+              "art": "betrieb",
+              "text": "Betrieb, Lager"
+            },
+            {
+              "art": "strasse",
+              "text": "Straße"
+            },
+            {
+              "art": "fluss",
+              "text": "Fluss"
+            },
+            {
+              "art": "wald",
+              "text": "Wald"
+            },
+            {
+              "art": "unentdeckt",
+              "text": "noch nicht entdeckt"
+            }
+          ],
+          "beschreibung": "Karte von Albion zum Ende von Kapitel I: Aelwens Insel Tir Ardan. Entdeckt sind 1 von 19 Inseln."
+        }
+      ]
+    }
+  ]
 }
