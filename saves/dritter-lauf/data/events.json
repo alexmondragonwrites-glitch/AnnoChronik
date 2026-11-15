@@ -143,5 +143,159 @@
     "title": "Stand der Praetoren.",
     "description": "Im Spielstand bei 25:16 min zählen Aelwen 236, Concordia 108, Tarragon 51 und Licia Ma 50 Bewohner. Aelwens Bilanz liegt bei +90,25 je Minute, die der Praetoren im Minus: Concordia −237, Tarragon −189, Licia Ma −141.",
     "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0014",
+    "spielzeit_ms": 1637000,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 2,
+    "title": "Mehr Muscheln, Aale und Tuniken.",
+    "description": "Bei 27:17 min sind Tuniken für die Wanderer nur zu 36 % erfüllt. Herzmuschelfarm (27:17 min), Aalfänger (29:17 min), Hanfhof (30:17 min) und Spinnerei (31:17 min) gibt es danach je zweimal, ab 46:17 min je dreimal.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0015",
+    "spielzeit_ms": 2057500,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 2,
+    "title": "Die ersten Schmiede.",
+    "description": "Bei 34:17 min wohnen die ersten acht Schmiede auf Tir Ardan.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0016",
+    "spielzeit_ms": 2117500,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "stadtstatus",
+    "chapter": 2,
+    "title": "Großer Vicus.",
+    "description": "Der Monitor führt Tir Ardan bei 35:17 min zum ersten Mal als Großen Vicus, von 36:17 bis 42:17 min wieder als Kleinen und ab 43:17 min durchgehend als Großen Vicus.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0017",
+    "spielzeit_ms": 2140700,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "religion",
+    "chapter": 2,
+    "title": "Ceres als Schutzgottheit.",
+    "description": "Im Spielstand bei 35:40 min ist Ceres die Schutzgottheit von Tir Ardan, mit einer Hingabe von 137; im Spielstand bei 56:51 min sind es 462.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0018",
+    "spielzeit_ms": 2140700,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "auftrag",
+    "chapter": 2,
+    "title": "Zwei Aufträge.",
+    "description": "Im Spielstand bei 35:40 min stehen „Das Hippodrom“ in Latium und „Erwachen des Deltas“ in Aegyptus im Auftragsbuch.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0019",
+    "spielzeit_ms": 2177500,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 2,
+    "title": "Schlamm, Lehm und Ziegel.",
+    "description": "Ab 36:17 min stehen zwei Schlammtrockner, ab 38:17 min ein Lehmwerkhof und ab 40:17 min ein zweiter. Ab 56:33 min kommen eine Ziegelei und ein vierter Schlammtrockner dazu.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0020",
+    "spielzeit_ms": 2764400,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "auftrag",
+    "chapter": 2,
+    "title": "„Eisen- und Feuerfest“.",
+    "description": "Im Spielstand bei 46:04 min steht der Auftrag „Eisen- und Feuerfest“ von einer Schmiedin in Albion im Buch.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0021",
+    "spielzeit_ms": 2777500,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 2,
+    "title": "Auerochsenhof und Käserei.",
+    "description": "Ab 46:17 min steht ein Auerochsenhof, ab 47:17 min eine Käserei. Bei 55:39 min ist Käse für die Schmiede zu 100 % erfüllt, vorher zu 58 %.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0022",
+    "spielzeit_ms": 2983000,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "bevoelkerung",
+    "chapter": 2,
+    "title": "Mehr Bewohner, weniger in der Kasse.",
+    "description": "Bei 49:43 min zählt die Live-Messung 392 Wanderer und 67 Schmiede, bei der Messung davor 314 Wanderer. Im selben Abstand fällt die Kasse von 8.103 auf 5.285 Denare; wofür, zeigen die Daten nicht. Laut Spielprotokoll öffnen sich bei 48:48 und 49:33 min zwei Erzählfenster.",
+    "source": "Q3, Q6"
+  },
+  {
+    "id": "dritter-lauf-0023",
+    "spielzeit_ms": 3042300,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "gegenstaende",
+    "chapter": 2,
+    "title": "Nomadischer Hirte.",
+    "description": "Im Spielstand bei 50:42 min liegt im Lager von Tir Ardan ein seltener Spezialist, ein Nomadischer Hirte; woher er kommt, zeigen die Daten nicht.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0024",
+    "spielzeit_ms": 3042300,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 2,
+    "title": "Concordia verehrt Ceres.",
+    "description": "Im Spielstand bei 50:42 min verehrt auch Concordia Ceres, mit einer Hingabe von 96.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0025",
+    "spielzeit_ms": 3043000,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "betriebe",
+    "chapter": 2,
+    "title": "Gerste, Malz, Bier und Kohle.",
+    "description": "Ab 49:43 min steht ein Gerstenhof, ab 50:43 min ein zweiter, dazu Mälzerei, Brauerei und Köhler. Die Brauerei arbeitet im Spielstand bei 56:51 min noch nicht; im Lager liegen 10 Malz.",
+    "source": "Q3"
+  },
+  {
+    "id": "dritter-lauf-0026",
+    "spielzeit_ms": 3411800,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "partie",
+    "chapter": 2,
+    "title": "Aegyptus und die Erlaubnis des Kaisers.",
+    "description": "Laut Spielprotokoll legt das Spiel um 9:42 Uhr die Provinz Aegyptus an, gleich danach öffnet sich ein Erzählfenster. Im Spielstand bei 56:51 min ist Aegyptus als Provinz dabei, „Erwachen des Deltas“ steht nicht mehr im Auftragsbuch. Laut Spieler erlaubt der Kaiser Aelwen jetzt, nach Latium und Aegyptus zu reisen; Latium führt der Spielstand noch nicht als Provinz.",
+    "source": "Q3, Q6, Q7"
+  },
+  {
+    "id": "dritter-lauf-0027",
+    "spielzeit_ms": 3411800,
+    "recorded": "2026-11-15",
+    "kind": "fakt",
+    "category": "praetoren",
+    "chapter": 2,
+    "title": "Stand der Praetoren.",
+    "description": "Im Spielstand bei 56:51 min zählen Aelwen 495, Concordia 271 (davon 100 Mercatoren), Tarragon 166 und Licia Ma 67 Bewohner. Aelwens Bilanz liegt bei +88,17 je Minute, die der Praetoren im Minus: Concordia −200, Licia Ma −131, Tarragon −20.",
+    "source": "Q3"
   }
 ]

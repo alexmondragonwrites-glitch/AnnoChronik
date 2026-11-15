@@ -71,6 +71,67 @@
           "beschreibung": "Karte von Albion zum Ende von Kapitel I: Aelwens Insel Tir Ardan. Entdeckt sind 1 von 19 Inseln."
         }
       ]
+    },
+    {
+      "id": "kapitel-2",
+      "kapitel": 2,
+      "titel": "Die Erlaubnis",
+      "von_ms": 1516400,
+      "bis_ms": 3411800,
+      "spielstand_ms": 3411800,
+      "aufgenommen": "2026-11-15",
+      "karten": [
+        {
+          "provinz": "Albion",
+          "bild": "images/karte/kapitel-2.webp",
+          "klein": "images/karte/kapitel-2-klein.webp",
+          "breite": 2024,
+          "hoehe": 2151,
+          "klein_breite": 1317,
+          "klein_hoehe": 1400,
+          "spieler": [
+            "Tir Ardan"
+          ],
+          "praetoren": [],
+          "dritte": [],
+          "frei": [],
+          "entdeckt": 1,
+          "inseln": 19,
+          "legende": [
+            {
+              "art": "besitz",
+              "text": "Aelwen",
+              "farbe": "#14644c"
+            },
+            {
+              "art": "haus",
+              "text": "Wohnhaus",
+              "farbe": "#14644c"
+            },
+            {
+              "art": "betrieb",
+              "text": "Betrieb, Lager"
+            },
+            {
+              "art": "strasse",
+              "text": "Straße"
+            },
+            {
+              "art": "fluss",
+              "text": "Fluss"
+            },
+            {
+              "art": "wald",
+              "text": "Wald"
+            },
+            {
+              "art": "unentdeckt",
+              "text": "noch nicht entdeckt"
+            }
+          ],
+          "beschreibung": "Karte von Albion zum Ende von Kapitel II: Aelwens Insel Tir Ardan. Entdeckt sind 1 von 19 Inseln."
+        }
+      ]
     }
   ]
 }
