@@ -33,7 +33,8 @@
     "startwaren": "Gering",
     "startkapital": "Gering",
     "insel_arbeitskraefte": "Gering",
-    "kartenaufdeckung": "Bedeckt"
+    "kartenaufdeckung": "Bedeckt",
+    "karten_seed": 6917
   },
   "wirtschaft": {
     "warenverbrauch": "Hoch",
@@ -46,9 +47,13 @@
     "zwischenfaelle": "Mittel",
     "schutz_vor_zwischenfaellen": "Aus"
   },
-  "karte_offen": "Der Spieler startet neu, bis ihm die Karte gefällt. Weltkennung, Partie-Ordner, Seed und Startinsel kommen mit der Karte, die er behält.",
   "monitor": {
     "partie": "Aelwen",
-    "world_id": null
+    "world_id": "anno117-1794727599"
+  },
+  "startinsel": {
+    "name": "Tir Ardan",
+    "name_im_spiel": "Meriscum",
+    "provinz": "Albion"
   }
 }

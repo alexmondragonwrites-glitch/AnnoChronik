@@ -26,7 +26,7 @@ Für Kapitel, Ereignisse und Entscheidungen, Tagebuch, Regeln aus dem Auftrag de
 
 `lore/welt-aelwen.md` ist verbindlicher Kanon. Gnaeus Firmius Calidus regiert das Reich; in diesem Lauf ist also vom Kaiser die Rede. Die Praetoren heißen wie im Spiel: Concordia, Tarragon und Licia Ma. Was das Spiel über Kaiser und Praetoren schreibt, erscheint nur in eigenen Worten. Was die Praetoren tun, kommt aus den Messungen; ihre Beziehungen zu Aelwen werden nicht vorweggenommen.
 
-Albion ist die Startprovinz; die Startinsel steht fest, wenn der Spieler die Karte behält. Eine andere Provinz kommt erst vor, wenn die Partie dort ist.
+Albion ist die Startprovinz, Tir Ardan die Startinsel; der Spieler hat sie gleich zu Beginn so benannt, im Spiel hieß sie Meriscum. Eine andere Provinz kommt erst vor, wenn die Partie dort ist.
 
 ## Erscheinungsbild
 
@@ -38,4 +38,4 @@ Spielgrafik (Porträts, Wappen aus der Praetorenwahl) und Bildschirmfotos mit de
 
 ## Anno-Monitor
 
-Die Partie beginnt auf einer Startinsel, deshalb startet der Spieler neu, bis ihm die Karte gefällt. Jeder Versuch ist im Monitor eine eigene Welt (der Monitor folgt dem neuesten Spielstand), und bei gleichem Namen kann das Spiel den Partie-Ordner `Aelwen_1`, `Aelwen_2` … nennen. Zur Chronik gehört nur die Welt der Karte, die der Spieler behält: Ihre Weltkennung und ihren Partie-Ordner erst nach seiner Bestätigung in `data/monitor-sources.json` und `meta.json` eintragen; bis dahin bleibt `world_id` leer. Frühere Versuche werden nicht erzählt. Hochladen nur mit Freigabe des Spielers: `py -3 scripts/publish-monitor.py --save dritter-lauf`.
+Weltkennung `anno117-1794727599` aus dem ersten Autosave der Karte, die der Spieler behalten hat: Seed 6917, Partie-Ordner „Aelwen“, vor dem ersten Autosave die Live-Welt `anno117-live-s6917-Aelwen`. Die Versuche davor (Seeds 3924, 6252 und 5985, zum Teil in den Ordnern `Aelwen_1` und `Aelwen_2`) sind im Monitor eigene Welten; sie gehören nicht zur Chronik und werden nicht erzählt. Hochladen nur mit Freigabe des Spielers: `py -3 scripts/publish-monitor.py --save dritter-lauf`.

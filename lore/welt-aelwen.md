@@ -13,7 +13,7 @@
 | Fruchtbarkeiten und Vorkommen | Normal |
 | Waldgröße | Regulär |
 | Bauplätze | Regulär |
-| Karten-Seed | 3924 (erster Versuch, siehe unten) |
+| Karten-Seed | 6917 |
 | Startflotte | Keine |
 | Startinsel | Aktiviert |
 | Startwaren | Gering |
@@ -35,7 +35,7 @@
 | Zwischenfälle | Mittel |
 | Schutz vor Zwischenfällen | Aus |
 
-Weil die Partie auf einer Startinsel beginnt, startet der Spieler neu, bis ihm die Karte gefällt („da ich auf einer start insel anfange muss ich die spielstände ein paar mal neu laden bis ich eine gute karte erwische.“). Karten-Seed, Startinsel und Nachbarn gelten erst für die Karte, die er behält.
+Weil die Partie auf einer Startinsel beginnt, startet der Spieler neu, bis ihm die Karte gefällt („da ich auf einer start insel anfange muss ich die spielstände ein paar mal neu laden bis ich eine gute karte erwische.“). Er hat die Karte mit dem Seed 6917 behalten („so start ist da jetzt“); frühere Versuche gehören nicht zur Chronik. Seine Startinsel hat er Tir Ardan genannt.
 
 ## Der Kaiser
 
