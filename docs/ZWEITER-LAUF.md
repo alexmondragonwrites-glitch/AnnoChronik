@@ -4,6 +4,10 @@ Zweite Partie der AnnoChronik, begonnen am 8.11.2026 mit Update 3.0. Erzählt wi
 
 Für Kapitel, Ereignisse und Entscheidungen, Tagebuch, Regeln aus dem Auftrag des Spielers und den Datenweg gilt `docs/ERSTER-LAUF.md` sinngemäß, dazu `docs/SCHREIBSTIL.md`. Hier steht, was im zweiten Lauf anders ist. Die Partien bleiben getrennt: Figuren, Orte und Ereignisse des ersten Laufs kommen hier nicht vor.
 
+## Abgeschlossen
+
+Am 15.11.2026 vom Spieler beendet. Erzählt ist bis 554:34 min (Kapitel XI „Togen“), der letzte gültige Spielstand steht bei 593:21 min. Auf Wunsch des Spielers gibt es kein Schlusskapitel und keine weiteren Messdaten; online reichen sie bis 216:50 min. Spielstände, Monitor-Sitzungen, Weltdaten und die Kartensicherungen liegen im lokalen Archiv des Spielers. `data/worlds.json`, `meta.json` und `data/monitor-sources.json` führen die Partie als abgeschlossen; `scripts/publish-monitor.py` überspringt sie ohne `--save zweiter-lauf`.
+
 ## Wo was liegt
 
 | Datei | Inhalt |

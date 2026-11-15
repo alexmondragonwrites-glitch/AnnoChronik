@@ -3,12 +3,20 @@
     "save": "erster-lauf",
     "name": "Erster Lauf",
     "partie": "Caesia Varilla",
-    "world_id": "anno117-1793890256"
+    "world_id": "anno117-1793890256",
+    "abgeschlossen": {
+      "datum": "2026-11-15",
+      "hinweis": "Partie beendet und archiviert. Online bleiben die Messdaten bis 271:27 min; weitere Uploads nur mit --save erster-lauf und den Monitordaten aus dem Archiv."
+    }
   },
   {
     "save": "zweiter-lauf",
     "name": "Zweiter Lauf",
     "partie": "Antonia Corvina",
-    "world_id": "anno117-1794145443"
+    "world_id": "anno117-1794145443",
+    "abgeschlossen": {
+      "datum": "2026-11-15",
+      "hinweis": "Partie beendet und archiviert. Online bleiben die Messdaten bis 216:50 min; weitere Uploads nur mit --save zweiter-lauf und den Monitordaten aus dem Archiv."
+    }
   }
 ]

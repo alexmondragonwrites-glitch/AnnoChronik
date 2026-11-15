@@ -14,7 +14,7 @@
     var status = document.createElement("span");
     status.className = "ac-status";
     status.textContent = w.status === "abgeschlossen"
-      ? "abgeschlossen" + (w.ended ? " am " + datum(w.ended) : "")
+      ? (w.untertitel ? w.untertitel + " · " : "") + "abgeschlossen" + (w.ended ? " am " + datum(w.ended) : "")
       : (w.untertitel ? w.untertitel + " · seit " : "läuft seit ") + datum(w.started);
     var h3 = document.createElement("h3");
     h3.textContent = w.name;

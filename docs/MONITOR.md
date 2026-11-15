@@ -7,7 +7,7 @@ Der Anno-Monitor (`E:\KI-Projekte\Anno-Monitor`, lokal beim Spieler) liest die A
 Im Anno-Monitor `WEBSITE_AKTUALISIEREN.bat` doppelklicken, oder hier:
 
 ```text
-py -3 scripts/publish-monitor.py                  alle Welten aus data/monitor-sources.json, fragt vor dem Upload
+py -3 scripts/publish-monitor.py                  alle laufenden Welten aus data/monitor-sources.json, fragt vor dem Upload
 py -3 scripts/publish-monitor.py --save erster-lauf nur eine Welt
 py -3 scripts/publish-monitor.py --no-push        nur lokal schreiben und prüfen
 py -3 scripts/publish-monitor.py --yes            ohne Rückfrage
@@ -16,6 +16,8 @@ py -3 scripts/publish-monitor.py --yes            ohne Rückfrage
 Ablauf: GitHub-Stand nachziehen (nur Fast-Forward), Dateien bauen, auf Privates prüfen, nur geänderte Dateien schreiben, `validate-data.mjs` ausführen, Änderungen zeigen, nach Bestätigung committen und pushen. Schlägt eine Prüfung fehl, wird nichts committet. Ohne neue Messungen entsteht kein Commit.
 
 Hat eine Welt in `data/monitor-sources.json` noch keine `world_id`, sucht das Skript im Monitor die Welt aus Spielständen mit dem Partie-Ordner (`partie`) und trägt die Kennung in `monitor-sources.json` und `meta.json` ein; das Manifest zeigt danach auf `data/monitor/index.json`.
+
+Steht bei einer Welt `abgeschlossen` (Datum und Hinweis), überspringt das Skript sie, solange kein `--save` sie nennt. Mit `--save <welt>` lädt es sie weiter hoch; dafür müssen ihre Sitzungen und Weltdaten aus dem Archiv des Spielers wieder im Monitor liegen.
 
 ## Was veröffentlicht wird
 

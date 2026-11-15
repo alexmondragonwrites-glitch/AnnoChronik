@@ -2,6 +2,10 @@
 
 Erste Partie der AnnoChronik, angelegt am 5.11.2026 mit Update 3.0 und allen drei Erweiterungen; im Spielstand heißt die Partie „Caesia Varilla“, das Profil der Einstellungsübersicht „Cassandra“. Erzählt wird sie im Tagebuch der Protagonistin Caesia Varilla. Ihr Charakterdossier `lore/caesia-varilla.md` ist der verbindliche Kanon des Spielers (Wunsch vom 5.11.2026: „verbindliche Charaktergrundlage“; „Ihre weitere Geschichte entwickeln wir anhand des tatsächlichen Spielverlaufs. das ist der erste lauf“). Wer gerade woran schreibt und wie weit erzählt ist: `werkstatt/erster-lauf/STAND.md` und `werkstatt/AUFGABEN.md`. Die Entscheidungen des Briefings stehen in `BRIEFING.md`.
 
+## Abgeschlossen
+
+Am 15.11.2026 vom Spieler beendet. Erzählt ist bis 271:27 min (Kapitel VIII „Bögen und Ruder“), der letzte Spielstand steht bei 345:06 min (gespielt bis 8.11.2026). Auf Wunsch des Spielers gibt es kein Schlusskapitel und keine weiteren Messdaten; online reichen sie bis 271:27 min. Spielstände, Monitor-Sitzungen, Weltdaten und Sicherungen liegen im lokalen Archiv des Spielers. `data/worlds.json`, `meta.json` und `data/monitor-sources.json` führen die Partie als abgeschlossen; `scripts/publish-monitor.py` überspringt sie ohne `--save erster-lauf`.
+
 ## Wo was liegt
 
 | Datei | Inhalt |

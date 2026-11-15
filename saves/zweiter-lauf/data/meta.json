@@ -5,8 +5,19 @@
   "name_status": "vom Spieler festgelegt (Dossier vom 8.11.2026)",
   "name_im_spielstand": "Antonia Corvina",
   "game": "Anno 117: Pax Romana",
-  "status": "laufend",
+  "status": "abgeschlossen",
   "started": "2026-11-08",
+  "ended": "2026-11-15",
+  "abschluss": {
+    "kapitel": 11,
+    "sonderkapitel": [
+      "Der Krieg um Veritas"
+    ],
+    "erzaehlt_bis_ms": 33274700,
+    "letzter_spielstand_ms": 35601000,
+    "messdaten_online_bis_ms": 13010500,
+    "hinweis": "Vom Spieler am 15.11.2026 beendet, ohne Schlusskapitel und ohne weitere Messdaten. Spielstände und alle Messungen liegen im Archiv des Spielers."
+  },
   "description": "Chronik des zweiten Laufs, erzählt im Tagebuch von Antonia Corvina.",
   "protagonistin": {
     "name": "Antonia Corvina",

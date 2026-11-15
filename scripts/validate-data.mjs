@@ -49,6 +49,7 @@ for (const w of welten || []) {
   if (w.path !== `saves/${w.id}/`) meldung(wo, `path muss saves/${w.id}/ sein`);
   if (w.started && !TAG.test(w.started)) meldung(wo, "started im Format JJJJ-MM-TT");
   if (!["laufend", "abgeschlossen"].includes(w.status)) meldung(wo, "status ist laufend oder abgeschlossen");
+  if (w.ended && !TAG.test(w.ended)) meldung(wo, "ended im Format JJJJ-MM-TT");
   for (const seite of ["index.html", w.page || "chronik.html"]) {
     if (!existsSync(join(ROOT, w.path || "", seite))) meldung(wo, `${w.path}${seite} fehlt`);
   }
@@ -155,6 +156,7 @@ for (const id of ids) {
 for (const q of json("data/monitor-sources.json") || []) {
   if (!ids.has(q.save)) meldung("data/monitor-sources.json", `Welt ${q.save} steht nicht im Weltregister`);
   if (q.world_id !== null && !/^anno117-[\w-]+$/.test(q.world_id || "")) meldung("data/monitor-sources.json", `world_id ${q.world_id} unbekannten Formats`);
+  if (q.abgeschlossen && !TAG.test(q.abgeschlossen.datum || "")) meldung("data/monitor-sources.json", `abgeschlossen.datum von ${q.save} im Format JJJJ-MM-TT`);
 }
 
 // 4. Datenschutz: Daten ohne Pfade und Konten; im ganzen Repo keine Kontokennung

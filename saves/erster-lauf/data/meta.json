@@ -3,8 +3,16 @@
   "name": "Caesia Varilla",
   "lauf": "Erster Lauf",
   "game": "Anno 117: Pax Romana",
-  "status": "laufend",
+  "status": "abgeschlossen",
   "started": "2026-11-05",
+  "ended": "2026-11-15",
+  "abschluss": {
+    "kapitel": 8,
+    "erzaehlt_bis_ms": 16287500,
+    "letzter_spielstand_ms": 20706500,
+    "messdaten_online_bis_ms": 16287500,
+    "hinweis": "Vom Spieler am 15.11.2026 beendet, ohne Schlusskapitel und ohne weitere Messdaten. Spielstände und alle Messungen liegen im Archiv des Spielers."
+  },
   "description": "Chronik des ersten Laufs, erzählt im Tagebuch von Caesia Varilla.",
   "protagonistin": {
     "name": "Caesia Varilla",

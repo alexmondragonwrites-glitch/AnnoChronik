@@ -44,7 +44,7 @@ Ein Repository für beliebig viele Partien in Anno 117: Pax Romana, nach dem Vor
 
 ## Datenmodell
 
-- `data/worlds.json`: je Partie `id`, `name`, `path` (`saves/<id>/`), `page`, `status` (`laufend` oder `abgeschlossen`), `started`, `description`.
+- `data/worlds.json`: je Partie `id`, `name`, `path` (`saves/<id>/`), `page`, `status` (`laufend` oder `abgeschlossen`), `started`, bei abgeschlossenen Partien `ended`, `description`.
 - `saves/<id>/data/events.json`: je Eintrag `id` (`<partie>-NNNN`), `spielzeit_ms` (Spielzeit der Partie) oder `game_time_label`, `recorded` (Tag der Aufnahme), `kind` (`fakt` = Belegt, `rekonstruktion` = Abgeleitet), `category`, `title`, `description`, `source` (Quellennummern wie `Q1`), optional `chapter` und `correction` (`date`, `note`).
 - Messdaten: siehe `docs/MONITOR.md`.
 

@@ -161,10 +161,21 @@ def main(argv: list[str] | None = None) -> int:
         print(f"Anno-Monitor nicht gefunden: {monitor}", file=sys.stderr)
         return 2
     module = monitor_module(monitor)
-    quellen = [q for q in json.loads(QUELLEN.read_text(encoding="utf-8")) if not args.save or q["save"] == args.save]
-    if not quellen:
-        print(f"Welt „{args.save}“ steht nicht in data/monitor-sources.json.", file=sys.stderr)
-        return 2
+    alle = json.loads(QUELLEN.read_text(encoding="utf-8"))
+    if args.save:
+        quellen = [q for q in alle if q["save"] == args.save]
+        if not quellen:
+            print(f"Welt „{args.save}“ steht nicht in data/monitor-sources.json.", file=sys.stderr)
+            return 2
+    else:
+        # Abgeschlossene Partien („abgeschlossen“ in monitor-sources.json) lädt nur noch ein ausdrückliches --save hoch.
+        quellen = [q for q in alle if not q.get("abgeschlossen")]
+        for q in alle:
+            if q.get("abgeschlossen"):
+                print(f"{q['name']}: abgeschlossen am {q['abgeschlossen'].get('datum')}, wird übersprungen.")
+        if not quellen:
+            print("Keine laufende Partie in data/monitor-sources.json.")
+            return 0
 
     if not args.no_push and git("remote", pruefen=False).stdout.strip():
         git("fetch", "origin", pruefen=False)

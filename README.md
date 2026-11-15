@@ -4,7 +4,8 @@
 
 ## Partien
 
-- **Caesia Varilla · Erster Lauf** (seit 5.11.2026): erzählt im Tagebuch von Caesia Varilla, die aus Rom flieht; mit Update 3.0 und allen drei Erweiterungen. Figurenkanon: [lore/caesia-varilla.md](lore/caesia-varilla.md). Kapitel enden mit Einschnitten der Partie, etwa einer neuen Bevölkerungsstufe oder Provinz. [Chronik](saves/erster-lauf/chronik.html) · [Regeln](docs/ERSTER-LAUF.md)
+- **Caesia Varilla · Erster Lauf** (5.11.2026 begonnen, am 15.11.2026 abgeschlossen, acht Kapitel): erzählt im Tagebuch von Caesia Varilla, die aus Rom flieht; mit Update 3.0 und allen drei Erweiterungen. Figurenkanon: [lore/caesia-varilla.md](lore/caesia-varilla.md). Kapitel enden mit Einschnitten der Partie, etwa einer neuen Bevölkerungsstufe oder Provinz. [Chronik](saves/erster-lauf/chronik.html) · [Regeln](docs/ERSTER-LAUF.md)
+- **Antonia Corvina · Zweiter Lauf** (8.11.2026 begonnen, am 15.11.2026 abgeschlossen, elf Kapitel und ein Sonderkapitel): erzählt im Tagebuch von Antonia Corvina, die im kaiserlichen Auftrag Siedlungen gründet und verwaltet; mit Update 3.0. Kanon: [lore/antonia-corvina.md](lore/antonia-corvina.md), [lore/marcus-antonius-felix.md](lore/marcus-antonius-felix.md), [lore/welt-antonia-corvina.md](lore/welt-antonia-corvina.md). [Chronik](saves/zweiter-lauf/chronik.html) · [Regeln](docs/ZWEITER-LAUF.md)
 
 ## Arbeitsweise
 
